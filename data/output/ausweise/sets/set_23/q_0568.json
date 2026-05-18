@@ -1,0 +1,14 @@
+{
+  "id": 568,
+  "set": 23,
+  "set_index": 18,
+  "answer": "C",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusstellungslandÖsterreich?",
+  "options": {
+    "A": "Parvalbumin",
+    "B": "Meeresfrüchte,Rindfleisch,Parvalbumin",
+    "C": "Kopfsalat,Alkohol",
+    "D": "Bienenstich,Fructose",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

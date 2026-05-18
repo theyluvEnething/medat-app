@@ -1,0 +1,14 @@
+{
+  "id": 393,
+  "set": 16,
+  "set_index": 18,
+  "answer": "E",
+  "text": "WannistderGeburtstagderPersonmit AllergiegegenPilze,SpargelundBienen?",
+  "options": {
+    "A": "31.Mai",
+    "B": "22.Mai",
+    "C": "13.Juli",
+    "D": "16.Juli",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

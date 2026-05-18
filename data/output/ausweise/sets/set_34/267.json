@@ -1,0 +1,15 @@
+{
+  "id": 267,
+  "set": 34,
+  "set_index": 3,
+  "image": "267.png",
+  "fields": {
+    "Name": "VRORMAN",
+    "Geburtstag": "16. Februar",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Histamin",
+    "Ausweisnummer": "83754",
+    "Ausstellungsland": "Afghanistan"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": 797,
+  "set": 32,
+  "set_index": 22,
+  "answer": "A",
+  "text": "WelcheBlutgruppehatdiePersonmit Ausweisnummer09542?",
+  "options": {
+    "A": "AB",
+    "B": "A",
+    "C": "0",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

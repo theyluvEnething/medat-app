@@ -1,0 +1,15 @@
+{
+  "id": 214,
+  "set": 27,
+  "set_index": 6,
+  "image": "214.png",
+  "fields": {
+    "Name": "ARLDIZ",
+    "Geburtstag": "25. April",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Thiomersal, Kobalt",
+    "Ausweisnummer": "26188",
+    "Ausstellungsland": "Vereinigte Staaten"
+  }
+}

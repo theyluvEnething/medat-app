@@ -1,0 +1,14 @@
+{
+  "id": 955,
+  "set": 39,
+  "set_index": 5,
+  "answer": "D",
+  "text": "WievielePersonenhabendieBlutgruppe AB?",
+  "options": {
+    "A": "2",
+    "B": "0",
+    "C": "4",
+    "D": "3",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

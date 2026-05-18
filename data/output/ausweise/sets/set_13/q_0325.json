@@ -1,0 +1,14 @@
+{
+  "id": 325,
+  "set": 13,
+  "set_index": 25,
+  "answer": "B",
+  "text": "WelcheganzenAllergienhat diePersonmitdiesemBild?",
+  "options": {
+    "A": "Schafmilch,Sardinen,Schimmelpilze",
+    "B": "Schafmilch",
+    "C": "Krebstiere",
+    "D": "Muscheln,Äpfel",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

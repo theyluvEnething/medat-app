@@ -1,0 +1,14 @@
+{
+  "id": 126,
+  "set": 6,
+  "set_index": 1,
+  "answer": "D",
+  "text": "WelcheganzenAllergienhatdiePerson mitdemNamenHUWBRANS?",
+  "options": {
+    "A": "Litschi,Knollensellerie,Zirkonium",
+    "B": "Kobalt",
+    "C": "Gluten",
+    "D": "Alternaria,Knollensellerie",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

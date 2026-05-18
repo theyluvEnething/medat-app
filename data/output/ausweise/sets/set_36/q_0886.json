@@ -1,0 +1,14 @@
+{
+  "id": 886,
+  "set": 36,
+  "set_index": 11,
+  "answer": "A",
+  "text": "WelcheganzenAllergienhatdiePerson mitdemGeschlechtweiblichund Blutgruppe0?",
+  "options": {
+    "A": "Asbest,Batate,Kamille",
+    "B": "Fruchtzucker,Quecksilber",
+    "C": "Alternaria,Camembert,Schwarzerle",
+    "D": "Asbest,Alternaria",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

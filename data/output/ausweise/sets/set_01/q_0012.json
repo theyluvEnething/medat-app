@@ -1,0 +1,14 @@
+{
+  "id": 12,
+  "set": 1,
+  "set_index": 12,
+  "answer": "B",
+  "text": "WannistderGeburtstagderPersonmit AusstellungslandGrenadaundunter anderemAllergiegegenJoghurt?",
+  "options": {
+    "A": "10.Oktober",
+    "B": "4.November",
+    "C": "19.Januar",
+    "D": "22.März",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

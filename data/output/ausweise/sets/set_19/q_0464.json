@@ -1,0 +1,14 @@
+{
+  "id": 464,
+  "set": 19,
+  "set_index": 14,
+  "answer": "B",
+  "text": "WannistderGeburtstagderPersonmit Ausweisnummer26648?",
+  "options": {
+    "A": "11.April",
+    "B": "20.Februar",
+    "C": "6.Mai",
+    "D": "10.Dezember",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

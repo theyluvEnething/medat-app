@@ -1,0 +1,15 @@
+{
+  "id": 121,
+  "set": 16,
+  "set_index": 1,
+  "image": "121.png",
+  "fields": {
+    "Name": "GEILINO",
+    "Geburtstag": "10. November",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Sesamsamen, Schokolade",
+    "Ausweisnummer": "69320",
+    "Ausstellungsland": "Costa Rica"
+  }
+}

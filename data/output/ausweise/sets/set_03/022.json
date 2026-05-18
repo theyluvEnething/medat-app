@@ -1,0 +1,15 @@
+{
+  "id": 22,
+  "set": 3,
+  "set_index": 6,
+  "image": "022.png",
+  "fields": {
+    "Name": "NOPLAS",
+    "Geburtstag": "23. Februar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Milchzucker, Hummer",
+    "Ausweisnummer": "75579",
+    "Ausstellungsland": "Katar"
+  }
+}

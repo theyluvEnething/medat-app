@@ -41,6 +41,15 @@ output/
         001.json
         001.png           # Cropped figure image
         ...
+  ausweise/
+    answers.json          # {qid: answer_letter, ...}
+    images/
+      001.png ... 320.png # ID card images
+    sets/
+      set_01/             # Cards 1-8 + recall questions 1-25
+        001.json          # Card JSON (fields + image ref)
+        q_0001.json       # Recall question JSON
+        ...
 ```
 
 ## Question JSON Schemas
@@ -114,22 +123,69 @@ output/
 
 Each question has a corresponding `.png` image (200 DPI, cropped from the rendered PDF page). Solution pages are full-page renders of the answer key pages.
 
+### Ausweise Merken (memorize card)
+
+```json
+{
+  "id": 1,
+  "set": 1,
+  "set_index": 1,
+  "image": "001.png",
+  "fields": {
+    "Name": "GILTONS",
+    "Geburtstag": "22. März",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Pistazien, Meerschweinchen",
+    "Ausweisnummer": "93115",
+    "Ausstellungsland": "Grenada"
+  }
+}
+```
+
+Each card has a corresponding `.png` image showing the full allergy pass. The `fields` map contains the card's structured data.
+
+### Ausweise Merken (recall question)
+
+```json
+{
+  "id": 1,
+  "set": 1,
+  "set_index": 1,
+  "answer": "E",
+  "text": "WielautetdieAusweisnummerderPerson mitdemNamenUMSHAU?",
+  "options": {
+    "A": "81942",
+    "B": "23612",
+    "C": "68213",
+    "D": "32771",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}
+```
+
+Each set has 25 recall questions about the 8 cards in that set. Questions reference card data (names, dates, numbers). One option is always "Keine der Antworten ist richtig".
+
 ## Question Counts
 
 | Section | Sets | Per Set | Total |
 |---------|------|---------|-------|
 | Implikationen erkennen | 7 | 10 | 70 |
-| Wortflüssigkeit | 100 | 15 | 1500 |
+| Wortflüssigkeit | 110 | 15 | 1,650 |
 | Zahlenfolgen | 7 | 10 | 70 |
-| Figuren zusammensetzen | 7 | 15 | 105 |
+| Figuren zusammensetzen | 17 | 15 | 255 |
+| Ausweise Merken (memorize) | 40 | 8 | 320 |
+| Ausweise Merken (recall) | 40 | 25 | 1,000 |
 
 ## ID Convention
 
 - Global IDs start at 1 and increment sequentially across all sets.
 - Implikationen: IDs 1–70 (set = (id-1)//10 + 1, set_index = (id-1)%10 + 1)
-- Wortflüssigkeit: IDs 1–1500 (set = (id-1)//15 + 1, set_index = (id-1)%15 + 1)
+- Wortflüssigkeit: IDs 1–1650 (set = (id-1)//15 + 1, set_index = (id-1)%15 + 1)
 - Zahlenfolgen: IDs 1–70 (set = (id-1)//10 + 1, set_index = (id-1)%10 + 1)
-- Figuren: IDs 1–105 (set = (id-1)//15 + 1, set_index = (id-1)%15 + 1)
+- Figuren: IDs 1–255 (set = (id-1)//15 + 1, set_index = (id-1)%15 + 1)
+- Ausweise memorize: IDs 1–320 (set = (id-1)//8 + 1, set_index = (id-1)%8 + 1)
+- Ausweise recall: IDs 1–1000 (set = (id-1)//25 + 1, set_index = (id-1)%25 + 1)
 
 ## Selecting Questions for a Test
 
@@ -137,5 +193,5 @@ To build a test with 15 Figuren, 15 Wortflüssigkeit, 10 Implikationen, and 10 Z
 
 1. Pick a set number for each section (e.g., set 3 for Figuren).
 2. Read all JSON files from `sets/set_03/` of that section.
-3. For Figuren, also load the `.png` image referenced by each JSON.
+3. For Figuren and Ausweise memorize, also load the `.png` image referenced by each JSON.
 4. The answer key is embedded in each question JSON (`answer` field).

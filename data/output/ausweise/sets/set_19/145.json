@@ -1,0 +1,15 @@
+{
+  "id": 145,
+  "set": 19,
+  "set_index": 1,
+  "image": "145.png",
+  "fields": {
+    "Name": "DIZTROM",
+    "Geburtstag": "10. Dezember",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Parvalbumin",
+    "Ausweisnummer": "31016",
+    "Ausstellungsland": "Nordmazedonien"
+  }
+}

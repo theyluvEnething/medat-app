@@ -1,0 +1,14 @@
+{
+  "id": 990,
+  "set": 40,
+  "set_index": 15,
+  "answer": "D",
+  "text": "WievielePersonensindallergischgegen Johannisbeeren?",
+  "options": {
+    "A": "0",
+    "B": "1",
+    "C": "4",
+    "D": "2",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

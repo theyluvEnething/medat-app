@@ -1,0 +1,15 @@
+{
+  "id": 305,
+  "set": 39,
+  "set_index": 1,
+  "image": "305.png",
+  "fields": {
+    "Name": "BAFBOR",
+    "Geburtstag": "29. August",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Sauerampfer",
+    "Ausweisnummer": "35219",
+    "Ausstellungsland": "Benin"
+  }
+}

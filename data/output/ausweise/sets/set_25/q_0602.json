@@ -1,0 +1,14 @@
+{
+  "id": 602,
+  "set": 25,
+  "set_index": 2,
+  "answer": "E",
+  "text": "Wielautetdie AusweisnummerderPerson mitdiesemBild?",
+  "options": {
+    "A": "46760",
+    "B": "15739",
+    "C": "95529",
+    "D": "67500",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

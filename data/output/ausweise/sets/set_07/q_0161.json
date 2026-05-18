@@ -1,0 +1,14 @@
+{
+  "id": 161,
+  "set": 7,
+  "set_index": 11,
+  "answer": "D",
+  "text": "WelcheBlutgruppehatdiePersonmit Ausweisnummer39574?",
+  "options": {
+    "A": "AB",
+    "B": "B",
+    "C": "A",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

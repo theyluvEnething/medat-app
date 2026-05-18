@@ -1,0 +1,15 @@
+{
+  "id": 217,
+  "set": 28,
+  "set_index": 1,
+  "image": "217.png",
+  "fields": {
+    "Name": "LUXITRAN",
+    "Geburtstag": "4. November",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Azorubin, Avocado",
+    "Ausweisnummer": "94715",
+    "Ausstellungsland": "Gabun"
+  }
+}

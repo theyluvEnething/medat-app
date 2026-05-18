@@ -1,0 +1,14 @@
+{
+  "id": 84,
+  "set": 4,
+  "set_index": 9,
+  "answer": "D",
+  "text": "WelcheBlutgruppehatdiePersonmit AusstellungslandSeychellenundunter anderemAllergiegegenHimbeeren?",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "0",
+    "D": "AB",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

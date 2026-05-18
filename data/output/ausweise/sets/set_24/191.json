@@ -1,0 +1,15 @@
+{
+  "id": 191,
+  "set": 24,
+  "set_index": 7,
+  "image": "191.png",
+  "fields": {
+    "Name": "HUCBAR",
+    "Geburtstag": "18. Oktober",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Haselnüsse, Kefir",
+    "Ausweisnummer": "35770",
+    "Ausstellungsland": "Äquatorialguinea"
+  }
+}

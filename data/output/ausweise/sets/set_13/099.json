@@ -1,0 +1,15 @@
+{
+  "id": 99,
+  "set": 13,
+  "set_index": 3,
+  "image": "099.png",
+  "fields": {
+    "Name": "DWASKO",
+    "Geburtstag": "30. Mai",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Hühnereiweiß, Ramipril",
+    "Ausweisnummer": "11096",
+    "Ausstellungsland": "Kiribati"
+  }
+}

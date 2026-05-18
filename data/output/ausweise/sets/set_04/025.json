@@ -1,0 +1,15 @@
+{
+  "id": 25,
+  "set": 4,
+  "set_index": 1,
+  "image": "025.png",
+  "fields": {
+    "Name": "FLIXRANK",
+    "Geburtstag": "17. Mai",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Forellen, Gurken",
+    "Ausweisnummer": "21816",
+    "Ausstellungsland": "Montenegro"
+  }
+}

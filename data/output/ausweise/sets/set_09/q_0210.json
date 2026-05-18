@@ -1,0 +1,11 @@
+{
+  "id": 210,
+  "set": 9,
+  "set_index": 10,
+  "answer": "A",
+  "text": "WelchesFotogehörtzuderPersonmit KEINENMedikamentenundBlutgruppe A?",
+  "options": {
+    "A": "B. C. D.",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

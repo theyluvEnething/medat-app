@@ -1,0 +1,14 @@
+{
+  "id": 109,
+  "set": 5,
+  "set_index": 9,
+  "answer": "C",
+  "text": "InwelchemMonatistderGeburtstagder PersonmitAusweisnummer99012?",
+  "options": {
+    "A": "Juli",
+    "B": "April",
+    "C": "Juni",
+    "D": "Februar",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

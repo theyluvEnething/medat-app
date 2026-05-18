@@ -1,0 +1,14 @@
+{
+  "id": 777,
+  "set": 32,
+  "set_index": 2,
+  "answer": "B",
+  "text": "WelcheganzenAllergienhat diePersonmitdiesemBild?",
+  "options": {
+    "A": "Minze,Weißkohl",
+    "B": "Feigen,Schokolade,Sonne",
+    "C": "Sellerie",
+    "D": "Hamsterhaare,Milchzucker",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

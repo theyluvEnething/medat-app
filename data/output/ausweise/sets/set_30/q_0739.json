@@ -1,0 +1,14 @@
+{
+  "id": 739,
+  "set": 30,
+  "set_index": 14,
+  "answer": "E",
+  "text": "WievielePersonensindimFebruar geboren?",
+  "options": {
+    "A": "2",
+    "B": "3",
+    "C": "1",
+    "D": "4",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

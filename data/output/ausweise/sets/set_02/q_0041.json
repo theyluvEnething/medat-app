@@ -1,0 +1,14 @@
+{
+  "id": 41,
+  "set": 2,
+  "set_index": 16,
+  "answer": "D",
+  "text": "WielautetdieAusweisnummerderPerson mitAusstellungslandItalien?",
+  "options": {
+    "A": "20391",
+    "B": "62774",
+    "C": "62554",
+    "D": "67812",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

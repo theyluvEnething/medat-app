@@ -1,0 +1,15 @@
+{
+  "id": 1528,
+  "set": 102,
+  "set_index": 13,
+  "answer": "C",
+  "answer_word": "PARKPLATZ",
+  "options": {
+    "A": "Z",
+    "B": "T",
+    "C": "P",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "P A T P K R Z L A"
+}

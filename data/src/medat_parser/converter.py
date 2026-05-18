@@ -43,6 +43,19 @@ def generate_content(section: str, data: dict) -> str:
             )
             return f"Zahlenfolge: {seq}\n\n{options}"
 
+        case "ausweise_memorize":
+            fields = data.get("fields", {})
+            lines = [f"{key}: {value}" for key, value in fields.items()]
+            return "\n".join(lines)
+
+        case "ausweise_recall":
+            text = data.get("text", "")
+            opts = data.get("options", {})
+            options = "\n".join(
+                f"{k}) {v}" for k, v in sorted(opts.items())
+            )
+            return f"{text}\n\n{options}"
+
         case _:
             raise ValueError(f"Unknown section: {section}")
 
@@ -70,23 +83,7 @@ def load_section_questions(section_dir: Path, section_key: str) -> list[dict]:
     return questions
 
 
-def load_ausweise(source_path: Path) -> dict[str, list[dict]]:
-    """Extract ausweise_memorize and ausweise_recall from an existing questions.json."""
-    if not source_path.is_file():
-        print(f"Warning: {source_path} not found, Ausweise sections will be empty")
-        return {}
-
-    source = json.loads(source_path.read_text(encoding="utf-8"))
-    result: dict[str, list[dict]] = {}
-    for key in ("ausweise_memorize", "ausweise_recall"):
-        if key in source:
-            result[key] = source[key]
-    return result
-
-
-def convert(
-    input_dir: Path, output_path: Path, ausweise_path: Path | None = None
-) -> None:
+def convert(input_dir: Path, output_path: Path) -> None:
     """Read parser output and write combined questions.json."""
     result: dict[str, list[dict]] = {}
 
@@ -96,11 +93,16 @@ def convert(
         result[key] = questions
         print(f"  {key}: {len(questions)} questions")
 
-    if ausweise_path:
-        ausweise = load_ausweise(ausweise_path)
-        for key, questions in ausweise.items():
-            result[key] = questions
-            print(f"  {key}: {len(questions)} questions (from existing)")
+    # Ausweise: memorization cards + recall questions
+    ausweise_dir = input_dir / "ausweise"
+    if ausweise_dir.is_dir():
+        memorize = _load_ausweise_memorize(ausweise_dir)
+        result["ausweise_memorize"] = memorize
+        print(f"  ausweise_memorize: {len(memorize)} cards")
+
+        recall = _load_ausweise_recall(ausweise_dir)
+        result["ausweise_recall"] = recall
+        print(f"  ausweise_recall: {len(recall)} questions")
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(
@@ -108,6 +110,51 @@ def convert(
     )
     total = sum(len(v) for v in result.values())
     print(f"Wrote {total} questions across {len(result)} sections to {output_path}")
+
+
+def _load_ausweise_memorize(ausweise_dir: Path) -> list[dict]:
+    """Load Ausweis cards into the memorize format (no answer, content=fields)."""
+    sets_dir = ausweise_dir / "sets"
+    if not sets_dir.is_dir():
+        return []
+
+    cards: list[dict] = []
+    for json_file in sorted(sets_dir.glob("set_*/*.json")):
+        if json_file.name.startswith("q_"):
+            continue
+        data = json.loads(json_file.read_text(encoding="utf-8"))
+        cards.append(
+            {
+                "section": "ausweise_memorize",
+                "id": data["id"],
+                "answer": "",
+                "content": generate_content("ausweise_memorize", data),
+                "image": data.get("image", ""),
+            }
+        )
+    cards.sort(key=lambda c: c["id"])
+    return cards
+
+
+def _load_ausweise_recall(ausweise_dir: Path) -> list[dict]:
+    """Load Ausweis recall questions."""
+    sets_dir = ausweise_dir / "sets"
+    if not sets_dir.is_dir():
+        return []
+
+    questions: list[dict] = []
+    for json_file in sorted(sets_dir.glob("set_*/q_*.json")):
+        data = json.loads(json_file.read_text(encoding="utf-8"))
+        questions.append(
+            {
+                "section": "ausweise_recall",
+                "id": data["id"],
+                "answer": data.get("answer", ""),
+                "content": generate_content("ausweise_recall", data),
+            }
+        )
+    questions.sort(key=lambda q: q["id"])
+    return questions
 
 
 def main() -> None:
@@ -126,14 +173,8 @@ def main() -> None:
         required=True,
         help="Output questions.json path",
     )
-    p.add_argument(
-        "--ausweise",
-        type=Path,
-        default=None,
-        help="Existing questions.json to copy ausweise sections from",
-    )
     args = p.parse_args()
-    convert(args.input, args.output, args.ausweise)
+    convert(args.input, args.output)
 
 
 if __name__ == "__main__":

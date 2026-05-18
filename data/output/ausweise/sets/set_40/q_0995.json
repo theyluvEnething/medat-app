@@ -1,0 +1,14 @@
+{
+  "id": 995,
+  "set": 40,
+  "set_index": 20,
+  "answer": "B",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer19429?",
+  "options": {
+    "A": "Traubenkraut,Kartoffeln,Roggenmehl",
+    "B": "Nitrit,Johannisbeeren",
+    "C": "Traubenkraut,Sojabohnen",
+    "D": "Johannisbeeren",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

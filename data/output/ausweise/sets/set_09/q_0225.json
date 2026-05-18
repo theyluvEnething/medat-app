@@ -1,0 +1,14 @@
+{
+  "id": 225,
+  "set": 9,
+  "set_index": 25,
+  "answer": "E",
+  "text": "WievielePersonensindallergischgegen Glutamat?",
+  "options": {
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "1",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

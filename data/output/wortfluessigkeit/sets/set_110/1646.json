@@ -1,0 +1,15 @@
+{
+  "id": 1646,
+  "set": 110,
+  "set_index": 11,
+  "answer": "E",
+  "answer_word": "ANPFIFF",
+  "options": {
+    "A": "F",
+    "B": "P",
+    "C": "I",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A I F F P F N"
+}

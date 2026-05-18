@@ -1,0 +1,15 @@
+{
+  "id": 280,
+  "set": 35,
+  "set_index": 8,
+  "image": "280.png",
+  "fields": {
+    "Name": "APORSI",
+    "Geburtstag": "24. Oktober",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Casein",
+    "Ausweisnummer": "40985",
+    "Ausstellungsland": "Uruguay"
+  }
+}

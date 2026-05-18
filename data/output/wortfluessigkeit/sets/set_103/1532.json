@@ -1,0 +1,15 @@
+{
+  "id": 1532,
+  "set": 103,
+  "set_index": 2,
+  "answer": "E",
+  "answer_word": "NEBENSATZ",
+  "options": {
+    "A": "Z",
+    "B": "A",
+    "C": "T",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "B T A Z N N E S E"
+}

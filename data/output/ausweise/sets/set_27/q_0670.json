@@ -1,0 +1,14 @@
+{
+  "id": 670,
+  "set": 27,
+  "set_index": 20,
+  "answer": "E",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitGeburtstagimAugustund BlutgruppeA?",
+  "options": {
+    "A": "VereinigteStaaten",
+    "B": "Deutschland",
+    "C": "Malta",
+    "D": "Nordkorea",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

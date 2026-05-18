@@ -1,0 +1,14 @@
+{
+  "id": 595,
+  "set": 24,
+  "set_index": 20,
+  "answer": "C",
+  "text": "WieheißtdiePersonmitBlutgruppeAB?",
+  "options": {
+    "A": "HIKXOR",
+    "B": "MUNKRAS",
+    "C": "OXYRON",
+    "D": "MIKRULD",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

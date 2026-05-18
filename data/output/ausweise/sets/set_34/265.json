@@ -1,0 +1,15 @@
+{
+  "id": 265,
+  "set": 34,
+  "set_index": 1,
+  "image": "265.png",
+  "fields": {
+    "Name": "FREIBOM",
+    "Geburtstag": "8. Juli",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Kiwi, Petersilie",
+    "Ausweisnummer": "66500",
+    "Ausstellungsland": "Namibia"
+  }
+}

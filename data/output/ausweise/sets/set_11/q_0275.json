@@ -1,0 +1,14 @@
+{
+  "id": 275,
+  "set": 11,
+  "set_index": 25,
+  "answer": "C",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitdemNamenLEBKAIZU?",
+  "options": {
+    "A": "Schweiz",
+    "B": "Irland",
+    "C": "Libanon",
+    "D": "Barbados",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

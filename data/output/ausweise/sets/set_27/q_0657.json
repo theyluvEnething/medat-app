@@ -1,0 +1,14 @@
+{
+  "id": 657,
+  "set": 27,
+  "set_index": 7,
+  "answer": "D",
+  "text": "WievielePersonenhabeneinenAusweis ausMalta?",
+  "options": {
+    "A": "4",
+    "B": "2",
+    "C": "3",
+    "D": "1",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

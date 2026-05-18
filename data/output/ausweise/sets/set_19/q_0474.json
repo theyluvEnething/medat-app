@@ -1,0 +1,14 @@
+{
+  "id": 474,
+  "set": 19,
+  "set_index": 24,
+  "answer": "E",
+  "text": "WievielePersonenhabeneinenAusweis ausNordmazedonien?",
+  "options": {
+    "A": "1",
+    "B": "4",
+    "C": "3",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

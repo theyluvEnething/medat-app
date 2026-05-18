@@ -1,0 +1,15 @@
+{
+  "id": 1571,
+  "set": 105,
+  "set_index": 11,
+  "answer": "C",
+  "answer_word": "GEDICHT",
+  "options": {
+    "A": "T",
+    "B": "C",
+    "C": "G",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C D G I H T E"
+}

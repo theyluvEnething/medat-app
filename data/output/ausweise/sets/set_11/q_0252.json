@@ -1,0 +1,14 @@
+{
+  "id": 252,
+  "set": 11,
+  "set_index": 2,
+  "answer": "C",
+  "text": "WieheißtdiePersonmitBlutgruppeA unddemGeschlechtweiblich?",
+  "options": {
+    "A": "DEWPOR",
+    "B": "SONMAN",
+    "C": "PROTLANS",
+    "D": "VLIEKDS",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

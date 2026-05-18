@@ -1,0 +1,14 @@
+{
+  "id": 327,
+  "set": 14,
+  "set_index": 2,
+  "answer": "B",
+  "text": "WievielePersonensindallergischgegen Textilien?",
+  "options": {
+    "A": "0",
+    "B": "2",
+    "C": "3",
+    "D": "1",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

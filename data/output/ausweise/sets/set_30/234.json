@@ -1,0 +1,15 @@
+{
+  "id": 234,
+  "set": 30,
+  "set_index": 2,
+  "image": "234.png",
+  "fields": {
+    "Name": "QUALSON",
+    "Geburtstag": "4. Januar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Kokosnüsse, Thiomersal",
+    "Ausweisnummer": "02430",
+    "Ausstellungsland": "Brasilien"
+  }
+}

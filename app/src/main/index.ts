@@ -4,8 +4,8 @@ import { is } from '@electron-toolkit/utils'
 
 function createWindow(): void {
   const win = new BrowserWindow({
-    width: 1200,
-    height: 800,
+    width: 1280,
+    height: 720,
     minWidth: 900,
     minHeight: 600,
     title: 'MedAT KFF Trainer',

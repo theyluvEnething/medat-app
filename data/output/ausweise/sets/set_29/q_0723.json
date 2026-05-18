@@ -1,0 +1,14 @@
+{
+  "id": 723,
+  "set": 29,
+  "set_index": 23,
+  "answer": "C",
+  "text": "WieheißtdiePersonmit Ausweisnummer19641?",
+  "options": {
+    "A": "DREKSOW",
+    "B": "VAMSPOR",
+    "C": "FANZUM",
+    "D": "HUMREL",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

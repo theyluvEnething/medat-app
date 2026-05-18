@@ -1,0 +1,14 @@
+{
+  "id": 622,
+  "set": 25,
+  "set_index": 22,
+  "answer": "B",
+  "text": "WelcheganzenAllergienhat diePersonmitdiesemBild?",
+  "options": {
+    "A": "Makrelen,Quecksilber",
+    "B": "Paranüsse,Blei",
+    "C": "Tanne,Paraben",
+    "D": "Amalgam",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

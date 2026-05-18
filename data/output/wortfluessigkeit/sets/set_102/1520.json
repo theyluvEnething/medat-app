@@ -1,0 +1,15 @@
+{
+  "id": 1520,
+  "set": 102,
+  "set_index": 5,
+  "answer": "B",
+  "answer_word": "BLUMENVASE",
+  "options": {
+    "A": "U",
+    "B": "B",
+    "C": "E",
+    "D": "V",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L N M E S U V A B E 3"
+}

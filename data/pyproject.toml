@@ -12,6 +12,7 @@ dependencies = [
 [project.scripts]
 medat-parse = "medat_parser.pdf_parser:main"
 medat-convert = "medat_parser.converter:main"
+medat-merge = "medat_parser.merge:main"
 
 [tool.ruff]
 target-version = "py313"

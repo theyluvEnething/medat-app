@@ -5998,5 +5998,605 @@
   "1485": {
     "letter": "C",
     "word": "SPORTHALLE"
+  },
+  "1501": {
+    "letter": "B",
+    "word": "AUSSTELLUNG"
+  },
+  "1531": {
+    "letter": "D",
+    "word": "TAGESLICHT"
+  },
+  "1561": {
+    "letter": "D",
+    "word": "TRAUMBERUF"
+  },
+  "1502": {
+    "letter": "A",
+    "word": "ZEBRA"
+  },
+  "1532": {
+    "letter": "E",
+    "word": "NEBENSATZ"
+  },
+  "1562": {
+    "letter": "E",
+    "word": "KLOPAPIER"
+  },
+  "1503": {
+    "letter": "A",
+    "word": "NATIONALISMUS"
+  },
+  "1533": {
+    "letter": "B",
+    "word": "PAARBILDUNG"
+  },
+  "1563": {
+    "letter": "C",
+    "word": "HALLENBAD"
+  },
+  "1504": {
+    "letter": "E",
+    "word": "LEBENSLAUF"
+  },
+  "1534": {
+    "letter": "B",
+    "word": "GERMANISTIK"
+  },
+  "1564": {
+    "letter": "B",
+    "word": "BAUCHNABEL"
+  },
+  "1505": {
+    "letter": "D",
+    "word": "TEXTFELD"
+  },
+  "1535": {
+    "letter": "C",
+    "word": "SCHLACHTBANK"
+  },
+  "1565": {
+    "letter": "A",
+    "word": "PRELLUNG"
+  },
+  "1506": {
+    "letter": "A",
+    "word": "FERNSEHER"
+  },
+  "1536": {
+    "letter": "A",
+    "word": "RAUBTIER"
+  },
+  "1566": {
+    "letter": "C",
+    "word": "ZULAUF"
+  },
+  "1507": {
+    "letter": "D",
+    "word": "DSCHUNGEL"
+  },
+  "1537": {
+    "letter": "E",
+    "word": "OPERATION"
+  },
+  "1567": {
+    "letter": "E",
+    "word": "STRUKTUR"
+  },
+  "1508": {
+    "letter": "E",
+    "word": "KOMPENDIUM"
+  },
+  "1538": {
+    "letter": "C",
+    "word": "BYPASS"
+  },
+  "1568": {
+    "letter": "D",
+    "word": "UNENDLICHKEIT"
+  },
+  "1509": {
+    "letter": "E",
+    "word": "VERKEHR"
+  },
+  "1539": {
+    "letter": "C",
+    "word": "SINGVOGEL"
+  },
+  "1569": {
+    "letter": "E",
+    "word": "DOPPELSPALT"
+  },
+  "1510": {
+    "letter": "A",
+    "word": "PIERCING"
+  },
+  "1540": {
+    "letter": "C",
+    "word": "AUFTEILUNG"
+  },
+  "1570": {
+    "letter": "D",
+    "word": "ERLEICHTERUNG"
+  },
+  "1511": {
+    "letter": "B",
+    "word": "DISKURS"
+  },
+  "1541": {
+    "letter": "B",
+    "word": "SPRITZTOUR"
+  },
+  "1571": {
+    "letter": "C",
+    "word": "GEDICHT"
+  },
+  "1512": {
+    "letter": "A",
+    "word": "PROMILLE"
+  },
+  "1542": {
+    "letter": "E",
+    "word": "BURGMAUER"
+  },
+  "1572": {
+    "letter": "D",
+    "word": "STIRNBAND"
+  },
+  "1513": {
+    "letter": "D",
+    "word": "PARALYSE"
+  },
+  "1543": {
+    "letter": "B",
+    "word": "SYNDIKAT"
+  },
+  "1573": {
+    "letter": "E",
+    "word": "SEHNERV"
+  },
+  "1514": {
+    "letter": "E",
+    "word": "BEZAHLUNG"
+  },
+  "1544": {
+    "letter": "A",
+    "word": "POSTKARTE"
+  },
+  "1574": {
+    "letter": "E",
+    "word": "DISZIPLIN"
+  },
+  "1515": {
+    "letter": "B",
+    "word": "OHRMUSCHEL"
+  },
+  "1545": {
+    "letter": "A",
+    "word": "METROPOLE"
+  },
+  "1575": {
+    "letter": "A",
+    "word": "DEFENSIVE"
+  },
+  "1516": {
+    "letter": "D",
+    "word": "ZIVILISATION"
+  },
+  "1546": {
+    "letter": "A",
+    "word": "WIRKSTOFF"
+  },
+  "1517": {
+    "letter": "E",
+    "word": "FUNDSTELLE"
+  },
+  "1547": {
+    "letter": "A",
+    "word": "DURCHBLUTUNG"
+  },
+  "1518": {
+    "letter": "D",
+    "word": "ZAHNHYGIENE"
+  },
+  "1548": {
+    "letter": "C",
+    "word": "BAUCH"
+  },
+  "1519": {
+    "letter": "C",
+    "word": "STIMULATION"
+  },
+  "1549": {
+    "letter": "A",
+    "word": "WIDDER"
+  },
+  "1520": {
+    "letter": "B",
+    "word": "BLUMENVASE"
+  },
+  "1550": {
+    "letter": "E",
+    "word": "HIRNTUMOR"
+  },
+  "1521": {
+    "letter": "C",
+    "word": "QUATSCH"
+  },
+  "1551": {
+    "letter": "A",
+    "word": "QUARTETT"
+  },
+  "1522": {
+    "letter": "B",
+    "word": "ELEGANZ"
+  },
+  "1552": {
+    "letter": "E",
+    "word": "FEUERWERK"
+  },
+  "1523": {
+    "letter": "B",
+    "word": "RANDBEDINGUNG"
+  },
+  "1553": {
+    "letter": "B",
+    "word": "KLEIDER"
+  },
+  "1524": {
+    "letter": "A",
+    "word": "SCHLITTEN"
+  },
+  "1554": {
+    "letter": "E",
+    "word": "STICHWORT"
+  },
+  "1525": {
+    "letter": "E",
+    "word": "KOFFERRAUM"
+  },
+  "1555": {
+    "letter": "D",
+    "word": "AUTOBAHN"
+  },
+  "1526": {
+    "letter": "C",
+    "word": "ASSOZIATION"
+  },
+  "1556": {
+    "letter": "A",
+    "word": "ABENDESSEN"
+  },
+  "1527": {
+    "letter": "C",
+    "word": "UNKLARHEIT"
+  },
+  "1557": {
+    "letter": "E",
+    "word": "WAHLTAG"
+  },
+  "1528": {
+    "letter": "C",
+    "word": "PARKPLATZ"
+  },
+  "1558": {
+    "letter": "C",
+    "word": "RENOVIERUNG"
+  },
+  "1529": {
+    "letter": "E",
+    "word": "HARPUNE"
+  },
+  "1559": {
+    "letter": "E",
+    "word": "BUCHSEITE"
+  },
+  "1530": {
+    "letter": "E",
+    "word": "GENAUIGKEIT"
+  },
+  "1560": {
+    "letter": "B",
+    "word": "WANDERHOSE"
+  },
+  "1576": {
+    "letter": "A",
+    "word": "BENUTZUNG"
+  },
+  "1606": {
+    "letter": "B",
+    "word": "STIMULATION"
+  },
+  "1636": {
+    "letter": "E",
+    "word": "HAARBAND"
+  },
+  "1577": {
+    "letter": "E",
+    "word": "TRANSLATION"
+  },
+  "1607": {
+    "letter": "D",
+    "word": "MONUMENT"
+  },
+  "1637": {
+    "letter": "E",
+    "word": "EMPATHIE"
+  },
+  "1578": {
+    "letter": "A",
+    "word": "KOPULATION"
+  },
+  "1608": {
+    "letter": "B",
+    "word": "WITZFIGUR"
+  },
+  "1638": {
+    "letter": "E",
+    "word": "ASTROLOGIE"
+  },
+  "1579": {
+    "letter": "E",
+    "word": "WILDNIS"
+  },
+  "1609": {
+    "letter": "D",
+    "word": "WEHRMACHT"
+  },
+  "1639": {
+    "letter": "A",
+    "word": "UMTRUNK"
+  },
+  "1580": {
+    "letter": "A",
+    "word": "BENENNUNG"
+  },
+  "1610": {
+    "letter": "B",
+    "word": "INFORMATIK"
+  },
+  "1640": {
+    "letter": "C",
+    "word": "KEIMUNG"
+  },
+  "1581": {
+    "letter": "E",
+    "word": "GIFTGAS"
+  },
+  "1611": {
+    "letter": "C",
+    "word": "NUANCE"
+  },
+  "1641": {
+    "letter": "E",
+    "word": "ASSOZIATION"
+  },
+  "1582": {
+    "letter": "B",
+    "word": "BAHNSTEIG"
+  },
+  "1612": {
+    "letter": "B",
+    "word": "PRIESTER"
+  },
+  "1642": {
+    "letter": "C",
+    "word": "VOKAL"
+  },
+  "1583": {
+    "letter": "D",
+    "word": "BILDUNG"
+  },
+  "1613": {
+    "letter": "B",
+    "word": "TORMANN"
+  },
+  "1643": {
+    "letter": "E",
+    "word": "MODERATOR"
+  },
+  "1584": {
+    "letter": "A",
+    "word": "SPRACHE"
+  },
+  "1614": {
+    "letter": "E",
+    "word": "BLUTARMUT"
+  },
+  "1644": {
+    "letter": "E",
+    "word": "UNTERKUNFT"
+  },
+  "1585": {
+    "letter": "C",
+    "word": "SPINNER"
+  },
+  "1615": {
+    "letter": "D",
+    "word": "MASSENDEFEKT"
+  },
+  "1645": {
+    "letter": "E",
+    "word": "DYNAMO"
+  },
+  "1586": {
+    "letter": "A",
+    "word": "BADEHOSE"
+  },
+  "1616": {
+    "letter": "A",
+    "word": "SEHNSUCHT"
+  },
+  "1646": {
+    "letter": "E",
+    "word": "ANPFIFF"
+  },
+  "1587": {
+    "letter": "E",
+    "word": "EFFIZIENZ"
+  },
+  "1617": {
+    "letter": "D",
+    "word": "AUFGUSS"
+  },
+  "1647": {
+    "letter": "E",
+    "word": "HANDSCHRIFT"
+  },
+  "1588": {
+    "letter": "B",
+    "word": "KAMPAGNE"
+  },
+  "1618": {
+    "letter": "E",
+    "word": "INDIKATION"
+  },
+  "1648": {
+    "letter": "D",
+    "word": "METROPOLE"
+  },
+  "1589": {
+    "letter": "A",
+    "word": "EINWOHNER"
+  },
+  "1619": {
+    "letter": "A",
+    "word": "BACKENZAHN"
+  },
+  "1649": {
+    "letter": "D",
+    "word": "STERNSCHNUPPE"
+  },
+  "1590": {
+    "letter": "B",
+    "word": "DORFSCHULE"
+  },
+  "1620": {
+    "letter": "E",
+    "word": "ABENTEUER"
+  },
+  "1650": {
+    "letter": "B",
+    "word": "LIEBKOSUNG"
+  },
+  "1591": {
+    "letter": "B",
+    "word": "FUTURISMUS"
+  },
+  "1621": {
+    "letter": "E",
+    "word": "VOGELSPINNE"
+  },
+  "1592": {
+    "letter": "A",
+    "word": "NACHWUCHS"
+  },
+  "1622": {
+    "letter": "A",
+    "word": "ENTWICKLUNG"
+  },
+  "1593": {
+    "letter": "E",
+    "word": "IMPFSTOFF"
+  },
+  "1623": {
+    "letter": "D",
+    "word": "MORPHOLOGIE"
+  },
+  "1594": {
+    "letter": "B",
+    "word": "ZAHNARZT"
+  },
+  "1624": {
+    "letter": "A",
+    "word": "POSITION"
+  },
+  "1595": {
+    "letter": "C",
+    "word": "DEFIZIT"
+  },
+  "1625": {
+    "letter": "B",
+    "word": "TARNUNG"
+  },
+  "1596": {
+    "letter": "E",
+    "word": "DYNAMIK"
+  },
+  "1626": {
+    "letter": "E",
+    "word": "WITWER"
+  },
+  "1597": {
+    "letter": "A",
+    "word": "WEGWEISER"
+  },
+  "1627": {
+    "letter": "D",
+    "word": "KNOSPE"
+  },
+  "1598": {
+    "letter": "E",
+    "word": "MAGAZIN"
+  },
+  "1628": {
+    "letter": "B",
+    "word": "TRUGBILD"
+  },
+  "1599": {
+    "letter": "D",
+    "word": "MYTHOS"
+  },
+  "1629": {
+    "letter": "E",
+    "word": "WENDEPUNKT"
+  },
+  "1600": {
+    "letter": "B",
+    "word": "ISOLIERUNG"
+  },
+  "1630": {
+    "letter": "D",
+    "word": "FINANZIERUNG"
+  },
+  "1601": {
+    "letter": "A",
+    "word": "REPRESSION"
+  },
+  "1631": {
+    "letter": "E",
+    "word": "DOKTORARBEIT"
+  },
+  "1602": {
+    "letter": "B",
+    "word": "SCHAUPLATZ"
+  },
+  "1632": {
+    "letter": "A",
+    "word": "KERNKRAFTWERK"
+  },
+  "1603": {
+    "letter": "B",
+    "word": "RENOVIERUNG"
+  },
+  "1633": {
+    "letter": "C",
+    "word": "ORGANSPENDE"
+  },
+  "1604": {
+    "letter": "B",
+    "word": "HIERARCHIE"
+  },
+  "1634": {
+    "letter": "E",
+    "word": "DEKLARATION"
+  },
+  "1605": {
+    "letter": "A",
+    "word": "DENKWEISE"
+  },
+  "1635": {
+    "letter": "D",
+    "word": "KOFFER"
   }
 }

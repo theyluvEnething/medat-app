@@ -1,0 +1,14 @@
+{
+  "id": 77,
+  "set": 4,
+  "set_index": 2,
+  "answer": "C",
+  "text": "AuswelchemLandkommtder AusweisderPersonmitdiesem Bild?",
+  "options": {
+    "A": "Monaco",
+    "B": "Ruanda",
+    "C": "Kolumbien",
+    "D": "Montenegro",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

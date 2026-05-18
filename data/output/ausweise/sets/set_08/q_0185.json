@@ -1,0 +1,14 @@
+{
+  "id": 185,
+  "set": 8,
+  "set_index": 10,
+  "answer": "D",
+  "text": "WelcheBlutgruppehatdiePersonmit demNamenGIXRALD?",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "0",
+    "D": "AB",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

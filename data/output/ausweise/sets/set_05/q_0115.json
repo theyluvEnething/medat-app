@@ -1,0 +1,14 @@
+{
+  "id": 115,
+  "set": 5,
+  "set_index": 15,
+  "answer": "B",
+  "text": "WelcheBlutgruppehatdiePersonmit demNamenRENDRAST?",
+  "options": {
+    "A": "0",
+    "B": "B",
+    "C": "A",
+    "D": "AB",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

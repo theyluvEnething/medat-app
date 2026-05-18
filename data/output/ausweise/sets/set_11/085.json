@@ -1,0 +1,15 @@
+{
+  "id": 85,
+  "set": 11,
+  "set_index": 5,
+  "image": "085.png",
+  "fields": {
+    "Name": "TAUCUV",
+    "Geburtstag": "28. November",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Amalgam, Latex",
+    "Ausweisnummer": "01523",
+    "Ausstellungsland": "Indien"
+  }
+}

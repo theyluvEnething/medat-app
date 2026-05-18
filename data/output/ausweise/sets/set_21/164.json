@@ -1,0 +1,15 @@
+{
+  "id": 164,
+  "set": 21,
+  "set_index": 4,
+  "image": "164.png",
+  "fields": {
+    "Name": "KLIMIKA",
+    "Geburtstag": "30. Juni",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Kaliumdichromat,",
+    "Ausweisnummer": "85009",
+    "Ausstellungsland": "Kasachstan"
+  }
+}

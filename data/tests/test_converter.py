@@ -76,9 +76,44 @@ def test_zahlenfolgen() -> None:
     assert "C) 64" in content
 
 
+def test_ausweise_memorize() -> None:
+    data = {
+        "id": 1,
+        "fields": {
+            "Name": "GILTONS",
+            "Geburtstag": "22. März",
+            "Blutgruppe": "B",
+            "Ausweisnummer": "93115",
+        },
+    }
+    content = generate_content("ausweise_memorize", data)
+    assert "Name: GILTONS" in content
+    assert "Geburtstag: 22. März" in content
+    assert "Blutgruppe: B" in content
+    assert "Ausweisnummer: 93115" in content
+
+
+def test_ausweise_recall() -> None:
+    data = {
+        "id": 1,
+        "text": "Wie lautet die Ausweisnummer der Person mit dem Namen UMSHAU?",
+        "options": {
+            "A": "81942",
+            "B": "23612",
+            "C": "68213",
+            "D": "32771",
+            "E": "Keine der Antworten ist richtig.",
+        },
+    }
+    content = generate_content("ausweise_recall", data)
+    assert "Ausweisnummer" in content
+    assert "A) 81942" in content
+    assert "E) Keine der Antworten ist richtig." in content
+
+
 def test_unknown_section() -> None:
     try:
         generate_content("unknown", {"id": 1})
-        assert False, "Should have raised ValueError"
+        raise AssertionError("Should have raised ValueError")
     except ValueError:
         pass

@@ -1,0 +1,15 @@
+{
+  "id": 171,
+  "set": 22,
+  "set_index": 3,
+  "image": "171.png",
+  "fields": {
+    "Name": "HOLFKOR",
+    "Geburtstag": "1. August",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Tintenfische, Bananen,",
+    "Ausweisnummer": "85178",
+    "Ausstellungsland": "Antigua und Barbuda"
+  }
+}

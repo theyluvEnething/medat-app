@@ -1,0 +1,14 @@
+{
+  "id": 181,
+  "set": 8,
+  "set_index": 6,
+  "answer": "A",
+  "text": "WelcheBlutgruppehatdiePersonmit KEINENMedikamentenundGeburtstag am21.desMonats?",
+  "options": {
+    "A": "B",
+    "B": "A",
+    "C": "AB",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

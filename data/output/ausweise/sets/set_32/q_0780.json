@@ -1,0 +1,14 @@
+{
+  "id": 780,
+  "set": 32,
+  "set_index": 5,
+  "answer": "D",
+  "text": "WievielePersonensindallergischgegen Feigen?",
+  "options": {
+    "A": "1",
+    "B": "4",
+    "C": "0",
+    "D": "2",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

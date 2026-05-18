@@ -1,0 +1,15 @@
+{
+  "id": 1535,
+  "set": 103,
+  "set_index": 5,
+  "answer": "C",
+  "answer_word": "SCHLACHTBANK",
+  "options": {
+    "A": "B",
+    "B": "K",
+    "C": "S",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C L K B N S A T C H A H"
+}

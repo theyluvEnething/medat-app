@@ -1,0 +1,15 @@
+{
+  "id": 209,
+  "set": 27,
+  "set_index": 1,
+  "image": "209.png",
+  "fields": {
+    "Name": "UNTROKA",
+    "Geburtstag": "10. Juni",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Esche",
+    "Ausweisnummer": "29387",
+    "Ausstellungsland": "Australien"
+  }
+}

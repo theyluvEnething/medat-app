@@ -1,0 +1,15 @@
+{
+  "id": 72,
+  "set": 9,
+  "set_index": 8,
+  "image": "072.png",
+  "fields": {
+    "Name": "RILFONM",
+    "Geburtstag": "15. September",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Ananas",
+    "Ausweisnummer": "90507",
+    "Ausstellungsland": "Tansania"
+  }
+}

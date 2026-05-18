@@ -1,0 +1,15 @@
+{
+  "id": 77,
+  "set": 10,
+  "set_index": 5,
+  "image": "077.png",
+  "fields": {
+    "Name": "WIRNDAN",
+    "Geburtstag": "4. Februar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Katzenhaare",
+    "Ausweisnummer": "15589",
+    "Ausstellungsland": "Mosambik"
+  }
+}

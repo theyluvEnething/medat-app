@@ -33,7 +33,8 @@ def test_zahlenfolgen_answer_regex() -> None:
         "2. D 15/32 Verdopplung\n"
         "3. B 7/13 Primzahlen"
     )
-    matches = re.finditer(r"(\d+)\.\s+([A-E])\s+(\S+)\s+(.*?)(?=\n\d+\.|\Z)", text, re.DOTALL)
+    pattern = r"(\d+)\.\s+([A-E])\s+(\S+)\s+(.*?)(?=\n\d+\.|\Z)"
+    matches = re.finditer(pattern, text, re.DOTALL)
     results = {}
     for m in matches:
         results[int(m.group(1))] = {

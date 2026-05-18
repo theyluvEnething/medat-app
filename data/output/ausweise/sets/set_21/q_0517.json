@@ -1,0 +1,14 @@
+{
+  "id": 517,
+  "set": 21,
+  "set_index": 17,
+  "answer": "B",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitAusweisnummer87978?",
+  "options": {
+    "A": "Türkei",
+    "B": "Kirgisistan",
+    "C": "Kasachstan",
+    "D": "Guyana",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

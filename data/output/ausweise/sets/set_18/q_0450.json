@@ -1,0 +1,14 @@
+{
+  "id": 450,
+  "set": 18,
+  "set_index": 25,
+  "answer": "C",
+  "text": "InwelchemMonatistder GeburtstagderPersonmit diesemBild?",
+  "options": {
+    "A": "Juli",
+    "B": "Mai",
+    "C": "Dezember",
+    "D": "September",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

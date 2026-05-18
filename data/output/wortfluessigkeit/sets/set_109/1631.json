@@ -1,0 +1,15 @@
+{
+  "id": 1631,
+  "set": 109,
+  "set_index": 11,
+  "answer": "E",
+  "answer_word": "DOKTORARBEIT",
+  "options": {
+    "A": "T",
+    "B": "R",
+    "C": "K",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T B I O R E T A R K D O"
+}

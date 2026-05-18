@@ -1,0 +1,15 @@
+{
+  "id": 12,
+  "set": 2,
+  "set_index": 4,
+  "image": "012.png",
+  "fields": {
+    "Name": "LUZTROX",
+    "Geburtstag": "12. September",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Pollen",
+    "Ausweisnummer": "03250",
+    "Ausstellungsland": "Kongo"
+  }
+}

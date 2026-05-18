@@ -1,0 +1,15 @@
+{
+  "id": 1566,
+  "set": 105,
+  "set_index": 6,
+  "answer": "C",
+  "answer_word": "ZULAUF",
+  "options": {
+    "A": "U",
+    "B": "L",
+    "C": "Z",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "Z F U L A U"
+}

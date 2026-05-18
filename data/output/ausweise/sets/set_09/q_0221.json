@@ -1,0 +1,14 @@
+{
+  "id": 221,
+  "set": 9,
+  "set_index": 21,
+  "answer": "A",
+  "text": "WelcheganzenAllergienhatdiePerson mitBlutgruppeAB?",
+  "options": {
+    "A": "Buche,Schalenfrüchte",
+    "B": "Ananas",
+    "C": "Tocopherol,Fruchtzucker",
+    "D": "Paprika,Schalenfrüchte",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": 443,
+  "set": 18,
+  "set_index": 18,
+  "answer": "C",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitunteranderemAllergie gegenPflaster?",
+  "options": {
+    "A": "Panama",
+    "B": "SriLanka",
+    "C": "Palau",
+    "D": "Spanien",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

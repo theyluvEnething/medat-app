@@ -1,0 +1,14 @@
+{
+  "id": 783,
+  "set": 32,
+  "set_index": 8,
+  "answer": "D",
+  "text": "WelcheganzenAllergienhatdiePerson mitdem8.DezemberalsGeburtstag?",
+  "options": {
+    "A": "Feigen,Schokolade,Sonne",
+    "B": "Sellerie",
+    "C": "Zwiebeln,Formaldehyd",
+    "D": "Amalgam,Zement",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

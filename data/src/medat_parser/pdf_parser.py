@@ -9,6 +9,7 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
+from medat_parser.ausweise_parser import parse_ausweise
 from medat_parser.figuren_parser import parse_figuren
 from medat_parser.implikationen_parser import parse_implikationen
 from medat_parser.wortfluessigkeit_parser import parse_wortfluessigkeit
@@ -19,6 +20,7 @@ PARSERS = {
     "wortfluessigkeit": ("Wortflüssigkeit", parse_wortfluessigkeit),
     "implikationen": ("Implikationen erkennen", parse_implikationen),
     "zahlenfolgen": ("Zahlenfolgen", parse_zahlenfolgen),
+    "ausweise": ("Ausweise Merken", parse_ausweise),
 }
 
 

@@ -1,0 +1,14 @@
+{
+  "id": 652,
+  "set": 27,
+  "set_index": 2,
+  "answer": "C",
+  "text": "WelcheBlutgruppehatdiePersonmit KEINENMedikamentenunddem Geschlechtweiblich?",
+  "options": {
+    "A": "AB",
+    "B": "0",
+    "C": "A",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 124,
+  "set": 16,
+  "set_index": 4,
+  "image": "124.png",
+  "fields": {
+    "Name": "ERDANMO",
+    "Geburtstag": "22. Mai",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Bienen, Ephedrin, Krebstiere",
+    "Ausweisnummer": "19713",
+    "Ausstellungsland": "Westsahara"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 33,
+  "set": 5,
+  "set_index": 1,
+  "image": "033.png",
+  "fields": {
+    "Name": "VATORN",
+    "Geburtstag": "26. Juni",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Fluorid, Sulfite,",
+    "Ausweisnummer": "99012",
+    "Ausstellungsland": "Malawi"
+  }
+}

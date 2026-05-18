@@ -1,0 +1,15 @@
+{
+  "id": 1600,
+  "set": 107,
+  "set_index": 10,
+  "answer": "B",
+  "answer_word": "ISOLIERUNG",
+  "options": {
+    "A": "S",
+    "B": "I",
+    "C": "R",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L N S R G I I U O E 4"
+}

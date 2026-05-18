@@ -1,0 +1,14 @@
+{
+  "id": 502,
+  "set": 21,
+  "set_index": 2,
+  "answer": "A",
+  "text": "WannistderGeburtstagderPersonmit demNamenXREDNOI?",
+  "options": {
+    "A": "12.Juli",
+    "B": "1.März",
+    "C": "11.April",
+    "D": "18.November",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

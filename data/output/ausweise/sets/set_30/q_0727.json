@@ -1,0 +1,14 @@
+{
+  "id": 727,
+  "set": 30,
+  "set_index": 2,
+  "answer": "E",
+  "text": "WelcheganzenAllergienhat diePersonmitdiesemBild?",
+  "options": {
+    "A": "Wein,Rosen",
+    "B": "Casein,Kiefer",
+    "C": "Kürbisse",
+    "D": "Textilien,Amaranth,Thiomersal",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

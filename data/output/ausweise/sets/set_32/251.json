@@ -1,0 +1,15 @@
+{
+  "id": 251,
+  "set": 32,
+  "set_index": 3,
+  "image": "251.png",
+  "fields": {
+    "Name": "VYNILKO",
+    "Geburtstag": "30. August",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Zement, Blei",
+    "Ausweisnummer": "26165",
+    "Ausstellungsland": "Spanien"
+  }
+}

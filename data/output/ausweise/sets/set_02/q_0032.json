@@ -1,0 +1,14 @@
+{
+  "id": 32,
+  "set": 2,
+  "set_index": 7,
+  "answer": "C",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitAllergiegegenPollenund Brombeeren?",
+  "options": {
+    "A": "Monaco",
+    "B": "SãoToméundPríncipe",
+    "C": "Iran",
+    "D": "Kongo",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

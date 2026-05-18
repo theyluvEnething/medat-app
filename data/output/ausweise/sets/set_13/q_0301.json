@@ -1,0 +1,14 @@
+{
+  "id": 301,
+  "set": 13,
+  "set_index": 1,
+  "answer": "C",
+  "text": "WieheißtdiePersonmitdem21.Februar alsGeburtstag?",
+  "options": {
+    "A": "YUNKID",
+    "B": "ABARKIR",
+    "C": "GRANLOR",
+    "D": "RENDSAM",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

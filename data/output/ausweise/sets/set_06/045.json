@@ -1,0 +1,15 @@
+{
+  "id": 45,
+  "set": 6,
+  "set_index": 5,
+  "image": "045.png",
+  "fields": {
+    "Name": "BLYNCI",
+    "Geburtstag": "17. Januar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Litschi, Iod",
+    "Ausweisnummer": "02013",
+    "Ausstellungsland": "Chile"
+  }
+}

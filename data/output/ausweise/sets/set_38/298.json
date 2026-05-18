@@ -1,0 +1,15 @@
+{
+  "id": 298,
+  "set": 38,
+  "set_index": 2,
+  "image": "298.png",
+  "fields": {
+    "Name": "BOMCOR",
+    "Geburtstag": "28. März",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Brauereihefe",
+    "Ausweisnummer": "82820",
+    "Ausstellungsland": "Westsahara"
+  }
+}

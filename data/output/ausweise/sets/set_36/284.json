@@ -1,0 +1,15 @@
+{
+  "id": 284,
+  "set": 36,
+  "set_index": 4,
+  "image": "284.png",
+  "fields": {
+    "Name": "ESTRIMO",
+    "Geburtstag": "13. Dezember",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Asbest, Batate, Kamille",
+    "Ausweisnummer": "59126",
+    "Ausstellungsland": "Malta"
+  }
+}

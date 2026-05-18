@@ -1,0 +1,14 @@
+{
+  "id": 605,
+  "set": 25,
+  "set_index": 5,
+  "answer": "E",
+  "text": "WievielePersonensindallergischgegen Makrelen?",
+  "options": {
+    "A": "4",
+    "B": "3",
+    "C": "2",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

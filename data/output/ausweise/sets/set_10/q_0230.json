@@ -1,0 +1,14 @@
+{
+  "id": 230,
+  "set": 10,
+  "set_index": 5,
+  "answer": "D",
+  "text": "WannistderGeburtstagderPersonmit derAusweisnummerbeginnendmit22?",
+  "options": {
+    "A": "2.Juli",
+    "B": "4.Februar",
+    "C": "24.Dezember",
+    "D": "16.Juni",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

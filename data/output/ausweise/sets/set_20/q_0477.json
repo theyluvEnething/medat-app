@@ -1,0 +1,14 @@
+{
+  "id": 477,
+  "set": 20,
+  "set_index": 2,
+  "answer": "B",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitGeburtstagimMärz?",
+  "options": {
+    "A": "Mongolei",
+    "B": "Mauretanien",
+    "C": "Katar",
+    "D": "Schweiz",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

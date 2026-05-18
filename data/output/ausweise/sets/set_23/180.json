@@ -1,0 +1,15 @@
+{
+  "id": 180,
+  "set": 23,
+  "set_index": 4,
+  "image": "180.png",
+  "fields": {
+    "Name": "HOKLBAN",
+    "Geburtstag": "9. September",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Kopfsalat",
+    "Ausweisnummer": "86900",
+    "Ausstellungsland": "Tschad"
+  }
+}

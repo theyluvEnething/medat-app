@@ -11,9 +11,10 @@
     "lib": ["esnext", "dom", "dom.iterable"],
     "composite": true,
     "skipLibCheck": true,
+    "resolveJsonModule": true,
     "noEmit": false,
     "outDir": "./out/renderer",
     "rootDir": "./src/renderer"
   },
-  "include": ["src/renderer/src/**/*.ts", "src/renderer/src/**/*.tsx", "src/preload/**/*.d.ts"]
+  "include": ["src/renderer/src/**/*.ts", "src/renderer/src/**/*.tsx", "src/renderer/src/**/*.json", "src/preload/**/*.d.ts"]
 }

@@ -1,0 +1,14 @@
+{
+  "id": 334,
+  "set": 14,
+  "set_index": 9,
+  "answer": "A",
+  "text": "WelcheBlutgruppehatdiePersonmit demNamenPRIMKORT?",
+  "options": {
+    "A": "0",
+    "B": "A",
+    "C": "B",
+    "D": "AB",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

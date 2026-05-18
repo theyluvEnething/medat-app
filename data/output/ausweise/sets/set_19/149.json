@@ -1,0 +1,15 @@
+{
+  "id": 149,
+  "set": 19,
+  "set_index": 5,
+  "image": "149.png",
+  "fields": {
+    "Name": "SONMAN",
+    "Geburtstag": "25. Januar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Wespen, Kunststoffe",
+    "Ausweisnummer": "80913",
+    "Ausstellungsland": "Irak"
+  }
+}

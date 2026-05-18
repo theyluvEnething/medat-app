@@ -1,0 +1,14 @@
+{
+  "id": 309,
+  "set": 13,
+  "set_index": 9,
+  "answer": "D",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer34061?",
+  "options": {
+    "A": "Schafmilch",
+    "B": "Muscheln,Hamsterhaare",
+    "C": "Hafer,Kobalt",
+    "D": "Clementinen",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

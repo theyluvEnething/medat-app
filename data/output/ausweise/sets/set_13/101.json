@@ -1,0 +1,15 @@
+{
+  "id": 101,
+  "set": 13,
+  "set_index": 5,
+  "image": "101.png",
+  "fields": {
+    "Name": "WOFLIK",
+    "Geburtstag": "24. April",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Muscheln, Äpfel",
+    "Ausweisnummer": "45292",
+    "Ausstellungsland": "Mikronesien"
+  }
+}

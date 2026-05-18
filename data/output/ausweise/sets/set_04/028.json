@@ -1,0 +1,15 @@
+{
+  "id": 28,
+  "set": 4,
+  "set_index": 4,
+  "image": "028.png",
+  "fields": {
+    "Name": "PREDRAC",
+    "Geburtstag": "9. August",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Kürbisse, Himbeeren,",
+    "Ausweisnummer": "88637",
+    "Ausstellungsland": "Brunei"
+  }
+}

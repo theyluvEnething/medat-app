@@ -1,0 +1,14 @@
+{
+  "id": 130,
+  "set": 6,
+  "set_index": 5,
+  "answer": "C",
+  "text": "WannistderGeburtstagder PersonmitdiesemBild?",
+  "options": {
+    "A": "5.Oktober",
+    "B": "25.Februar",
+    "C": "25.April",
+    "D": "31.Juli",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": 643,
+  "set": 26,
+  "set_index": 18,
+  "answer": "D",
+  "text": "WelcheganzenAllergienhatdiePerson mitdemGeschlechtweiblichundKEINEN Medikamenten?",
+  "options": {
+    "A": "Fruchtzucker,Kolophonium,Kirschen",
+    "B": "Nickel",
+    "C": "Oxaceprol,Mais",
+    "D": "Baumwolle,Fruchtzucker",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

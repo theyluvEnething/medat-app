@@ -1,0 +1,15 @@
+{
+  "id": 250,
+  "set": 32,
+  "set_index": 2,
+  "image": "250.png",
+  "fields": {
+    "Name": "EPONOR",
+    "Geburtstag": "13. Mai",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Feigen, Schokolade, Sonne",
+    "Ausweisnummer": "09542",
+    "Ausstellungsland": "Transnistrien"
+  }
+}

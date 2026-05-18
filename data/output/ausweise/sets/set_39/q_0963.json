@@ -1,0 +1,14 @@
+{
+  "id": 963,
+  "set": 39,
+  "set_index": 13,
+  "answer": "D",
+  "text": "WelcheBlutgruppehatdiePersonmit demGeschlechtmännlichundunter anderemAllergiegegenMückenstiche?",
+  "options": {
+    "A": "B",
+    "B": "A",
+    "C": "AB",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

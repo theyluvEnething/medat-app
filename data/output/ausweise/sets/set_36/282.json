@@ -1,0 +1,15 @@
+{
+  "id": 282,
+  "set": 36,
+  "set_index": 2,
+  "image": "282.png",
+  "fields": {
+    "Name": "WIKZODR",
+    "Geburtstag": "19. Februar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Paranüsse",
+    "Ausweisnummer": "94198",
+    "Ausstellungsland": "Philippinen"
+  }
+}
