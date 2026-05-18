@@ -34,7 +34,7 @@ export function Settings({ username, questions, onBack }: SettingsProps) {
         <h1 className="text-2xl font-bold">Einstellungen</h1>
         <button
           onClick={onBack}
-          className="rounded-lg bg-zinc-800 px-4 py-2 text-sm text-zinc-300 hover:bg-zinc-700"
+          className="rounded-lg bg-zinc-800 px-4 py-2 text-sm text-zinc-300 transition-all duration-200 hover:scale-[1.03] hover:bg-zinc-700 active:scale-95"
         >
           Zurück
         </button>
@@ -56,13 +56,13 @@ export function Settings({ username, questions, onBack }: SettingsProps) {
           return (
             <div
               key={sec.key}
-              className="rounded-lg border border-zinc-800 bg-zinc-900 p-4"
+              className="rounded-lg border border-zinc-800 bg-zinc-900 p-4 transition-shadow duration-300 hover:border-zinc-700"
             >
               <div className="flex items-center justify-between">
                 <span className="font-semibold text-zinc-200">{sec.label}</span>
                 <button
                   onClick={() => resetSection(sec.key)}
-                  className="text-xs text-red-400 hover:text-red-300"
+                  className="text-xs text-red-400 transition-colors duration-200 hover:text-red-300"
                 >
                   Zurücksetzen
                 </button>
@@ -80,7 +80,7 @@ export function Settings({ username, questions, onBack }: SettingsProps) {
                       Math.max(0, Math.min(totalSets - 1, Number(e.target.value))),
                     )
                   }
-                  className="w-20 rounded border border-zinc-700 bg-zinc-950 px-2 py-1 text-center text-zinc-200"
+                  className="w-20 rounded border border-zinc-700 bg-zinc-950 px-2 py-1 text-center text-zinc-200 transition-all duration-200 focus:border-emerald-500 focus:ring-1 focus:ring-emerald-500/30"
                 />
                 <span className="text-zinc-600">
                   von {totalSets - 1} (Fragen {startId}–{endId})

@@ -16,7 +16,7 @@ export function HintBanner({ sectionKey }: HintBannerProps) {
   if (!text) return null
 
   return (
-    <div className="rounded-lg border border-amber-600/30 bg-amber-950/40 px-5 py-3 text-sm text-amber-200">
+    <div className="animate-fade-in rounded-lg border border-amber-600/30 bg-amber-950/40 px-5 py-3 text-sm text-amber-200">
       {text}
     </div>
   )

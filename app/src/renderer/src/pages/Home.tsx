@@ -22,7 +22,7 @@ export function Home({ username, questions, onStart, onSettings, onLogout }: Hom
         <p className="mt-1 text-sm text-emerald-500">Angemeldet als: {username}</p>
       </div>
 
-      <div className="w-96 rounded-xl border border-zinc-800 bg-zinc-900 p-5 text-center">
+      <div className="w-96 rounded-xl border border-zinc-800 bg-zinc-900 p-5 text-center transition-shadow duration-300 hover:border-zinc-700">
         <p className="text-sm text-zinc-500">Gesamtfortschritt</p>
         <p className="mt-1 text-3xl font-bold tabular-nums text-emerald-400">
           {stats.totalPercentage !== null ? `${stats.totalPercentage}%` : '—'}
@@ -32,11 +32,14 @@ export function Home({ username, questions, onStart, onSettings, onLogout }: Hom
         </p>
       </div>
 
-      <div className="w-96 rounded-xl border border-zinc-800 bg-zinc-900 p-5">
+      <div className="w-96 rounded-xl border border-zinc-800 bg-zinc-900 p-5 transition-shadow duration-300 hover:border-zinc-700">
         <h2 className="mb-3 text-sm font-semibold text-zinc-400">Testabschnitte</h2>
         <ul className="space-y-2">
           {stats.sections.map((s) => (
-            <li key={s.key} className="flex items-center justify-between gap-4 text-sm">
+            <li
+              key={s.key}
+              className="flex items-center justify-between gap-4 text-sm"
+            >
               <span className="text-zinc-400 truncate">{s.label}</span>
               <span className="shrink-0 tabular-nums text-zinc-500">
                 {s.attempted > 0 ? (
@@ -60,19 +63,22 @@ export function Home({ username, questions, onStart, onSettings, onLogout }: Hom
       <div className="flex gap-4">
         <button
           onClick={onStart}
-          className="rounded-xl bg-emerald-600 px-10 py-4 text-lg font-semibold text-white transition-colors hover:bg-emerald-500 active:bg-emerald-700"
+          className="animate-breathe rounded-xl bg-emerald-600 px-10 py-4 text-lg font-semibold text-white transition-all duration-200 hover:scale-[1.05] hover:bg-emerald-500 active:scale-95"
         >
           Test starten
         </button>
         <button
           onClick={onSettings}
-          className="rounded-xl bg-zinc-800 px-6 py-4 text-lg font-semibold text-zinc-300 transition-colors hover:bg-zinc-700"
+          className="rounded-xl bg-zinc-800 px-6 py-4 text-lg font-semibold text-zinc-300 transition-all duration-200 hover:scale-[1.03] hover:bg-zinc-700 active:scale-95"
         >
           Einstellungen
         </button>
       </div>
 
-      <button onClick={onLogout} className="text-sm text-zinc-600 hover:text-zinc-400">
+      <button
+        onClick={onLogout}
+        className="text-sm text-zinc-600 transition-colors duration-200 hover:text-zinc-400"
+      >
         Abmelden
       </button>
     </div>

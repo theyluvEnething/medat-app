@@ -17,11 +17,17 @@ export function Timer({ remaining, total }: TimerProps) {
     <div className="flex items-center gap-3">
       <div className="h-2 w-32 overflow-hidden rounded-full bg-zinc-800">
         <div
-          className={`h-full rounded-full transition-all duration-1000 ${warn ? 'bg-red-500' : 'bg-emerald-500'}`}
+          className={`h-full rounded-full transition-all duration-700 ${
+            warn ? 'bg-red-500 animate-pulse-warn' : 'bg-emerald-500'
+          }`}
           style={{ width: `${pct}%` }}
         />
       </div>
-      <span className={`font-mono text-lg tabular-nums ${warn ? 'text-red-400' : 'text-zinc-300'}`}>
+      <span
+        className={`font-mono text-lg tabular-nums transition-colors duration-300 ${
+          warn ? 'text-red-400 animate-pulse-warn' : 'text-zinc-300'
+        }`}
+      >
         {fmt(remaining)}
       </span>
     </div>

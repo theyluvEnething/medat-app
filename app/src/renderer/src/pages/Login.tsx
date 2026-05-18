@@ -27,7 +27,7 @@ export function Login({ onLogin }: LoginProps) {
         </p>
       </div>
 
-      <div className="w-96 rounded-xl border border-zinc-800 bg-zinc-900 p-6">
+      <div className="w-96 rounded-xl border border-zinc-800 bg-zinc-900 p-6 transition-shadow duration-300 hover:border-zinc-700">
         <label htmlFor="username" className="mb-2 block text-sm text-zinc-400">
           Benutzername
         </label>
@@ -39,14 +39,14 @@ export function Login({ onLogin }: LoginProps) {
           onKeyDown={(e) => e.key === 'Enter' && submit()}
           placeholder="Dein Name"
           autoFocus
-          className="w-full rounded-lg border border-zinc-700 bg-zinc-950 px-4 py-3 text-lg text-zinc-100 placeholder-zinc-600 outline-none focus:border-emerald-500"
+          className="w-full rounded-lg border border-zinc-700 bg-zinc-950 px-4 py-3 text-lg text-zinc-100 placeholder-zinc-600 outline-none transition-all duration-200 focus:border-emerald-500 focus:ring-1 focus:ring-emerald-500/30"
         />
       </div>
 
       <button
         onClick={submit}
         disabled={name.trim().length === 0}
-        className="rounded-xl bg-emerald-600 px-10 py-4 text-lg font-semibold text-white transition-colors hover:bg-emerald-500 active:bg-emerald-700 disabled:opacity-40"
+        className="rounded-xl bg-emerald-600 px-10 py-4 text-lg font-semibold text-white transition-all duration-200 hover:scale-[1.05] hover:bg-emerald-500 active:scale-95 disabled:opacity-40 disabled:hover:scale-100"
       >
         Starten
       </button>

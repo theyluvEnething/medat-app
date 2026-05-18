@@ -7,6 +7,12 @@ export function useTimer(initialSeconds: number, onExpire: () => void) {
   const onExpireRef = useRef(onExpire)
   onExpireRef.current = onExpire
 
+  // Reset timer when initialSeconds changes (section switch)
+  useEffect(() => {
+    setRemaining(initialSeconds)
+    setIsRunning(false)
+  }, [initialSeconds])
+
   const clear = useCallback(() => {
     if (intervalRef.current !== null) {
       clearInterval(intervalRef.current)

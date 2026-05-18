@@ -18,6 +18,7 @@ interface QuestionCardProps {
   questionId: number
   image?: string
   selectedAnswer: string | null
+  correctAnswer: string | null
   onSelect: (choice: string) => void
 }
 
@@ -27,7 +28,10 @@ function fmtId(n: number): string {
   return n.toString().padStart(3, '0')
 }
 
-function getImageSrc(glob: Record<string, { default: string }>, filename: string): string | null {
+function getImageSrc(
+  glob: Record<string, { default: string }>,
+  filename: string,
+): string | null {
   const key = Object.keys(glob).find((k) => k.endsWith(filename))
   return key ? glob[key]!.default : null
 }
@@ -40,12 +44,14 @@ export function QuestionCard({
   questionId,
   image,
   selectedAnswer,
+  correctAnswer,
   onSelect,
 }: QuestionCardProps) {
   const needsAnswers = section !== 'ausweise_memorize'
 
   return (
     <div className="flex flex-col gap-6">
+      {/* Progress dots */}
       <div className="flex items-center gap-2 text-sm text-zinc-500">
         <span>
           {section === 'ausweise_memorize' ? 'Ausweis' : 'Frage'} {number} von {total}
@@ -54,14 +60,17 @@ export function QuestionCard({
           {Array.from({ length: total }, (_, i) => (
             <div
               key={i}
-              className={`h-1 w-4 rounded ${i + 1 === number ? 'bg-emerald-500' : 'bg-zinc-800'}`}
+              className={`h-1 rounded-full transition-all duration-300 ${
+                i + 1 === number ? 'w-5 bg-emerald-500' : 'w-3 bg-zinc-800'
+              }`}
             />
           ))}
         </div>
       </div>
 
+      {/* Content area */}
       {section === 'figuren' ? (
-        <div className="flex justify-center rounded-lg border border-zinc-800 bg-zinc-900 p-6">
+        <div className="flex justify-center rounded-xl border border-zinc-800 bg-zinc-900 p-6 transition-shadow duration-300 hover:border-zinc-700">
           {getImageSrc(figurenImages, `${fmtId(questionId)}.png`) ? (
             <img
               src={getImageSrc(figurenImages, `${fmtId(questionId)}.png`)!}
@@ -73,13 +82,13 @@ export function QuestionCard({
           )}
         </div>
       ) : section === 'ausweise_memorize' ? (
-        <div className="rounded-lg border border-zinc-800 bg-zinc-900 p-6">
+        <div className="rounded-xl border border-zinc-800 bg-zinc-900 p-6 transition-shadow duration-300 hover:border-zinc-700">
           {image ? (
-            <div className="flex justify-center mb-6">
+            <div className="mb-6 flex justify-center">
               <img
                 src={getImageSrc(ausweiseImages, image) ?? ''}
                 alt={`Ausweis ${questionId}`}
-                className="max-h-[50vh] max-w-full object-contain rounded"
+                className="max-h-[50vh] max-w-full rounded object-contain"
               />
             </div>
           ) : null}
@@ -88,28 +97,55 @@ export function QuestionCard({
           </div>
         </div>
       ) : (
-        <div className="rounded-lg border border-zinc-800 bg-zinc-900 p-6 text-lg leading-relaxed whitespace-pre-line">
+        <div className="rounded-xl border border-zinc-800 bg-zinc-900 p-6 text-lg leading-relaxed whitespace-pre-line transition-shadow duration-300 hover:border-zinc-700">
           {content}
         </div>
       )}
 
+      {/* Answer buttons */}
       {needsAnswers && (
         <div className="grid grid-cols-5 gap-3">
-          {CHOICES.map((choice) => (
-            <button
-              key={choice}
-              onClick={() => onSelect(choice)}
-              className={`rounded-lg border px-4 py-3 text-center text-lg font-medium transition-colors ${
-                selectedAnswer === choice
-                  ? 'border-emerald-500 bg-emerald-500/10 text-emerald-400'
-                  : 'border-zinc-800 bg-zinc-900 text-zinc-400 hover:border-zinc-600 hover:text-zinc-200'
-              }`}
-            >
-              <span className="text-xs text-zinc-500">{choice}</span>
-              <br />
-              <span>{choice}</span>
-            </button>
-          ))}
+          {CHOICES.map((choice) => {
+            const isCorrect = correctAnswer !== null && choice === correctAnswer
+            const isWrong =
+              correctAnswer !== null &&
+              selectedAnswer === choice &&
+              choice !== correctAnswer
+
+            let border = 'border-zinc-800'
+            let bg = 'bg-zinc-900'
+            let text = 'text-zinc-400'
+            let hover = 'hover:border-zinc-600 hover:text-zinc-200 hover:scale-[1.03]'
+
+            if (isCorrect) {
+              border = 'border-emerald-500'
+              bg = 'bg-emerald-500/20'
+              text = 'text-emerald-400'
+              hover = ''
+            } else if (isWrong) {
+              border = 'border-red-500'
+              bg = 'bg-red-500/10'
+              text = 'text-red-400'
+              hover = ''
+            } else if (selectedAnswer === choice) {
+              border = 'border-emerald-500'
+              bg = 'bg-emerald-500/10'
+              text = 'text-emerald-400'
+              hover = 'hover:scale-[1.03]'
+            }
+
+            return (
+              <button
+                key={choice}
+                onClick={() => onSelect(choice)}
+                className={`rounded-xl border px-4 py-3 text-center text-lg font-medium transition-all duration-150 active:scale-95 ${border} ${bg} ${text} ${correctAnswer === null ? hover : ''}`}
+              >
+                <span className="text-xs opacity-60">{choice}</span>
+                <br />
+                <span className="select-none">{choice}</span>
+              </button>
+            )
+          })}
         </div>
       )}
     </div>

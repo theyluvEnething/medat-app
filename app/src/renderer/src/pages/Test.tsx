@@ -1,5 +1,5 @@
-import { useCallback, useMemo, useState } from 'react'
-import type { Question, SectionConfig, SectionProgress } from '../types'
+import { useCallback, useEffect, useMemo, useState } from 'react'
+import type { Question, SectionProgress } from '../types'
 import { SECTION_ORDER } from '../types'
 import { Timer } from '../components/Timer'
 import { QuestionCard } from '../components/QuestionCard'
@@ -20,37 +20,27 @@ function selectQuestions(
   progress: SectionProgress,
   count: number,
 ): { questions: Question[] } {
-  const poolSize = allPool.length
-  const totalSets = Math.ceil(poolSize / count)
+  const totalSets = Math.ceil(allPool.length / count)
   const setIndex = progress.currentSetIndex
-
-  // Clamp set index in case it got out of range
   const safeSet = Math.min(setIndex, totalSets - 1)
   const start = safeSet * count
   const setQuestions = allPool.slice(start, start + count)
 
   const completedSet = new Set(progress.completed)
   const wrongSet = new Set(progress.wrongIds)
-
-  // Filter out already-correctly-answered questions from this set
   const remaining = setQuestions.filter((q) => !completedSet.has(q.id))
 
-  // If all questions in set are completed, advance to next set
   if (remaining.length === 0 && setQuestions.length > 0) {
     const nextSet = safeSet + 1
     const wrappedSet = nextSet >= totalSets ? 0 : nextSet
-    const newStart = wrappedSet * count
-    const freshQuestions = allPool.slice(newStart, newStart + count)
-    return { questions: freshQuestions }
+    return { questions: allPool.slice(wrappedSet * count, wrappedSet * count + count) }
   }
 
-  // Fill up to count with wrong answers from this set
   if (remaining.length < count) {
     const wrongInSet = setQuestions.filter(
       (q) => wrongSet.has(q.id) && !completedSet.has(q.id),
     )
-    const extra = wrongInSet.slice(0, count - remaining.length)
-    return { questions: [...remaining, ...extra] }
+    return { questions: [...remaining, ...wrongInSet.slice(0, count - remaining.length)] }
   }
 
   return { questions: remaining.slice(0, count) }
@@ -58,33 +48,30 @@ function selectQuestions(
 
 export function Test({ questions, username, onExit }: TestProps) {
   const [progress, setProgress] = useState(() => ensureUserProgress(username))
-
   const [sectionIndex, setSectionIndex] = useState(0)
   const [questionIndex, setQuestionIndex] = useState(0)
   const [step, setStep] = useState<Step>('intro')
   const [answers, setAnswers] = useState<Record<string, string>>({})
   const [showTimer, setShowTimer] = useState(true)
+  const [showSolution, setShowSolution] = useState(false)
+  const [zoom, setZoom] = useState(1)
 
   const section = SECTION_ORDER[sectionIndex]
   if (!section) return null
 
   const allPool: Question[] = questions[section.key] ?? []
-  const sp: SectionProgress | undefined = progress.sections[section.key]
+  const sp = progress.sections[section.key]
 
   const displayedQuestions: Question[] = useMemo(() => {
     if (!sp) return []
     const result = selectQuestions(allPool, sp, section.count)
-    // If set changed (all completed → next set), persist the new set index
     if (result.questions.length > 0) {
       const firstId = result.questions[0]!.id
       const newSetIndex = Math.floor((firstId - 1) / section.count)
       if (newSetIndex !== sp.currentSetIndex) {
         const updated = { ...sp, currentSetIndex: newSetIndex }
         setProgress((prev) => {
-          const next = {
-            ...prev,
-            sections: { ...prev.sections, [section.key]: updated },
-          }
+          const next = { ...prev, sections: { ...prev.sections, [section.key]: updated } }
           saveUserProgress(username, next)
           return next
         })
@@ -104,7 +91,23 @@ export function Test({ questions, username, onExit }: TestProps) {
   }, [sectionIndex])
 
   const timerSeconds = section.timeMin * 60
-  const { remaining, start } = useTimer(timerSeconds, handleExpire)
+  const { remaining, isRunning, start, pause } = useTimer(timerSeconds, handleExpire)
+
+  // Ctrl+Wheel zoom — CSS zoom scales layout uniformly (unlike transform)
+  useEffect(() => {
+    const handler = (e: WheelEvent) => {
+      if (e.ctrlKey) {
+        e.preventDefault()
+        setZoom((z) => Math.round(Math.min(3, Math.max(0.5, z - e.deltaY * 0.001)) * 1000) / 1000)
+      }
+    }
+    window.addEventListener('wheel', handler, { passive: false })
+    return () => window.removeEventListener('wheel', handler)
+  }, [])
+
+  useEffect(() => {
+    setShowSolution(false)
+  }, [sectionIndex, questionIndex])
 
   const selectAnswer = (choice: string) => {
     if (!currentQuestion) return
@@ -118,9 +121,7 @@ export function Test({ questions, username, onExit }: TestProps) {
   const startSection = () => {
     setStep('active')
     setQuestionIndex(0)
-    if (section.timeMin > 0) {
-      start()
-    }
+    if (section.timeMin > 0) start()
   }
 
   const goNext = () => {
@@ -130,9 +131,7 @@ export function Test({ questions, username, onExit }: TestProps) {
   }
 
   const goPrev = () => {
-    if (questionIndex > 0) {
-      setQuestionIndex((i) => i - 1)
-    }
+    if (questionIndex > 0) setQuestionIndex((i) => i - 1)
   }
 
   const skipQuestion = () => {
@@ -142,6 +141,16 @@ export function Test({ questions, username, onExit }: TestProps) {
     if (questionIndex < displayedQuestions.length - 1) {
       setQuestionIndex((i) => i + 1)
     }
+  }
+
+  const togglePause = () => {
+    if (isRunning) pause()
+    else start()
+  }
+
+  const finishEarly = () => {
+    persistSectionProgress()
+    setStep('section-done')
   }
 
   const persistSectionProgress = () => {
@@ -162,20 +171,16 @@ export function Test({ questions, username, onExit }: TestProps) {
       }
     }
 
-    // Check if all questions in the current set are completed
     const setStart = sp.currentSetIndex * section.count
     const setEnd = setStart + section.count
     const setIds = allPool.slice(setStart, setEnd).map((q) => q.id)
     const allSetDone = setIds.every((id) => completedSet.has(id))
-    const totalSets =
-      section.count > 0 ? Math.ceil(allPool.length / section.count) : 1
+    const totalSets = section.count > 0 ? Math.ceil(allPool.length / section.count) : 1
 
     let newSetIndex = sp.currentSetIndex
     if (allSetDone) {
       newSetIndex = sp.currentSetIndex + 1
-      if (newSetIndex >= totalSets) {
-        newSetIndex = 0
-      }
+      if (newSetIndex >= totalSets) newSetIndex = 0
     }
 
     const updated: SectionProgress = {
@@ -184,10 +189,7 @@ export function Test({ questions, username, onExit }: TestProps) {
       wrongIds: [...wrongSet].sort((a, b) => a - b),
     }
 
-    const next = {
-      ...progress,
-      sections: { ...progress.sections, [section.key]: updated },
-    }
+    const next = { ...progress, sections: { ...progress.sections, [section.key]: updated } }
     setProgress(next)
     saveUserProgress(username, next)
   }
@@ -213,8 +215,7 @@ export function Test({ questions, username, onExit }: TestProps) {
       const sectionKey = parts[0]
       const idStr = parts[1]
       if (!sectionKey || !idStr) continue
-      const qs = questions[sectionKey] ?? []
-      const q = qs.find((q: Question) => q.id === Number(idStr))
+      const q = (questions[sectionKey] ?? []).find((q) => q.id === Number(idStr))
       if (q) {
         total++
         if (q.answer === choice) correct++
@@ -226,14 +227,14 @@ export function Test({ questions, username, onExit }: TestProps) {
   if (step === 'results') {
     const [correct, total] = score()
     return (
-      <div className="flex min-h-screen flex-col items-center justify-center gap-8">
+      <div className="flex min-h-screen flex-col items-center justify-center gap-8 animate-fade-in">
         <h1 className="text-4xl font-bold">Ergebnis</h1>
         <p className="text-6xl font-mono tabular-nums text-emerald-400">
           {correct}/{total}
         </p>
         <button
           onClick={onExit}
-          className="rounded-lg bg-zinc-800 px-6 py-3 text-sm text-zinc-300 hover:bg-zinc-700"
+          className="rounded-xl bg-zinc-800 px-6 py-3 text-sm text-zinc-300 transition-all duration-200 hover:scale-[1.03] hover:bg-zinc-700 active:scale-95"
         >
           Zurück zum Start
         </button>
@@ -242,7 +243,11 @@ export function Test({ questions, username, onExit }: TestProps) {
   }
 
   return (
-    <div className="mx-auto flex min-h-screen max-w-3xl flex-col gap-6 px-6 py-8">
+    <div
+      className="mx-auto flex min-h-screen max-w-3xl flex-col gap-6 px-6 py-8"
+      style={{ zoom }}
+    >
+      {/* Header */}
       <div className="flex items-center justify-between gap-4">
         <div className="flex items-center gap-4">
           <span className="text-sm text-zinc-500">
@@ -250,22 +255,28 @@ export function Test({ questions, username, onExit }: TestProps) {
           </span>
           <button
             onClick={onExit}
-            className="text-xs text-red-400/70 hover:text-red-400"
+            className="text-xs text-red-400/70 transition-colors duration-200 hover:text-red-400"
           >
             Abbrechen
           </button>
         </div>
         <div className="flex items-center gap-3">
-          {step === 'active' && section.timeMin > 0 && showTimer && (
-            <Timer remaining={remaining} total={timerSeconds} />
-          )}
           {step === 'active' && section.timeMin > 0 && (
-            <button
-              onClick={() => setShowTimer((v) => !v)}
-              className="text-xs text-zinc-600 hover:text-zinc-400"
-            >
-              {showTimer ? 'Timer ausblenden' : 'Timer einblenden'}
-            </button>
+            <>
+              <button
+                onClick={togglePause}
+                className="rounded-lg border border-zinc-800 px-2 py-1 text-xs text-zinc-400 transition-all duration-200 hover:border-zinc-600 hover:text-zinc-200 active:scale-95"
+              >
+                {isRunning ? 'Pause' : 'Fortsetzen'}
+              </button>
+              {showTimer && <Timer remaining={remaining} total={timerSeconds} />}
+              <button
+                onClick={() => setShowTimer((v) => !v)}
+                className="text-xs text-zinc-600 transition-colors duration-200 hover:text-zinc-400"
+              >
+                {showTimer ? 'Ausblenden' : 'Einblenden'}
+              </button>
+            </>
           )}
         </div>
       </div>
@@ -274,8 +285,9 @@ export function Test({ questions, username, onExit }: TestProps) {
 
       <HintBanner sectionKey={section.key} />
 
+      {/* Intro step */}
       {step === 'intro' && (
-        <div className="flex flex-col items-center gap-6 py-16">
+        <div className="flex animate-fade-in flex-col items-center gap-6 py-16">
           <p className="text-zinc-400">
             {section.timeMin > 0
               ? `${section.timeMin} Minuten · ${displayedQuestions.length} ${section.key === 'ausweise_memorize' ? 'Ausweise' : 'Fragen'}`
@@ -283,15 +295,16 @@ export function Test({ questions, username, onExit }: TestProps) {
           </p>
           <button
             onClick={startSection}
-            className="rounded-xl bg-emerald-600 px-8 py-3 text-lg font-semibold text-white hover:bg-emerald-500"
+            className="animate-breathe rounded-xl bg-emerald-600 px-8 py-3 text-lg font-semibold text-white transition-all duration-200 hover:scale-[1.05] hover:bg-emerald-500 active:scale-95"
           >
             Start
           </button>
         </div>
       )}
 
+      {/* Active step */}
       {step === 'active' && currentQuestion && (
-        <>
+        <div className="flex animate-fade-in flex-col gap-6">
           <QuestionCard
             section={section.key}
             number={questionIndex + 1}
@@ -300,6 +313,7 @@ export function Test({ questions, username, onExit }: TestProps) {
             questionId={currentQuestion.id}
             image={currentQuestion.image}
             selectedAnswer={selectedAnswer}
+            correctAnswer={showSolution ? currentQuestion.answer : null}
             onSelect={selectAnswer}
           />
 
@@ -307,14 +321,14 @@ export function Test({ questions, username, onExit }: TestProps) {
             <button
               onClick={goPrev}
               disabled={questionIndex === 0}
-              className="rounded-lg bg-zinc-800 px-4 py-2 text-sm text-zinc-300 disabled:opacity-30"
+              className="rounded-lg bg-zinc-800 px-4 py-2 text-sm text-zinc-300 transition-all duration-200 hover:scale-[1.03] hover:bg-zinc-700 disabled:opacity-30 disabled:hover:scale-100"
             >
               Zurück
             </button>
 
             <button
               onClick={skipQuestion}
-              className="rounded-lg border border-amber-700/50 bg-amber-950/20 px-4 py-2 text-sm text-amber-300 hover:border-amber-600/70 hover:bg-amber-950/40"
+              className="rounded-lg border border-amber-700/50 bg-amber-950/20 px-4 py-2 text-sm text-amber-300 transition-all duration-200 hover:scale-[1.03] hover:border-amber-600/70 hover:bg-amber-950/40 active:scale-95"
             >
               Überspringen
             </button>
@@ -322,20 +336,36 @@ export function Test({ questions, username, onExit }: TestProps) {
             <button
               onClick={goNext}
               disabled={questionIndex === displayedQuestions.length - 1}
-              className="rounded-lg bg-zinc-800 px-4 py-2 text-sm text-zinc-300 disabled:opacity-30"
+              className="rounded-lg bg-zinc-800 px-4 py-2 text-sm text-zinc-300 transition-all duration-200 hover:scale-[1.03] hover:bg-zinc-700 disabled:opacity-30 disabled:hover:scale-100"
             >
               Weiter
             </button>
           </div>
-        </>
+
+          <div className="flex items-center justify-between">
+            <button
+              onClick={() => setShowSolution((v) => !v)}
+              className="text-xs text-zinc-500 transition-colors duration-200 hover:text-zinc-300"
+            >
+              {showSolution ? 'Lösung ausblenden' : 'Lösung anzeigen'}
+            </button>
+            <button
+              onClick={finishEarly}
+              className="rounded-lg bg-zinc-800 px-4 py-2 text-sm text-zinc-300 transition-all duration-200 hover:scale-[1.03] hover:bg-zinc-700 active:scale-95"
+            >
+              Fertig → nächster Abschnitt
+            </button>
+          </div>
+        </div>
       )}
 
+      {/* Section-done step */}
       {step === 'section-done' && (
-        <div className="flex flex-col items-center gap-4 py-16">
+        <div className="flex animate-fade-in flex-col items-center gap-4 py-16">
           <p className="text-zinc-400">Zeit abgelaufen</p>
           <button
             onClick={advanceSection}
-            className="rounded-xl bg-emerald-600 px-8 py-3 text-lg font-semibold text-white hover:bg-emerald-500"
+            className="rounded-xl bg-emerald-600 px-8 py-3 text-lg font-semibold text-white transition-all duration-200 hover:scale-[1.05] hover:bg-emerald-500 active:scale-95"
           >
             Nächster Abschnitt
           </button>
