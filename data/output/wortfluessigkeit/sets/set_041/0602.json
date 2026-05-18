@@ -1,0 +1,15 @@
+{
+  "id": 602,
+  "set": 41,
+  "set_index": 2,
+  "answer": "E",
+  "answer_word": "KOMPASS",
+  "options": {
+    "A": "A",
+    "B": "M",
+    "C": "P",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "P A S M O K S"
+}

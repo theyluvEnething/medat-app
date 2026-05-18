@@ -1,0 +1,15 @@
+{
+  "id": 322,
+  "set": 22,
+  "set_index": 7,
+  "answer": "C",
+  "answer_word": "TUTORIUM",
+  "options": {
+    "A": "O",
+    "B": "U",
+    "C": "T",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T R T I O M U U"
+}

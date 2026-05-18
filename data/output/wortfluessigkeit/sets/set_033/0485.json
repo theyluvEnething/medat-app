@@ -1,0 +1,15 @@
+{
+  "id": 485,
+  "set": 33,
+  "set_index": 5,
+  "answer": "E",
+  "answer_word": "FLUGZEUG",
+  "options": {
+    "A": "U",
+    "B": "E",
+    "C": "G",
+    "D": "Z",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L U E U Z G F G"
+}

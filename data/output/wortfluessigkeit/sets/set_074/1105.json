@@ -1,0 +1,15 @@
+{
+  "id": 1105,
+  "set": 74,
+  "set_index": 10,
+  "answer": "B",
+  "answer_word": "ZAHLTAG",
+  "options": {
+    "A": "H",
+    "B": "Z",
+    "C": "L",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H G L A T A Z"
+}

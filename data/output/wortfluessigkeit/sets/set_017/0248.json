@@ -1,0 +1,15 @@
+{
+  "id": 248,
+  "set": 17,
+  "set_index": 8,
+  "answer": "A",
+  "answer_word": "GESCHENK",
+  "options": {
+    "A": "G",
+    "B": "H",
+    "C": "S",
+    "D": "C",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "K G H E C S E N"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 215,
+  "set": 15,
+  "set_index": 5,
+  "answer": "E",
+  "answer_word": "REKRUT",
+  "options": {
+    "A": "K",
+    "B": "E",
+    "C": "T",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E R R T U K"
+}

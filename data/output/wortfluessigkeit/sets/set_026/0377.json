@@ -1,0 +1,15 @@
+{
+  "id": 377,
+  "set": 26,
+  "set_index": 2,
+  "answer": "C",
+  "answer_word": "KULTUR",
+  "options": {
+    "A": "T",
+    "B": "U",
+    "C": "K",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U L R U T K"
+}

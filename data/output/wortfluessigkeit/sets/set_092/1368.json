@@ -1,0 +1,15 @@
+{
+  "id": 1368,
+  "set": 92,
+  "set_index": 3,
+  "answer": "A",
+  "answer_word": "GELDTASCHE",
+  "options": {
+    "A": "G",
+    "B": "C",
+    "C": "D",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E C G S D T L E A H"
+}

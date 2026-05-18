@@ -1,0 +1,15 @@
+{
+  "id": 166,
+  "set": 12,
+  "set_index": 1,
+  "answer": "D",
+  "answer_word": "DIAGNOSE",
+  "options": {
+    "A": "S",
+    "B": "N",
+    "C": "O",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S N I O D E G A"
+}

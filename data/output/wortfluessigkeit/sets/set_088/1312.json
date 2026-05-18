@@ -1,0 +1,15 @@
+{
+  "id": 1312,
+  "set": 88,
+  "set_index": 7,
+  "answer": "E",
+  "answer_word": "WESPENSTICH",
+  "options": {
+    "A": "C",
+    "B": "S",
+    "C": "P",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E C P E I T S N W S H"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1177,
+  "set": 79,
+  "set_index": 7,
+  "answer": "E",
+  "answer_word": "PRODUZENT",
+  "options": {
+    "A": "U",
+    "B": "D",
+    "C": "T",
+    "D": "Z",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U T O P R N D Z E"
+}

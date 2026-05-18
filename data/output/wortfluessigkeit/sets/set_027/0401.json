@@ -1,0 +1,15 @@
+{
+  "id": 401,
+  "set": 27,
+  "set_index": 11,
+  "answer": "A",
+  "answer_word": "PUMPWERK",
+  "options": {
+    "A": "P",
+    "B": "E",
+    "C": "M",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U P W P R K E M"
+}

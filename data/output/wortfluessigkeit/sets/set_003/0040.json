@@ -1,0 +1,15 @@
+{
+  "id": 40,
+  "set": 3,
+  "set_index": 10,
+  "answer": "D",
+  "answer_word": "DICHTE",
+  "options": {
+    "A": "E",
+    "B": "I",
+    "C": "C",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H T I D E C"
+}

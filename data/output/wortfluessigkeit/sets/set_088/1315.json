@@ -1,0 +1,15 @@
+{
+  "id": 1315,
+  "set": 88,
+  "set_index": 10,
+  "answer": "C",
+  "answer_word": "REZIPIENT",
+  "options": {
+    "A": "P",
+    "B": "Z",
+    "C": "R",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R I N E T E I Z P"
+}

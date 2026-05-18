@@ -1,0 +1,15 @@
+{
+  "id": 710,
+  "set": 48,
+  "set_index": 5,
+  "answer": "E",
+  "answer_word": "STRANDBAR",
+  "options": {
+    "A": "T",
+    "B": "A",
+    "C": "R",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R D R T A S A N B"
+}

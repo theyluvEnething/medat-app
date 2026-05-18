@@ -1,0 +1,15 @@
+{
+  "id": 32,
+  "set": 3,
+  "set_index": 2,
+  "answer": "B",
+  "answer_word": "WAGGON",
+  "options": {
+    "A": "G",
+    "B": "W",
+    "C": "N",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O G W N A G"
+}

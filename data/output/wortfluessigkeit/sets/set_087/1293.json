@@ -1,0 +1,15 @@
+{
+  "id": 1293,
+  "set": 87,
+  "set_index": 3,
+  "answer": "E",
+  "answer_word": "LEBKUCHEN",
+  "options": {
+    "A": "U",
+    "B": "B",
+    "C": "K",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C K H N E U E L B"
+}

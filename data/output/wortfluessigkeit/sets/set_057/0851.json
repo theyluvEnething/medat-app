@@ -1,0 +1,15 @@
+{
+  "id": 851,
+  "set": 57,
+  "set_index": 11,
+  "answer": "E",
+  "answer_word": "BESCHWERDE",
+  "options": {
+    "A": "S",
+    "B": "R",
+    "C": "C",
+    "D": "W",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S B D E H E C R E W"
+}

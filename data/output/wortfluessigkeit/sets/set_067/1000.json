@@ -1,0 +1,15 @@
+{
+  "id": 1000,
+  "set": 67,
+  "set_index": 10,
+  "answer": "A",
+  "answer_word": "LEUCHTTURM",
+  "options": {
+    "A": "L",
+    "B": "C",
+    "C": "H",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U T T U R C H M E L"
+}

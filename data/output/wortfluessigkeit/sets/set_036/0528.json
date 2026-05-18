@@ -1,0 +1,15 @@
+{
+  "id": 528,
+  "set": 36,
+  "set_index": 3,
+  "answer": "C",
+  "answer_word": "TRAGWEITE",
+  "options": {
+    "A": "G",
+    "B": "R",
+    "C": "T",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "G E R T T W A E I"
+}

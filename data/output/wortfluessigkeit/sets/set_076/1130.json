@@ -1,0 +1,15 @@
+{
+  "id": 1130,
+  "set": 76,
+  "set_index": 5,
+  "answer": "C",
+  "answer_word": "GLEICHHEIT",
+  "options": {
+    "A": "E",
+    "B": "L",
+    "C": "G",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I C E T H G L E H I"
+}

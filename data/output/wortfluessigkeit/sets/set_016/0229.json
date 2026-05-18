@@ -1,0 +1,15 @@
+{
+  "id": 229,
+  "set": 16,
+  "set_index": 4,
+  "answer": "E",
+  "answer_word": "ZUKUNFT",
+  "options": {
+    "A": "F",
+    "B": "N",
+    "C": "U",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "F Z U T U N K"
+}

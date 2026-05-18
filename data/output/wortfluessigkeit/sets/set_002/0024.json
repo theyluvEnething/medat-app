@@ -1,0 +1,15 @@
+{
+  "id": 24,
+  "set": 2,
+  "set_index": 9,
+  "answer": "A",
+  "answer_word": "BUDDHA",
+  "options": {
+    "A": "B",
+    "B": "D",
+    "C": "U",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "D U D A B H"
+}

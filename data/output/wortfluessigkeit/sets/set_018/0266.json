@@ -1,0 +1,15 @@
+{
+  "id": 266,
+  "set": 18,
+  "set_index": 11,
+  "answer": "E",
+  "answer_word": "TRUGSCHLUSS",
+  "options": {
+    "A": "S",
+    "B": "G",
+    "C": "R",
+    "D": "C",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H R S L S U G T U C S"
+}

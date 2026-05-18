@@ -1,0 +1,15 @@
+{
+  "id": 460,
+  "set": 31,
+  "set_index": 10,
+  "answer": "C",
+  "answer_word": "KURHAUS",
+  "options": {
+    "A": "R",
+    "B": "A",
+    "C": "K",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H R K U S U A"
+}

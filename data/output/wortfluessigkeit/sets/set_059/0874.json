@@ -1,0 +1,15 @@
+{
+  "id": 874,
+  "set": 59,
+  "set_index": 4,
+  "answer": "E",
+  "answer_word": "UNTERSUCHUNG",
+  "options": {
+    "A": "R",
+    "B": "S",
+    "C": "H",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S C E N U T R U U H G N"
+}

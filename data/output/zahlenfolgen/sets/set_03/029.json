@@ -1,0 +1,16 @@
+{
+  "id": 29,
+  "set": 3,
+  "set_index": 9,
+  "answer": "D",
+  "answer_value": "185/234",
+  "explanation": "+0²,+1²,+2²,+3²,...",
+  "sequence": "94 94 95 99 108 124 149 ? ?",
+  "options": {
+    "A": "223/170",
+    "B": "185/238",
+    "C": "170/223",
+    "D": "185/234",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

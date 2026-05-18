@@ -1,0 +1,15 @@
+{
+  "id": 1142,
+  "set": 77,
+  "set_index": 2,
+  "answer": "E",
+  "answer_word": "EXEKUTION",
+  "options": {
+    "A": "T",
+    "B": "N",
+    "C": "I",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "X O K U N E T E I"
+}

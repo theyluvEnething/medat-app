@@ -1,0 +1,15 @@
+{
+  "id": 533,
+  "set": 36,
+  "set_index": 8,
+  "answer": "B",
+  "answer_word": "WARTESCHLANGE",
+  "options": {
+    "A": "H",
+    "B": "W",
+    "C": "S",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S E N C L G E A H A R T W"
+}

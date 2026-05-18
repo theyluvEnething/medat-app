@@ -1,0 +1,15 @@
+{
+  "id": 1273,
+  "set": 85,
+  "set_index": 13,
+  "answer": "C",
+  "answer_word": "PAARBILDUNG",
+  "options": {
+    "A": "D",
+    "B": "R",
+    "C": "P",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L P R G A N D U I A B"
+}

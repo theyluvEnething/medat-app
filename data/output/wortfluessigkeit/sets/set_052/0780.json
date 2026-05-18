@@ -1,0 +1,15 @@
+{
+  "id": 780,
+  "set": 52,
+  "set_index": 15,
+  "answer": "C",
+  "answer_word": "WASSERBAD",
+  "options": {
+    "A": "E",
+    "B": "D",
+    "C": "W",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A S R D W A E B S"
+}

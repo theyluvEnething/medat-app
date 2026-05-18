@@ -1,0 +1,15 @@
+{
+  "id": 48,
+  "set": 4,
+  "set_index": 3,
+  "answer": "B",
+  "answer_word": "BLICK",
+  "options": {
+    "A": "I",
+    "B": "B",
+    "C": "L",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "B I K C L"
+}

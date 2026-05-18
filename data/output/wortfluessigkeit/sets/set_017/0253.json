@@ -1,0 +1,15 @@
+{
+  "id": 253,
+  "set": 17,
+  "set_index": 13,
+  "answer": "A",
+  "answer_word": "LANDWEG",
+  "options": {
+    "A": "L",
+    "B": "D",
+    "C": "W",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "D N E W A G L"
+}

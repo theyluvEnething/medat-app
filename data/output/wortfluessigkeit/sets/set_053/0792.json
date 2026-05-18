@@ -1,0 +1,15 @@
+{
+  "id": 792,
+  "set": 53,
+  "set_index": 12,
+  "answer": "B",
+  "answer_word": "FARBSTOFF",
+  "options": {
+    "A": "T",
+    "B": "F",
+    "C": "R",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S R F B T O F F A"
+}

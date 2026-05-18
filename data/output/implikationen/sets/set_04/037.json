@@ -1,0 +1,17 @@
+{
+  "id": 37,
+  "set": 4,
+  "set_index": 7,
+  "answer": "C",
+  "premises": [
+    "AlleEidechsensindKrokodile.",
+    "AlleEidechsensindReptilien."
+  ],
+  "conclusions": {
+    "A": "AlleKrokodilesindReptilien.",
+    "B": "AlleKrokodilesindkeineReptilien.",
+    "C": "EinigeKrokodilesindReptilien.",
+    "D": "EinigeKrokodilesindkeineReptilien.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

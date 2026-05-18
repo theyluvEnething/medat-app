@@ -1,0 +1,15 @@
+{
+  "id": 1376,
+  "set": 92,
+  "set_index": 11,
+  "answer": "B",
+  "answer_word": "KRANKENBETT",
+  "options": {
+    "A": "A",
+    "B": "K",
+    "C": "E",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R T E K A T E B N N K"
+}

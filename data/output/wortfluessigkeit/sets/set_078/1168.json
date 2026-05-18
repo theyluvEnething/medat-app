@@ -1,0 +1,15 @@
+{
+  "id": 1168,
+  "set": 78,
+  "set_index": 13,
+  "answer": "B",
+  "answer_word": "NEUGIERDE",
+  "options": {
+    "A": "E",
+    "B": "N",
+    "C": "R",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E E U E D R G I N"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 943,
+  "set": 63,
+  "set_index": 13,
+  "answer": "B",
+  "answer_word": "MITTELSMANN",
+  "options": {
+    "A": "I",
+    "B": "M",
+    "C": "T",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "M N T T A I E N S M L"
+}

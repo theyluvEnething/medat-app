@@ -1,0 +1,15 @@
+{
+  "id": 621,
+  "set": 42,
+  "set_index": 6,
+  "answer": "D",
+  "answer_word": "ELEGANZ",
+  "options": {
+    "A": "Z",
+    "B": "N",
+    "C": "G",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E N G A Z L E"
+}

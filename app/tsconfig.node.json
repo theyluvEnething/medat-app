@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "exactOptionalPropertyTypes": false,
+    "noUncheckedIndexedAccess": true,
+    "noImplicitOverride": true,
+    "verbatimModuleSyntax": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "target": "esnext",
+    "lib": ["esnext"],
+    "composite": true,
+    "skipLibCheck": true,
+    "noEmit": false,
+    "outDir": "./out/main",
+    "rootDir": "./src/main"
+  },
+  "include": ["src/main/**/*.ts", "src/preload/**/*.d.ts"]
+}

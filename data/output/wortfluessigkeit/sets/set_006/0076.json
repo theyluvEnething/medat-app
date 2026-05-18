@@ -1,0 +1,15 @@
+{
+  "id": 76,
+  "set": 6,
+  "set_index": 1,
+  "answer": "B",
+  "answer_word": "ZUSAGE",
+  "options": {
+    "A": "S",
+    "B": "Z",
+    "C": "E",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S G U A E Z"
+}

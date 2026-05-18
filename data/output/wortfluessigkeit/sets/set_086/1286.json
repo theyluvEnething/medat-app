@@ -1,0 +1,15 @@
+{
+  "id": 1286,
+  "set": 86,
+  "set_index": 11,
+  "answer": "C",
+  "answer_word": "RUNDSCHAU",
+  "options": {
+    "A": "H",
+    "B": "S",
+    "C": "R",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N R H D A U S C U"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 304,
+  "set": 21,
+  "set_index": 4,
+  "answer": "B",
+  "answer_word": "HINDU",
+  "options": {
+    "A": "D",
+    "B": "H",
+    "C": "I",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N D H I U"
+}

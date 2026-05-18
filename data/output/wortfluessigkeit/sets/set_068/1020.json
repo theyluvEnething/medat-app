@@ -1,0 +1,15 @@
+{
+  "id": 1020,
+  "set": 68,
+  "set_index": 15,
+  "answer": "E",
+  "answer_word": "EPISODE",
+  "options": {
+    "A": "P",
+    "B": "I",
+    "C": "D",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I S P E E D O"
+}

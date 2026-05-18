@@ -1,0 +1,15 @@
+{
+  "id": 648,
+  "set": 44,
+  "set_index": 3,
+  "answer": "A",
+  "answer_word": "BILDGEBUNG",
+  "options": {
+    "A": "B",
+    "B": "L",
+    "C": "G",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U I D G L N G E B B"
+}

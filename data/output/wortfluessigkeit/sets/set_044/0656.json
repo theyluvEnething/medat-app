@@ -1,0 +1,15 @@
+{
+  "id": 656,
+  "set": 44,
+  "set_index": 11,
+  "answer": "C",
+  "answer_word": "PARKUHR",
+  "options": {
+    "A": "A",
+    "B": "H",
+    "C": "P",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "P R A H U K R"
+}

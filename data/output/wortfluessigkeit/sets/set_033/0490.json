@@ -1,0 +1,15 @@
+{
+  "id": 490,
+  "set": 33,
+  "set_index": 10,
+  "answer": "B",
+  "answer_word": "ABSPRUNG",
+  "options": {
+    "A": "G",
+    "B": "A",
+    "C": "B",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "G P S A R N B U"
+}

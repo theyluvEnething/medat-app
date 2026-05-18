@@ -1,0 +1,15 @@
+{
+  "id": 522,
+  "set": 35,
+  "set_index": 12,
+  "answer": "A",
+  "answer_word": "COURAGE",
+  "options": {
+    "A": "C",
+    "B": "R",
+    "C": "G",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O C U G E A R"
+}

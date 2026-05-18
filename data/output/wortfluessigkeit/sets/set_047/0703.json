@@ -1,0 +1,15 @@
+{
+  "id": 703,
+  "set": 47,
+  "set_index": 13,
+  "answer": "A",
+  "answer_word": "BACKFORM",
+  "options": {
+    "A": "B",
+    "B": "A",
+    "C": "K",
+    "D": "M",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "K F A B O C M R"
+}

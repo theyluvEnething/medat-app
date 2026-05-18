@@ -1,0 +1,16 @@
+{
+  "id": 31,
+  "set": 4,
+  "set_index": 1,
+  "answer": "D",
+  "answer_value": "12/-96",
+  "explanation": "3er-Sprung:×6,-6,×6,-6,...",
+  "sequence": "46 8 -15 276 2 -90 270 ? ?",
+  "options": {
+    "A": "24/-88",
+    "B": "-88/24",
+    "C": "24/-89",
+    "D": "12/-96",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

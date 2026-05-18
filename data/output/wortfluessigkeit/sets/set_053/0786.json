@@ -1,0 +1,15 @@
+{
+  "id": 786,
+  "set": 53,
+  "set_index": 6,
+  "answer": "B",
+  "answer_word": "ARZTTERMIN",
+  "options": {
+    "A": "E",
+    "B": "A",
+    "C": "M",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N A R T T Z R E M I"
+}

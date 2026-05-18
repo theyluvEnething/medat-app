@@ -1,0 +1,15 @@
+{
+  "id": 197,
+  "set": 14,
+  "set_index": 2,
+  "answer": "B",
+  "answer_word": "MOTORRAD",
+  "options": {
+    "A": "O",
+    "B": "M",
+    "C": "D",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T R D O M A R O"
+}

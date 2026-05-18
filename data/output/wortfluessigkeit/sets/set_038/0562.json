@@ -1,0 +1,15 @@
+{
+  "id": 562,
+  "set": 38,
+  "set_index": 7,
+  "answer": "E",
+  "answer_word": "ZAHNFEE",
+  "options": {
+    "A": "H",
+    "B": "N",
+    "C": "A",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A E N Z F H E"
+}

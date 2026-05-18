@@ -1,0 +1,21 @@
+[project]
+name = "medat-parser"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "pydantic>=2.10",
+    "pdfplumber>=0.11",
+    "pillow>=11.0",
+]
+
+[project.scripts]
+medat-parse = "medat_parser.pdf_parser:main"
+
+[tool.ruff]
+target-version = "py313"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "UP", "B", "SIM"]
+
+[tool.ty.rules]
+untyped = "error"

@@ -1,0 +1,15 @@
+{
+  "id": 216,
+  "set": 15,
+  "set_index": 6,
+  "answer": "A",
+  "answer_word": "HALBTON",
+  "options": {
+    "A": "H",
+    "B": "N",
+    "C": "T",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L A O H B N T"
+}

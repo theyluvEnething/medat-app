@@ -1,0 +1,15 @@
+{
+  "id": 652,
+  "set": 44,
+  "set_index": 7,
+  "answer": "A",
+  "answer_word": "STAUDAMM",
+  "options": {
+    "A": "S",
+    "B": "D",
+    "C": "T",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U A T A M S D M"
+}

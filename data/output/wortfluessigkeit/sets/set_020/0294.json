@@ -1,0 +1,15 @@
+{
+  "id": 294,
+  "set": 20,
+  "set_index": 9,
+  "answer": "E",
+  "answer_word": "COWBOY",
+  "options": {
+    "A": "W",
+    "B": "O",
+    "C": "B",
+    "D": "Y",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "B O C O W Y"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 59,
+  "set": 4,
+  "set_index": 14,
+  "answer": "B",
+  "answer_word": "WARZE",
+  "options": {
+    "A": "Z",
+    "B": "W",
+    "C": "R",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E A Z W R"
+}

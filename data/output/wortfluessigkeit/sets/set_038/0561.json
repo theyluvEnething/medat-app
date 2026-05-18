@@ -1,0 +1,15 @@
+{
+  "id": 561,
+  "set": 38,
+  "set_index": 6,
+  "answer": "C",
+  "answer_word": "SKILIFT",
+  "options": {
+    "A": "T",
+    "B": "K",
+    "C": "S",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T F I K S I L"
+}

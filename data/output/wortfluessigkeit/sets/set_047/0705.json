@@ -1,0 +1,15 @@
+{
+  "id": 705,
+  "set": 47,
+  "set_index": 15,
+  "answer": "C",
+  "answer_word": "SACHERTORTE",
+  "options": {
+    "A": "T",
+    "B": "H",
+    "C": "S",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E T A T S R C O E H R"
+}

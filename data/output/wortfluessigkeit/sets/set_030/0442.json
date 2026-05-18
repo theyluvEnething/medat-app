@@ -1,0 +1,15 @@
+{
+  "id": 442,
+  "set": 30,
+  "set_index": 7,
+  "answer": "A",
+  "answer_word": "FRAKTION",
+  "options": {
+    "A": "F",
+    "B": "T",
+    "C": "A",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "F R T K O I A N"
+}

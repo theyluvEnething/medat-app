@@ -1,0 +1,15 @@
+{
+  "id": 759,
+  "set": 51,
+  "set_index": 9,
+  "answer": "E",
+  "answer_word": "BUTTERBROT",
+  "options": {
+    "A": "T",
+    "B": "R",
+    "C": "E",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T O E U R T T B R B"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 618,
+  "set": 42,
+  "set_index": 3,
+  "answer": "D",
+  "answer_word": "SZENARIO",
+  "options": {
+    "A": "O",
+    "B": "Z",
+    "C": "E",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R Z I A O N E S"
+}

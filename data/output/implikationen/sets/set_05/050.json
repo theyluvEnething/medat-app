@@ -1,0 +1,17 @@
+{
+  "id": 50,
+  "set": 5,
+  "set_index": 10,
+  "answer": "B",
+  "premises": [
+    "AlleDTSsindkeineCS.",
+    "AlleZPsindDTS."
+  ],
+  "conclusions": {
+    "A": "AlleZPsindCS.",
+    "B": "AlleZPsindkeineCS.",
+    "C": "EinigeZPsindCS.",
+    "D": "EinigeZPsindkeineCS.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

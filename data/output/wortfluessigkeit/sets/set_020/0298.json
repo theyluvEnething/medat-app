@@ -1,0 +1,15 @@
+{
+  "id": 298,
+  "set": 20,
+  "set_index": 13,
+  "answer": "A",
+  "answer_word": "UMWEG",
+  "options": {
+    "A": "U",
+    "B": "W",
+    "C": "M",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E U M W G"
+}

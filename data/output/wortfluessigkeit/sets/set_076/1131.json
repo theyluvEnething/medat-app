@@ -1,0 +1,15 @@
+{
+  "id": 1131,
+  "set": 76,
+  "set_index": 6,
+  "answer": "E",
+  "answer_word": "WARTELISTE",
+  "options": {
+    "A": "A",
+    "B": "S",
+    "C": "L",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "W S T E T I R L A E"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1264,
+  "set": 85,
+  "set_index": 4,
+  "answer": "C",
+  "answer_word": "UROLOGE",
+  "options": {
+    "A": "O",
+    "B": "G",
+    "C": "U",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O E O G U L R"
+}

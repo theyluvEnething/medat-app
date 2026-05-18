@@ -1,0 +1,15 @@
+{
+  "id": 688,
+  "set": 46,
+  "set_index": 13,
+  "answer": "A",
+  "answer_word": "PAPIER",
+  "options": {
+    "A": "P",
+    "B": "R",
+    "C": "A",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E P R A P I"
+}

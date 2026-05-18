@@ -1,0 +1,15 @@
+{
+  "id": 1159,
+  "set": 78,
+  "set_index": 4,
+  "answer": "D",
+  "answer_word": "SCHOCKSTARRE",
+  "options": {
+    "A": "E",
+    "B": "A",
+    "C": "K",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H O R S R T E S C A C K"
+}

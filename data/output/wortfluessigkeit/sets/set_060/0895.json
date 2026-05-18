@@ -1,0 +1,15 @@
+{
+  "id": 895,
+  "set": 60,
+  "set_index": 10,
+  "answer": "E",
+  "answer_word": "SPRACHROHR",
+  "options": {
+    "A": "H",
+    "B": "R",
+    "C": "C",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A R S R C H P R H O"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 865,
+  "set": 58,
+  "set_index": 10,
+  "answer": "A",
+  "answer_word": "GLUKOSE",
+  "options": {
+    "A": "G",
+    "B": "L",
+    "C": "O",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "K O S E L G U"
+}

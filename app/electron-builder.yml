@@ -1,0 +1,12 @@
+appId: com.medat.trainer
+productName: MedAT Trainer
+directories:
+  output: dist
+win:
+  target: nsis
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+files:
+  - out/**/*
+  - "!**/*.map"

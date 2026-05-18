@@ -1,0 +1,15 @@
+{
+  "id": 267,
+  "set": 18,
+  "set_index": 12,
+  "answer": "A",
+  "answer_word": "NACHBARSCHAFT",
+  "options": {
+    "A": "N",
+    "B": "T",
+    "C": "C",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R S H A A H F C N C T A B"
+}

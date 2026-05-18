@@ -1,0 +1,15 @@
+{
+  "id": 1119,
+  "set": 75,
+  "set_index": 9,
+  "answer": "A",
+  "answer_word": "KOHLENSTOFF",
+  "options": {
+    "A": "K",
+    "B": "S",
+    "C": "E",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "K H F S N L F E O O T"
+}

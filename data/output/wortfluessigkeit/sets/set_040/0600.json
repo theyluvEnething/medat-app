@@ -1,0 +1,15 @@
+{
+  "id": 600,
+  "set": 40,
+  "set_index": 15,
+  "answer": "C",
+  "answer_word": "WAHLTAG",
+  "options": {
+    "A": "H",
+    "B": "A",
+    "C": "W",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A H G L T W A"
+}

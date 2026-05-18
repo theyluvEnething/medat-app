@@ -1,0 +1,15 @@
+{
+  "id": 149,
+  "set": 10,
+  "set_index": 14,
+  "answer": "C",
+  "answer_word": "MAGEN",
+  "options": {
+    "A": "A",
+    "B": "G",
+    "C": "M",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "G E N M A"
+}

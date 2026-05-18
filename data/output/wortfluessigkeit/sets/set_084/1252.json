@@ -1,0 +1,15 @@
+{
+  "id": 1252,
+  "set": 84,
+  "set_index": 7,
+  "answer": "C",
+  "answer_word": "KUNDSCHAFTER",
+  "options": {
+    "A": "D",
+    "B": "N",
+    "C": "K",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S T N K A H F D C R U E"
+}

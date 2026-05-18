@@ -1,0 +1,15 @@
+{
+  "id": 444,
+  "set": 30,
+  "set_index": 9,
+  "answer": "D",
+  "answer_word": "HUMMEL",
+  "options": {
+    "A": "U",
+    "B": "L",
+    "C": "M",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "M E M U L H"
+}

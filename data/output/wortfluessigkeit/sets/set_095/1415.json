@@ -1,0 +1,15 @@
+{
+  "id": 1415,
+  "set": 95,
+  "set_index": 5,
+  "answer": "D",
+  "answer_word": "GEBURTSHILFE",
+  "options": {
+    "A": "E",
+    "B": "T",
+    "C": "S",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U E T I H S L B G E R F"
+}

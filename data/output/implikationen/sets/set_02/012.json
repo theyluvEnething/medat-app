@@ -1,0 +1,17 @@
+{
+  "id": 12,
+  "set": 2,
+  "set_index": 2,
+  "answer": "C",
+  "premises": [
+    "EinigeVGFsindFNC.",
+    "AlleFNCsindCCN."
+  ],
+  "conclusions": {
+    "A": "AlleCCNsindVGF.",
+    "B": "AlleCCNsindkeineVGF.",
+    "C": "EinigeCCNsindVGF.",
+    "D": "EinigeCCNsindkeineVGF.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

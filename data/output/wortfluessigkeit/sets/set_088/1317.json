@@ -1,0 +1,15 @@
+{
+  "id": 1317,
+  "set": 88,
+  "set_index": 12,
+  "answer": "A",
+  "answer_word": "OHNMACHT",
+  "options": {
+    "A": "O",
+    "B": "N",
+    "C": "A",
+    "D": "M",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N M H T A H O C"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 384,
+  "set": 26,
+  "set_index": 9,
+  "answer": "E",
+  "answer_word": "AZTEKE",
+  "options": {
+    "A": "Z",
+    "B": "T",
+    "C": "K",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "Z E K A T E"
+}

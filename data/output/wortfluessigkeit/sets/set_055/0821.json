@@ -1,0 +1,15 @@
+{
+  "id": 821,
+  "set": 55,
+  "set_index": 11,
+  "answer": "B",
+  "answer_word": "EVAKUIERUNG",
+  "options": {
+    "A": "U",
+    "B": "E",
+    "C": "N",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A G N V E U K E U R I"
+}

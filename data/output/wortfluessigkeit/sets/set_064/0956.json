@@ -1,0 +1,15 @@
+{
+  "id": 956,
+  "set": 64,
+  "set_index": 11,
+  "answer": "A",
+  "answer_word": "HAARBAND",
+  "options": {
+    "A": "H",
+    "B": "B",
+    "C": "D",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R B H A N A A D"
+}

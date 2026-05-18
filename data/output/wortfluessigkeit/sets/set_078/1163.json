@@ -1,0 +1,15 @@
+{
+  "id": 1163,
+  "set": 78,
+  "set_index": 8,
+  "answer": "A",
+  "answer_word": "VERBRECHEN",
+  "options": {
+    "A": "V",
+    "B": "N",
+    "C": "R",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E E B V N R C R E H"
+}

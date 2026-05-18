@@ -1,0 +1,17 @@
+{
+  "id": 61,
+  "set": 7,
+  "set_index": 1,
+  "answer": "E",
+  "premises": [
+    "EinigeWalnüssesindkeinePfirsiche.",
+    "AlleKastaniensindkeineWalnüsse."
+  ],
+  "conclusions": {
+    "A": "AllePfirsichesindKastanien.",
+    "B": "AllePfirsichesindkeineKastanien.",
+    "C": "EinigePfirsichesindKastanien.",
+    "D": "EinigePfirsichesindkeineKastanien.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 812,
+  "set": 55,
+  "set_index": 2,
+  "answer": "A",
+  "answer_word": "NICHTE",
+  "options": {
+    "A": "N",
+    "B": "I",
+    "C": "C",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T N H E C I"
+}

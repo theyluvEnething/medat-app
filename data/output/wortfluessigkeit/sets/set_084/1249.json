@@ -1,0 +1,15 @@
+{
+  "id": 1249,
+  "set": 84,
+  "set_index": 4,
+  "answer": "E",
+  "answer_word": "AUSSCHLUSS",
+  "options": {
+    "A": "U",
+    "B": "L",
+    "C": "H",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S A H C L S S S U U"
+}

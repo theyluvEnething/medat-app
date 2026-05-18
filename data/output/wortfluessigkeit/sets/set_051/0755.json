@@ -1,0 +1,15 @@
+{
+  "id": 755,
+  "set": 51,
+  "set_index": 5,
+  "answer": "A",
+  "answer_word": "VIDEOTEXT",
+  "options": {
+    "A": "V",
+    "B": "E",
+    "C": "T",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "X V O E E T T D I"
+}

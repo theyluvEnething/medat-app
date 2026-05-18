@@ -1,0 +1,15 @@
+{
+  "id": 798,
+  "set": 54,
+  "set_index": 3,
+  "answer": "E",
+  "answer_word": "WAHLALTER",
+  "options": {
+    "A": "A",
+    "B": "L",
+    "C": "T",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E A W L H T A L R"
+}

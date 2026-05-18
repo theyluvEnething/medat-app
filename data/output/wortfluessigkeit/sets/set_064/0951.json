@@ -1,0 +1,15 @@
+{
+  "id": 951,
+  "set": 64,
+  "set_index": 6,
+  "answer": "C",
+  "answer_word": "EINLADUNG",
+  "options": {
+    "A": "U",
+    "B": "D",
+    "C": "E",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A I N N U E G L D"
+}

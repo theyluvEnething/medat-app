@@ -1,0 +1,15 @@
+{
+  "id": 280,
+  "set": 19,
+  "set_index": 10,
+  "answer": "C",
+  "answer_word": "KERAMIK",
+  "options": {
+    "A": "M",
+    "B": "A",
+    "C": "K",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "M A R I E K K"
+}

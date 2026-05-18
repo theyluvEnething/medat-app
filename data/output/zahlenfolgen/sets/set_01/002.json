@@ -1,0 +1,16 @@
+{
+  "id": 2,
+  "set": 1,
+  "set_index": 2,
+  "answer": "C",
+  "answer_value": "607/1189",
+  "explanation": "1er-Sprung:+6,+(6+9),+(6+9×2),+(6+9×4),+(6+9×8)...",
+  "sequence": "-2 4 19 43 85 163 313 ? ?",
+  "options": {
+    "A": "1204/619",
+    "B": "618/1204",
+    "C": "607/1189",
+    "D": "607/1203",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

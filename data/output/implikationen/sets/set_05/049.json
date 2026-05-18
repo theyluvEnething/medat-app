@@ -1,0 +1,17 @@
+{
+  "id": 49,
+  "set": 5,
+  "set_index": 9,
+  "answer": "C",
+  "premises": [
+    "AlleAllergiensindGräser.",
+    "AlleAllergiensindErdnüsse."
+  ],
+  "conclusions": {
+    "A": "AlleGräsersindErdnüsse.",
+    "B": "AlleGräsersindkeineErdnüsse.",
+    "C": "EinigeGräsersindErdnüsse.",
+    "D": "EinigeGräsersindkeineErdnüsse.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

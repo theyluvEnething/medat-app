@@ -1,0 +1,15 @@
+{
+  "id": 257,
+  "set": 18,
+  "set_index": 2,
+  "answer": "A",
+  "answer_word": "AUFGUSS",
+  "options": {
+    "A": "A",
+    "B": "G",
+    "C": "S",
+    "D": "F",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U U F S A G S"
+}

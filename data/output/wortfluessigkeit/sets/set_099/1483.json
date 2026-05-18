@@ -1,0 +1,15 @@
+{
+  "id": 1483,
+  "set": 99,
+  "set_index": 13,
+  "answer": "E",
+  "answer_word": "RASTSTATION",
+  "options": {
+    "A": "I",
+    "B": "S",
+    "C": "N",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S T N T O I S A T R A"
+}

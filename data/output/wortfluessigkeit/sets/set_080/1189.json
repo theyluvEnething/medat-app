@@ -1,0 +1,15 @@
+{
+  "id": 1189,
+  "set": 80,
+  "set_index": 4,
+  "answer": "D",
+  "answer_word": "MODESCHAU",
+  "options": {
+    "A": "S",
+    "B": "U",
+    "C": "D",
+    "D": "M",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E S H C D U A O M"
+}

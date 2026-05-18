@@ -1,0 +1,16 @@
+{
+  "id": 68,
+  "set": 7,
+  "set_index": 8,
+  "answer": "E",
+  "answer_value": "455/1365",
+  "explanation": "1erSprungmit2Systemen:[-1]und[×6,×5,×4,...]",
+  "sequence": "5 4 24 23 115 114 456 ? ?",
+  "options": {
+    "A": "464/1367",
+    "B": "456/1358",
+    "C": "1358/456",
+    "D": "455/1362",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1001,
+  "set": 67,
+  "set_index": 11,
+  "answer": "C",
+  "answer_word": "ZWEISAMKEIT",
+  "options": {
+    "A": "A",
+    "B": "W",
+    "C": "Z",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "Z K E S E I T A W I M"
+}

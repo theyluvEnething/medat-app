@@ -1,0 +1,15 @@
+{
+  "id": 817,
+  "set": 55,
+  "set_index": 7,
+  "answer": "C",
+  "answer_word": "ZENTRALE",
+  "options": {
+    "A": "L",
+    "B": "R",
+    "C": "Z",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E A R T Z N L E"
+}

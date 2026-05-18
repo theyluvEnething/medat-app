@@ -1,0 +1,15 @@
+{
+  "id": 826,
+  "set": 56,
+  "set_index": 1,
+  "answer": "E",
+  "answer_word": "BESITZUNG",
+  "options": {
+    "A": "I",
+    "B": "Z",
+    "C": "N",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N S U G I E B T Z"
+}

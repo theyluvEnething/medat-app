@@ -1,0 +1,15 @@
+{
+  "id": 1101,
+  "set": 74,
+  "set_index": 6,
+  "answer": "B",
+  "answer_word": "WUNDVERSORGUNG",
+  "options": {
+    "A": "V",
+    "B": "W",
+    "C": "U",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "W N E S V G U R D R U O N"
+}

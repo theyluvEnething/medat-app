@@ -1,0 +1,15 @@
+{
+  "id": 1441,
+  "set": 97,
+  "set_index": 1,
+  "answer": "D",
+  "answer_word": "SCHMERZGRENZE",
+  "options": {
+    "A": "R",
+    "B": "G",
+    "C": "Z",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R E M E R Z N S H G C E Z"
+}

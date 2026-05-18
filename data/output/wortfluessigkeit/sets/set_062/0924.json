@@ -1,0 +1,15 @@
+{
+  "id": 924,
+  "set": 62,
+  "set_index": 9,
+  "answer": "E",
+  "answer_word": "HOCHOFEN",
+  "options": {
+    "A": "E",
+    "B": "N",
+    "C": "C",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N H H F O E O C"
+}

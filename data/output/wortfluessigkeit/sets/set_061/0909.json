@@ -1,0 +1,15 @@
+{
+  "id": 909,
+  "set": 61,
+  "set_index": 9,
+  "answer": "A",
+  "answer_word": "REDEZEIT",
+  "options": {
+    "A": "R",
+    "B": "T",
+    "C": "Z",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E T I E E Z R D"
+}

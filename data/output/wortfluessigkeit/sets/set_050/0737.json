@@ -1,0 +1,15 @@
+{
+  "id": 737,
+  "set": 50,
+  "set_index": 2,
+  "answer": "D",
+  "answer_word": "ZEITKARTE",
+  "options": {
+    "A": "T",
+    "B": "K",
+    "C": "E",
+    "D": "Z",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E Z K E I R T A T"
+}

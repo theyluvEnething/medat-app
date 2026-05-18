@@ -1,0 +1,15 @@
+{
+  "id": 800,
+  "set": 54,
+  "set_index": 5,
+  "answer": "B",
+  "answer_word": "WIKINGER",
+  "options": {
+    "A": "K",
+    "B": "W",
+    "C": "E",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E I R G K W N I"
+}

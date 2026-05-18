@@ -1,0 +1,15 @@
+{
+  "id": 992,
+  "set": 67,
+  "set_index": 2,
+  "answer": "D",
+  "answer_word": "DROMEDAR",
+  "options": {
+    "A": "O",
+    "B": "R",
+    "C": "A",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A E M D R D R O"
+}

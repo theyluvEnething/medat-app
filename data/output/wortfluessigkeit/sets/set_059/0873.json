@@ -1,0 +1,15 @@
+{
+  "id": 873,
+  "set": 59,
+  "set_index": 3,
+  "answer": "C",
+  "answer_word": "PADDELBOOT",
+  "options": {
+    "A": "E",
+    "B": "A",
+    "C": "P",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E T P L D B O O D A"
+}

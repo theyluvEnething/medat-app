@@ -1,0 +1,15 @@
+{
+  "id": 125,
+  "set": 9,
+  "set_index": 5,
+  "answer": "A",
+  "answer_word": "GEFASEL",
+  "options": {
+    "A": "G",
+    "B": "A",
+    "C": "F",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E L G F S A E"
+}

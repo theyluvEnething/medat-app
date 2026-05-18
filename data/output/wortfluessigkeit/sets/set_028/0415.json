@@ -1,0 +1,15 @@
+{
+  "id": 415,
+  "set": 28,
+  "set_index": 10,
+  "answer": "A",
+  "answer_word": "PROZEDUR",
+  "options": {
+    "A": "P",
+    "B": "U",
+    "C": "D",
+    "D": "Z",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "P R R D E O U Z"
+}

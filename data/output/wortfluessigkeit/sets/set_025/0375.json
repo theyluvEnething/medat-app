@@ -1,0 +1,15 @@
+{
+  "id": 375,
+  "set": 25,
+  "set_index": 15,
+  "answer": "D",
+  "answer_word": "KAMMER",
+  "options": {
+    "A": "A",
+    "B": "E",
+    "C": "M",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A R E K M M"
+}

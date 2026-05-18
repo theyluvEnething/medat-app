@@ -1,0 +1,15 @@
+{
+  "id": 970,
+  "set": 65,
+  "set_index": 10,
+  "answer": "A",
+  "answer_word": "BILANZ",
+  "options": {
+    "A": "B",
+    "B": "I",
+    "C": "L",
+    "D": "Z",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L I Z N A B"
+}

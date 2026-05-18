@@ -1,0 +1,15 @@
+{
+  "id": 1112,
+  "set": 75,
+  "set_index": 2,
+  "answer": "E",
+  "answer_word": "ZAUBEREI",
+  "options": {
+    "A": "A",
+    "B": "I",
+    "C": "R",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E E R U B I A Z"
+}

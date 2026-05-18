@@ -1,0 +1,15 @@
+{
+  "id": 605,
+  "set": 41,
+  "set_index": 5,
+  "answer": "C",
+  "answer_word": "BENEHMEN",
+  "options": {
+    "A": "H",
+    "B": "M",
+    "C": "B",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E H B E M N N E"
+}

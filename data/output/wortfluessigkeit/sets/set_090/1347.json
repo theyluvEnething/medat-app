@@ -1,0 +1,15 @@
+{
+  "id": 1347,
+  "set": 90,
+  "set_index": 12,
+  "answer": "B",
+  "answer_word": "SCHALLPLATTE",
+  "options": {
+    "A": "E",
+    "B": "S",
+    "C": "H",
+    "D": "P",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S P C A H E L A L L T T"
+}

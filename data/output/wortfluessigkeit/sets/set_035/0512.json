@@ -1,0 +1,15 @@
+{
+  "id": 512,
+  "set": 35,
+  "set_index": 2,
+  "answer": "C",
+  "answer_word": "KONFIRMATION",
+  "options": {
+    "A": "N",
+    "B": "M",
+    "C": "K",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T M R N A O I K F O N I"
+}

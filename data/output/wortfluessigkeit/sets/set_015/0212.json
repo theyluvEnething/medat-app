@@ -1,0 +1,15 @@
+{
+  "id": 212,
+  "set": 15,
+  "set_index": 2,
+  "answer": "E",
+  "answer_word": "HOCHALTAR",
+  "options": {
+    "A": "C",
+    "B": "O",
+    "C": "L",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A O H A C H L T R"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "set": 1,
+  "set_index": 2,
+  "answer": "C",
+  "answer_word": "TESTUNG",
+  "options": {
+    "A": "U",
+    "B": "G",
+    "C": "T",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E S U T G N T"
+}

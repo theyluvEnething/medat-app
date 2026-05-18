@@ -1,0 +1,15 @@
+{
+  "id": 99,
+  "set": 7,
+  "set_index": 9,
+  "answer": "C",
+  "answer_word": "TEXTFELD",
+  "options": {
+    "A": "F",
+    "B": "E",
+    "C": "T",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "X E E T T F D L"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 709,
+  "set": 48,
+  "set_index": 4,
+  "answer": "A",
+  "answer_word": "ALLIANZ",
+  "options": {
+    "A": "A",
+    "B": "Z",
+    "C": "I",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L Z I N A A L"
+}

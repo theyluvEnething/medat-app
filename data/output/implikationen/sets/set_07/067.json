@@ -1,0 +1,17 @@
+{
+  "id": 67,
+  "set": 7,
+  "set_index": 7,
+  "answer": "B",
+  "premises": [
+    "AlleZitronensindKiwis.",
+    "AlleKiwissindkeineFrüchte."
+  ],
+  "conclusions": {
+    "A": "AlleFrüchtesindZitronen.",
+    "B": "AlleFrüchtesindkeineZitronen.",
+    "C": "EinigeFrüchtesindZitronen.",
+    "D": "EinigeFrüchtesindkeineZitronen.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

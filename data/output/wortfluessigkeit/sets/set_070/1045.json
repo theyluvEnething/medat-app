@@ -1,0 +1,15 @@
+{
+  "id": 1045,
+  "set": 70,
+  "set_index": 10,
+  "answer": "A",
+  "answer_word": "UNKLARHEIT",
+  "options": {
+    "A": "U",
+    "B": "L",
+    "C": "I",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R T I E N H A K L U"
+}

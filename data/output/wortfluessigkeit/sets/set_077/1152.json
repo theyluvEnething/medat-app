@@ -1,0 +1,15 @@
+{
+  "id": 1152,
+  "set": 77,
+  "set_index": 12,
+  "answer": "E",
+  "answer_word": "FORMATIERUNG",
+  "options": {
+    "A": "I",
+    "B": "U",
+    "C": "T",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R T F U A E R N M I G O"
+}

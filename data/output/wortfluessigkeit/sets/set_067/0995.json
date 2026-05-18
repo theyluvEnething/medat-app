@@ -1,0 +1,15 @@
+{
+  "id": 995,
+  "set": 67,
+  "set_index": 5,
+  "answer": "C",
+  "answer_word": "MANUFAKTUR",
+  "options": {
+    "A": "N",
+    "B": "U",
+    "C": "M",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A T U N F R K M A U"
+}

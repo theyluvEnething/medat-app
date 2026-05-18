@@ -1,0 +1,15 @@
+{
+  "id": 1481,
+  "set": 99,
+  "set_index": 11,
+  "answer": "E",
+  "answer_word": "ANGSTZUSTAND",
+  "options": {
+    "A": "Z",
+    "B": "G",
+    "C": "D",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N T D U N A T G Z A S S"
+}

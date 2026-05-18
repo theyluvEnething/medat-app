@@ -1,0 +1,16 @@
+{
+  "id": 9,
+  "set": 1,
+  "set_index": 9,
+  "answer": "C",
+  "answer_value": "667/984",
+  "explanation": "1er-Sprung:Summand+9steigtum+11,+22,+33,...",
+  "sequence": "-12 -3 17 59 134 253 427 ? ?",
+  "options": {
+    "A": "673/960",
+    "B": "664/996",
+    "C": "667/984",
+    "D": "994/673",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

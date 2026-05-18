@@ -1,0 +1,15 @@
+{
+  "id": 242,
+  "set": 17,
+  "set_index": 2,
+  "answer": "C",
+  "answer_word": "WITWER",
+  "options": {
+    "A": "I",
+    "B": "R",
+    "C": "W",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I W T R W E"
+}

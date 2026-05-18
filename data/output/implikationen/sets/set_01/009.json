@@ -1,0 +1,17 @@
+{
+  "id": 9,
+  "set": 1,
+  "set_index": 9,
+  "answer": "C",
+  "premises": [
+    "EinigePolizistensindPiloten.",
+    "AllePilotensindBusfahrer."
+  ],
+  "conclusions": {
+    "A": "AlleBusfahrersindPolizisten.",
+    "B": "AlleBusfahrersindkeinePolizisten.",
+    "C": "EinigeBusfahrersindPolizisten.",
+    "D": "EinigeBusfahrersindkeinePolizisten.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

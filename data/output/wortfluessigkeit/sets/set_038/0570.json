@@ -1,0 +1,15 @@
+{
+  "id": 570,
+  "set": 38,
+  "set_index": 15,
+  "answer": "A",
+  "answer_word": "OKTOPUS",
+  "options": {
+    "A": "O",
+    "B": "S",
+    "C": "U",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O K U T S O P"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 54,
+  "set": 4,
+  "set_index": 9,
+  "answer": "C",
+  "answer_word": "BEIFALL",
+  "options": {
+    "A": "I",
+    "B": "L",
+    "C": "B",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L L I F B E A"
+}

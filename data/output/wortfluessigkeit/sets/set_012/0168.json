@@ -1,0 +1,15 @@
+{
+  "id": 168,
+  "set": 12,
+  "set_index": 3,
+  "answer": "E",
+  "answer_word": "KARDIOLOGIE",
+  "options": {
+    "A": "L",
+    "B": "O",
+    "C": "R",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I I O K E D A O G R L"
+}

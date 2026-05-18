@@ -1,0 +1,15 @@
+{
+  "id": 560,
+  "set": 38,
+  "set_index": 5,
+  "answer": "C",
+  "answer_word": "LOTTOSCHEIN",
+  "options": {
+    "A": "O",
+    "B": "C",
+    "C": "L",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L O C H I T N E S O T"
+}

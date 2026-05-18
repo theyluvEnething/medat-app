@@ -1,0 +1,18 @@
+{
+  "id": 25,
+  "set": 3,
+  "set_index": 5,
+  "answer": "C",
+  "premises": [
+    "EinigeRucksäckesindTaschen.",
+    "AlleTaschensindBehälter.",
+    "4"
+  ],
+  "conclusions": {
+    "A": "AlleRucksäckesindBehälter.",
+    "B": "AlleRucksäckesindkeineBehälter.",
+    "C": "EinigeRucksäckesindBehälter.",
+    "D": "EinigeRucksäckesindkeineBehälter.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

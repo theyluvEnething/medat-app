@@ -1,0 +1,15 @@
+{
+  "id": 964,
+  "set": 65,
+  "set_index": 4,
+  "answer": "D",
+  "answer_word": "OBERARZT",
+  "options": {
+    "A": "Z",
+    "B": "B",
+    "C": "E",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A T E R R B Z O"
+}

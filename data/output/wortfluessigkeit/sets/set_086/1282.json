@@ -1,0 +1,15 @@
+{
+  "id": 1282,
+  "set": 86,
+  "set_index": 7,
+  "answer": "D",
+  "answer_word": "CALLCENTER",
+  "options": {
+    "A": "L",
+    "B": "R",
+    "C": "T",
+    "D": "C",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R N A L E C C L T E"
+}

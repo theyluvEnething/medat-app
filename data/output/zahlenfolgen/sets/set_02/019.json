@@ -1,0 +1,16 @@
+{
+  "id": 19,
+  "set": 2,
+  "set_index": 9,
+  "answer": "B",
+  "answer_value": "280/158",
+  "explanation": "2erSprungmit2Systemen:[+7,+(7+14),+(7+28),...]und[×2]",
+  "sequence": "46 35 53 70 74 140 109 ? ?",
+  "options": {
+    "A": "291/148",
+    "B": "280/158",
+    "C": "148/291",
+    "D": "296/155",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

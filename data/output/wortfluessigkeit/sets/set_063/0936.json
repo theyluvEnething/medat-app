@@ -1,0 +1,15 @@
+{
+  "id": 936,
+  "set": 63,
+  "set_index": 6,
+  "answer": "E",
+  "answer_word": "CHEMIKALIE",
+  "options": {
+    "A": "L",
+    "B": "M",
+    "C": "H",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C E A L E I K H I M"
+}

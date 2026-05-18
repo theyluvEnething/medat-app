@@ -1,0 +1,15 @@
+{
+  "id": 947,
+  "set": 64,
+  "set_index": 2,
+  "answer": "D",
+  "answer_word": "SEIFENBLASE",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "N",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A S F E I L B E E S N"
+}
