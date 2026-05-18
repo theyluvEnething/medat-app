@@ -12,6 +12,8 @@ from pathlib import Path
 
 import pdfplumber
 
+from medat_parser.utils import words_to_text
+
 
 def parse_wortfluessigkeit(pdf_path: Path, output_dir: Path) -> None:
     pdf = pdfplumber.open(str(pdf_path))
@@ -51,7 +53,7 @@ def parse_wortfluessigkeit(pdf_path: Path, output_dir: Path) -> None:
         right_words = [w for w in words if w["x0"] >= 250]
 
         for col_words in [left_words, right_words]:
-            col_text = _words_to_text(col_words)
+            col_text = words_to_text(col_words)
             col_questions = _parse_column(col_text, answers)
             all_questions.extend(col_questions)
 
@@ -75,23 +77,6 @@ def parse_wortfluessigkeit(pdf_path: Path, output_dir: Path) -> None:
 
     max_set = max(q["set"] for q in all_questions) if all_questions else 0
     print(f"Wortflüssigkeit: {len(all_questions)} questions in {max_set} sets")
-
-
-def _words_to_text(words: list) -> str:
-    """Reconstruct text from word objects, preserving line breaks."""
-    if not words:
-        return ""
-    lines: dict[float, list[str]] = {}
-    for w in words:
-        top = round(w["top"], 0)
-        if top not in lines:
-            lines[top] = []
-        lines[top].append(w["text"])
-
-    result: list[str] = []
-    for top in sorted(lines):
-        result.append(" ".join(lines[top]))
-    return "\n".join(result)
 
 
 def _parse_column(text: str, answers: dict[int, dict[str, str]]) -> list[dict]:

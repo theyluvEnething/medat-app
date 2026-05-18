@@ -12,6 +12,8 @@ from pathlib import Path
 
 import pdfplumber
 
+from medat_parser.utils import words_to_text
+
 
 def parse_implikationen(pdf_path: Path, output_dir: Path) -> None:
     pdf = pdfplumber.open(str(pdf_path))
@@ -66,27 +68,11 @@ def _parse_page_columns(page, answers: dict[int, str]) -> list[dict]:
     questions: list[dict] = []
 
     for col_words in [left_words, right_words]:
-        col_text = _words_to_text(col_words)
+        col_text = words_to_text(col_words)
         col_questions = _parse_column(col_text, answers)
         questions.extend(col_questions)
 
     return questions
-
-
-def _words_to_text(words: list) -> str:
-    """Reconstruct text from word objects, preserving line breaks."""
-    if not words:
-        return ""
-    lines: list[list[str]] = [[]]
-    prev_y = words[0]["top"]
-
-    for w in words:
-        if abs(w["top"] - prev_y) > 3:  # new line
-            lines.append([])
-        lines[-1].append(w["text"])
-        prev_y = w["top"]
-
-    return "\n".join(" ".join(line) for line in lines)
 
 
 def _parse_column(
