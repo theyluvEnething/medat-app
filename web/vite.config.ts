@@ -14,7 +14,7 @@ export default defineConfig({
     },
   },
   plugins: [react(), tailwindcss()],
-  base: './',
+  base: '/medat-app/',
   build: {
     outDir: 'dist',
   },
