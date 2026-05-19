@@ -143,6 +143,7 @@ text files — no JSON, no nested `sets/` directories.
 | `wortfluessigkeit_parser.py` | `NNNN_question.txt` + `NNNN_solution.txt` |
 | `zahlenfolgen_parser.py` | `NN_question.txt` + `NN_solution.txt` |
 | `ausweise_parser.py` | `cards/NNN_question.png` + `cards/NNN_question.txt` + `recall/NNNN_question.txt` + `recall/NNNN_solution.txt` |
+| `extract_ausweise_images.py` | `recall/NNNN_question.png` — cropped question blocks with embedded face photos |
 | `pdf_parser.py` | Dispatches to section parsers |
 | `merge.py` | Parses new PDFs with ID remapping; merges into existing output |
 | `converter.py` | Reads flat output → app's `questions.json` |
@@ -174,6 +175,7 @@ data/output/
       001_question.txt      #   "Name: GILTONS\nGeburtstag: ..."
     recall/                 # 1000 recall questions, 4-digit IDs
       0001_question.txt     #   "Wie lautet...\nA) ... E)"
+      0001_question.png     #   Cropped question block (may include face photo)
       0001_solution.txt     #   "E"
 ```
 
