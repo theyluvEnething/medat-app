@@ -46,6 +46,11 @@ app/dist/
 app/node_modules/
 app/package-lock.json
 
+# Web
+web/dist/
+web/node_modules/
+web/package-lock.json
+
 # TypeScript
 *.tsbuildinfo
 
