@@ -68,6 +68,14 @@ export function resetSectionProgress(username: string, sectionKey: SectionKey): 
   saveUserProgress(username, progress)
 }
 
+export function resetAllProgress(username: string): void {
+  const sections: Record<string, SectionProgress> = {}
+  for (const sec of SECTION_ORDER) {
+    sections[sec.key] = emptySectionProgress()
+  }
+  saveUserProgress(username, { sections: sections as Record<SectionKey, SectionProgress> })
+}
+
 export interface SectionStats {
   key: SectionKey
   label: string

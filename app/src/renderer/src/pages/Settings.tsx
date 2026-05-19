@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import type { Question, SectionKey } from '../types'
 import { SECTION_ORDER } from '../types'
-import { ensureUserProgress, saveUserProgress, resetSectionProgress } from '../services/storage'
+import { ensureUserProgress, saveUserProgress, resetSectionProgress, resetAllProgress } from '../services/storage'
 
 interface SettingsProps {
   username: string
@@ -26,6 +26,14 @@ export function Settings({ username, questions, onBack }: SettingsProps) {
     resetSectionProgress(username, sectionKey)
     const fresh = { currentSetIndex: 0, completed: [], wrongIds: [] }
     setSections((prev) => ({ ...prev, [sectionKey]: fresh }))
+  }
+
+  const handleResetAll = () => {
+    if (window.confirm('Gesamten Fortschritt zurücksetzen? Diese Aktion kann nicht rückgängig gemacht werden.')) {
+      resetAllProgress(username)
+      const fresh = ensureUserProgress(username)
+      setSections(fresh.sections)
+    }
   }
 
   return (
@@ -93,6 +101,15 @@ export function Settings({ username, questions, onBack }: SettingsProps) {
             </div>
           )
         })}
+      </div>
+
+      <div className="mt-4 border-t border-zinc-800 pt-6">
+        <button
+          onClick={handleResetAll}
+          className="rounded-lg border border-red-500/30 bg-red-950/20 px-5 py-2.5 text-sm font-medium text-red-400 transition-all duration-200 hover:scale-[1.03] hover:border-red-500/50 hover:bg-red-950/40 active:scale-95"
+        >
+          Gesamten Fortschritt zurücksetzen
+        </button>
       </div>
     </div>
   )
