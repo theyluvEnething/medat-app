@@ -1,0 +1,15 @@
+{
+  "id": 1256,
+  "set": 84,
+  "set_index": 11,
+  "answer": "B",
+  "answer_word": "INFORMATION",
+  "options": {
+    "A": "R",
+    "B": "I",
+    "C": "A",
+    "D": "M",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O N O I M R T A N F I"
+}

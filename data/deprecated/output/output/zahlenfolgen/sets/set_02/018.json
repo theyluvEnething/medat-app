@@ -1,0 +1,16 @@
+{
+  "id": 18,
+  "set": 2,
+  "set_index": 8,
+  "answer": "B",
+  "answer_value": "-69/-19",
+  "explanation": "A₃-A₁=A₄,A₄-A₂=A₅,...",
+  "sequence": "21 29 45 24 -5 -50 -74 ? ?",
+  "options": {
+    "A": "-79/-48",
+    "B": "-69/-19",
+    "C": "-82/0",
+    "D": "0/-79",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

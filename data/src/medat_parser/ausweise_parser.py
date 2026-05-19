@@ -5,12 +5,15 @@ Each of the 40 sets has:
 - 3 pages with 25 recall questions (2-column layout, interleaved)
 - Answer key at the very back of the PDF (pages 322-325)
 
-Each Ausweis is rendered as a cropped PNG image and its text fields are parsed.
+Output:
+  cards/NNN_question.png  — cropped Ausweis image
+  cards/NNN_question.txt  — field data (Name, Geburtstag, ...)
+  recall/NNNN_question.txt — recall question + A–E options
+  recall/NNNN_solution.txt — answer letter
 """
 
 from __future__ import annotations
 
-import json
 import re
 from pathlib import Path
 
@@ -30,8 +33,6 @@ AUSWEIS_FIELDS = [
     "Ausstellungsland",
 ]
 
-# Crop bounds for the two Ausweise on a page (in points, at 200 DPI)
-# page dimensions: 595.28 x 841.89 pt
 _TOP_CROP = (15, 70, 580, 440)
 _BOTTOM_CROP = (15, 430, 580, 800)
 _DPI = 200
@@ -44,8 +45,6 @@ def _pt_to_px(pt: float) -> int:
 def parse_ausweise(pdf_path: Path, output_dir: Path) -> None:
     pdf = pdfplumber.open(str(pdf_path))
     total_pages = len(pdf.pages)
-
-    # Open PyMuPDF for image rendering
     fitz_doc = fitz.open(str(pdf_path))
 
     # Classify pages
@@ -65,8 +64,6 @@ def parse_ausweise(pdf_path: Path, output_dir: Path) -> None:
         elif i > 2 and not answer_start and "Lösungen" in text:
             answer_start = i
 
-    # Questions are pages that aren't the title, image, set headers,
-    # Ausweise, or answers. Set headers contain "Übungsset N".
     for i in range(2, answer_start if answer_start else total_pages):
         text = pdf.pages[i].extract_text() or ""
         if not text.strip():
@@ -87,25 +84,23 @@ def parse_ausweise(pdf_path: Path, output_dir: Path) -> None:
             for match in re.finditer(r"(\d+)\.\s+([A-E])", text):
                 answers[int(match.group(1))] = match.group(2)
 
-    # Parse Ausweise
-    ausweise: list[dict] = []
-    ausweis_id = 0
+    # Output directories
+    cards_dir = output_dir / "cards"
+    cards_dir.mkdir(parents=True, exist_ok=True)
+    recall_dir = output_dir / "recall"
+    recall_dir.mkdir(parents=True, exist_ok=True)
 
-    sets_dir = output_dir / "sets"
-    sets_dir.mkdir(parents=True, exist_ok=True)
-    images_dir = output_dir / "images"
-    images_dir.mkdir(parents=True, exist_ok=True)
+    # Parse and write Ausweis cards
+    ausweis_id = 0
 
     for page_num in ausweis_pages:
         page = pdf.pages[page_num]
         words = page.extract_words(keep_blank_chars=True)
 
-        # Render page at 200 DPI for image cropping
         fitz_page = fitz_doc[page_num]
         pix = fitz_page.get_pixmap(dpi=_DPI)
         full_img = Image.frombytes("RGB", (pix.width, pix.height), pix.samples)
 
-        # Split into top and bottom Ausweise
         top_words = [w for w in words if w["top"] < 430]
         bottom_words = [w for w in words if w["top"] >= 430]
 
@@ -118,33 +113,20 @@ def parse_ausweise(pdf_path: Path, output_dir: Path) -> None:
             ausweis_id += 1
             fields = _parse_ausweis_fields(half_words)
 
-            set_num = (ausweis_id - 1) // 8 + 1
-            set_index = (ausweis_id - 1) % 8 + 1
-
-            # Crop and save image
+            # Crop and save card image
             crop_px = tuple(_pt_to_px(v) for v in crop_bounds)
             cropped = full_img.crop(crop_px)
-            image_filename = f"{ausweis_id:03d}.png"
-            cropped.save(str(images_dir / image_filename), "PNG")
+            cropped.save(str(cards_dir / f"{ausweis_id:03d}_question.png"), "PNG")
 
-            entry = {
-                "id": ausweis_id,
-                "set": set_num,
-                "set_index": set_index,
-                "image": image_filename,
-                "fields": fields,
-            }
-            ausweise.append(entry)
-
-            # Write individual Ausweis JSON
-            set_dir = sets_dir / f"set_{set_num:02d}"
-            set_dir.mkdir(parents=True, exist_ok=True)
-            json_path = set_dir / f"{ausweis_id:03d}.json"
-            json_path.write_text(
-                json.dumps(entry, ensure_ascii=False, indent=2), encoding="utf-8"
+            # Write card fields as text
+            field_lines = "\n".join(
+                f"{field}: {value}" for field, value in fields.items()
+            )
+            (cards_dir / f"{ausweis_id:03d}_question.txt").write_text(
+                field_lines + "\n", encoding="utf-8"
             )
 
-    # Parse questions
+    # Parse and write recall questions
     all_questions: list[dict] = []
     for page_num in question_pages:
         page = pdf.pages[page_num]
@@ -160,26 +142,27 @@ def parse_ausweise(pdf_path: Path, output_dir: Path) -> None:
             col_questions = _parse_question_column(col_text, answers)
             all_questions.extend(col_questions)
 
-    # Write questions
     for q in all_questions:
-        set_dir = sets_dir / f"set_{q['set']:02d}"
-        set_dir.mkdir(parents=True, exist_ok=True)
-        q_file = set_dir / f"q_{q['id']:04d}.json"
-        q_file.write_text(json.dumps(q, ensure_ascii=False, indent=2), encoding="utf-8")
+        qid = q["id"]
 
-    # Write answers index
-    answers_file = output_dir / "answers.json"
-    answers_file.write_text(
-        json.dumps(answers, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
+        opts = "\n".join(
+            f"{k}) {v}" for k, v in sorted(q["options"].items())
+        )
+        question_text = f"{q['text']}\n\n{opts}\n"
+        q_file = recall_dir / f"{qid:04d}_question.txt"
+        q_file.write_text(question_text, encoding="utf-8")
+
+        (recall_dir / f"{qid:04d}_solution.txt").write_text(
+            f"{q['answer']}\n", encoding="utf-8"
+        )
 
     pdf.close()
     fitz_doc.close()
 
+    max_recall = max((q["id"] for q in all_questions), default=0)
     print(
-        f"Ausweise Merken: {len(ausweise)} Ausweise, "
-        f"{len(all_questions)} questions across "
-        f"{max((q['set'] for q in all_questions), default=0)} sets"
+        f"Ausweise Merken: {ausweis_id} cards, "
+        f"{len(all_questions)} recall questions (IDs 1–{max_recall})"
     )
 
 
@@ -199,9 +182,7 @@ def _parse_ausweis_fields(words: list) -> dict[str, str]:
     return fields
 
 
-def _parse_question_column(
-    text: str, answers: dict[int, str]
-) -> list[dict]:
+def _parse_question_column(text: str, answers: dict[int, str]) -> list[dict]:
     """Parse a column of recall questions into structured dicts."""
     questions: list[dict] = []
     lines = text.strip().split("\n")
@@ -259,10 +240,10 @@ def _parse_question_column(
 def main() -> None:
     import argparse
 
-    parser = argparse.ArgumentParser(description="Parse Ausweise Merken PDF")
-    parser.add_argument("--input", type=Path, required=True, help="Input PDF file")
-    parser.add_argument("--output", type=Path, required=True, help="Output directory")
-    args = parser.parse_args()
+    p = argparse.ArgumentParser(description="Parse Ausweise Merken PDF")
+    p.add_argument("--input", type=Path, required=True, help="Input PDF file")
+    p.add_argument("--output", type=Path, required=True, help="Output directory")
+    args = p.parse_args()
 
     parse_ausweise(args.input, args.output)
 

@@ -1,0 +1,15 @@
+{
+  "id": 128,
+  "set": 9,
+  "set_index": 8,
+  "answer": "A",
+  "answer_word": "TAUFE",
+  "options": {
+    "A": "T",
+    "B": "A",
+    "C": "U",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A U F E T"
+}

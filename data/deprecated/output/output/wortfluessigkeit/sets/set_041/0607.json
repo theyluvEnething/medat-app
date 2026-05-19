@@ -1,0 +1,15 @@
+{
+  "id": 607,
+  "set": 41,
+  "set_index": 7,
+  "answer": "C",
+  "answer_word": "POLITIK",
+  "options": {
+    "A": "K",
+    "B": "I",
+    "C": "P",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O L P K I I T"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 311,
+  "set": 13,
+  "set_index": 11,
+  "answer": "A",
+  "text": "WelchesFotogehörtzuderPersonmit demNamenYUNKID?",
+  "options": {
+    "A": "B. C. D.",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

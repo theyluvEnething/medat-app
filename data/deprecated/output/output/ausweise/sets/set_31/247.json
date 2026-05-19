@@ -1,0 +1,15 @@
+{
+  "id": 247,
+  "set": 31,
+  "set_index": 7,
+  "image": "247.png",
+  "fields": {
+    "Name": "PICMORK",
+    "Geburtstag": "17. August",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Ketoprofen, Rosen",
+    "Ausweisnummer": "94803",
+    "Ausstellungsland": "Somalia"
+  }
+}

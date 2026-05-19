@@ -1,0 +1,14 @@
+{
+  "id": 971,
+  "set": 39,
+  "set_index": 21,
+  "answer": "E",
+  "text": "WelcheganzenAllergienhatdiePerson mitGeburtstagimMärzundBlutgruppe AB?",
+  "options": {
+    "A": "Mückenstiche",
+    "B": "Erdbeeren,Wellensittiche,Roggenmehl",
+    "C": "Fructose,Aceclofenac,Atropin",
+    "D": "Nitrit,Pollen",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

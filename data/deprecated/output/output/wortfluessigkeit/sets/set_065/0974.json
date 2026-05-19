@@ -1,0 +1,15 @@
+{
+  "id": 974,
+  "set": 65,
+  "set_index": 14,
+  "answer": "D",
+  "answer_word": "PUPPENHAUS",
+  "options": {
+    "A": "H",
+    "B": "N",
+    "C": "U",
+    "D": "P",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N P P S H E U U P A"
+}

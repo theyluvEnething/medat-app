@@ -1,0 +1,9 @@
+Prämissen:
+- EinigeLRNsindXF.
+- AlleLRNsindYLE.
+
+A) AlleXFsindYLE.
+B) AlleXFsindkeineYLE.
+C) EinigeXFsindYLE.
+D) EinigeXFsindkeineYLE.
+E) KeinederSchlussfolgerungenistrichtig.

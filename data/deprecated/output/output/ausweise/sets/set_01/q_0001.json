@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "set": 1,
+  "set_index": 1,
+  "answer": "E",
+  "text": "WielautetdieAusweisnummerderPerson mitdemNamenUMSHAU?",
+  "options": {
+    "A": "81942",
+    "B": "23612",
+    "C": "68213",
+    "D": "32771",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

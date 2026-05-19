@@ -1,0 +1,15 @@
+{
+  "id": 138,
+  "set": 10,
+  "set_index": 3,
+  "answer": "A",
+  "answer_word": "BRUSTKORB",
+  "options": {
+    "A": "B",
+    "B": "K",
+    "C": "S",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T R B K U B O S R"
+}

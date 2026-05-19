@@ -1,0 +1,14 @@
+{
+  "id": 272,
+  "set": 11,
+  "set_index": 22,
+  "answer": "C",
+  "text": "WievielePersonensindallergischgegen Pflaster?",
+  "options": {
+    "A": "2",
+    "B": "1",
+    "C": "0",
+    "D": "3",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

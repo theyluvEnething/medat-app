@@ -244,7 +244,7 @@ export function Test({ questions, username, onExit }: TestProps) {
 
   return (
     <div
-      className="mx-auto flex min-h-screen max-w-3xl flex-col gap-6 px-6 py-8"
+      className="mx-auto flex min-h-screen max-w-5xl flex-col gap-8 px-10 py-10"
       style={{ zoom }}
     >
       {/* Header */}
@@ -312,6 +312,7 @@ export function Test({ questions, username, onExit }: TestProps) {
             content={currentQuestion.content}
             questionId={currentQuestion.id}
             image={currentQuestion.image}
+            setSize={section.count}
             selectedAnswer={selectedAnswer}
             correctAnswer={showSolution ? currentQuestion.answer : null}
             onSelect={selectAnswer}

@@ -1,0 +1,9 @@
+Prämissen:
+- AlleBlütensindKnospen.
+- AlleKnospensindSamen.
+
+A) AlleBlütensindSamen.
+B) AlleBlütensindkeineSamen.
+C) EinigeBlütensindSamen.
+D) EinigeBlütensindkeineSamen.
+E) KeinederSchlussfolgerungenistrichtig.

@@ -1,0 +1,15 @@
+{
+  "id": 151,
+  "set": 11,
+  "set_index": 1,
+  "answer": "B",
+  "answer_word": "VATER",
+  "options": {
+    "A": "E",
+    "B": "V",
+    "C": "T",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R E T A V"
+}

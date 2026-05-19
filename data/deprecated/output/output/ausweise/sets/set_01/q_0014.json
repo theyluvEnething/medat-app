@@ -1,0 +1,14 @@
+{
+  "id": 14,
+  "set": 1,
+  "set_index": 14,
+  "answer": "D",
+  "text": "WelcheBlutgruppehatdiePersonmit AusstellungslandSambia?",
+  "options": {
+    "A": "B",
+    "B": "0",
+    "C": "AB",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

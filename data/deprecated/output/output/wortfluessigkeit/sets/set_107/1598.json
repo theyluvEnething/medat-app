@@ -1,0 +1,15 @@
+{
+  "id": 1598,
+  "set": 107,
+  "set_index": 8,
+  "answer": "E",
+  "answer_word": "MAGAZIN",
+  "options": {
+    "A": "Z",
+    "B": "N",
+    "C": "I",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A I G M N Z A"
+}

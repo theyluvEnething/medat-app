@@ -1,0 +1,14 @@
+{
+  "id": 345,
+  "set": 14,
+  "set_index": 20,
+  "answer": "E",
+  "text": "WelcheganzenAllergienhatdiePerson mitdemNamenDAKMAT?",
+  "options": {
+    "A": "Heringe,Textilien",
+    "B": "Hornissenstiche,Gluten",
+    "C": "Zypressen,Himbeeren",
+    "D": "Hamster,Hunde",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

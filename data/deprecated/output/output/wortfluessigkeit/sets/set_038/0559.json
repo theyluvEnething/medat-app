@@ -1,0 +1,15 @@
+{
+  "id": 559,
+  "set": 38,
+  "set_index": 4,
+  "answer": "B",
+  "answer_word": "ORIGINAL",
+  "options": {
+    "A": "I",
+    "B": "O",
+    "C": "G",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A R L N O I I G"
+}

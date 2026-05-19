@@ -1,0 +1,14 @@
+{
+  "id": 133,
+  "set": 6,
+  "set_index": 8,
+  "answer": "C",
+  "text": "WieheißtdiePersonmitdemGeschlecht männlichundGeburtstagimFebruar?",
+  "options": {
+    "A": "HUWBRANS",
+    "B": "BLYNCI",
+    "C": "ZUBONS",
+    "D": "ENAMIO",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

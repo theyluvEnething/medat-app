@@ -1,0 +1,14 @@
+{
+  "id": 625,
+  "set": 25,
+  "set_index": 25,
+  "answer": "E",
+  "text": "WieheißtdiePersonmitdem4.August alsGeburtstag?",
+  "options": {
+    "A": "CTRONAT",
+    "B": "USRAUNO",
+    "C": "TUBMAL",
+    "D": "ETRAMTO",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

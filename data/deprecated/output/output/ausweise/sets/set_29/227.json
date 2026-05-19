@@ -1,0 +1,15 @@
+{
+  "id": 227,
+  "set": 29,
+  "set_index": 3,
+  "image": "227.png",
+  "fields": {
+    "Name": "OBRBAND",
+    "Geburtstag": "30. Juli",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Propolis, Käse",
+    "Ausweisnummer": "05752",
+    "Ausstellungsland": "Burkina Faso"
+  }
+}

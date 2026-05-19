@@ -1,0 +1,15 @@
+{
+  "id": 1075,
+  "set": 72,
+  "set_index": 10,
+  "answer": "E",
+  "answer_word": "EXORZISMUS",
+  "options": {
+    "A": "S",
+    "B": "X",
+    "C": "R",
+    "D": "M",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U Z S I X E R O M S"
+}

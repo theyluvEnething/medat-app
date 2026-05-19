@@ -1,0 +1,15 @@
+{
+  "id": 604,
+  "set": 41,
+  "set_index": 4,
+  "answer": "B",
+  "answer_word": "HAUSDACH",
+  "options": {
+    "A": "A",
+    "B": "H",
+    "C": "D",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H A H A D U S C"
+}

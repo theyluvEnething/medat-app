@@ -1,0 +1,14 @@
+{
+  "id": 49,
+  "set": 2,
+  "set_index": 24,
+  "answer": "A",
+  "text": "WelcheganzenAllergienhat diePersonmitdiesemBild?",
+  "options": {
+    "A": "Rosen,Milchzucker,Paranüsse",
+    "B": "Zitronen,Sulfite,Osmium",
+    "C": "Pollen,Brombeeren",
+    "D": "Porree,Lysozyme",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

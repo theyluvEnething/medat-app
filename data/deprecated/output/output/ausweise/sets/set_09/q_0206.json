@@ -1,0 +1,14 @@
+{
+  "id": 206,
+  "set": 9,
+  "set_index": 6,
+  "answer": "A",
+  "text": "MitwelchenZiffernendetdie AusweisnummerderPersonmit BlutgruppeAunddemGeschlecht männlich?",
+  "options": {
+    "A": "07",
+    "B": "08",
+    "C": "45",
+    "D": "92",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

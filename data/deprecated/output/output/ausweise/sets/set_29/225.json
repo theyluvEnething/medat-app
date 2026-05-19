@@ -1,0 +1,15 @@
+{
+  "id": 225,
+  "set": 29,
+  "set_index": 1,
+  "image": "225.png",
+  "fields": {
+    "Name": "SONZIDMA",
+    "Geburtstag": "23. Oktober",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Propolis, Käse",
+    "Ausweisnummer": "77755",
+    "Ausstellungsland": "St. Kitts und Nevis"
+  }
+}

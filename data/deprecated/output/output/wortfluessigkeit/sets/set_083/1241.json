@@ -1,0 +1,15 @@
+{
+  "id": 1241,
+  "set": 83,
+  "set_index": 11,
+  "answer": "B",
+  "answer_word": "SAISONARBEIT",
+  "options": {
+    "A": "E",
+    "B": "S",
+    "C": "I",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I O A I S S T R A E B N"
+}

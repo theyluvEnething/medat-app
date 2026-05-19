@@ -1,0 +1,14 @@
+{
+  "id": 948,
+  "set": 38,
+  "set_index": 23,
+  "answer": "C",
+  "text": "WievielePersonensindallergischgegen Ratten?",
+  "options": {
+    "A": "3",
+    "B": "4",
+    "C": "2",
+    "D": "1",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

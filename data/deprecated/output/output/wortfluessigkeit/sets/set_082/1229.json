@@ -1,0 +1,15 @@
+{
+  "id": 1229,
+  "set": 82,
+  "set_index": 14,
+  "answer": "B",
+  "answer_word": "OPERATEUR",
+  "options": {
+    "A": "A",
+    "B": "O",
+    "C": "T",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E O R U E T A P R"
+}

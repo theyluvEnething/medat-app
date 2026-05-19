@@ -1,0 +1,14 @@
+{
+  "id": 836,
+  "set": 34,
+  "set_index": 11,
+  "answer": "E",
+  "text": "WievielePersonensindallergischgegen Histamin?",
+  "options": {
+    "A": "4",
+    "B": "2",
+    "C": "0",
+    "D": "3",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

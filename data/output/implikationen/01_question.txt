@@ -1,0 +1,9 @@
+Prämissen:
+- EinigeZSsindkeineNZ.
+- AlleZLIsindNZ.
+
+A) AlleZSsindZLI.
+B) AlleZSsindkeineZLI.
+C) EinigeZSsindZLI.
+D) EinigeZSsindkeineZLI.
+E) KeinederSchlussfolgerungenistrichtig.

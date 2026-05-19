@@ -1,0 +1,14 @@
+{
+  "id": 45,
+  "set": 2,
+  "set_index": 20,
+  "answer": "C",
+  "text": "MitwelchenZiffernendetdie AusweisnummerderPersonmitdem NamenBAUEFK?",
+  "options": {
+    "A": "24",
+    "B": "91",
+    "C": "04",
+    "D": "56",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

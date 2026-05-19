@@ -1,0 +1,15 @@
+{
+  "id": 467,
+  "set": 32,
+  "set_index": 2,
+  "answer": "A",
+  "answer_word": "WUNSCHKIND",
+  "options": {
+    "A": "W",
+    "B": "S",
+    "C": "K",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "D H C S I W N N K U"
+}

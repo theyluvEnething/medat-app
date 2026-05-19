@@ -1,0 +1,15 @@
+{
+  "id": 18,
+  "set": 2,
+  "set_index": 3,
+  "answer": "D",
+  "answer_word": "PROBE",
+  "options": {
+    "A": "O",
+    "B": "E",
+    "C": "B",
+    "D": "P",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "P O R E B"
+}

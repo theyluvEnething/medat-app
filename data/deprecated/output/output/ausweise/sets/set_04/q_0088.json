@@ -1,0 +1,14 @@
+{
+  "id": 88,
+  "set": 4,
+  "set_index": 13,
+  "answer": "D",
+  "text": "WievielePersonensindFrauen?",
+  "options": {
+    "A": "6",
+    "B": "7",
+    "C": "3",
+    "D": "2",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 260,
+  "set": 18,
+  "set_index": 5,
+  "answer": "C",
+  "answer_word": "COGNAC",
+  "options": {
+    "A": "O",
+    "B": "A",
+    "C": "C",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C G A O C N"
+}

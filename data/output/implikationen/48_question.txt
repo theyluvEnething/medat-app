@@ -1,0 +1,9 @@
+Prämissen:
+- EinigeGipsesindSchmerzen.
+- AlleSchmerzensindFrakturen.
+
+A) AlleFrakturensindGipse.
+B) AlleFrakturensindkeineGipse.
+C) EinigeFrakturensindGipse.
+D) EinigeFrakturensindkeineGipse.
+E) KeinederSchlussfolgerungenistrichtig.

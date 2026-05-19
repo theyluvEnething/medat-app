@@ -1,0 +1,14 @@
+{
+  "id": 46,
+  "set": 2,
+  "set_index": 21,
+  "answer": "C",
+  "text": "MitwelchenZiffernendetdie AusweisnummerderPersonmit BlutgruppeA?",
+  "options": {
+    "A": "12",
+    "B": "50",
+    "C": "67",
+    "D": "30",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

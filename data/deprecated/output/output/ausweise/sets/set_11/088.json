@@ -1,0 +1,15 @@
+{
+  "id": 88,
+  "set": 11,
+  "set_index": 8,
+  "image": "088.png",
+  "fields": {
+    "Name": "OKLUMAR",
+    "Geburtstag": "28. Januar",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Gurken, Sonne",
+    "Ausweisnummer": "32122",
+    "Ausstellungsland": "Barbados"
+  }
+}

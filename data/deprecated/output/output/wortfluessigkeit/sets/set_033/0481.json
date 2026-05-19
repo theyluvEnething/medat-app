@@ -1,0 +1,15 @@
+{
+  "id": 481,
+  "set": 33,
+  "set_index": 1,
+  "answer": "E",
+  "answer_word": "ABENTEUER",
+  "options": {
+    "A": "E",
+    "B": "U",
+    "C": "R",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U B E T N R E A E"
+}

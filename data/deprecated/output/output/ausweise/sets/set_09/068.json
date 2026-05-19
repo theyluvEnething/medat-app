@@ -1,0 +1,15 @@
+{
+  "id": 68,
+  "set": 9,
+  "set_index": 4,
+  "image": "068.png",
+  "fields": {
+    "Name": "WIMTAUF",
+    "Geburtstag": "7. Juni",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Buche, Spitzwegerich",
+    "Ausweisnummer": "05145",
+    "Ausstellungsland": "Island"
+  }
+}

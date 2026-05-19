@@ -1,0 +1,16 @@
+{
+  "id": 44,
+  "set": 5,
+  "set_index": 4,
+  "answer": "B",
+  "answer_value": "-5/-54",
+  "explanation": "-0²,-1²,-2²,-3²,...",
+  "sequence": "86 86 85 81 72 56 31 ? ?",
+  "options": {
+    "A": "-9/-40",
+    "B": "-5/-54",
+    "C": "-5/-63",
+    "D": "-56/-15",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

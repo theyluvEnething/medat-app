@@ -1,0 +1,15 @@
+{
+  "id": 1377,
+  "set": 92,
+  "set_index": 12,
+  "answer": "A",
+  "answer_word": "HUNDEHAUFEN",
+  "options": {
+    "A": "H",
+    "B": "A",
+    "C": "E",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E N U H D E A F N H U"
+}

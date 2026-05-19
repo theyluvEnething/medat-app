@@ -1,0 +1,14 @@
+{
+  "id": 846,
+  "set": 34,
+  "set_index": 21,
+  "answer": "B",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer83754?",
+  "options": {
+    "A": "Camembert,Thymian,Zypressen",
+    "B": "Histamin",
+    "C": "Latex",
+    "D": "Paraben,Petersilie,Ananas",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

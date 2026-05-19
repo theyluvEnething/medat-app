@@ -1,0 +1,15 @@
+{
+  "id": 474,
+  "set": 32,
+  "set_index": 9,
+  "answer": "A",
+  "answer_word": "BEWACHER",
+  "options": {
+    "A": "B",
+    "B": "A",
+    "C": "H",
+    "D": "C",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E A B W H C R E"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 4,
+  "set": 1,
+  "set_index": 4,
+  "answer": "B",
+  "text": "WannistderGeburtstagderPersonmit AusstellungslandGrenadaundBlutgruppe B?",
+  "options": {
+    "A": "23.Januar",
+    "B": "22.März",
+    "C": "4.November",
+    "D": "9.Oktober",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

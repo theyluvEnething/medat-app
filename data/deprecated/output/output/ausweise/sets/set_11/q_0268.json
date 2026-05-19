@@ -1,0 +1,14 @@
+{
+  "id": 268,
+  "set": 11,
+  "set_index": 18,
+  "answer": "C",
+  "text": "WelcheganzenAllergienhatdiePerson mitBlutgruppe0?",
+  "options": {
+    "A": "Amalgam,Latex",
+    "B": "Gurken,Sonne",
+    "C": "Gurken,Petersilie",
+    "D": "Passionsfrucht,Knoblauch",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

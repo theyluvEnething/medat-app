@@ -1,0 +1,14 @@
+{
+  "id": 611,
+  "set": 25,
+  "set_index": 11,
+  "answer": "B",
+  "text": "WannistderGeburtstagderPersonmit demNamenYUCRAND?",
+  "options": {
+    "A": "8.Juli",
+    "B": "4.August",
+    "C": "25.Oktober",
+    "D": "3.August",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

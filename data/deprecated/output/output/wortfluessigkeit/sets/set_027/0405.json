@@ -1,0 +1,15 @@
+{
+  "id": 405,
+  "set": 27,
+  "set_index": 15,
+  "answer": "E",
+  "answer_word": "GRAFIK",
+  "options": {
+    "A": "F",
+    "B": "K",
+    "C": "A",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "F A R K I G"
+}

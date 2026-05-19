@@ -1,0 +1,16 @@
+{
+  "id": 52,
+  "set": 6,
+  "set_index": 2,
+  "answer": "A",
+  "answer_value": "92/156",
+  "explanation": "+1²,+2²,+3²,+4²,...",
+  "sequence": "-48 -47 -43 -34 -18 7 43 ? ?",
+  "options": {
+    "A": "92/156",
+    "B": "100/171",
+    "C": "82/164",
+    "D": "95/164",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

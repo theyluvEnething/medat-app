@@ -112,7 +112,7 @@ If a glob lookup fails (image not found), shows "Bild nicht verfügbar" fallback
 
 Images are in `app/src/renderer/src/assets/<section>/` and loaded via Vite's `import.meta.glob` with `{ eager: true }`. This bundles images through Vite's asset pipeline at build time. The glob returns `Record<string, { default: string }>` where the key is the relative path and `default` is the hashed URL.
 
-The converter script names images by global question ID: `{id}.png` padded to 3 digits for figuren, or uses the `image` field from parser output for ausweise cards.
+The converter script produces image references as `{id}.png` padded to 3 digits. Data files use `NNN_question.png` naming; the copy step strips the `_question` suffix for app compatibility.
 
 ### Electron setup
 
@@ -133,35 +133,64 @@ Three tsconfigs with project references:
 
 ### Parser scripts
 
-All parsers in `data/src/medat_parser/`:
+All parsers in `data/src/medat_parser/` extract questions from PDFs and write flat
+text files — no JSON, no nested `sets/` directories.
 
-| Parser | Input | Output |
-|--------|-------|--------|
-| `figuren_parser.py` | PDF | JSON + cropped PNGs per question |
-| `implikationen_parser.py` | PDF | JSON with premises + conclusions |
-| `wortfluessigkeit_parser.py` | PDF | JSON with letter sequences + options |
-| `zahlenfolgen_parser.py` | PDF | JSON with number sequences + options |
-| `ausweise_parser.py` | PDF | JSON for memorize cards + recall questions + card PNGs |
-| `pdf_parser.py` | All PDFs | Dispatches to section parsers |
+| Parser | Output |
+|--------|--------|
+| `figuren_parser.py` | `NNN_question.png` + `NNN_question.txt` + `NNN_solution.txt` + `solutions/` |
+| `implikationen_parser.py` | `NN_question.txt` + `NN_solution.txt` |
+| `wortfluessigkeit_parser.py` | `NNNN_question.txt` + `NNNN_solution.txt` |
+| `zahlenfolgen_parser.py` | `NN_question.txt` + `NN_solution.txt` |
+| `ausweise_parser.py` | `cards/NNN_question.png` + `cards/NNN_question.txt` + `recall/NNNN_question.txt` + `recall/NNNN_solution.txt` |
+| `pdf_parser.py` | Dispatches to section parsers |
+| `merge.py` | Parses new PDFs with ID remapping; merges into existing output |
+| `converter.py` | Reads flat output → app's `questions.json` |
 
-### Parser output structure
+### Parser output structure (flat text, no JSON)
+
+Each question is two or three flat files in a section directory:
 
 ```
-data/output/<section>/
-  answers.json       # {qid: answer_letter, ...}
-  sets/
-    set_01/
-      001.json       # Per-question JSON (global ID)
-      001.png        # Image (figuren + ausweise only)
+data/output/
+  figuren/                  # 255 questions, 3-digit IDs
+    001_question.png        #   Cropped figure image
+    001_question.txt        #   "Figuren zusammensetzen\nFrage 1"
+    001_solution.txt        #   "C"
+    solutions/
+      page_37.png ...       #   Full-page answer-key renders
+  implikationen/            # 70 questions, 2-digit IDs
+    01_question.txt         #   Prämissen: ... \nA) ... E)
+    01_solution.txt         #   "D"
+  wortfluessigkeit/         # 1650 questions, 4-digit IDs
+    0001_question.txt       #   Buchstabenreihe: ... \nA) ... E)
+    0001_solution.txt       #   "C — EHEFRAU"
+  zahlenfolgen/             # 70 questions, 2-digit IDs
+    01_question.txt         #   Zahlenfolge: ... \nA) ... E)
+    01_solution.txt         #   "C — 71/90\nexplanation..."
+  ausweise/
+    cards/                  # 320 memorization cards, 3-digit IDs
+      001_question.png      #   Cropped Ausweis image
+      001_question.txt      #   "Name: GILTONS\nGeburtstag: ..."
+    recall/                 # 1000 recall questions, 4-digit IDs
+      0001_question.txt     #   "Wie lautet...\nA) ... E)"
+      0001_solution.txt     #   "E"
 ```
 
-Each question JSON has a global `id`, `set` number, `set_index` (1-based within set), and `answer`. See `data/DATA_FORMAT.md` for per-section schemas.
+Each `_question.txt` file contains exactly what the app displays — premises,
+options, sequences already formatted with newlines. Each `_solution.txt` contains
+the answer letter and any auxiliary data (correct word, explanation).
+
+Full schema and question counts are in `data/DATA_FORMAT.md`.
 
 ### Converter (`converter.py`)
 
-Reads parser output from `output/<section>/sets/` and produces a flat `Record<section, Question[]>` JSON file at `app/src/renderer/src/assets/questions.json`.
+Reads the flat output directory and produces `app/src/renderer/src/assets/questions.json`.
+The converter:
 
-For each section, `generate_content()` flattens the rich parser fields into a single `content` string (with `\n` line breaks for options). The `image` field is preserved for ausweise_memorize cards.
+1. Scans each section directory for `*_question.txt` files
+2. Extracts the answer from `*_solution.txt` (first line, first character before ` — `)
+3. For ausweise_cards, reads the `image` field from matching PNGs
 
 Run after any parser changes:
 ```bash
@@ -174,7 +203,18 @@ uv run medat-convert --input output --output ../app/src/renderer/src/assets/ques
 1. Place PDFs in `data/input/<section>/`
 2. Parse: `uv run medat-parse --input input/ --output output/`
 3. Convert: `uv run medat-convert --input output --output ../app/src/renderer/src/assets/questions.json`
-4. Copy images: `cp data/output/<section>/sets/set_*/*.png app/src/renderer/src/assets/<section>/`
+4. Copy images (strip `_question` suffix for app compat):
+   ```bash
+   for f in data/output/figuren/*_question.png; do
+       base=$(basename "$f" _question.png)
+       cp "$f" "app/src/renderer/src/assets/figuren/${base}.png"
+   done
+   for f in data/output/ausweise/cards/*_question.png; do
+       base=$(basename "$f" _question.png)
+       cp "$f" "app/src/renderer/src/assets/ausweise/${base}.png"
+   done
+   cp data/output/figuren/solutions/*.png app/src/renderer/src/assets/solutions/
+   ```
 5. Rebuild app: `cd app && npm run dev`
 
 ## Key design decisions
@@ -196,9 +236,16 @@ uv run medat-convert --input output --output ../app/src/renderer/src/assets/ques
 ```bash
 cd data
 uv run medat-convert --input output --output ../app/src/renderer/src/assets/questions.json
-# then copy any new images
-cp data/output/figuren/sets/set_*/*.png app/src/renderer/src/assets/figuren/
-cp data/output/ausweise/images/*.png app/src/renderer/src/assets/ausweise/
+# Copy images to app (strip _question suffix)
+for f in output/figuren/*_question.png; do
+    base=$(basename "$f" _question.png)
+    cp "$f" "../app/src/renderer/src/assets/figuren/${base}.png"
+done
+for f in output/ausweise/cards/*_question.png; do
+    base=$(basename "$f" _question.png)
+    cp "$f" "../app/src/renderer/src/assets/ausweise/${base}.png"
+done
+cp output/figuren/solutions/*.png ../app/src/renderer/src/assets/solutions/
 ```
 
 ### Resetting a user's progress

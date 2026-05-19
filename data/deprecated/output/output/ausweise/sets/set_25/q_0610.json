@@ -1,0 +1,14 @@
+{
+  "id": 610,
+  "set": 25,
+  "set_index": 10,
+  "answer": "A",
+  "text": "WievielePersonensindimJunigeboren?",
+  "options": {
+    "A": "0",
+    "B": "3",
+    "C": "1",
+    "D": "4",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

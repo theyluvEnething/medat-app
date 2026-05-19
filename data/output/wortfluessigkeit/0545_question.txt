@@ -1,0 +1,7 @@
+Buchstabenreihe: T T A R O W N
+
+A) T
+B) O
+C) R
+D) A
+E) KeinederAntwortenistrichtig

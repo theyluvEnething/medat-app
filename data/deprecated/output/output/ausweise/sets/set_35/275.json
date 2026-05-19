@@ -1,0 +1,15 @@
+{
+  "id": 275,
+  "set": 35,
+  "set_index": 3,
+  "image": "275.png",
+  "fields": {
+    "Name": "LOBKROL",
+    "Geburtstag": "25. Oktober",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Kamille, Casein, Teebaumöl",
+    "Ausweisnummer": "57004",
+    "Ausstellungsland": "Monaco"
+  }
+}

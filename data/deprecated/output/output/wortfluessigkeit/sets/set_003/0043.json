@@ -1,0 +1,15 @@
+{
+  "id": 43,
+  "set": 3,
+  "set_index": 13,
+  "answer": "C",
+  "answer_word": "FESTIVAL",
+  "options": {
+    "A": "E",
+    "B": "I",
+    "C": "F",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T A L S I E V F"
+}

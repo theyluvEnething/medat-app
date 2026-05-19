@@ -1,0 +1,15 @@
+{
+  "id": 949,
+  "set": 64,
+  "set_index": 4,
+  "answer": "A",
+  "answer_word": "RAUBKATZE",
+  "options": {
+    "A": "R",
+    "B": "U",
+    "C": "Z",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A E K U A T R B Z"
+}

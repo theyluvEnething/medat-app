@@ -1,0 +1,17 @@
+{
+  "id": 41,
+  "set": 5,
+  "set_index": 1,
+  "answer": "C",
+  "premises": [
+    "AlleSeilesindTaue.",
+    "EinigeSeilesindFäden."
+  ],
+  "conclusions": {
+    "A": "AlleTauesindFäden.",
+    "B": "AlleTauesindkeineFäden.",
+    "C": "EinigeTauesindFäden.",
+    "D": "EinigeTauesindkeineFäden.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

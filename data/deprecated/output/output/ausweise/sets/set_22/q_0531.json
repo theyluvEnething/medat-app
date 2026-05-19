@@ -1,0 +1,14 @@
+{
+  "id": 531,
+  "set": 22,
+  "set_index": 6,
+  "answer": "B",
+  "text": "WieheißtdiePersonmit diesemBild?",
+  "options": {
+    "A": "REUNIO",
+    "B": "JUNDKOR",
+    "C": "ACINKLO",
+    "D": "HOLFKOR",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

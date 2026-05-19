@@ -1,0 +1,15 @@
+{
+  "id": 222,
+  "set": 15,
+  "set_index": 12,
+  "answer": "E",
+  "answer_word": "DOKTRIN",
+  "options": {
+    "A": "T",
+    "B": "I",
+    "C": "R",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "K I N O R T D"
+}

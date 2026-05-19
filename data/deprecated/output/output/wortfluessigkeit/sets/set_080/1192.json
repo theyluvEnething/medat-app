@@ -1,0 +1,15 @@
+{
+  "id": 1192,
+  "set": 80,
+  "set_index": 7,
+  "answer": "C",
+  "answer_word": "BEIGESCHMACK",
+  "options": {
+    "A": "K",
+    "B": "G",
+    "C": "B",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A G C E K B H I C S E M"
+}

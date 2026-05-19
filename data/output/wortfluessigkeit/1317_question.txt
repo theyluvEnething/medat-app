@@ -1,0 +1,7 @@
+Buchstabenreihe: N M H T A H O C
+
+A) O
+B) N
+C) A
+D) M
+E) KeinederAntwortenistrichtig

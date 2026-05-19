@@ -3,11 +3,14 @@
 Single-column layout, 5 questions per page, 2 pages per set (10 questions).
 Global numbering 1-70 across 7 sets.
 Answer key has explanations.
+
+Output per question (flat directory):
+  NN_question.txt  — number sequence + A–E options
+  NN_solution.txt  — answer letter + value + explanation
 """
 
 from __future__ import annotations
 
-import json
 import re
 from pathlib import Path
 
@@ -32,8 +35,11 @@ def parse_zahlenfolgen(pdf_path: Path, output_dir: Path) -> None:
     answers: dict[int, dict[str, str]] = {}
     for page in pdf.pages[answer_start:]:
         text = page.extract_text()
-        # Pattern: "1. C 71/90 explanation..."
-        for match in re.finditer(r"(\d+)\.\s+([A-E])\s+(\S+)\s+(.*?)(?=\n?\d+\.\s|\n?Set\s|\Z)", text, re.DOTALL):
+        for match in re.finditer(
+            r"(\d+)\.\s+([A-E])\s+(\S+)\s+(.*?)(?=\n?\d+\.\s|\n?Set\s|\Z)",
+            text,
+            re.DOTALL,
+        ):
             answers[int(match.group(1))] = {
                 "letter": match.group(2),
                 "value": match.group(3),
@@ -44,9 +50,7 @@ def parse_zahlenfolgen(pdf_path: Path, output_dir: Path) -> None:
     all_questions: list[dict] = []
     for page in pdf.pages[1:answer_start]:
         text = page.extract_text()
-        # Remove page number at the end
         text = re.sub(r"\n\d+\s*$", "", text.strip())
-        # Remove set header
         text = re.sub(r"^\s*Übungsset\s+\d+\s*", "", text)
 
         questions = _parse_page(text, answers)
@@ -54,30 +58,38 @@ def parse_zahlenfolgen(pdf_path: Path, output_dir: Path) -> None:
 
     pdf.close()
 
-    # Write output
-    sets_dir = output_dir / "sets"
-    sets_dir.mkdir(parents=True, exist_ok=True)
+    # Write flat output
+    output_dir.mkdir(parents=True, exist_ok=True)
 
     for q in all_questions:
-        set_dir = sets_dir / f"set_{q['set']:02d}"
-        set_dir.mkdir(parents=True, exist_ok=True)
-        q_file = set_dir / f"{q['id']:03d}.json"
-        q_file.write_text(json.dumps(q, ensure_ascii=False, indent=2), encoding="utf-8")
+        qid = q["id"]
 
-    answers_file = output_dir / "answers.json"
-    answers_file.write_text(
-        json.dumps(answers, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
+        # Question text
+        opts = "\n".join(
+            f"{k}) {v}" for k, v in sorted(q["options"].items())
+        )
+        question_text = f"Zahlenfolge: {q['sequence']}\n\n{opts}\n"
+        q_file = output_dir / f"{qid:02d}_question.txt"
+        q_file.write_text(question_text, encoding="utf-8")
 
-    max_set = max(q["set"] for q in all_questions) if all_questions else 0
-    print(f"Zahlenfolgen: {len(all_questions)} questions in {max_set} sets")
+        # Solution text
+        answer_value = q.get("answer_value", "")
+        explanation = q.get("explanation", "")
+        lines = [f"{q['answer']} — {answer_value}"]
+        if explanation:
+            lines.append(explanation)
+        (output_dir / f"{qid:02d}_solution.txt").write_text(
+            "\n".join(lines) + "\n", encoding="utf-8"
+        )
+
+    max_id = max(q["id"] for q in all_questions) if all_questions else 0
+    print(f"Zahlenfolgen: {len(all_questions)} questions (IDs 1–{max_id})")
 
 
 def _parse_page(text: str, answers: dict[int, dict[str, str]]) -> list[dict]:
     """Parse a page with 5 single-column questions."""
     questions: list[dict] = []
 
-    # Split by question numbers at line start: "N. "
     blocks = re.split(r"\n(?=\d+\.\s)", text)
 
     for block in blocks:
@@ -90,12 +102,10 @@ def _parse_page(text: str, answers: dict[int, dict[str, str]]) -> list[dict]:
             continue
 
         qtext = m.group(2).strip()
-        lines = [l.strip() for l in qtext.split("\n") if l.strip()]
+        lines = [ln.strip() for ln in qtext.split("\n") if ln.strip()]
 
-        # First line is the number sequence
         sequence = lines[0] if lines else ""
 
-        # Remaining lines are A-E options
         options: dict[str, str] = {}
         for line in lines[1:]:
             om = re.match(r"^([A-E])\.\s+(.*)", line)
@@ -125,10 +135,10 @@ def _parse_page(text: str, answers: dict[int, dict[str, str]]) -> list[dict]:
 def main() -> None:
     import argparse
 
-    parser = argparse.ArgumentParser(description="Parse Zahlenfolgen PDF")
-    parser.add_argument("--input", type=Path, required=True, help="Input PDF file")
-    parser.add_argument("--output", type=Path, required=True, help="Output directory")
-    args = parser.parse_args()
+    p = argparse.ArgumentParser(description="Parse Zahlenfolgen PDF")
+    p.add_argument("--input", type=Path, required=True, help="Input PDF file")
+    p.add_argument("--output", type=Path, required=True, help="Output directory")
+    args = p.parse_args()
 
     parse_zahlenfolgen(args.input, args.output)
 

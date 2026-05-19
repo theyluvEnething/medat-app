@@ -1,0 +1,15 @@
+{
+  "id": 132,
+  "set": 17,
+  "set_index": 4,
+  "image": "132.png",
+  "fields": {
+    "Name": "LUVRONK",
+    "Geburtstag": "10. Juli",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Birke, Brokkoli, Sternfrucht",
+    "Ausweisnummer": "71081",
+    "Ausstellungsland": "Sri Lanka"
+  }
+}

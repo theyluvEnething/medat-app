@@ -1,0 +1,15 @@
+{
+  "id": 1203,
+  "set": 81,
+  "set_index": 3,
+  "answer": "E",
+  "answer_word": "KLAVIERTASTE",
+  "options": {
+    "A": "L",
+    "B": "V",
+    "C": "A",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I V S A L R A K T E E T"
+}

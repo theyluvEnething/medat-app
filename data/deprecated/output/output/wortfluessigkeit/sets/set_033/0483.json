@@ -1,0 +1,15 @@
+{
+  "id": 483,
+  "set": 33,
+  "set_index": 3,
+  "answer": "D",
+  "answer_word": "NEURON",
+  "options": {
+    "A": "R",
+    "B": "O",
+    "C": "E",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E N U O N R"
+}

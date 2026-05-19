@@ -1,0 +1,15 @@
+{
+  "id": 584,
+  "set": 39,
+  "set_index": 14,
+  "answer": "B",
+  "answer_word": "KNOCHEN",
+  "options": {
+    "A": "C",
+    "B": "K",
+    "C": "H",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N E O N H C K"
+}

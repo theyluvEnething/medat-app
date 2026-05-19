@@ -1,0 +1,7 @@
+Zahlenfolge: 32 42 56 74 96 122 152 ? ?
+
+A) 191/211
+B) 184/224
+C) 169/211
+D) 169/238
+E) KeinederAntwortenistrichtig

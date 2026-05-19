@@ -1,0 +1,15 @@
+{
+  "id": 828,
+  "set": 56,
+  "set_index": 3,
+  "answer": "C",
+  "answer_word": "FESTPLATTE",
+  "options": {
+    "A": "E",
+    "B": "T",
+    "C": "F",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E T L P F S T A E T"
+}

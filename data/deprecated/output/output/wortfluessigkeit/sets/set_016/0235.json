@@ -1,0 +1,15 @@
+{
+  "id": 235,
+  "set": 16,
+  "set_index": 10,
+  "answer": "D",
+  "answer_word": "BARRIKADE",
+  "options": {
+    "A": "A",
+    "B": "I",
+    "C": "E",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I D E A B R R K A"
+}

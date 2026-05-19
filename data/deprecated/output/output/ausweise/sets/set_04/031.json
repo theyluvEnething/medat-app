@@ -1,0 +1,15 @@
+{
+  "id": 31,
+  "set": 4,
+  "set_index": 7,
+  "image": "031.png",
+  "fields": {
+    "Name": "WAKMOL",
+    "Geburtstag": "10. Juli",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Sorbinsäure",
+    "Ausweisnummer": "18064",
+    "Ausstellungsland": "Kolumbien"
+  }
+}

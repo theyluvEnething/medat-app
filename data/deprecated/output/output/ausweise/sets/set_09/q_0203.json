@@ -1,0 +1,14 @@
+{
+  "id": 203,
+  "set": 9,
+  "set_index": 3,
+  "answer": "C",
+  "text": "WelcheBlutgruppehatdiePersonmit dem15.SeptemberalsGeburtstag?",
+  "options": {
+    "A": "0",
+    "B": "AB",
+    "C": "A",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

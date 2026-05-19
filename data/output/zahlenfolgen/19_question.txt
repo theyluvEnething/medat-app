@@ -1,0 +1,7 @@
+Zahlenfolge: 46 35 53 70 74 140 109 ? ?
+
+A) 291/148
+B) 280/158
+C) 148/291
+D) 296/155
+E) KeinederAntwortenistrichtig

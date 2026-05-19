@@ -1,0 +1,15 @@
+{
+  "id": 675,
+  "set": 45,
+  "set_index": 15,
+  "answer": "E",
+  "answer_word": "EINTOPF",
+  "options": {
+    "A": "I",
+    "B": "N",
+    "C": "P",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T P O E N F I"
+}

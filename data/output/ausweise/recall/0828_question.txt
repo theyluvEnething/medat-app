@@ -1,0 +1,7 @@
+WielautetdieAusweisnummerder PersonmitdemNamenVRORMAN?
+
+A) 83754
+B) 45313
+C) 86945
+D) 99142
+E) KeinederAntwortenistrichtig

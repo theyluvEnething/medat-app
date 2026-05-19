@@ -1,0 +1,14 @@
+{
+  "id": 858,
+  "set": 35,
+  "set_index": 8,
+  "answer": "D",
+  "text": "WievielePersonenhabeneinenAusweis ausKatar?",
+  "options": {
+    "A": "1",
+    "B": "2",
+    "C": "4",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

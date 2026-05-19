@@ -1,0 +1,15 @@
+{
+  "id": 128,
+  "set": 16,
+  "set_index": 8,
+  "image": "128.png",
+  "fields": {
+    "Name": "DRUKKO",
+    "Geburtstag": "13. Juli",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Ephedrin",
+    "Ausweisnummer": "06976",
+    "Ausstellungsland": "Afghanistan"
+  }
+}

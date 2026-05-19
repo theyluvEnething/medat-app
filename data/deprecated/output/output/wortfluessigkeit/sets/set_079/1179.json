@@ -1,0 +1,15 @@
+{
+  "id": 1179,
+  "set": 79,
+  "set_index": 9,
+  "answer": "D",
+  "answer_word": "PANIKATTACKE",
+  "options": {
+    "A": "E",
+    "B": "A",
+    "C": "I",
+    "D": "P",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C K A E A T T I K A P N"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 608,
+  "set": 25,
+  "set_index": 8,
+  "answer": "C",
+  "text": "WieheißtdiePersonmitder Ausweisnummerbeginnendmit30?",
+  "options": {
+    "A": "JIRKOL",
+    "B": "TUBMAL",
+    "C": "VEILKOM",
+    "D": "NEQUQUA",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

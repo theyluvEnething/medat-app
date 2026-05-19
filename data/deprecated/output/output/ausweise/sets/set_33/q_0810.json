@@ -1,0 +1,14 @@
+{
+  "id": 810,
+  "set": 33,
+  "set_index": 10,
+  "answer": "A",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitderAusweisnummer endendmit26?",
+  "options": {
+    "A": "Andorra",
+    "B": "Südsudan",
+    "C": "Ghana",
+    "D": "Schweden",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

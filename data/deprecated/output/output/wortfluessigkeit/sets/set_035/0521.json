@@ -1,0 +1,15 @@
+{
+  "id": 521,
+  "set": 35,
+  "set_index": 11,
+  "answer": "D",
+  "answer_word": "KONSULTATION",
+  "options": {
+    "A": "A",
+    "B": "O",
+    "C": "U",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I O T L U T K N A O N S"
+}

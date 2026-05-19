@@ -1,0 +1,9 @@
+Prämissen:
+- AlleWasserfällesindSpritzer.
+- AlleDuschensindWasserfälle.
+
+A) AlleDuschensindSpritzer.
+B) AlleDuschensindkeineSpritzer.
+C) EinigeDuschensindSpritzer.
+D) EinigeDuschensindkeineSpritzer.
+E) KeinederSchlussfolgerungenistrichtig.

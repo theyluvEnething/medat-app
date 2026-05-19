@@ -1,0 +1,14 @@
+{
+  "id": 896,
+  "set": 36,
+  "set_index": 21,
+  "answer": "C",
+  "text": "WelcheBlutgruppehatdiePersonmit dem13.DezemberalsGeburtstag?",
+  "options": {
+    "A": "B",
+    "B": "AB",
+    "C": "0",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

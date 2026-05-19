@@ -1,0 +1,17 @@
+{
+  "id": 16,
+  "set": 2,
+  "set_index": 6,
+  "answer": "E",
+  "premises": [
+    "EinigeKernesindkeineNukleonen.",
+    "EinigeAtomesindkeineNukleonen."
+  ],
+  "conclusions": {
+    "A": "AlleKernesindAtome.",
+    "B": "AlleKernesindkeineAtome.",
+    "C": "EinigeKernesindAtome.",
+    "D": "EinigeKernesindkeineAtome.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

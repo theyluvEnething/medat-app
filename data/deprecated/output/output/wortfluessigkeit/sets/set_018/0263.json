@@ -1,0 +1,15 @@
+{
+  "id": 263,
+  "set": 18,
+  "set_index": 8,
+  "answer": "B",
+  "answer_word": "ANZUG",
+  "options": {
+    "A": "N",
+    "B": "A",
+    "C": "G",
+    "D": "Z",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U N G Z A"
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- AllePCssindTastaturen.
+- AlleLaptopssindPCs.
+
+A) AlleLaptopssindTastaturen.
+B) AlleLaptopssindkeineTastaturen.
+C) EinigeLaptopssindTastaturen.
+D) EinigeLaptopssindkeineTastaturen.
+E) KeinederSchlussfolgerungenistrichtig.

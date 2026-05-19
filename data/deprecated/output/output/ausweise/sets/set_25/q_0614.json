@@ -1,0 +1,14 @@
+{
+  "id": 614,
+  "set": 25,
+  "set_index": 14,
+  "answer": "A",
+  "text": "WannistderGeburtstagderPersonmit Ausweisnummer04521?",
+  "options": {
+    "A": "8.Juli",
+    "B": "9.März",
+    "C": "3.Oktober",
+    "D": "4.August",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

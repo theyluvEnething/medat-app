@@ -1,0 +1,14 @@
+{
+  "id": 910,
+  "set": 37,
+  "set_index": 10,
+  "answer": "E",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer19781?",
+  "options": {
+    "A": "Schwefeldioxid,Tintenfische",
+    "B": "Erdnüsse",
+    "C": "Himbeeren",
+    "D": "Milchzucker,Mango,Hamster",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

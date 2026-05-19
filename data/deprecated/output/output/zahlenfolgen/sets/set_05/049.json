@@ -1,0 +1,16 @@
+{
+  "id": 49,
+  "set": 5,
+  "set_index": 9,
+  "answer": "D",
+  "answer_value": "34/54",
+  "explanation": "1erSprungmit2Systemen:[-7]und[+20]",
+  "sequence": "2 -5 15 8 28 21 41 ? ?",
+  "options": {
+    "A": "46/38",
+    "B": "34/65",
+    "C": "28/38",
+    "D": "34/54",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

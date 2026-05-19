@@ -1,0 +1,15 @@
+{
+  "id": 519,
+  "set": 35,
+  "set_index": 9,
+  "answer": "E",
+  "answer_word": "PFARRE",
+  "options": {
+    "A": "A",
+    "B": "E",
+    "C": "F",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R F P R A E"
+}

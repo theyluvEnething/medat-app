@@ -1,0 +1,15 @@
+{
+  "id": 1051,
+  "set": 71,
+  "set_index": 1,
+  "answer": "B",
+  "answer_word": "SPIELERWECHSEL",
+  "options": {
+    "A": "L",
+    "B": "S",
+    "C": "H",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C S W E E E S H R P I L E L"
+}

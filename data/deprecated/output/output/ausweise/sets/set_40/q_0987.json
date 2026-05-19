@@ -1,0 +1,14 @@
+{
+  "id": 987,
+  "set": 40,
+  "set_index": 12,
+  "answer": "B",
+  "text": "WelcheganzenAllergienhatdiePerson mitdemNamenUNERAM?",
+  "options": {
+    "A": "Kartoffeln,Ulme",
+    "B": "Rispengras,Beifuß",
+    "C": "Traubenkraut,Sojabohnen",
+    "D": "Mandarinen",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

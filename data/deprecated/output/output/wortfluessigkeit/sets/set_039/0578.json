@@ -1,0 +1,15 @@
+{
+  "id": 578,
+  "set": 39,
+  "set_index": 8,
+  "answer": "B",
+  "answer_word": "LIEBESBRIEF",
+  "options": {
+    "A": "E",
+    "B": "L",
+    "C": "R",
+    "D": "F",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "B E S E R E I I L F B"
+}

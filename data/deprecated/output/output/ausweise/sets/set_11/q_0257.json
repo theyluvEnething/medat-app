@@ -1,0 +1,14 @@
+{
+  "id": 257,
+  "set": 11,
+  "set_index": 7,
+  "answer": "A",
+  "text": "WievielePersonennehmenKEINE Medikamenteein?",
+  "options": {
+    "A": "3",
+    "B": "6",
+    "C": "1",
+    "D": "2",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

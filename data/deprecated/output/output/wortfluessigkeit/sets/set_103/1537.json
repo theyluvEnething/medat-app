@@ -1,0 +1,15 @@
+{
+  "id": 1537,
+  "set": 103,
+  "set_index": 7,
+  "answer": "E",
+  "answer_word": "OPERATION",
+  "options": {
+    "A": "A",
+    "B": "R",
+    "C": "E",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "P N T A R O O E I"
+}

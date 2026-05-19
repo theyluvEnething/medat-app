@@ -1,0 +1,7 @@
+MitwelchenZiffernbeginnt dieAusweisnummerder PersonmitdiesemBild?
+
+A) 15
+B) 22
+C) 10
+D) 25
+E) KeinederAntwortenistrichtig

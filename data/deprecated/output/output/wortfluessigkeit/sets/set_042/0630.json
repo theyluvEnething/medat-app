@@ -1,0 +1,15 @@
+{
+  "id": 630,
+  "set": 42,
+  "set_index": 15,
+  "answer": "A",
+  "answer_word": "BANDAGE",
+  "options": {
+    "A": "B",
+    "B": "E",
+    "C": "D",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A G A E D B N"
+}

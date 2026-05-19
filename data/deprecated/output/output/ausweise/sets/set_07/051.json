@@ -1,0 +1,15 @@
+{
+  "id": 51,
+  "set": 7,
+  "set_index": 3,
+  "image": "051.png",
+  "fields": {
+    "Name": "MICVRINT",
+    "Geburtstag": "3. Dezember",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Avocado, Glukosesirup",
+    "Ausweisnummer": "39574",
+    "Ausstellungsland": "Costa Rica"
+  }
+}

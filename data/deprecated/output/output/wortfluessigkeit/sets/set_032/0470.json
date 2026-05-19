@@ -1,0 +1,15 @@
+{
+  "id": 470,
+  "set": 32,
+  "set_index": 5,
+  "answer": "D",
+  "answer_word": "PILGER",
+  "options": {
+    "A": "R",
+    "B": "L",
+    "C": "G",
+    "D": "P",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I G E P R L"
+}

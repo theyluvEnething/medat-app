@@ -1,0 +1,7 @@
+Zahlenfolge: 126 117 108 99 81 72 63 ? ?
+
+A) 54/23
+B) 54/45
+C) 45/54
+D) 60/45
+E) KeinederAntwortenistrichtig

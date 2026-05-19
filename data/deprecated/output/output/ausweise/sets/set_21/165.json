@@ -1,0 +1,15 @@
+{
+  "id": 165,
+  "set": 21,
+  "set_index": 5,
+  "image": "165.png",
+  "fields": {
+    "Name": "XREDNOI",
+    "Geburtstag": "12. Juli",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Teebaumöl",
+    "Ausweisnummer": "49334",
+    "Ausstellungsland": "Guyana"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": 787,
+  "set": 32,
+  "set_index": 12,
+  "answer": "C",
+  "text": "WelcheBlutgruppehatdiePersonmit AllergiegegenFeigen,Schokoladeund Sonne?",
+  "options": {
+    "A": "B",
+    "B": "0",
+    "C": "AB",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": 832,
+  "set": 34,
+  "set_index": 7,
+  "answer": "B",
+  "text": "WelcheganzenAllergienhatdiePerson mitdemNamenJAVBOR?",
+  "options": {
+    "A": "Latex",
+    "B": "Latex,Kiwi,Ovalbumin",
+    "C": "Spinat,Veilchen,Kupfer",
+    "D": "Paraben,Petersilie,Ananas",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

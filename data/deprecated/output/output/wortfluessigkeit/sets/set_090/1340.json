@@ -1,0 +1,15 @@
+{
+  "id": 1340,
+  "set": 90,
+  "set_index": 5,
+  "answer": "A",
+  "answer_word": "VOLKSCHOR",
+  "options": {
+    "A": "V",
+    "B": "L",
+    "C": "S",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C L S H O V K R O"
+}

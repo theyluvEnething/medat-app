@@ -1,0 +1,9 @@
+Prämissen:
+- EinigeToastersindMixer.
+- AlleSiebesindMixer.
+
+A) AlleSiebesindToaster.
+B) AlleSiebesindkeineToaster.
+C) EinigeSiebesindToaster.
+D) EinigeSiebesindkeineToaster.
+E) KeinederSchlussfolgerungenistrichtig.

@@ -1,0 +1,15 @@
+{
+  "id": 157,
+  "set": 20,
+  "set_index": 5,
+  "image": "157.png",
+  "fields": {
+    "Name": "REDMOS",
+    "Geburtstag": "9. Mai",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Vanille, Thiomersal",
+    "Ausweisnummer": "96599",
+    "Ausstellungsland": "Swasiland"
+  }
+}

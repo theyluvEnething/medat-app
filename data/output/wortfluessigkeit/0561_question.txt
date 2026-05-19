@@ -1,0 +1,7 @@
+Buchstabenreihe: T F I K S I L
+
+A) T
+B) K
+C) S
+D) L
+E) KeinederAntwortenistrichtig

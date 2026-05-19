@@ -1,0 +1,16 @@
+{
+  "id": 53,
+  "set": 6,
+  "set_index": 3,
+  "answer": "D",
+  "answer_value": "63/54",
+  "explanation": "A₂=A₁-QuersummeA₁",
+  "sequence": "130 126 117 108 99 81 72 ? ?",
+  "options": {
+    "A": "50/59",
+    "B": "63/57",
+    "C": "63/44",
+    "D": "63/54",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

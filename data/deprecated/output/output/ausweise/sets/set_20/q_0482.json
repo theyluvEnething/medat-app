@@ -1,0 +1,14 @@
+{
+  "id": 482,
+  "set": 20,
+  "set_index": 7,
+  "answer": "D",
+  "text": "WelcheBlutgruppehatdiePersonmit demGeschlechtweiblichund AusstellungslandMauretanien?",
+  "options": {
+    "A": "B",
+    "B": "AB",
+    "C": "A",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

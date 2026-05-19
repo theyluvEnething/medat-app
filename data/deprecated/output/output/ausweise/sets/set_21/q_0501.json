@@ -1,0 +1,14 @@
+{
+  "id": 501,
+  "set": 21,
+  "set_index": 1,
+  "answer": "D",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitAllergiegegenHausstaub undBrombeeren?",
+  "options": {
+    "A": "Slowakei",
+    "B": "CostaRica",
+    "C": "KapVerde",
+    "D": "Kirgisistan",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

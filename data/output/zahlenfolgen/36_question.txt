@@ -1,0 +1,7 @@
+Zahlenfolge: 20 28 42 68 112 180 278 ? ?
+
+A) 412/588
+B) 401/591
+C) 423/586
+D) 401/587
+E) KeinederAntwortenistrichtig

@@ -1,0 +1,15 @@
+{
+  "id": 180,
+  "set": 12,
+  "set_index": 15,
+  "answer": "A",
+  "answer_word": "LYRIK",
+  "options": {
+    "A": "L",
+    "B": "I",
+    "C": "Y",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I R L K Y"
+}

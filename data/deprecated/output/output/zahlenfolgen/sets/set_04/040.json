@@ -1,0 +1,16 @@
+{
+  "id": 40,
+  "set": 4,
+  "set_index": 10,
+  "answer": "E",
+  "answer_value": "-274/-395",
+  "explanation": "-4²,-5²,-6²,-7²,...",
+  "sequence": "97 81 56 20 -29 -93 -174 ? ?",
+  "options": {
+    "A": "-395/-274",
+    "B": "-274/-382",
+    "C": "-374/-260",
+    "D": "-271/-405",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

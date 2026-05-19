@@ -1,0 +1,15 @@
+{
+  "id": 1270,
+  "set": 85,
+  "set_index": 10,
+  "answer": "A",
+  "answer_word": "KOHLENHYDRAT",
+  "options": {
+    "A": "K",
+    "B": "T",
+    "C": "H",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E H H O K T Y R N L D A"
+}

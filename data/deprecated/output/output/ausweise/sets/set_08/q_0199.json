@@ -1,0 +1,11 @@
+{
+  "id": 199,
+  "set": 8,
+  "set_index": 24,
+  "answer": "A",
+  "text": "WelchesFotogehörtzuderPersonmit AllergiegegenSardinen?",
+  "options": {
+    "A": "B. C. D.",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

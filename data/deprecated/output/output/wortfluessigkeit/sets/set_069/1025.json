@@ -1,0 +1,15 @@
+{
+  "id": 1025,
+  "set": 69,
+  "set_index": 5,
+  "answer": "D",
+  "answer_word": "WASSERPUMPE",
+  "options": {
+    "A": "S",
+    "B": "R",
+    "C": "P",
+    "D": "W",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E R M A S P W U E S P"
+}

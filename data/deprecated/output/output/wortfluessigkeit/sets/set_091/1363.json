@@ -1,0 +1,15 @@
+{
+  "id": 1363,
+  "set": 91,
+  "set_index": 13,
+  "answer": "C",
+  "answer_word": "KLEIDERSCHRANK",
+  "options": {
+    "A": "S",
+    "B": "H",
+    "C": "K",
+    "D": "C",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A E N L H S R C D I R K E K"
+}

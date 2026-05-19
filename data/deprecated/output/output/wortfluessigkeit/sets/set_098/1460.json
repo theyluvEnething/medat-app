@@ -1,0 +1,15 @@
+{
+  "id": 1460,
+  "set": 98,
+  "set_index": 5,
+  "answer": "B",
+  "answer_word": "AUSLAUF",
+  "options": {
+    "A": "U",
+    "B": "A",
+    "C": "L",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U A L S U A F"
+}

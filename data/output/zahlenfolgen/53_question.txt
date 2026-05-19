@@ -1,0 +1,7 @@
+Zahlenfolge: 130 126 117 108 99 81 72 ? ?
+
+A) 50/59
+B) 63/57
+C) 63/44
+D) 63/54
+E) KeinederAntwortenistrichtig

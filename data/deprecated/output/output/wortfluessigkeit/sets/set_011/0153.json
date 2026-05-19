@@ -1,0 +1,15 @@
+{
+  "id": 153,
+  "set": 11,
+  "set_index": 3,
+  "answer": "D",
+  "answer_word": "PLAGE",
+  "options": {
+    "A": "L",
+    "B": "G",
+    "C": "A",
+    "D": "P",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L P A E G"
+}

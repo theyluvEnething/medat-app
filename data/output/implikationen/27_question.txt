@@ -1,0 +1,9 @@
+Prämissen:
+- EinigeBackwarensindGetreide.
+- AlleBackwarensindBrote.
+
+A) AlleBrotesindGetreide.
+B) AlleBrotesindkeineGetreide.
+C) EinigeBrotesindGetreide.
+D) EinigeBrotesindkeineGetreide.
+E) KeinederSchlussfolgerungenistrichtig.

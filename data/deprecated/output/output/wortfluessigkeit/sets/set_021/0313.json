@@ -1,0 +1,15 @@
+{
+  "id": 313,
+  "set": 21,
+  "set_index": 13,
+  "answer": "A",
+  "answer_word": "VERLAUF",
+  "options": {
+    "A": "V",
+    "B": "L",
+    "C": "R",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E U F A R L V"
+}

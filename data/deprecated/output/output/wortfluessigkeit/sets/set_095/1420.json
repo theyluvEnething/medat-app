@@ -1,0 +1,15 @@
+{
+  "id": 1420,
+  "set": 95,
+  "set_index": 10,
+  "answer": "D",
+  "answer_word": "SCHLAGSAHNE",
+  "options": {
+    "A": "L",
+    "B": "A",
+    "C": "H",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A G E L C H S S N H A"
+}

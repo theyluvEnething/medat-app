@@ -1,0 +1,17 @@
+{
+  "id": 6,
+  "set": 1,
+  "set_index": 6,
+  "answer": "D",
+  "premises": [
+    "AlleDBsindkeineDO.",
+    "EinigeDBsindDMB."
+  ],
+  "conclusions": {
+    "A": "AlleDMBsindDO.",
+    "B": "AlleDMBsindkeineDO.",
+    "C": "EinigeDMBsindDO.",
+    "D": "EinigeDMBsindkeineDO.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

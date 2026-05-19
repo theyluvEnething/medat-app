@@ -1,0 +1,15 @@
+{
+  "id": 468,
+  "set": 32,
+  "set_index": 3,
+  "answer": "C",
+  "answer_word": "ATEMLUFT",
+  "options": {
+    "A": "E",
+    "B": "M",
+    "C": "A",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T L M E T F A U"
+}

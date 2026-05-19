@@ -1,0 +1,15 @@
+{
+  "id": 172,
+  "set": 12,
+  "set_index": 7,
+  "answer": "C",
+  "answer_word": "QUERSUMME",
+  "options": {
+    "A": "U",
+    "B": "M",
+    "C": "Q",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U M R U E E Q S M"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 65,
+  "set": 7,
+  "set_index": 5,
+  "answer": "D",
+  "premises": [
+    "AllePizzassindkeineTeigwaren.",
+    "AllePizzassindNudeln.",
+    "8"
+  ],
+  "conclusions": {
+    "A": "AlleNudelnsindTeigwaren.",
+    "B": "AlleNudelnsindkeineTeigwaren.",
+    "C": "EinigeNudelnsindTeigwaren.",
+    "D": "EinigeNudelnsindkeineTeigwaren.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

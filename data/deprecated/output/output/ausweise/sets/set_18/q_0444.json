@@ -1,0 +1,14 @@
+{
+  "id": 444,
+  "set": 18,
+  "set_index": 19,
+  "answer": "A",
+  "text": "WielautetdieAusweisnummerder PersonmitunteranderemAllergiegegen Pflaster?",
+  "options": {
+    "A": "23830",
+    "B": "32402",
+    "C": "49332",
+    "D": "66969",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

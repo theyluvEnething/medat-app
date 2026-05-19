@@ -105,9 +105,10 @@ medat-app/
 │               ├── types.ts      # SectionKey, SectionConfig, Question,
 │               │                 #   SectionProgress, UserProgress, Screen, SECTION_ORDER
 │               ├── assets/
-│               │   ├── questions.json  # 3,365 questions (bundled at build time)
+│               │   ├── questions.json   # 3,365 questions (bundled at build time)
 │               │   ├── figuren/        # 255 cropped figure PNGs (001–255.png)
-│               │   └── ausweise/       # 320 ID card PNGs (001–320.png)
+│               │   ├── ausweise/       # 320 ID card PNGs (001–320.png)
+│               │   └── solutions/      # Full-page answer-key renders
 │               ├── components/
 │               │   ├── QuestionCard.tsx # Renders question content + A–E buttons
 │               │   ├── Timer.tsx        # Progress bar + M:SS countdown
@@ -131,23 +132,25 @@ medat-app/
     │   ├── wortfluessigkeit/
     │   ├── zahlenfolgen/
     │   └── ausweise/
-    ├── output/                    # Parsed JSON + images by section
-    │   ├── figuren/   (sets set_01–set_17, answers.json)
-    │   ├── implikationen/ (sets set_01–set_07, answers.json)
-    │   ├── wortfluessigkeit/ (sets set_001–set_110, answers.json)
-    │   ├── zahlenfolgen/ (sets set_01–set_07, answers.json)
-    │   └── ausweise/   (sets set_01–set_40, images/)
+    ├── output/                    # Flat text files + images by section
+    │   ├── figuren/   (001–255_question.txt/png + 001–255_solution.txt + solutions/)
+    │   ├── implikationen/ (01–70_question.txt + 01–70_solution.txt)
+    │   ├── wortfluessigkeit/ (0001–1650_question.txt + 0001–1650_solution.txt)
+    │   ├── zahlenfolgen/ (01–70_question.txt + 01–70_solution.txt)
+    │   └── ausweise/
+    │       ├── cards/   (001–320_question.png + 001–320_question.txt)
+    │       └── recall/  (0001–1000_question.txt + 0001–1000_solution.txt)
     └── src/
         └── medat_parser/
             ├── pdf_parser.py          # Unified entry point (dispatches to section parsers)
-            ├── figuren_parser.py      # Figuren: PDF → JSON + cropped PNGs
+            ├── figuren_parser.py      # Figuren: PDF → flat text + cropped PNGs
             ├── implikationen_parser.py
             ├── wortfluessigkeit_parser.py
             ├── zahlenfolgen_parser.py
-            ├── ausweise_parser.py     # Ausweise: PDF → card JSONs + recall questions
-            ├── converter.py           # output/ → app's questions.json (flat by section)
-            ├── merge.py               # Merges multiple PDF outputs into unified output/
-            ├── models.py              # Pydantic data models
+            ├── ausweise_parser.py     # Ausweise: PDF → card PNGs + recall questions
+            ├── converter.py           # flat output/ → app's questions.json (bundled JSON)
+            ├── merge.py               # Merges new PDF outputs into existing output/
+            ├── models.py              # Shared enums and constants
             └── utils.py               # Shared text extraction helpers
 ```
 
@@ -169,9 +172,17 @@ medat-app/
    ```bash
    uv run medat-convert --input output --output ../app/src/renderer/src/assets/questions.json
    ```
-4. If the parser produced images, copy them into the app assets:
+4. If the parser produced images, copy them into the app assets (strip `_question` suffix):
    ```bash
-   cp data/output/<section>/sets/set_*/*.png app/src/renderer/src/assets/<section>/
+   for f in data/output/figuren/*_question.png; do
+       base=$(basename "$f" _question.png)
+       cp "$f" "app/src/renderer/src/assets/figuren/${base}.png"
+   done
+   for f in data/output/ausweise/cards/*_question.png; do
+       base=$(basename "$f" _question.png)
+       cp "$f" "app/src/renderer/src/assets/ausweise/${base}.png"
+   done
+   cp data/output/figuren/solutions/*.png app/src/renderer/src/assets/solutions/
    ```
 5. Rebuild the app (`npm run dev` or `npm run build`)
 
@@ -179,12 +190,12 @@ medat-app/
 
 See `data/DATA_FORMAT.md` for the complete parser output JSON schema and ID conventions.
 
-The converter (`converter.py`) flattens the rich parser output into a simple `Record<section, Question[]>` JSON format:
+The converter (`converter.py`) reads flat text files from `output/` and produces a `Record<section, Question[]>` JSON file:
 
 ```json
 {
   "figuren": [
-    {"section": "figuren", "id": 1, "answer": "C", "content": "[Bild: Figur 1]"}
+    {"section": "figuren", "id": 1, "answer": "C", "content": "Figuren zusammensetzen\nFrage 1"}
   ],
   "ausweise_memorize": [
     {

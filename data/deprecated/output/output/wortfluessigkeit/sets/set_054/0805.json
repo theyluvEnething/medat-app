@@ -1,0 +1,15 @@
+{
+  "id": 805,
+  "set": 54,
+  "set_index": 10,
+  "answer": "A",
+  "answer_word": "WALZER",
+  "options": {
+    "A": "W",
+    "B": "E",
+    "C": "R",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E R L W A Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 355,
+  "set": 15,
+  "set_index": 5,
+  "answer": "D",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer85474?",
+  "options": {
+    "A": "Cochenillerot,Thiomersal,Silber",
+    "B": "Silber,Kaviar",
+    "C": "Botrytis,Bananen",
+    "D": "Cochenillerot",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 852,
+  "set": 57,
+  "set_index": 12,
+  "answer": "D",
+  "answer_word": "JUNGFRAU",
+  "options": {
+    "A": "F",
+    "B": "G",
+    "C": "R",
+    "D": "J",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "F U G R A J U N"
+}

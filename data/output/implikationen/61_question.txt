@@ -1,0 +1,9 @@
+Prämissen:
+- EinigeWalnüssesindkeinePfirsiche.
+- AlleKastaniensindkeineWalnüsse.
+
+A) AllePfirsichesindKastanien.
+B) AllePfirsichesindkeineKastanien.
+C) EinigePfirsichesindKastanien.
+D) EinigePfirsichesindkeineKastanien.
+E) KeinederSchlussfolgerungenistrichtig.

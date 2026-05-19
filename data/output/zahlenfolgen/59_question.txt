@@ -1,0 +1,7 @@
+Zahlenfolge: 22 26 26 30 30 34 34 ? ?
+
+A) 38/38
+B) 38/38
+C) 46/17
+D) 46/40
+E) KeinederAntwortenistrichtig

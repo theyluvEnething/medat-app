@@ -1,0 +1,15 @@
+{
+  "id": 11,
+  "set": 2,
+  "set_index": 3,
+  "image": "011.png",
+  "fields": {
+    "Name": "GINDORFS",
+    "Geburtstag": "27. Juli",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Sulfite, Zitronen",
+    "Ausweisnummer": "33211",
+    "Ausstellungsland": "Trinidad und Tobago"
+  }
+}

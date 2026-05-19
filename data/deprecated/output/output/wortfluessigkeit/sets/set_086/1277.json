@@ -1,0 +1,15 @@
+{
+  "id": 1277,
+  "set": 86,
+  "set_index": 2,
+  "answer": "C",
+  "answer_word": "MOTORHAUBE",
+  "options": {
+    "A": "H",
+    "B": "T",
+    "C": "M",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A M H O T O E R B U"
+}

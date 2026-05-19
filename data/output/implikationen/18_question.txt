@@ -1,0 +1,9 @@
+Prämissen:
+- EinigeBildersindkeineGemälde.
+- AllePorträtssindGemälde.
+
+A) AlleBildersindPorträts.
+B) AlleBildersindkeinePorträts.
+C) EinigeBildersindPorträts.
+D) EinigeBildersindkeinePorträts.
+E) KeinederSchlussfolgerungenistrichtig.

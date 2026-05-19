@@ -1,0 +1,15 @@
+{
+  "id": 319,
+  "set": 40,
+  "set_index": 7,
+  "image": "319.png",
+  "fields": {
+    "Name": "SIZBAN",
+    "Geburtstag": "14. Juli",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Beifuß, Roggenmehl",
+    "Ausweisnummer": "80403",
+    "Ausstellungsland": "Dänemark"
+  }
+}

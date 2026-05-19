@@ -1,0 +1,10 @@
+Prämissen:
+- EinigeSatellitensindkeineRaketen.
+- AlleSatellitensindStationen.
+- 3
+
+A) AlleStationensindRaketen.
+B) AlleStationensindkeineRaketen.
+C) EinigeStationensindRaketen.
+D) EinigeStationensindkeineRaketen.
+E) KeinederSchlussfolgerungenistrichtig.

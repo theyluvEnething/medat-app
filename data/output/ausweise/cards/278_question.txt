@@ -1,0 +1,7 @@
+Name: PYLKARS
+Geburtstag: 18. August
+Medikamenteneinnahme: Ja
+Blutgruppe: 0
+Bekannte Allergien: Weißkohl
+Ausweisnummer: 74649
+Ausstellungsland: Cookinseln

@@ -1,0 +1,7 @@
+Zahlenfolge: 20 17 -3 14 17 31 14 ? ?
+
+A) 40/24
+B) 45/31
+C) 40/41
+D) 36/23
+E) KeinederAntwortenistrichtig

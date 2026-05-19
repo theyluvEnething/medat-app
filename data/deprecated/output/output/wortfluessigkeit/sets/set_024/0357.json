@@ -1,0 +1,15 @@
+{
+  "id": 357,
+  "set": 24,
+  "set_index": 12,
+  "answer": "B",
+  "answer_word": "REHBOCK",
+  "options": {
+    "A": "K",
+    "B": "R",
+    "C": "H",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C R B E K O H"
+}

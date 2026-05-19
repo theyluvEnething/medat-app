@@ -1,0 +1,15 @@
+{
+  "id": 1374,
+  "set": 92,
+  "set_index": 9,
+  "answer": "B",
+  "answer_word": "LICHTSCHALTER",
+  "options": {
+    "A": "H",
+    "B": "L",
+    "C": "A",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C T L C A R S I L H E T H"
+}

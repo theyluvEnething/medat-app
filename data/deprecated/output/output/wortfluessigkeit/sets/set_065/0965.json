@@ -1,0 +1,15 @@
+{
+  "id": 965,
+  "set": 65,
+  "set_index": 5,
+  "answer": "E",
+  "answer_word": "EINKAUF",
+  "options": {
+    "A": "F",
+    "B": "N",
+    "C": "K",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E F A K I N U"
+}

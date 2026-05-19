@@ -1,0 +1,14 @@
+{
+  "id": 635,
+  "set": 26,
+  "set_index": 10,
+  "answer": "E",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer73923?",
+  "options": {
+    "A": "Erdbeeren,Parvalbumin,Amaranth",
+    "B": "Kupfer,Mandarinen",
+    "C": "Oxaceprol,Mais",
+    "D": "Nickel",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

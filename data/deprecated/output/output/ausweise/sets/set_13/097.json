@@ -1,0 +1,15 @@
+{
+  "id": 97,
+  "set": 13,
+  "set_index": 1,
+  "image": "097.png",
+  "fields": {
+    "Name": "GRANLOR",
+    "Geburtstag": "21. Februar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Schafmilch, Sardinen,",
+    "Ausweisnummer": "99708",
+    "Ausstellungsland": "Mikronesien"
+  }
+}

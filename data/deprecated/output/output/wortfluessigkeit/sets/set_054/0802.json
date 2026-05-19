@@ -1,0 +1,15 @@
+{
+  "id": 802,
+  "set": 54,
+  "set_index": 7,
+  "answer": "E",
+  "answer_word": "LEKTOR",
+  "options": {
+    "A": "E",
+    "B": "R",
+    "C": "T",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R E L O T K"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 894,
+  "set": 60,
+  "set_index": 9,
+  "answer": "C",
+  "answer_word": "GEBETSKREIS",
+  "options": {
+    "A": "B",
+    "B": "I",
+    "C": "G",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "K S R G E B T E S E I"
+}

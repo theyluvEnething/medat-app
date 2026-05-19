@@ -1,0 +1,15 @@
+{
+  "id": 122,
+  "set": 9,
+  "set_index": 2,
+  "answer": "B",
+  "answer_word": "LYSOSOM",
+  "options": {
+    "A": "O",
+    "B": "L",
+    "C": "S",
+    "D": "M",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O L S M O Y S"
+}

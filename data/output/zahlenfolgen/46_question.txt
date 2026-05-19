@@ -1,0 +1,7 @@
+Zahlenfolge: -5 3 13 33 71 135 233 ? ?
+
+A) 382/578
+B) 356/559
+C) 356/548
+D) 370/563
+E) KeinederAntwortenistrichtig

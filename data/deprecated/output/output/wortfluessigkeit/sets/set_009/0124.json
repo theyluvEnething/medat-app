@@ -1,0 +1,15 @@
+{
+  "id": 124,
+  "set": 9,
+  "set_index": 4,
+  "answer": "D",
+  "answer_word": "TOMATE",
+  "options": {
+    "A": "O",
+    "B": "A",
+    "C": "M",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "M E T A O T"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1605,
+  "set": 107,
+  "set_index": 15,
+  "answer": "A",
+  "answer_word": "DENKWEISE",
+  "options": {
+    "A": "D",
+    "B": "W",
+    "C": "N",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E D N W I E K S E"
+}

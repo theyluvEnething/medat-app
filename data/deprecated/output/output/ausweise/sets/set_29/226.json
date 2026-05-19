@@ -1,0 +1,15 @@
+{
+  "id": 226,
+  "set": 29,
+  "set_index": 2,
+  "image": "226.png",
+  "fields": {
+    "Name": "FANZUM",
+    "Geburtstag": "22. April",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Rosen, Kokosnüsse, Chrom",
+    "Ausweisnummer": "19641",
+    "Ausstellungsland": "Bulgarien"
+  }
+}

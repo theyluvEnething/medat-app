@@ -1,0 +1,15 @@
+{
+  "id": 536,
+  "set": 36,
+  "set_index": 11,
+  "answer": "C",
+  "answer_word": "SCANNER",
+  "options": {
+    "A": "R",
+    "B": "E",
+    "C": "S",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N C A S N E R"
+}

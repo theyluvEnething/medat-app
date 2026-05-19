@@ -1,0 +1,15 @@
+{
+  "id": 1323,
+  "set": 89,
+  "set_index": 3,
+  "answer": "B",
+  "answer_word": "BERUFSGRUPPE",
+  "options": {
+    "A": "P",
+    "B": "B",
+    "C": "G",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "P E B R U P G S U F R E"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 642,
+  "set": 26,
+  "set_index": 17,
+  "answer": "A",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer00997?",
+  "options": {
+    "A": "Baumwolle,Fruchtzucker",
+    "B": "Sojabohnen",
+    "C": "Nickel",
+    "D": "Cochenillerot",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

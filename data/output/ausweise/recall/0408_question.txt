@@ -1,0 +1,7 @@
+WelcheganzenAllergienhatdiePerson mitBlutgruppe0?
+
+A) Kobalt,Senf
+B) Oxaceprol,Esskastanie
+C) Tartrazin,Esskastanie
+D) Austern,Johannisbeeren
+E) KeinederAntwortenistrichtig

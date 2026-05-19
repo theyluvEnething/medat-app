@@ -1,0 +1,15 @@
+{
+  "id": 1234,
+  "set": 83,
+  "set_index": 4,
+  "answer": "D",
+  "answer_word": "SCHREIBTISCH",
+  "options": {
+    "A": "I",
+    "B": "B",
+    "C": "C",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S R H S I B T E C C I H"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 255,
+  "set": 17,
+  "set_index": 15,
+  "answer": "C",
+  "answer_word": "MISSIONAR",
+  "options": {
+    "A": "S",
+    "B": "A",
+    "C": "M",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A R N M S I O I S"
+}

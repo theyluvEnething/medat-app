@@ -1,0 +1,15 @@
+{
+  "id": 794,
+  "set": 53,
+  "set_index": 14,
+  "answer": "B",
+  "answer_word": "VORTEST",
+  "options": {
+    "A": "O",
+    "B": "V",
+    "C": "E",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T E R V O S T"
+}

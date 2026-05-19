@@ -1,0 +1,14 @@
+{
+  "id": 717,
+  "set": 29,
+  "set_index": 17,
+  "answer": "D",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer05752?",
+  "options": {
+    "A": "Auberginen",
+    "B": "Paprika,Spinat",
+    "C": "Ethylalkohol",
+    "D": "Propolis,Käse",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

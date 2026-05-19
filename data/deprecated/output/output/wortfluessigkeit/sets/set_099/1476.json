@@ -1,0 +1,15 @@
+{
+  "id": 1476,
+  "set": 99,
+  "set_index": 6,
+  "answer": "B",
+  "answer_word": "AKKORD",
+  "options": {
+    "A": "O",
+    "B": "A",
+    "C": "D",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "K A R K O D"
+}

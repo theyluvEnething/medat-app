@@ -1,0 +1,15 @@
+{
+  "id": 565,
+  "set": 38,
+  "set_index": 10,
+  "answer": "C",
+  "answer_word": "IRRWITZ",
+  "options": {
+    "A": "Z",
+    "B": "T",
+    "C": "I",
+    "D": "W",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R R I I T Z W"
+}

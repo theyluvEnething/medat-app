@@ -2,11 +2,14 @@
 
 150 pages of questions (2 columns × 5 questions each), 12 pages of answers.
 Questions are globally numbered 1-1500, organized in 100 sets of 15.
+
+Output per question (flat directory):
+  NNNN_question.txt  — letter sequence + A–E options
+  NNNN_solution.txt  — answer letter + correct word
 """
 
 from __future__ import annotations
 
-import json
 import re
 from pathlib import Path
 
@@ -18,7 +21,7 @@ from medat_parser.utils import words_to_text
 def parse_wortfluessigkeit(pdf_path: Path, output_dir: Path) -> None:
     pdf = pdfplumber.open(str(pdf_path))
 
-    # Answer pages are at the end, starting from "Lösungen Wortflüssigkeit"
+    # Answer pages start from "Lösungen Wortflüssigkeit"
     answer_start = None
     for i, page in enumerate(pdf.pages):
         text = page.extract_text()
@@ -27,7 +30,7 @@ def parse_wortfluessigkeit(pdf_path: Path, output_dir: Path) -> None:
             break
 
     if answer_start is None:
-        answer_start = len(pdf.pages) - 12  # fallback
+        answer_start = len(pdf.pages) - 12
 
     # Parse answer key
     answers: dict[int, dict[str, str]] = {}
@@ -42,7 +45,7 @@ def parse_wortfluessigkeit(pdf_path: Path, output_dir: Path) -> None:
 
     # Parse questions from pages 1..answer_start-1
     all_questions: list[dict] = []
-    question_pages = pdf.pages[1:answer_start]  # skip title page
+    question_pages = pdf.pages[1:answer_start]
 
     for page in question_pages:
         words = page.extract_words(keep_blank_chars=True)
@@ -59,35 +62,35 @@ def parse_wortfluessigkeit(pdf_path: Path, output_dir: Path) -> None:
 
     pdf.close()
 
-    # Write output
-    sets_dir = output_dir / "sets"
-    sets_dir.mkdir(parents=True, exist_ok=True)
+    # Write flat output
+    output_dir.mkdir(parents=True, exist_ok=True)
 
     for q in all_questions:
-        set_dir = sets_dir / f"set_{q['set']:03d}"
-        set_dir.mkdir(parents=True, exist_ok=True)
-        q_file = set_dir / f"{q['id']:04d}.json"
-        q_file.write_text(json.dumps(q, ensure_ascii=False, indent=2), encoding="utf-8")
+        qid = q["id"]
 
-    # Write answers index
-    answers_file = output_dir / "answers.json"
-    answers_file.write_text(
-        json.dumps(answers, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
+        # Question text
+        opts = "\n".join(
+            f"{k}) {v}" for k, v in sorted(q["options"].items())
+        )
+        question_text = f"Buchstabenreihe: {q['sequence']}\n\n{opts}\n"
+        q_file = output_dir / f"{qid:04d}_question.txt"
+        q_file.write_text(question_text, encoding="utf-8")
 
-    max_set = max(q["set"] for q in all_questions) if all_questions else 0
-    print(f"Wortflüssigkeit: {len(all_questions)} questions in {max_set} sets")
+        word = q.get("answer_word", "")
+        solution_text = f"{q['answer']} — {word}\n" if word else f"{q['answer']}\n"
+        s_file = output_dir / f"{qid:04d}_solution.txt"
+        s_file.write_text(solution_text, encoding="utf-8")
+
+    max_id = max(q["id"] for q in all_questions) if all_questions else 0
+    print(f"Wortflüssigkeit: {len(all_questions)} questions (IDs 1–{max_id})")
 
 
 def _parse_column(text: str, answers: dict[int, dict[str, str]]) -> list[dict]:
-    """Parse a column of questions. Each question has a number, letter sequence, and A-E options."""
+    """Parse a column of questions. Each has a number, letter sequence, and A-E options."""
     questions: list[dict] = []
 
-    # Remove set header line
     text = re.sub(r"^\s*Übungsset\s+\d+\s*", "", text)
 
-    # Each question block starts with "N. " at line beginning
-    # The options follow on subsequent lines as "A. X", "B. X", etc.
     lines = text.strip().split("\n")
 
     current_q: dict | None = None
@@ -99,11 +102,8 @@ def _parse_column(text: str, answers: dict[int, dict[str, str]]) -> list[dict]:
         if not line:
             continue
 
-        # Check if this is a question number line: "N. letters..."
-        # Use search instead of match — stray chars may appear before the number
         qm = re.search(r"(\d+)\.\s+(.*)", line)
         if qm:
-            # Save previous question
             if current_q is not None:
                 current_q["options"] = current_options
                 current_q["sequence"] = current_sequence.strip()
@@ -129,17 +129,14 @@ def _parse_column(text: str, answers: dict[int, dict[str, str]]) -> list[dict]:
             current_sequence = sequence
             continue
 
-        # Option line: "A. X" or "E. KeinederAntwortenistrichtig"
         om = re.match(r"^([A-E])\.\s+(.*)", line)
         if om and current_q is not None:
             current_options[om.group(1)] = om.group(2)
             continue
 
-        # Continuation of sequence from previous line
-        if current_q is not None and not om:
+        if current_q is not None:
             current_sequence += " " + line
 
-    # Save last question
     if current_q is not None:
         current_q["options"] = current_options
         current_q["sequence"] = current_sequence.strip()
@@ -151,10 +148,10 @@ def _parse_column(text: str, answers: dict[int, dict[str, str]]) -> list[dict]:
 def main() -> None:
     import argparse
 
-    parser = argparse.ArgumentParser(description="Parse Wortflüssigkeit PDF")
-    parser.add_argument("--input", type=Path, required=True, help="Input PDF file")
-    parser.add_argument("--output", type=Path, required=True, help="Output directory")
-    args = parser.parse_args()
+    p = argparse.ArgumentParser(description="Parse Wortflüssigkeit PDF")
+    p.add_argument("--input", type=Path, required=True, help="Input PDF file")
+    p.add_argument("--output", type=Path, required=True, help="Output directory")
+    args = p.parse_args()
 
     parse_wortfluessigkeit(args.input, args.output)
 

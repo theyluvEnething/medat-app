@@ -1,0 +1,15 @@
+{
+  "id": 97,
+  "set": 7,
+  "set_index": 7,
+  "answer": "B",
+  "answer_word": "FRAGEBOGEN",
+  "options": {
+    "A": "B",
+    "B": "F",
+    "C": "N",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E E N F G G B R O A"
+}

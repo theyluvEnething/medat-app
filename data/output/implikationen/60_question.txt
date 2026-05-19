@@ -1,0 +1,10 @@
+Prämissen:
+- AlleRadfahrersindkeineSkifahrer.
+- AlleTurnersindRadfahrer.
+- 7
+
+A) AlleSkifahrersindTurner.
+B) AlleSkifahrersindkeineTurner.
+C) EinigeSkifahrersindTurner.
+D) EinigeSkifahrersindkeineTurner.
+E) KeinederSchlussfolgerungenistrichtig.

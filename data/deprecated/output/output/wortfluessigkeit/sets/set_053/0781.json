@@ -1,0 +1,15 @@
+{
+  "id": 781,
+  "set": 53,
+  "set_index": 1,
+  "answer": "E",
+  "answer_word": "ZAHNARZT",
+  "options": {
+    "A": "H",
+    "B": "T",
+    "C": "R",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "Z H A N T Z R A"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 172,
+  "set": 22,
+  "set_index": 4,
+  "image": "172.png",
+  "fields": {
+    "Name": "LISZONG",
+    "Geburtstag": "10. Juni",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Flusskrebse, Auberginen",
+    "Ausweisnummer": "40469",
+    "Ausstellungsland": "Estland"
+  }
+}

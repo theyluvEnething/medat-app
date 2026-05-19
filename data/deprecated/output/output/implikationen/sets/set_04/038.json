@@ -1,0 +1,17 @@
+{
+  "id": 38,
+  "set": 4,
+  "set_index": 8,
+  "answer": "A",
+  "premises": [
+    "AlleHölzersindStöcke.",
+    "AlleStützensindHölzer."
+  ],
+  "conclusions": {
+    "A": "AlleStützensindStöcke.",
+    "B": "AlleStützensindkeineStöcke.",
+    "C": "EinigeStützensindStöcke.",
+    "D": "EinigeStützensindkeineStöcke.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

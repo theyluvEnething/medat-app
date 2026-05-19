@@ -1,0 +1,15 @@
+{
+  "id": 864,
+  "set": 58,
+  "set_index": 9,
+  "answer": "B",
+  "answer_word": "KRANKENHAUS",
+  "options": {
+    "A": "R",
+    "B": "K",
+    "C": "U",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E K K N S R N A A U H"
+}

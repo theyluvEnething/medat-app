@@ -1,0 +1,15 @@
+{
+  "id": 569,
+  "set": 38,
+  "set_index": 14,
+  "answer": "A",
+  "answer_word": "EINWOHNER",
+  "options": {
+    "A": "E",
+    "B": "O",
+    "C": "I",
+    "D": "W",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E O E N R W H N I"
+}

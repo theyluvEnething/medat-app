@@ -1,0 +1,7 @@
+Name: FRISMAN
+Geburtstag: 9. August
+Medikamenteneinnahme: Ja
+Blutgruppe: AB
+Bekannte Allergien: Johannisbeeren
+Ausweisnummer: 96358
+Ausstellungsland: Uruguay

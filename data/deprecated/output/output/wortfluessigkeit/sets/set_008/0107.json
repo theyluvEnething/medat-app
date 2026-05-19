@@ -1,0 +1,15 @@
+{
+  "id": 107,
+  "set": 8,
+  "set_index": 2,
+  "answer": "B",
+  "answer_word": "ABREDE",
+  "options": {
+    "A": "D",
+    "B": "A",
+    "C": "R",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E R E A B D"
+}

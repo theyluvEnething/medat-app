@@ -1,0 +1,10 @@
+Prämissen:
+- AllePizzassindkeineTeigwaren.
+- AllePizzassindNudeln.
+- 8
+
+A) AlleNudelnsindTeigwaren.
+B) AlleNudelnsindkeineTeigwaren.
+C) EinigeNudelnsindTeigwaren.
+D) EinigeNudelnsindkeineTeigwaren.
+E) KeinederSchlussfolgerungenistrichtig.

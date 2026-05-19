@@ -1,0 +1,15 @@
+{
+  "id": 441,
+  "set": 30,
+  "set_index": 6,
+  "answer": "A",
+  "answer_word": "AUGAPFEL",
+  "options": {
+    "A": "A",
+    "B": "U",
+    "C": "F",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "G L A U A F P E"
+}

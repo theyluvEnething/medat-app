@@ -1,0 +1,14 @@
+{
+  "id": 147,
+  "set": 6,
+  "set_index": 22,
+  "answer": "C",
+  "text": "WannistderGeburtstagderPersonmit AusstellungslandPalau?",
+  "options": {
+    "A": "2.Februar",
+    "B": "17.Januar",
+    "C": "31.Juli",
+    "D": "23.Juli",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

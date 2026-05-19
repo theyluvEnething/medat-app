@@ -1,0 +1,15 @@
+{
+  "id": 1245,
+  "set": 83,
+  "set_index": 15,
+  "answer": "E",
+  "answer_word": "TASTATUR",
+  "options": {
+    "A": "R",
+    "B": "A",
+    "C": "S",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R S T A U T A T"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 176,
+  "set": 12,
+  "set_index": 11,
+  "answer": "B",
+  "answer_word": "VAKUUM",
+  "options": {
+    "A": "M",
+    "B": "V",
+    "C": "K",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "K U M A V U"
+}

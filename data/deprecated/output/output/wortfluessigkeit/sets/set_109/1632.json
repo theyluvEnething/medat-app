@@ -1,0 +1,15 @@
+{
+  "id": 1632,
+  "set": 109,
+  "set_index": 12,
+  "answer": "A",
+  "answer_word": "KERNKRAFTWERK",
+  "options": {
+    "A": "K",
+    "B": "F",
+    "C": "T",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R E E R N K R T W K F A K"
+}

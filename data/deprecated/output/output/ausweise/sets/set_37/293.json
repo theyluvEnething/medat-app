@@ -1,0 +1,15 @@
+{
+  "id": 293,
+  "set": 37,
+  "set_index": 5,
+  "image": "293.png",
+  "fields": {
+    "Name": "MAUKFOR",
+    "Geburtstag": "15. Januar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Bienenstich, Hamsterhaare",
+    "Ausweisnummer": "53804",
+    "Ausstellungsland": "Mongolei"
+  }
+}

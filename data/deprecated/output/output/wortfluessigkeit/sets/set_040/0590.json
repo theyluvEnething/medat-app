@@ -1,0 +1,15 @@
+{
+  "id": 590,
+  "set": 40,
+  "set_index": 5,
+  "answer": "A",
+  "answer_word": "KARAWANE",
+  "options": {
+    "A": "K",
+    "B": "W",
+    "C": "N",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E N K A R A W A"
+}

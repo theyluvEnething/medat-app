@@ -1,0 +1,15 @@
+{
+  "id": 713,
+  "set": 48,
+  "set_index": 8,
+  "answer": "B",
+  "answer_word": "WASSERMANN",
+  "options": {
+    "A": "M",
+    "B": "W",
+    "C": "S",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "M N A A S W S R N E"
+}

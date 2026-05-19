@@ -1,0 +1,15 @@
+{
+  "id": 7,
+  "set": 1,
+  "set_index": 7,
+  "image": "007.png",
+  "fields": {
+    "Name": "VLASDNOM",
+    "Geburtstag": "5. Februar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Forellen, Iod",
+    "Ausweisnummer": "98185",
+    "Ausstellungsland": "Südsudan"
+  }
+}

@@ -1,0 +1,7 @@
+Zahlenfolge: 14 19 29 49 89 169 329 ? ?
+
+A) 649/1289
+B) 634/1299
+C) 634/1276
+D) 644/1289
+E) KeinederAntwortenistrichtig

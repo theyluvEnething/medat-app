@@ -1,0 +1,15 @@
+{
+  "id": 1422,
+  "set": 95,
+  "set_index": 12,
+  "answer": "A",
+  "answer_word": "TRANSFORMATOR",
+  "options": {
+    "A": "T",
+    "B": "F",
+    "C": "M",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R N M O S R A A O T R F T"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 73,
+  "set": 10,
+  "set_index": 1,
+  "image": "073.png",
+  "fields": {
+    "Name": "JOLKAND",
+    "Geburtstag": "16. März",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Pollen",
+    "Ausweisnummer": "10645",
+    "Ausstellungsland": "Kongo"
+  }
+}

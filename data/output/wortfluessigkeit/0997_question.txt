@@ -1,0 +1,7 @@
+Buchstabenreihe: Z L P R A K P A T
+
+A) L
+B) R
+C) P
+D) A
+E) KeinederAntwortenistrichtig

@@ -1,0 +1,15 @@
+{
+  "id": 1040,
+  "set": 70,
+  "set_index": 5,
+  "answer": "D",
+  "answer_word": "DIEBESGUT",
+  "options": {
+    "A": "G",
+    "B": "S",
+    "C": "U",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T B E U E G S I D"
+}

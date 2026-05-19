@@ -1,0 +1,15 @@
+{
+  "id": 676,
+  "set": 46,
+  "set_index": 1,
+  "answer": "A",
+  "answer_word": "FELDHASE",
+  "options": {
+    "A": "F",
+    "B": "H",
+    "C": "E",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H L E D F S A E"
+}

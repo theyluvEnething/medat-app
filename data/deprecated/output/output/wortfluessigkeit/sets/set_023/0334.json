@@ -1,0 +1,15 @@
+{
+  "id": 334,
+  "set": 23,
+  "set_index": 4,
+  "answer": "B",
+  "answer_word": "PRINZIP",
+  "options": {
+    "A": "Z",
+    "B": "P",
+    "C": "I",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "P I I Z N R P"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 751,
+  "set": 31,
+  "set_index": 1,
+  "answer": "C",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusstellungslandÄquatorialguinea?",
+  "options": {
+    "A": "Spitzwegerich,Phytosterine,Esche",
+    "B": "Tapentadol,Veilchen",
+    "C": "Tartrazin",
+    "D": "Kobalt,Fructose",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

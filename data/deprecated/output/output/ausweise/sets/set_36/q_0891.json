@@ -1,0 +1,14 @@
+{
+  "id": 891,
+  "set": 36,
+  "set_index": 16,
+  "answer": "D",
+  "text": "WieheißtdiePersonmit diesemBild?",
+  "options": {
+    "A": "WIKRISO",
+    "B": "XEWROK",
+    "C": "WIKZODR",
+    "D": "AUSWRIT",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

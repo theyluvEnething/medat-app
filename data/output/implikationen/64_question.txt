@@ -1,0 +1,9 @@
+Prämissen:
+- AlleWMsindZBN.
+- EinigeNWBsindkeineZBN.
+
+A) AlleNWBsindWM.
+B) AlleNWBsindkeineWM.
+C) EinigeNWBsindWM.
+D) EinigeNWBsindkeineWM.
+E) KeinederSchlussfolgerungenistrichtig.

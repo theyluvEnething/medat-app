@@ -1,0 +1,7 @@
+Zahlenfolge: 7 18 38 -31 49 -11 -20 ? ?
+
+A) 69/-103
+B) 58/-72
+C) 69/-80
+D) 69/-73
+E) KeinederAntwortenistrichtig

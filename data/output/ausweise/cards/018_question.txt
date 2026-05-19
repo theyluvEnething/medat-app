@@ -1,0 +1,7 @@
+Name: TABLUM
+Geburtstag: 7. Juni
+Medikamenteneinnahme: Ja
+Blutgruppe: AB
+Bekannte Allergien: Rapsöl, Kaninchen,
+Ausweisnummer: 44002
+Ausstellungsland: Benin

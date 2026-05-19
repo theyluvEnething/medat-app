@@ -1,0 +1,14 @@
+{
+  "id": 831,
+  "set": 34,
+  "set_index": 6,
+  "answer": "C",
+  "text": "WelcheBlutgruppehatdiePersonmit demNamenXIDKLIN?",
+  "options": {
+    "A": "AB",
+    "B": "0",
+    "C": "A",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

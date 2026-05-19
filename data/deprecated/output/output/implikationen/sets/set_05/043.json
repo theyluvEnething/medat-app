@@ -1,0 +1,17 @@
+{
+  "id": 43,
+  "set": 5,
+  "set_index": 3,
+  "answer": "E",
+  "premises": [
+    "EinigeVerletzungensindInfarkte.",
+    "EinigeVerletzungensindAnfälle."
+  ],
+  "conclusions": {
+    "A": "AlleAnfällesindInfarkte.",
+    "B": "AlleAnfällesindkeineInfarkte.",
+    "C": "EinigeAnfällesindInfarkte.",
+    "D": "EinigeAnfällesindkeineInfarkte.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

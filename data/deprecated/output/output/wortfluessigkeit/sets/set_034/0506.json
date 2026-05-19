@@ -1,0 +1,15 @@
+{
+  "id": 506,
+  "set": 34,
+  "set_index": 11,
+  "answer": "D",
+  "answer_word": "DONNERSTAG",
+  "options": {
+    "A": "T",
+    "B": "R",
+    "C": "S",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N N A T S G D R O E"
+}

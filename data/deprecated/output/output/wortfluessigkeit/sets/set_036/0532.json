@@ -1,0 +1,15 @@
+{
+  "id": 532,
+  "set": 36,
+  "set_index": 7,
+  "answer": "B",
+  "answer_word": "GIFTGAS",
+  "options": {
+    "A": "T",
+    "B": "G",
+    "C": "S",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S G T A G F I"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1002,
+  "set": 67,
+  "set_index": 12,
+  "answer": "B",
+  "answer_word": "DERMATOLOGE",
+  "options": {
+    "A": "A",
+    "B": "D",
+    "C": "G",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T O D A G O E M E L R"
+}

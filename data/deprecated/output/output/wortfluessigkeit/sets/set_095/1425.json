@@ -1,0 +1,15 @@
+{
+  "id": 1425,
+  "set": 95,
+  "set_index": 15,
+  "answer": "A",
+  "answer_word": "WALDMEISTER",
+  "options": {
+    "A": "W",
+    "B": "A",
+    "C": "I",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T R E S L W E A M D I"
+}

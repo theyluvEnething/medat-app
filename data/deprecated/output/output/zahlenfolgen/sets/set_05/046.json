@@ -1,0 +1,16 @@
+{
+  "id": 46,
+  "set": 5,
+  "set_index": 6,
+  "answer": "E",
+  "answer_value": "373/563",
+  "explanation": "1er-Sprung:Summand+8steigtum+2,+10,+18,...",
+  "sequence": "-5 3 13 33 71 135 233 ? ?",
+  "options": {
+    "A": "382/578",
+    "B": "356/559",
+    "C": "356/548",
+    "D": "370/563",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

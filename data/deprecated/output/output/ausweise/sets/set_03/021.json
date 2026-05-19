@@ -1,0 +1,15 @@
+{
+  "id": 21,
+  "set": 3,
+  "set_index": 5,
+  "image": "021.png",
+  "fields": {
+    "Name": "MOPLIKU",
+    "Geburtstag": "30. Dezember",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Makrelen, Maracuja",
+    "Ausweisnummer": "00806",
+    "Ausstellungsland": "Armenien"
+  }
+}

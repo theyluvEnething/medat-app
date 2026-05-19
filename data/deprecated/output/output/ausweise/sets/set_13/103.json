@@ -1,0 +1,15 @@
+{
+  "id": 103,
+  "set": 13,
+  "set_index": 7,
+  "image": "103.png",
+  "fields": {
+    "Name": "LIBMARN",
+    "Geburtstag": "28. September",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Schafmilch",
+    "Ausweisnummer": "04654",
+    "Ausstellungsland": "China"
+  }
+}

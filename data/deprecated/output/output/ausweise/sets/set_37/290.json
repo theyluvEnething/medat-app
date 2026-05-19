@@ -1,0 +1,15 @@
+{
+  "id": 290,
+  "set": 37,
+  "set_index": 2,
+  "image": "290.png",
+  "fields": {
+    "Name": "WAXLOM",
+    "Geburtstag": "29. April",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Milchzucker, Mango,",
+    "Ausweisnummer": "23934",
+    "Ausstellungsland": "Angola"
+  }
+}

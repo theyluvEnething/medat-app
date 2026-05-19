@@ -1,0 +1,14 @@
+{
+  "id": 245,
+  "set": 10,
+  "set_index": 20,
+  "answer": "A",
+  "text": "WieheißtdiePersonmit diesemBild?",
+  "options": {
+    "A": "XERDOZ",
+    "B": "LEFFROK",
+    "C": "VOWRELS",
+    "D": "JOLKAND",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

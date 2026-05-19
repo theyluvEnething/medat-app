@@ -1,0 +1,15 @@
+{
+  "id": 173,
+  "set": 12,
+  "set_index": 8,
+  "answer": "D",
+  "answer_word": "JACHT",
+  "options": {
+    "A": "C",
+    "B": "T",
+    "C": "H",
+    "D": "J",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H C J A T"
+}

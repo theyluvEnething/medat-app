@@ -1,0 +1,15 @@
+{
+  "id": 480,
+  "set": 32,
+  "set_index": 15,
+  "answer": "A",
+  "answer_word": "PARMESAN",
+  "options": {
+    "A": "P",
+    "B": "S",
+    "C": "R",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N S R P A A E M"
+}

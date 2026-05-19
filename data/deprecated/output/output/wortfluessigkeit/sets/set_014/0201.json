@@ -1,0 +1,15 @@
+{
+  "id": 201,
+  "set": 14,
+  "set_index": 6,
+  "answer": "A",
+  "answer_word": "UMWELT",
+  "options": {
+    "A": "U",
+    "B": "M",
+    "C": "W",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E M L T U W"
+}

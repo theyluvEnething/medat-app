@@ -1,0 +1,14 @@
+{
+  "id": 323,
+  "set": 13,
+  "set_index": 23,
+  "answer": "B",
+  "text": "WelcheBlutgruppehatdiePersonmit unteranderemAllergiegegenRamipril unddemGeschlechtweiblich?",
+  "options": {
+    "A": "A",
+    "B": "AB",
+    "C": "B",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

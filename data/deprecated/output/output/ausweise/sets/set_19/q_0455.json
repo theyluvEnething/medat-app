@@ -1,0 +1,14 @@
+{
+  "id": 455,
+  "set": 19,
+  "set_index": 5,
+  "answer": "C",
+  "text": "WelcheBlutgruppehatdiePersonmit derAusweisnummerendendmit13?",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "AB",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

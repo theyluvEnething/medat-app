@@ -1,0 +1,10 @@
+Prämissen:
+- AlleBlättersindkeineRezepte.
+- AlleApothekensindBlätter.
+- 6
+
+A) AlleRezeptesindApotheken.
+B) AlleRezeptesindkeineApotheken.
+C) EinigeRezeptesindApotheken.
+D) EinigeRezeptesindkeineApotheken.
+E) KeinederSchlussfolgerungenistrichtig.

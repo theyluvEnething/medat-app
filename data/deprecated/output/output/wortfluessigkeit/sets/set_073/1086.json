@@ -1,0 +1,15 @@
+{
+  "id": 1086,
+  "set": 73,
+  "set_index": 6,
+  "answer": "A",
+  "answer_word": "CHOLESTERIN",
+  "options": {
+    "A": "C",
+    "B": "O",
+    "C": "N",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N E R T L S E O C H I"
+}

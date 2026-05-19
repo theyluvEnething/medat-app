@@ -1,0 +1,7 @@
+WelcheBlutgruppehatdiePersonmit derAusweisnummerbeginnendmit49?
+
+A) A
+B) AB
+C) B
+D) 0
+E) KeinederAntwortenistrichtig

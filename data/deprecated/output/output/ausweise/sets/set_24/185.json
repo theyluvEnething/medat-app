@@ -1,0 +1,15 @@
+{
+  "id": 185,
+  "set": 24,
+  "set_index": 1,
+  "image": "185.png",
+  "fields": {
+    "Name": "ARLOKS",
+    "Geburtstag": "19. Januar",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Indometacin, Haselnüsse",
+    "Ausweisnummer": "39461",
+    "Ausstellungsland": "Norwegen"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 238,
+  "set": 30,
+  "set_index": 6,
+  "image": "238.png",
+  "fields": {
+    "Name": "JAKMOT",
+    "Geburtstag": "18. Dezember",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Textilien",
+    "Ausweisnummer": "62241",
+    "Ausstellungsland": "Mexiko"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 86,
+  "set": 11,
+  "set_index": 6,
+  "image": "086.png",
+  "fields": {
+    "Name": "HILIDIK",
+    "Geburtstag": "19. März",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Weichtiere, Tocopherol,",
+    "Ausweisnummer": "33316",
+    "Ausstellungsland": "Irland"
+  }
+}

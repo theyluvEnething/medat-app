@@ -1,0 +1,17 @@
+{
+  "id": 32,
+  "set": 4,
+  "set_index": 2,
+  "answer": "A",
+  "premises": [
+    "AllePCssindTastaturen.",
+    "AlleLaptopssindPCs."
+  ],
+  "conclusions": {
+    "A": "AlleLaptopssindTastaturen.",
+    "B": "AlleLaptopssindkeineTastaturen.",
+    "C": "EinigeLaptopssindTastaturen.",
+    "D": "EinigeLaptopssindkeineTastaturen.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

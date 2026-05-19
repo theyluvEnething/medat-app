@@ -1,0 +1,7 @@
+Zahlenfolge: 4 28 24 -4 -28 -24 4 ? ?
+
+A) 25/25
+B) 34/33
+C) 39/25
+D) 25/14
+E) KeinederAntwortenistrichtig

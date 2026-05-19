@@ -27,7 +27,7 @@ export function Login({ onLogin }: LoginProps) {
         </p>
       </div>
 
-      <div className="w-96 rounded-xl border border-zinc-800 bg-zinc-900 p-6 transition-shadow duration-300 hover:border-zinc-700">
+      <div className="w-[28rem] rounded-xl border border-zinc-800 bg-zinc-900 p-6 transition-shadow duration-300 hover:border-zinc-700">
         <label htmlFor="username" className="mb-2 block text-sm text-zinc-400">
           Benutzername
         </label>

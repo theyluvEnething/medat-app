@@ -1,0 +1,15 @@
+{
+  "id": 11,
+  "set": 1,
+  "set_index": 11,
+  "answer": "A",
+  "answer_word": "DATEI",
+  "options": {
+    "A": "D",
+    "B": "T",
+    "C": "A",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I D E A T"
+}

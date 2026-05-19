@@ -1,0 +1,15 @@
+{
+  "id": 24,
+  "set": 3,
+  "set_index": 8,
+  "image": "024.png",
+  "fields": {
+    "Name": "UWASOLD",
+    "Geburtstag": "2. August",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Weichtiere, Pferdehaare",
+    "Ausweisnummer": "58701",
+    "Ausstellungsland": "Monaco"
+  }
+}

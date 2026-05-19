@@ -1,0 +1,14 @@
+{
+  "id": 604,
+  "set": 25,
+  "set_index": 4,
+  "answer": "B",
+  "text": "WieheißtdiePersonmitBlutgruppeB undunteranderemAllergiegegen Terpentin?",
+  "options": {
+    "A": "SZINTRO",
+    "B": "JIRKOL",
+    "C": "YUCRAND",
+    "D": "TYRMOK",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

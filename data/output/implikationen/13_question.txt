@@ -1,0 +1,9 @@
+Prämissen:
+- AlleBAZsindAXB.
+- AlleXFPsindkeineAXB.
+
+A) AlleXFPsindBAZ.
+B) AlleXFPsindkeineBAZ.
+C) EinigeXFPsindBAZ.
+D) EinigeXFPsindkeineBAZ.
+E) KeinederSchlussfolgerungenistrichtig.

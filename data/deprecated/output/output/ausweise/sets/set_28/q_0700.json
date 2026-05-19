@@ -1,0 +1,14 @@
+{
+  "id": 700,
+  "set": 28,
+  "set_index": 25,
+  "answer": "C",
+  "text": "WelcheganzenAllergienhatdiePerson mitGeburtstagimFebruarund BlutgruppeB?",
+  "options": {
+    "A": "Kaninchen",
+    "B": "Cochenillerot,Dinkel",
+    "C": "Osmium,Avocado,Schimmelpilze",
+    "D": "Scampi,Schnurbaum",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

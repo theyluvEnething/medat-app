@@ -1,0 +1,7 @@
+Buchstabenreihe: E A R T Z N L E
+
+A) L
+B) R
+C) Z
+D) T
+E) KeinederAntwortenistrichtig

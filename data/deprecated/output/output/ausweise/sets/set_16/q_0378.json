@@ -1,0 +1,14 @@
+{
+  "id": 378,
+  "set": 16,
+  "set_index": 3,
+  "answer": "B",
+  "text": "WelcheBlutgruppehatdiePersonmit AusstellungslandAfghanistan?",
+  "options": {
+    "A": "AB",
+    "B": "B",
+    "C": "A",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

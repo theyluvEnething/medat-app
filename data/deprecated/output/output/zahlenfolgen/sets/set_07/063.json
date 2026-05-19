@@ -1,0 +1,16 @@
+{
+  "id": 63,
+  "set": 7,
+  "set_index": 3,
+  "answer": "C",
+  "answer_value": "-312/49",
+  "explanation": "2erSprungmit2Systemen:[+2,+(2+6),+(2+12),...]und[×2,×3,×4,...]",
+  "sequence": "5 -13 7 -26 15 -78 29 ? ?",
+  "options": {
+    "A": "-312/41",
+    "B": "-320/36",
+    "C": "-312/49",
+    "D": "-327/49",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

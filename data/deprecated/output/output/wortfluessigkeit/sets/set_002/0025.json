@@ -1,0 +1,15 @@
+{
+  "id": 25,
+  "set": 2,
+  "set_index": 10,
+  "answer": "A",
+  "answer_word": "LUFTNOT",
+  "options": {
+    "A": "L",
+    "B": "U",
+    "C": "O",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T O F T N U L"
+}

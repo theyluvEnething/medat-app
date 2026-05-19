@@ -1,0 +1,15 @@
+{
+  "id": 644,
+  "set": 43,
+  "set_index": 14,
+  "answer": "D",
+  "answer_word": "ABSZESS",
+  "options": {
+    "A": "E",
+    "B": "Z",
+    "C": "S",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S B S S E Z A"
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- AlleGenesindkeineChromosomen.
+- EinigeGenesindKopien.
+
+A) AlleKopiensindChromosomen.
+B) AlleKopiensindkeineChromosomen.
+C) EinigeKopiensindChromosomen.
+D) EinigeKopiensindkeineChromosomen.
+E) KeinederSchlussfolgerungenistrichtig.

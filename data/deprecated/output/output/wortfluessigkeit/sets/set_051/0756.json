@@ -1,0 +1,15 @@
+{
+  "id": 756,
+  "set": 51,
+  "set_index": 6,
+  "answer": "B",
+  "answer_word": "POLYMERASE",
+  "options": {
+    "A": "O",
+    "B": "P",
+    "C": "A",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A P M E L O E R Y S"
+}

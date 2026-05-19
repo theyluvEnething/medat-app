@@ -1,0 +1,15 @@
+{
+  "id": 739,
+  "set": 50,
+  "set_index": 4,
+  "answer": "E",
+  "answer_word": "RIBOSOM",
+  "options": {
+    "A": "B",
+    "B": "O",
+    "C": "S",
+    "D": "M",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "B O I R O M S"
+}

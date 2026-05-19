@@ -1,0 +1,15 @@
+{
+  "id": 211,
+  "set": 15,
+  "set_index": 1,
+  "answer": "B",
+  "answer_word": "BURGMAUER",
+  "options": {
+    "A": "M",
+    "B": "B",
+    "C": "U",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A G M B R U U E R"
+}

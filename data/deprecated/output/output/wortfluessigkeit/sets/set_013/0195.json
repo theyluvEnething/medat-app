@@ -1,0 +1,15 @@
+{
+  "id": 195,
+  "set": 13,
+  "set_index": 15,
+  "answer": "A",
+  "answer_word": "ANZAHLUNG",
+  "options": {
+    "A": "A",
+    "B": "Z",
+    "C": "L",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N Z U H G L A A N"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1477,
+  "set": 99,
+  "set_index": 7,
+  "answer": "B",
+  "answer_word": "LEICHTATHLETIK",
+  "options": {
+    "A": "E",
+    "B": "L",
+    "C": "I",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I E L A E T T H L K C I H T"
+}

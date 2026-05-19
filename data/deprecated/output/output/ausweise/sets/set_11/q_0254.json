@@ -1,0 +1,11 @@
+{
+  "id": 254,
+  "set": 11,
+  "set_index": 4,
+  "answer": "A",
+  "text": "WelchesFotogehörtzuderPersonmit Ausweisnummer32122?",
+  "options": {
+    "A": "B. C. D.",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 75,
+  "set": 5,
+  "set_index": 15,
+  "answer": "C",
+  "answer_word": "MEHRUNG",
+  "options": {
+    "A": "E",
+    "B": "U",
+    "C": "M",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "G R U E N H M"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 354,
+  "set": 15,
+  "set_index": 4,
+  "answer": "C",
+  "text": "WelcheganzenAllergienhatdiePerson mitdem28.AprilalsGeburtstag?",
+  "options": {
+    "A": "Katzenhaare,Schimmelpilze",
+    "B": "Cochenillerot",
+    "C": "Tintenfische,Fluorid",
+    "D": "Ketoprofen,Penicillin",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

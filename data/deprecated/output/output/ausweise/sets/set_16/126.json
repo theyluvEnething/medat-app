@@ -1,0 +1,15 @@
+{
+  "id": 126,
+  "set": 16,
+  "set_index": 6,
+  "image": "126.png",
+  "fields": {
+    "Name": "DANVAN",
+    "Geburtstag": "16. Juli",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Dinkel, Kefir",
+    "Ausweisnummer": "71874",
+    "Ausstellungsland": "Lettland"
+  }
+}

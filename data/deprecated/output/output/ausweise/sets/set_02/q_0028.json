@@ -1,0 +1,14 @@
+{
+  "id": 28,
+  "set": 2,
+  "set_index": 3,
+  "answer": "E",
+  "text": "WelcheganzenAllergienhatdiePerson mitBlutgruppeABundMedikamenten?",
+  "options": {
+    "A": "Pollen",
+    "B": "Sulfite,Zitronen",
+    "C": "Porree,Lysozyme",
+    "D": "Hunde,Oxaceprol",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

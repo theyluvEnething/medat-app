@@ -1,0 +1,16 @@
+{
+  "id": 61,
+  "set": 7,
+  "set_index": 1,
+  "answer": "D",
+  "answer_value": "576/8",
+  "explanation": "2erSprungmit2Systemen:[+1,+2,+3,...]und[×4,×3,×2,...]",
+  "sequence": "-2 24 -1 96 1 288 4 ? ?",
+  "options": {
+    "A": "574/5",
+    "B": "587/8",
+    "C": "604/10",
+    "D": "576/8",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

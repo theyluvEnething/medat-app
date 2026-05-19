@@ -1,0 +1,15 @@
+{
+  "id": 67,
+  "set": 9,
+  "set_index": 3,
+  "image": "067.png",
+  "fields": {
+    "Name": "IHIKORS",
+    "Geburtstag": "4. August",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Sonne, Gelatine, Phosphate",
+    "Ausweisnummer": "52808",
+    "Ausstellungsland": "Gambia"
+  }
+}

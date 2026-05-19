@@ -1,0 +1,7 @@
+Zahlenfolge: 1 6 16 36 76 156 316 ? ?
+
+A) 645/1290
+B) 636/1276
+C) 645/1303
+D) 646/1270
+E) KeinederAntwortenistrichtig

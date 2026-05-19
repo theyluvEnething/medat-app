@@ -1,0 +1,14 @@
+{
+  "id": 248,
+  "set": 10,
+  "set_index": 23,
+  "answer": "A",
+  "text": "WelcheBlutgruppehatdiePersonmit AllergiegegenPollen?",
+  "options": {
+    "A": "AB",
+    "B": "A",
+    "C": "0",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,7 @@
+Zahlenfolge: 12 34 24 23 48 12 84 ? ?
+
+A) 137/15
+B) 1/132
+C) 15/125
+D) -3/132
+E) KeinederAntwortenistrichtig

@@ -1,0 +1,15 @@
+{
+  "id": 141,
+  "set": 18,
+  "set_index": 5,
+  "image": "141.png",
+  "fields": {
+    "Name": "PULLNAKS",
+    "Geburtstag": "7. November",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Hafer, Gluten",
+    "Ausweisnummer": "49332",
+    "Ausstellungsland": "Somaliland"
+  }
+}

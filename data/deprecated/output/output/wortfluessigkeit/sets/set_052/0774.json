@@ -1,0 +1,15 @@
+{
+  "id": 774,
+  "set": 52,
+  "set_index": 9,
+  "answer": "D",
+  "answer_word": "KONVERSATION",
+  "options": {
+    "A": "T",
+    "B": "V",
+    "C": "I",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O R N K T N O A I V S E"
+}

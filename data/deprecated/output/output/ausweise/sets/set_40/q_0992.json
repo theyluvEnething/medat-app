@@ -1,0 +1,14 @@
+{
+  "id": 992,
+  "set": 40,
+  "set_index": 17,
+  "answer": "B",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer06835?",
+  "options": {
+    "A": "Johannisbeeren",
+    "B": "Mückenstiche",
+    "C": "Traubenkraut,Kartoffeln,Roggenmehl",
+    "D": "Traubenkraut,Sojabohnen",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

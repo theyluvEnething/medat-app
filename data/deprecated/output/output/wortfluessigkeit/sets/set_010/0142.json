@@ -1,0 +1,15 @@
+{
+  "id": 142,
+  "set": 10,
+  "set_index": 7,
+  "answer": "E",
+  "answer_word": "ZUCHT",
+  "options": {
+    "A": "T",
+    "B": "U",
+    "C": "C",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U H T Z C"
+}

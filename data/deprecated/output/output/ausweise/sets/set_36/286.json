@@ -1,0 +1,15 @@
+{
+  "id": 286,
+  "set": 36,
+  "set_index": 6,
+  "image": "286.png",
+  "fields": {
+    "Name": "SPRANCO",
+    "Geburtstag": "21. Mai",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Brombeeren, Hirse",
+    "Ausweisnummer": "77260",
+    "Ausstellungsland": "Ägypten"
+  }
+}

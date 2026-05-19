@@ -1,0 +1,15 @@
+{
+  "id": 69,
+  "set": 5,
+  "set_index": 9,
+  "answer": "C",
+  "answer_word": "REPORTAGE",
+  "options": {
+    "A": "E",
+    "B": "A",
+    "C": "R",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T R E P E O A G R"
+}

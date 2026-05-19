@@ -1,0 +1,14 @@
+{
+  "id": 548,
+  "set": 22,
+  "set_index": 23,
+  "answer": "D",
+  "text": "WelcheganzenAllergienhatdiePerson mitdemNamenINDBAR?",
+  "options": {
+    "A": "Aspergillus",
+    "B": "Laktose,Gräser,Ketoprofen",
+    "C": "Sesamsamen,Hornissengift",
+    "D": "Lysozyme,Sulfite",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,7 @@
+Buchstabenreihe: A M S K I O
+
+A) I
+B) K
+C) M
+D) A
+E) KeinederAntwortenistrichtig

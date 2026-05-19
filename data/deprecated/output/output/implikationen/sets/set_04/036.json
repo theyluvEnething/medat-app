@@ -1,0 +1,17 @@
+{
+  "id": 36,
+  "set": 4,
+  "set_index": 6,
+  "answer": "D",
+  "premises": [
+    "AlleGenesindkeineChromosomen.",
+    "EinigeGenesindKopien."
+  ],
+  "conclusions": {
+    "A": "AlleKopiensindChromosomen.",
+    "B": "AlleKopiensindkeineChromosomen.",
+    "C": "EinigeKopiensindChromosomen.",
+    "D": "EinigeKopiensindkeineChromosomen.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

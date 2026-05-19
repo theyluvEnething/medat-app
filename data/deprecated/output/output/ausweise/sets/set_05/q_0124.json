@@ -1,0 +1,14 @@
+{
+  "id": 124,
+  "set": 5,
+  "set_index": 24,
+  "answer": "A",
+  "text": "WelcheganzenAllergienhatdiePerson mitdemNamenEMPROSI?",
+  "options": {
+    "A": "Kupfer",
+    "B": "Zement,Fluorid",
+    "C": "Rindfleisch,Ketoprofen",
+    "D": "Henna,Tintenfische",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

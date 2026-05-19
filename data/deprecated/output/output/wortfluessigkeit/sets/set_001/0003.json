@@ -1,0 +1,15 @@
+{
+  "id": 3,
+  "set": 1,
+  "set_index": 3,
+  "answer": "B",
+  "answer_word": "IRRTUM",
+  "options": {
+    "A": "U",
+    "B": "I",
+    "C": "T",
+    "D": "M",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R T M R I U"
+}

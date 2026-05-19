@@ -45,19 +45,19 @@ def parse_all(input_base: Path, output_dir: Path) -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Extract MedAT questions from PDFs")
-    parser.add_argument(
+    p = argparse.ArgumentParser(description="Extract MedAT questions from PDFs")
+    p.add_argument(
         "--input", type=Path, required=True, help="PDF file or input/ directory"
     )
-    parser.add_argument("--output", type=Path, required=True, help="Output directory")
-    parser.add_argument(
+    p.add_argument("--output", type=Path, required=True, help="Output directory")
+    p.add_argument(
         "--section",
         type=str,
         choices=list(PARSERS) + ["all"],
         default="all",
         help="Section to parse (default: all)",
     )
-    args = parser.parse_args()
+    args = p.parse_args()
 
     output_dir = args.output
     output_dir.mkdir(parents=True, exist_ok=True)

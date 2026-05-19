@@ -1,0 +1,15 @@
+{
+  "id": 1423,
+  "set": 95,
+  "set_index": 13,
+  "answer": "D",
+  "answer_word": "KARDIOLOGE",
+  "options": {
+    "A": "L",
+    "B": "I",
+    "C": "A",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R O E A K D I G O L"
+}

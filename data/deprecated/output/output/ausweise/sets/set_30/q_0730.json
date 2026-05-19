@@ -1,0 +1,14 @@
+{
+  "id": 730,
+  "set": 30,
+  "set_index": 5,
+  "answer": "A",
+  "text": "WieheißtdiePersonmit Ausweisnummer99678?",
+  "options": {
+    "A": "FAPROM",
+    "B": "IRKBIZ",
+    "C": "TARBANO",
+    "D": "AXTIPOR",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

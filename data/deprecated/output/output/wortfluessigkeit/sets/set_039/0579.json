@@ -1,0 +1,15 @@
+{
+  "id": 579,
+  "set": 39,
+  "set_index": 9,
+  "answer": "A",
+  "answer_word": "BLATTLAUS",
+  "options": {
+    "A": "B",
+    "B": "U",
+    "C": "L",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T S U T A B L L A"
+}

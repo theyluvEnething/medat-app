@@ -1,0 +1,7 @@
+Name: YUCRAND
+Geburtstag: 4. August
+Medikamenteneinnahme: Ja
+Blutgruppe: AB
+Bekannte Allergien: Tanne
+Ausweisnummer: 00665
+Ausstellungsland: Aserbaidschan

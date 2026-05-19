@@ -1,0 +1,15 @@
+{
+  "id": 1625,
+  "set": 109,
+  "set_index": 5,
+  "answer": "B",
+  "answer_word": "TARNUNG",
+  "options": {
+    "A": "R",
+    "B": "T",
+    "C": "A",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N N A R G U T"
+}

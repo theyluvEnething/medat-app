@@ -1,0 +1,14 @@
+{
+  "id": 893,
+  "set": 36,
+  "set_index": 18,
+  "answer": "A",
+  "text": "AuswelchemLandkommtder AusweisderPersonmit diesemBild?",
+  "options": {
+    "A": "Philippinen",
+    "B": "Ägypten",
+    "C": "Marshallinseln",
+    "D": "Armenien",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

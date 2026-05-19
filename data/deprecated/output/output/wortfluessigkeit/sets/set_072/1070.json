@@ -1,0 +1,15 @@
+{
+  "id": 1070,
+  "set": 72,
+  "set_index": 5,
+  "answer": "B",
+  "answer_word": "UNFALLSTELLE",
+  "options": {
+    "A": "N",
+    "B": "U",
+    "C": "L",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U L L N L T E S L E A F"
+}

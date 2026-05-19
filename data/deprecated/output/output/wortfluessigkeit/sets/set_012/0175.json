@@ -1,0 +1,15 @@
+{
+  "id": 175,
+  "set": 12,
+  "set_index": 10,
+  "answer": "D",
+  "answer_word": "BENUTZUNG",
+  "options": {
+    "A": "T",
+    "B": "N",
+    "C": "U",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "Z B N U G E T U N"
+}

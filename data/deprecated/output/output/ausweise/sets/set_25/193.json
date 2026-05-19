@@ -1,0 +1,15 @@
+{
+  "id": 193,
+  "set": 25,
+  "set_index": 1,
+  "image": "193.png",
+  "fields": {
+    "Name": "TISFLO",
+    "Geburtstag": "8. Juli",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Maracuja, Kartoffeln",
+    "Ausweisnummer": "04521",
+    "Ausstellungsland": "Malta"
+  }
+}

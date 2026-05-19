@@ -1,0 +1,15 @@
+{
+  "id": 94,
+  "set": 12,
+  "set_index": 6,
+  "image": "094.png",
+  "fields": {
+    "Name": "GOMCUV",
+    "Geburtstag": "31. März",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Sauerampfer, Gräser",
+    "Ausweisnummer": "26054",
+    "Ausstellungsland": "Polen"
+  }
+}

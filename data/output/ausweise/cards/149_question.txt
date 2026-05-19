@@ -1,0 +1,7 @@
+Name: SONMAN
+Geburtstag: 25. Januar
+Medikamenteneinnahme: Ja
+Blutgruppe: AB
+Bekannte Allergien: Wespen, Kunststoffe
+Ausweisnummer: 80913
+Ausstellungsland: Irak

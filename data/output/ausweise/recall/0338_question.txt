@@ -1,0 +1,7 @@
+WievielePersonenhabendieBlutgruppe B?
+
+A) 5
+B) 4
+C) 3
+D) 1
+E) KeinederAntwortenistrichtig

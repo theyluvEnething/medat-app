@@ -22,7 +22,7 @@ export function Home({ username, questions, onStart, onSettings, onLogout }: Hom
         <p className="mt-1 text-sm text-emerald-500">Angemeldet als: {username}</p>
       </div>
 
-      <div className="w-96 rounded-xl border border-zinc-800 bg-zinc-900 p-5 text-center transition-shadow duration-300 hover:border-zinc-700">
+      <div className="w-[28rem] rounded-xl border border-zinc-800 bg-zinc-900 p-5 text-center transition-shadow duration-300 hover:border-zinc-700">
         <p className="text-sm text-zinc-500">Gesamtfortschritt</p>
         <p className="mt-1 text-3xl font-bold tabular-nums text-emerald-400">
           {stats.totalPercentage !== null ? `${stats.totalPercentage}%` : '—'}
@@ -32,7 +32,7 @@ export function Home({ username, questions, onStart, onSettings, onLogout }: Hom
         </p>
       </div>
 
-      <div className="w-96 rounded-xl border border-zinc-800 bg-zinc-900 p-5 transition-shadow duration-300 hover:border-zinc-700">
+      <div className="w-[28rem] rounded-xl border border-zinc-800 bg-zinc-900 p-5 transition-shadow duration-300 hover:border-zinc-700">
         <h2 className="mb-3 text-sm font-semibold text-zinc-400">Testabschnitte</h2>
         <ul className="space-y-2">
           {stats.sections.map((s) => (

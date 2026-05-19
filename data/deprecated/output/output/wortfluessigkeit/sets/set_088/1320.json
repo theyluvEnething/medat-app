@@ -1,0 +1,15 @@
+{
+  "id": 1320,
+  "set": 88,
+  "set_index": 15,
+  "answer": "E",
+  "answer_word": "TREFFPUNKT",
+  "options": {
+    "A": "R",
+    "B": "F",
+    "C": "N",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "K E F U R P F N T T"
+}

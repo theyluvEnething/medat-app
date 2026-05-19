@@ -1,0 +1,15 @@
+{
+  "id": 1211,
+  "set": 81,
+  "set_index": 11,
+  "answer": "A",
+  "answer_word": "KARTOFFEL",
+  "options": {
+    "A": "K",
+    "B": "O",
+    "C": "E",
+    "D": "F",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R K L F F T A O E"
+}

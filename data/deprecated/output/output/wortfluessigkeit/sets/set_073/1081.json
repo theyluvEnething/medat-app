@@ -1,0 +1,15 @@
+{
+  "id": 1081,
+  "set": 73,
+  "set_index": 1,
+  "answer": "D",
+  "answer_word": "AUSSTELLUNG",
+  "options": {
+    "A": "T",
+    "B": "U",
+    "C": "N",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U U N E A S S L T L G"
+}

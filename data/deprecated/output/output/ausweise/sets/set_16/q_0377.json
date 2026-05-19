@@ -1,0 +1,14 @@
+{
+  "id": 377,
+  "set": 16,
+  "set_index": 2,
+  "answer": "B",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer73880?",
+  "options": {
+    "A": "Fluorid,Schokolade",
+    "B": "Spargel,Bienen,Pilze",
+    "C": "Schweinefleisch,Chinin",
+    "D": "Bienen,Ephedrin,Krebstiere",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 53,
+  "set": 4,
+  "set_index": 8,
+  "answer": "C",
+  "answer_word": "KADETT",
+  "options": {
+    "A": "D",
+    "B": "A",
+    "C": "K",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "K E T T D A"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 138,
+  "set": 18,
+  "set_index": 2,
+  "image": "138.png",
+  "fields": {
+    "Name": "PIBLOMS",
+    "Geburtstag": "22. Mai",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Pflaster",
+    "Ausweisnummer": "23830",
+    "Ausstellungsland": "Palau"
+  }
+}

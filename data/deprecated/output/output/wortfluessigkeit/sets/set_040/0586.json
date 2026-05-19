@@ -1,0 +1,15 @@
+{
+  "id": 586,
+  "set": 40,
+  "set_index": 1,
+  "answer": "B",
+  "answer_word": "TANZBAND",
+  "options": {
+    "A": "D",
+    "B": "T",
+    "C": "Z",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A N T Z D B A N"
+}

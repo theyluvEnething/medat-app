@@ -1,0 +1,15 @@
+{
+  "id": 14,
+  "set": 2,
+  "set_index": 6,
+  "image": "014.png",
+  "fields": {
+    "Name": "BRIZLKO",
+    "Geburtstag": "21. April",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Pollen, Brombeeren",
+    "Ausweisnummer": "95067",
+    "Ausstellungsland": "Iran"
+  }
+}
