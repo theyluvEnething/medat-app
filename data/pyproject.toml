@@ -13,6 +13,7 @@ dependencies = [
 medat-parse = "medat_parser.pdf_parser:main"
 medat-convert = "medat_parser.converter:main"
 medat-merge = "medat_parser.merge:main"
+medat-extract-images = "medat_parser.extract_ausweise_images:main"
 
 [tool.ruff]
 target-version = "py313"
