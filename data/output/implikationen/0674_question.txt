@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Diamanten sind keine Flüsse.
+- Alle Flüsse sind Vögel.
+
+A) Alle Diamanten sind Vögel.
+B) Einige Diamanten sind Vögel.
+C) Einige Diamanten sind keine Vögel.
+D) Alle Diamanten sind keine Vögel.
+E) Keine der Schlussfolgerungen ist richtig.

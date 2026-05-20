@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Werkzeuge sind Radios.
+- Einige Radios sind keine Musikinstrumente.
+
+A) Einige Werkzeuge sind keine Musikinstrumente.
+B) Alle Werkzeuge sind Musikinstrumente.
+C) Alle Werkzeuge sind keine Musikinstrumente.
+D) Einige Werkzeuge sind Musikinstrumente.
+E) Keine der Schlussfolgerungen ist richtig.

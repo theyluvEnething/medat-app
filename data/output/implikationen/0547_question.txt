@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Kupfer sind Mathematiker.
+- Alle Mathematiker sind Schriftsteller.
+
+A) Alle Kupfer sind Schriftsteller.
+B) Einige Kupfer sind Schriftsteller.
+C) Einige Kupfer sind keine Schriftsteller.
+D) Alle Kupfer sind keine Schriftsteller.
+E) Keine der Schlussfolgerungen ist richtig.

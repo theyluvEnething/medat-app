@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Dinosaurier sind Züge.
+- Alle Züge sind Taucher.
+
+A) Einige Dinosaurier sind keine Taucher.
+B) Einige Dinosaurier sind Taucher.
+C) Alle Dinosaurier sind Taucher.
+D) Alle Dinosaurier sind keine Taucher.
+E) Keine der Schlussfolgerungen ist richtig.

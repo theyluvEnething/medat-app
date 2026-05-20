@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Quartette sind Delfine.
+- Einige Delfine sind Politiker.
+
+A) Einige Quartette sind Politiker.
+B) Einige Quartette sind keine Politiker.
+C) Alle Quartette sind Politiker.
+D) Alle Quartette sind keine Politiker.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Dichter sind keine Fische.
+- Einige Fische sind keine Pandas.
+
+A) Alle Dichter sind keine Pandas.
+B) Einige Dichter sind Pandas.
+C) Einige Dichter sind keine Pandas.
+D) Alle Dichter sind Pandas.
+E) Keine der Schlussfolgerungen ist richtig.

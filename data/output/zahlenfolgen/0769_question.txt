@@ -1,0 +1,7 @@
+Zahlenfolge: 1 3 9 27 81 243 ? ?
+
+A) 2188/6562
+B) 2185/6563
+C) 2187/6561
+D) 2185/6562
+E) Keine der Antworten ist richtig

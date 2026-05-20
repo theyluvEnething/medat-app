@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Vegetarier sind keine Nashörner.
+- Einige Nashörner sind Orchideen.
+
+A) Einige Vegetarier sind keine Orchideen.
+B) Einige Vegetarier sind Orchideen.
+C) Alle Vegetarier sind keine Orchideen.
+D) Alle Vegetarier sind Orchideen.
+E) Keine der Schlussfolgerungen ist richtig.

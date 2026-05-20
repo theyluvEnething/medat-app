@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Schlangen sind keine Fische.
+- Einige Fische sind keine Reptilien.
+
+A) Einige Schlangen sind keine Reptilien.
+B) Alle Schlangen sind keine Reptilien.
+C) Alle Schlangen sind Reptilien.
+D) Einige Schlangen sind Reptilien.
+E) Keine der Schlussfolgerungen ist richtig.

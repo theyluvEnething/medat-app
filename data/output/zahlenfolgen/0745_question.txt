@@ -1,0 +1,7 @@
+Zahlenfolge: -9 -7 -1 9 23 41 ? ?
+
+A) 121/155
+B) 118/154
+C) 129/163
+D) 119/153
+E) Keine der Antworten ist richtig

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Smartphones sind Fische.
+- Alle Fische sind keine Flüsse.
+
+A) Alle Smartphones sind Flüsse.
+B) Einige Smartphones sind Flüsse.
+C) Einige Smartphones sind keine Flüsse.
+D) Alle Smartphones sind keine Flüsse.
+E) Keine der Schlussfolgerungen ist richtig.

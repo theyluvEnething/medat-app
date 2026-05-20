@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Dinosaurier sind Kupfer.
+- Einige Kupfer sind keine Stühle.
+
+A) Einige Dinosaurier sind keine Stühle.
+B) Einige Dinosaurier sind Stühle.
+C) Alle Dinosaurier sind Stühle.
+D) Alle Dinosaurier sind keine Stühle.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Säugetiere sind Sänger.
+- Alle Sänger sind keine Tannen.
+
+A) Alle Säugetiere sind keine Tannen.
+B) Einige Säugetiere sind Tannen.
+C) Einige Säugetiere sind keine Tannen.
+D) Alle Säugetiere sind Tannen.
+E) Keine der Schlussfolgerungen ist richtig.

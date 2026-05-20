@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Blumen sind Ärzte.
+- Einige Ärzte sind Orchideen.
+
+A) Einige Blumen sind keine Orchideen.
+B) Alle Blumen sind keine Orchideen.
+C) Einige Blumen sind Orchideen.
+D) Alle Blumen sind Orchideen.
+E) Keine der Schlussfolgerungen ist richtig.

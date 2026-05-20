@@ -1,0 +1,7 @@
+Zahlenfolge: 18 19 38 39 78 79 ? ?
+
+A) 320/317
+B) 317/318
+C) 316/321
+D) 318/319
+E) Keine der Antworten ist richtig

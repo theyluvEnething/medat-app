@@ -1,0 +1,7 @@
+Zahlenfolge: 11 3 14 17 31 48 ? ?
+
+A) 206/333
+B) 208/335
+C) 207/332
+D) 205/334
+E) Keine der Antworten ist richtig

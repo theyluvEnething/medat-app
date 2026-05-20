@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Flugzeuge sind keine Tiger.
+- Einige Tiger sind Elektroautos.
+
+A) Einige Flugzeuge sind Elektroautos.
+B) Einige Flugzeuge sind keine Elektroautos.
+C) Alle Flugzeuge sind keine Elektroautos.
+D) Alle Flugzeuge sind Elektroautos.
+E) Keine der Schlussfolgerungen ist richtig.

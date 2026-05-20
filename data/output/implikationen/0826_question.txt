@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Musikinstrumente sind Flüsse.
+- Einige Flüsse sind keine Granite.
+
+A) Alle Musikinstrumente sind keine Granite.
+B) Einige Musikinstrumente sind keine Granite.
+C) Einige Musikinstrumente sind Granite.
+D) Alle Musikinstrumente sind Granite.
+E) Keine der Schlussfolgerungen ist richtig.

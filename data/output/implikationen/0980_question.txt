@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Giraffen sind keine Häuser.
+- Einige Häuser sind Lehrer.
+
+A) Alle Giraffen sind Lehrer.
+B) Alle Giraffen sind keine Lehrer.
+C) Einige Giraffen sind keine Lehrer.
+D) Einige Giraffen sind Lehrer.
+E) Keine der Schlussfolgerungen ist richtig.

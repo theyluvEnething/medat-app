@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Amphibien sind Möbel.
+- Einige Möbel sind keine Insekten.
+
+A) Einige Amphibien sind keine Insekten.
+B) Alle Amphibien sind keine Insekten.
+C) Einige Amphibien sind Insekten.
+D) Alle Amphibien sind Insekten.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: 0 7 5 10 10 13 ? ?
+
+A) 21/20
+B) 18/18
+C) 20/19
+D) 21/17
+E) Keine der Antworten ist richtig

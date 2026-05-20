@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Sportler sind Schlangen.
+- Einige Schlangen sind Reptilien.
+
+A) Einige Sportler sind keine Reptilien.
+B) Alle Sportler sind keine Reptilien.
+C) Alle Sportler sind Reptilien.
+D) Einige Sportler sind Reptilien.
+E) Keine der Schlussfolgerungen ist richtig.

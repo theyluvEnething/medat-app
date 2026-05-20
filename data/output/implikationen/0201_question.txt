@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Radios sind Ärzte.
+- Einige Ärzte sind Lilien.
+
+A) Alle Radios sind Lilien.
+B) Alle Radios sind keine Lilien.
+C) Einige Radios sind keine Lilien.
+D) Einige Radios sind Lilien.
+E) Keine der Schlussfolgerungen ist richtig.

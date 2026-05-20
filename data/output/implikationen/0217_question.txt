@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Glühbirnen sind Klaviere.
+- Alle Klaviere sind keine Züge.
+
+A) Einige Glühbirnen sind Züge.
+B) Einige Glühbirnen sind keine Züge.
+C) Alle Glühbirnen sind Züge.
+D) Alle Glühbirnen sind keine Züge.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Schlangen sind Schiffe.
+- Einige Schiffe sind keine Blumen.
+
+A) Alle Schlangen sind keine Blumen.
+B) Alle Schlangen sind Blumen.
+C) Einige Schlangen sind Blumen.
+D) Einige Schlangen sind keine Blumen.
+E) Keine der Schlussfolgerungen ist richtig.

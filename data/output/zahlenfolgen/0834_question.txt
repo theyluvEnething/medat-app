@@ -1,0 +1,7 @@
+Zahlenfolge: 2 7 21 26 78 83 ? ?
+
+A) 762/767
+B) 760/765
+C) 763/766
+D) 166/182
+E) Keine der Antworten ist richtig

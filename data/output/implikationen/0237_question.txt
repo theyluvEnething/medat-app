@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Ingenieure sind keine Radios.
+- Alle Radios sind keine Bücher.
+
+A) Alle Ingenieure sind Bücher.
+B) Einige Ingenieure sind keine Bücher.
+C) Einige Ingenieure sind Bücher.
+D) Alle Ingenieure sind keine Bücher.
+E) Keine der Schlussfolgerungen ist richtig.

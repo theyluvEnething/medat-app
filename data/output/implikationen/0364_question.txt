@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Skulpturen sind Amseln.
+- Alle Amseln sind Anwälte.
+
+A) Einige Skulpturen sind Anwälte.
+B) Alle Skulpturen sind Anwälte.
+C) Einige Skulpturen sind keine Anwälte.
+D) Alle Skulpturen sind keine Anwälte.
+E) Keine der Schlussfolgerungen ist richtig.

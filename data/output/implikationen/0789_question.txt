@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Schriftsteller sind keine Flugzeuge.
+- Alle Flugzeuge sind Politiker.
+
+A) Alle Schriftsteller sind Politiker.
+B) Alle Schriftsteller sind keine Politiker.
+C) Einige Schriftsteller sind keine Politiker.
+D) Einige Schriftsteller sind Politiker.
+E) Keine der Schlussfolgerungen ist richtig.

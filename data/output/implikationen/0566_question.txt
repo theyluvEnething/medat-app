@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Fische sind keine Roboter.
+- Einige Roboter sind Delfine.
+
+A) Einige Fische sind Delfine.
+B) Alle Fische sind keine Delfine.
+C) Alle Fische sind Delfine.
+D) Einige Fische sind keine Delfine.
+E) Keine der Schlussfolgerungen ist richtig.

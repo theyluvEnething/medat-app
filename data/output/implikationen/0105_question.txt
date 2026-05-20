@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Ärzte sind Marder.
+- Alle Marder sind Statuen.
+
+A) Einige Ärzte sind keine Statuen.
+B) Alle Ärzte sind Statuen.
+C) Alle Ärzte sind keine Statuen.
+D) Einige Ärzte sind Statuen.
+E) Keine der Schlussfolgerungen ist richtig.

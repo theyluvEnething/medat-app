@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Dichter sind Taucher.
+- Alle Taucher sind keine Pandas.
+
+A) Alle Dichter sind Pandas.
+B) Einige Dichter sind Pandas.
+C) Einige Dichter sind keine Pandas.
+D) Alle Dichter sind keine Pandas.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Dinosaurier sind keine Wissenschaftler.
+- Einige Wissenschaftler sind keine Hunde.
+
+A) Alle Dinosaurier sind keine Hunde.
+B) Einige Dinosaurier sind keine Hunde.
+C) Alle Dinosaurier sind Hunde.
+D) Einige Dinosaurier sind Hunde.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: 28 30 34 40 48 58 ? ?
+
+A) 100/118
+B) 99/119
+C) 98/117
+D) 101/120
+E) Keine der Antworten ist richtig

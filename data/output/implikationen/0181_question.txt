@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Menschen sind Metalle.
+- Alle Metalle sind Granite.
+
+A) Einige Menschen sind keine Granite.
+B) Alle Menschen sind Granite.
+C) Alle Menschen sind keine Granite.
+D) Einige Menschen sind Granite.
+E) Keine der Schlussfolgerungen ist richtig.

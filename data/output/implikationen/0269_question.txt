@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Chemiker sind Uhren.
+- Alle Uhren sind Marder.
+
+A) Alle Chemiker sind Marder.
+B) Einige Chemiker sind Marder.
+C) Einige Chemiker sind keine Marder.
+D) Alle Chemiker sind keine Marder.
+E) Keine der Schlussfolgerungen ist richtig.

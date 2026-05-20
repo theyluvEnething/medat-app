@@ -1,0 +1,7 @@
+Zahlenfolge: 83 38 43 34 39 93 ? ?
+
+A) 93/48
+B) 94/49
+C) 93/47
+D) 186/188
+E) Keine der Antworten ist richtig

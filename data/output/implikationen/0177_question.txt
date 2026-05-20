@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Radios sind keine Tiger.
+- Einige Tiger sind keine Granite.
+
+A) Einige Radios sind Granite.
+B) Alle Radios sind keine Granite.
+C) Alle Radios sind Granite.
+D) Einige Radios sind keine Granite.
+E) Keine der Schlussfolgerungen ist richtig.

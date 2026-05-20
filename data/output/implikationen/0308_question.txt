@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Quallen sind keine Musikinstrumente.
+- Alle Musikinstrumente sind keine Orchideen.
+
+A) Einige Quallen sind keine Orchideen.
+B) Alle Quallen sind keine Orchideen.
+C) Alle Quallen sind Orchideen.
+D) Einige Quallen sind Orchideen.
+E) Keine der Schlussfolgerungen ist richtig.

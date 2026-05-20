@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Haie sind keine Reptilien.
+- Einige Reptilien sind keine Smartphones.
+
+A) Einige Haie sind keine Smartphones.
+B) Alle Haie sind Smartphones.
+C) Alle Haie sind keine Smartphones.
+D) Einige Haie sind Smartphones.
+E) Keine der Schlussfolgerungen ist richtig.

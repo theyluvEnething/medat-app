@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Quartette sind Flugzeuge.
+- Alle Flugzeuge sind Mammute.
+
+A) Einige Quartette sind keine Mammute.
+B) Alle Quartette sind Mammute.
+C) Alle Quartette sind keine Mammute.
+D) Einige Quartette sind Mammute.
+E) Keine der Schlussfolgerungen ist richtig.

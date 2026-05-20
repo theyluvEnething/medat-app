@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Schriftsteller sind Gedichte.
+- Alle Gedichte sind Giraffen.
+
+A) Alle Schriftsteller sind keine Giraffen.
+B) Einige Schriftsteller sind keine Giraffen.
+C) Alle Schriftsteller sind Giraffen.
+D) Einige Schriftsteller sind Giraffen.
+E) Keine der Schlussfolgerungen ist richtig.

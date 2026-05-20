@@ -1,0 +1,7 @@
+Zahlenfolge: 3 5 10 12 24 26 ? ?
+
+A) 107/111
+B) 112/114
+C) 108/110
+D) 110/109
+E) Keine der Antworten ist richtig

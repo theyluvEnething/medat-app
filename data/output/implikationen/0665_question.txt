@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Orchideen sind keine Hunde.
+- Einige Hunde sind keine Skulpturen.
+
+A) Einige Orchideen sind keine Skulpturen.
+B) Alle Orchideen sind keine Skulpturen.
+C) Alle Orchideen sind Skulpturen.
+D) Einige Orchideen sind Skulpturen.
+E) Keine der Schlussfolgerungen ist richtig.

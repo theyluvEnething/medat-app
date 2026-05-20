@@ -1,0 +1,7 @@
+Zahlenfolge: 22 26 33 43 56 72 ? ?
+
+A) 140/168
+B) 137/165
+C) 137/167
+D) 138/166
+E) Keine der Antworten ist richtig

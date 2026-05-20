@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Gedichte sind Roboter.
+- Einige Roboter sind Wölfe.
+
+A) Alle Gedichte sind Wölfe.
+B) Einige Gedichte sind Wölfe.
+C) Einige Gedichte sind keine Wölfe.
+D) Alle Gedichte sind keine Wölfe.
+E) Keine der Schlussfolgerungen ist richtig.

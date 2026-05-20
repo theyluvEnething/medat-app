@@ -1,0 +1,7 @@
+Zahlenfolge: 20 21 25 32 42 55 ? ?
+
+A) 62/69
+B) 112/137
+C) 114/136
+D) 111/135
+E) Keine der Antworten ist richtig

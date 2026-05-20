@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Anwälte sind keine Flugzeuge.
+- Einige Flugzeuge sind keine Amseln.
+
+A) Einige Anwälte sind keine Amseln.
+B) Alle Anwälte sind keine Amseln.
+C) Einige Anwälte sind Amseln.
+D) Alle Anwälte sind Amseln.
+E) Keine der Schlussfolgerungen ist richtig.

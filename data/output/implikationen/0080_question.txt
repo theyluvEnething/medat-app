@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Tabletten sind Radios.
+- Einige Radios sind keine Orchideen.
+
+A) Alle Tabletten sind Orchideen.
+B) Alle Tabletten sind keine Orchideen.
+C) Einige Tabletten sind keine Orchideen.
+D) Einige Tabletten sind Orchideen.
+E) Keine der Schlussfolgerungen ist richtig.

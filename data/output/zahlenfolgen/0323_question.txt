@@ -1,0 +1,7 @@
+Zahlenfolge: 11 12 24 25 50 51 ? ?
+
+A) 206/207
+B) 205/208
+C) 207/205
+D) 208/209
+E) Keine der Antworten ist richtig

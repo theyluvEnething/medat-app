@@ -1,0 +1,7 @@
+Zahlenfolge: 2 4 8 16 32 64 ? ?
+
+A) 510/1022
+B) 512/1024
+C) 511/1023
+D) 511/1022
+E) Keine der Antworten ist richtig

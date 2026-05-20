@@ -1,0 +1,7 @@
+Zahlenfolge: 2 -6 18 -54 162 -486 ? ?
+
+A) -4374/13122
+B) -4375/13121
+C) -4376/13120
+D) -4375/13123
+E) Keine der Antworten ist richtig

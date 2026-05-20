@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Pandas sind Roboter.
+- Alle Roboter sind Menschen.
+
+A) Einige Pandas sind keine Menschen.
+B) Einige Pandas sind Menschen.
+C) Alle Pandas sind keine Menschen.
+D) Alle Pandas sind Menschen.
+E) Keine der Schlussfolgerungen ist richtig.

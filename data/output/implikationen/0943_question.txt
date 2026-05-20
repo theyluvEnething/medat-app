@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Zebras sind keine Giraffen.
+- Alle Giraffen sind keine Rosen.
+
+A) Alle Zebras sind Rosen.
+B) Alle Zebras sind keine Rosen.
+C) Einige Zebras sind Rosen.
+D) Einige Zebras sind keine Rosen.
+E) Keine der Schlussfolgerungen ist richtig.

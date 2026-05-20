@@ -1,0 +1,7 @@
+Zahlenfolge: 2 3 10 29 66 127 ? ?
+
+A) 345/514
+B) 347/513
+C) 514/345
+D) 343/516
+E) Keine der Antworten ist richtig

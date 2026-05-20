@@ -1,0 +1,7 @@
+Zahlenfolge: 6 12 18 30 48 78 ? ?
+
+A) 330/534
+B) 329/536
+C) 331/532
+D) 331/536
+E) Keine der Antworten ist richtig

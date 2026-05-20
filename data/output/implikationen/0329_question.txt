@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Spatzen sind keine Menschen.
+- Einige Menschen sind Hunde.
+
+A) Einige Spatzen sind Hunde.
+B) Alle Spatzen sind Hunde.
+C) Alle Spatzen sind keine Hunde.
+D) Einige Spatzen sind keine Hunde.
+E) Keine der Schlussfolgerungen ist richtig.

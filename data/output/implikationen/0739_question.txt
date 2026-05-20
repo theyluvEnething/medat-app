@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Schlangen sind keine Glühbirnen.
+- Einige Glühbirnen sind Wirbeltiere.
+
+A) Einige Schlangen sind keine Wirbeltiere.
+B) Einige Schlangen sind Wirbeltiere.
+C) Alle Schlangen sind Wirbeltiere.
+D) Alle Schlangen sind keine Wirbeltiere.
+E) Keine der Schlussfolgerungen ist richtig.

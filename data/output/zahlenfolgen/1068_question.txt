@@ -1,0 +1,7 @@
+Zahlenfolge: 29 33 41 53 69 89 ? ?
+
+A) 173/209
+B) 174/211
+C) 174/210
+D) 172/208
+E) Keine der Antworten ist richtig

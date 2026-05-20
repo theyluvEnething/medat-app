@@ -1,0 +1,7 @@
+Zahlenfolge: 37 73 75 57 59 95 ? ?
+
+A) 79/17
+B) 81/18
+C) 83/19
+D) 92/29
+E) Keine der Antworten ist richtig

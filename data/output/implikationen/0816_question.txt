@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Quartette sind keine Schlangen.
+- Alle Schlangen sind Dichter.
+
+A) Einige Quartette sind keine Dichter.
+B) Einige Quartette sind Dichter.
+C) Alle Quartette sind keine Dichter.
+D) Alle Quartette sind Dichter.
+E) Keine der Schlussfolgerungen ist richtig.

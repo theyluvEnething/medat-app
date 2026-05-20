@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Klaviere sind keine Stühle.
+- Alle Stühle sind keine Quartette.
+
+A) Alle Klaviere sind Quartette.
+B) Alle Klaviere sind keine Quartette.
+C) Einige Klaviere sind Quartette.
+D) Einige Klaviere sind keine Quartette.
+E) Keine der Schlussfolgerungen ist richtig.

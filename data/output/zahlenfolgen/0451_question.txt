@@ -1,0 +1,7 @@
+Zahlenfolge: 70 7 9 9 11 11 ? ?
+
+A) 34/35
+B) 33/33
+C) 32/35
+D) 21/21
+E) Keine der Antworten ist richtig

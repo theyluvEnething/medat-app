@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Telefone sind keine Ingenieure.
+- Alle Ingenieure sind Metalle.
+
+A) Einige Telefone sind keine Metalle.
+B) Einige Telefone sind Metalle.
+C) Alle Telefone sind keine Metalle.
+D) Alle Telefone sind Metalle.
+E) Keine der Schlussfolgerungen ist richtig.

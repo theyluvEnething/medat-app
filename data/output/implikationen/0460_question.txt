@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Amphibien sind Politiker.
+- Einige Politiker sind keine Vasen.
+
+A) Einige Amphibien sind keine Vasen.
+B) Alle Amphibien sind keine Vasen.
+C) Alle Amphibien sind Vasen.
+D) Einige Amphibien sind Vasen.
+E) Keine der Schlussfolgerungen ist richtig.

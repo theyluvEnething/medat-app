@@ -1,0 +1,7 @@
+Zahlenfolge: 11 20 31 51 82 133 ? ?
+
+A) 563/911
+B) 562/912
+C) 562/910
+D) 565/913
+E) Keine der Antworten ist richtig

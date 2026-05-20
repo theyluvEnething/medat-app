@@ -1,0 +1,7 @@
+Zahlenfolge: 25 28 33 40 49 60 ? ?
+
+A) 112/131
+B) 107/125
+C) 105/124
+D) 106/126
+E) Keine der Antworten ist richtig

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Giraffen sind keine Autos.
+- Alle Autos sind Tabletten.
+
+A) Einige Giraffen sind keine Tabletten.
+B) Alle Giraffen sind keine Tabletten.
+C) Alle Giraffen sind Tabletten.
+D) Einige Giraffen sind Tabletten.
+E) Keine der Schlussfolgerungen ist richtig.

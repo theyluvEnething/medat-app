@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Blumen sind Maler.
+- Alle Maler sind keine Tannen.
+
+A) Einige Blumen sind Tannen.
+B) Alle Blumen sind Tannen.
+C) Alle Blumen sind keine Tannen.
+D) Einige Blumen sind keine Tannen.
+E) Keine der Schlussfolgerungen ist richtig.

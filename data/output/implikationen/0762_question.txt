@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Pilze sind Kätzchen.
+- Alle Kätzchen sind keine Dichter.
+
+A) Alle Pilze sind keine Dichter.
+B) Einige Pilze sind keine Dichter.
+C) Alle Pilze sind Dichter.
+D) Einige Pilze sind Dichter.
+E) Keine der Schlussfolgerungen ist richtig.

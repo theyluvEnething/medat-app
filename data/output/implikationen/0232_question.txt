@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Insekten sind Diamanten.
+- Alle Diamanten sind Delfine.
+
+A) Einige Insekten sind keine Delfine.
+B) Alle Insekten sind Delfine.
+C) Alle Insekten sind keine Delfine.
+D) Einige Insekten sind Delfine.
+E) Keine der Schlussfolgerungen ist richtig.

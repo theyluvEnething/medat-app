@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Glühbirnen sind Tulpen.
+- Einige Tulpen sind keine Marder.
+
+A) Einige Glühbirnen sind Marder.
+B) Alle Glühbirnen sind keine Marder.
+C) Alle Glühbirnen sind Marder.
+D) Einige Glühbirnen sind keine Marder.
+E) Keine der Schlussfolgerungen ist richtig.

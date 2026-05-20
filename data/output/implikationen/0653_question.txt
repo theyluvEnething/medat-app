@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Skulpturen sind keine Lehrer.
+- Alle Lehrer sind keine Rosen.
+
+A) Alle Skulpturen sind Rosen.
+B) Einige Skulpturen sind Rosen.
+C) Alle Skulpturen sind keine Rosen.
+D) Einige Skulpturen sind keine Rosen.
+E) Keine der Schlussfolgerungen ist richtig.

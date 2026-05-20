@@ -1,0 +1,7 @@
+Zahlenfolge: -10 -17 -24 -31 -38 -45 ? ?
+
+A) -57/-67
+B) -61/-64
+C) -58/-65
+D) -59/-66
+E) Keine der Antworten ist richtig

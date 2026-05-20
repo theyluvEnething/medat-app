@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Schauspieler sind Ärzte.
+- Einige Ärzte sind keine Tiger.
+
+A) Einige Schauspieler sind Tiger.
+B) Alle Schauspieler sind Tiger.
+C) Alle Schauspieler sind keine Tiger.
+D) Einige Schauspieler sind keine Tiger.
+E) Keine der Schlussfolgerungen ist richtig.

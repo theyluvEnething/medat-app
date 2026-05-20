@@ -1,0 +1,7 @@
+Zahlenfolge: 4 9 18 31 48 69 ? ?
+
+A) 154/194
+B) 155/195
+C) 156/193
+D) 169/206
+E) Keine der Antworten ist richtig

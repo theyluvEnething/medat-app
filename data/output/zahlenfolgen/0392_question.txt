@@ -1,0 +1,7 @@
+Zahlenfolge: -9 22 -16 14 -23 6 ? ?
+
+A) -37/-10
+B) -34/-7
+C) -35/-12
+D) -39/-8
+E) Keine der Antworten ist richtig

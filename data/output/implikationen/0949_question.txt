@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Vulkane sind Mathematiker.
+- Einige Mathematiker sind Kupfer.
+
+A) Alle Vulkane sind Kupfer.
+B) Alle Vulkane sind keine Kupfer.
+C) Einige Vulkane sind keine Kupfer.
+D) Einige Vulkane sind Kupfer.
+E) Keine der Schlussfolgerungen ist richtig.

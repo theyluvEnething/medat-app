@@ -1,0 +1,7 @@
+Zahlenfolge: 27 31 35 39 43 47 ? ?
+
+A) 55/59
+B) 54/60
+C) 53/61
+D) 56/57
+E) Keine der Antworten ist richtig

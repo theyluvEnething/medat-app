@@ -1,0 +1,7 @@
+Zahlenfolge: 24 2 33 -3 42 -8 ? ?
+
+A) 61/-20
+B) -16/-23
+C) 59/-17
+D) 60/-18
+E) Keine der Antworten ist richtig

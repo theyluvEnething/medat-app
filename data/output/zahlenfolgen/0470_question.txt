@@ -1,0 +1,7 @@
+Zahlenfolge: 20 21 42 43 86 87 ? ?
+
+A) 349/352
+B) 349/353
+C) 350/351
+D) 351/349
+E) Keine der Antworten ist richtig

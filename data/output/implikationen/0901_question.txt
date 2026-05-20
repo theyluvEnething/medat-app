@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Eidechsen sind keine Tiger.
+- Einige Tiger sind Fotografen.
+
+A) Alle Eidechsen sind Fotografen.
+B) Einige Eidechsen sind Fotografen.
+C) Alle Eidechsen sind keine Fotografen.
+D) Einige Eidechsen sind keine Fotografen.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Musikinstrumente sind keine Bücher.
+- Alle Bücher sind keine Menschen.
+
+A) Alle Musikinstrumente sind Menschen.
+B) Einige Musikinstrumente sind keine Menschen.
+C) Alle Musikinstrumente sind keine Menschen.
+D) Einige Musikinstrumente sind Menschen.
+E) Keine der Schlussfolgerungen ist richtig.

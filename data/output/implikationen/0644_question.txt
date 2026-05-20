@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Roboter sind keine Eichen.
+- Einige Eichen sind Uhren.
+
+A) Alle Roboter sind keine Uhren.
+B) Alle Roboter sind Uhren.
+C) Einige Roboter sind Uhren.
+D) Einige Roboter sind keine Uhren.
+E) Keine der Schlussfolgerungen ist richtig.

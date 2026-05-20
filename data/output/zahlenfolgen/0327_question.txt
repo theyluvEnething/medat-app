@@ -1,0 +1,7 @@
+Zahlenfolge: 7 4 11 15 26 41 ? ?
+
+A) 177/281
+B) 175/283
+C) 283/175
+D) 173/281
+E) Keine der Antworten ist richtig

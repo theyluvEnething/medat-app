@@ -1,0 +1,7 @@
+Zahlenfolge: 1 11 12 23 35 58 ? ?
+
+A) 246/396
+B) 245/393
+C) 244/395
+D) 245/396
+E) Keine der Antworten ist richtig

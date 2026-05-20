@@ -1,0 +1,7 @@
+Zahlenfolge: 17 9 26 35 61 96 ? ?
+
+A) 663/410
+B) 111/126
+C) 409/661
+D) 410/663
+E) Keine der Antworten ist richtig

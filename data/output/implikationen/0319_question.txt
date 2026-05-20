@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Züge sind keine Stühle.
+- Alle Stühle sind Uhren.
+
+A) Alle Züge sind keine Uhren.
+B) Alle Züge sind Uhren.
+C) Einige Züge sind Uhren.
+D) Einige Züge sind keine Uhren.
+E) Keine der Schlussfolgerungen ist richtig.

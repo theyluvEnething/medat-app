@@ -1,0 +1,7 @@
+Zahlenfolge: 6 7 14 33 70 131 ? ?
+
+A) 351/516
+B) 348/517
+C) 348/520
+D) 349/518
+E) Keine der Antworten ist richtig

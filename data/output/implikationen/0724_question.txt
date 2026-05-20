@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Eidechsen sind Wissenschaftler.
+- Alle Wissenschaftler sind Lilien.
+
+A) Alle Eidechsen sind Lilien.
+B) Einige Eidechsen sind Lilien.
+C) Einige Eidechsen sind keine Lilien.
+D) Alle Eidechsen sind keine Lilien.
+E) Keine der Schlussfolgerungen ist richtig.

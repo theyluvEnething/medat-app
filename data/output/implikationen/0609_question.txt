@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Giraffen sind Vögel.
+- Alle Vögel sind Vulkane.
+
+A) Einige Giraffen sind keine Vulkane.
+B) Einige Giraffen sind Vulkane.
+C) Alle Giraffen sind Vulkane.
+D) Alle Giraffen sind keine Vulkane.
+E) Keine der Schlussfolgerungen ist richtig.

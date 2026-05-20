@@ -175,9 +175,11 @@ Parser scripts in `data/src/medat_parser/` extract questions from PDFs into flat
 | Parser | Output |
 |--------|--------|
 | `figuren_parser.py` | `NNN_question.png` + `NNN_question.txt` + `NNN_solution.txt` |
-| `implikationen_parser.py` | `NN_question.txt` + `NN_solution.txt` |
+| `implikationen_parser.py` | `NNNN_question.txt` + `NNNN_solution.txt` |
+| `generate_implikationen.py` | Synthetic implikationen exercises (1000, IDs 71–1070) |
 | `wortfluessigkeit_parser.py` | `NNNN_question.txt` + `NNNN_solution.txt` |
-| `zahlenfolgen_parser.py` | `NN_question.txt` + `NN_solution.txt` |
+| `zahlenfolgen_parser.py` | `NNNN_question.txt` + `NNNN_solution.txt` |
+| `generate_zahlenfolgen.py` | Synthetic zahlenfolgen exercises (1000, IDs 71–1070) |
 | `ausweise_parser.py` | `cards/NNN_question.png` + `cards/NNN_question.txt` + `recall/NNNN_question.txt` + `recall/NNNN_solution.txt` |
 | `converter.py` | Flat output → `questions.json` |
 | `merge.py` | Merges new PDF outputs into existing output/ |

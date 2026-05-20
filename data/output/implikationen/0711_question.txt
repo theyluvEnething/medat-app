@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Züge sind keine Reptilien.
+- Einige Reptilien sind keine Musikinstrumente.
+
+A) Einige Züge sind Musikinstrumente.
+B) Alle Züge sind Musikinstrumente.
+C) Einige Züge sind keine Musikinstrumente.
+D) Alle Züge sind keine Musikinstrumente.
+E) Keine der Schlussfolgerungen ist richtig.

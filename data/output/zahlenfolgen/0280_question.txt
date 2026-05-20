@@ -1,0 +1,7 @@
+Zahlenfolge: -4 -1 4 11 20 31 ? ?
+
+A) 78/94
+B) 76/95
+C) 77/94
+D) 74/93
+E) Keine der Antworten ist richtig

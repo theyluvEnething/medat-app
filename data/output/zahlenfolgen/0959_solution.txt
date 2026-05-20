@@ -1,0 +1,2 @@
+B — 68/110
+Jedes Glied = Summe der beiden Vorgänger

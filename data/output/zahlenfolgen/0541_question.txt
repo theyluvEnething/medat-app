@@ -1,0 +1,7 @@
+Zahlenfolge: 17 22 44 49 98 103 ? ?
+
+A) 422/427
+B) 423/425
+C) 420/425
+D) 421/428
+E) Keine der Antworten ist richtig

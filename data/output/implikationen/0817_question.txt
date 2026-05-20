@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Möbel sind keine Granite.
+- Einige Granite sind Klaviere.
+
+A) Alle Möbel sind Klaviere.
+B) Einige Möbel sind keine Klaviere.
+C) Alle Möbel sind keine Klaviere.
+D) Einige Möbel sind Klaviere.
+E) Keine der Schlussfolgerungen ist richtig.

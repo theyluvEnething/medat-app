@@ -1,0 +1,7 @@
+Zahlenfolge: 5 15 25 35 45 55 ? ?
+
+A) 85/75
+B) 76/87
+C) 75/85
+D) 74/87
+E) Keine der Antworten ist richtig

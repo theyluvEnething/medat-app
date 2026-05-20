@@ -1,0 +1,7 @@
+Zahlenfolge: 1 5 25 125 625 3125 ? ?
+
+A) 78127/390624
+B) 78126/390627
+C) 78125/390625
+D) 78123/390624
+E) Keine der Antworten ist richtig

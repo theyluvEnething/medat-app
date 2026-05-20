@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Uhren sind Maler.
+- Einige Maler sind keine Musikinstrumente.
+
+A) Alle Uhren sind keine Musikinstrumente.
+B) Einige Uhren sind keine Musikinstrumente.
+C) Alle Uhren sind Musikinstrumente.
+D) Einige Uhren sind Musikinstrumente.
+E) Keine der Schlussfolgerungen ist richtig.

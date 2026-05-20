@@ -1,0 +1,7 @@
+Zahlenfolge: 13 17 34 38 76 80 ? ?
+
+A) 341/345
+B) 328/332
+C) 330/333
+D) 160/173
+E) Keine der Antworten ist richtig

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Vulkane sind Blumen.
+- Alle Blumen sind keine Tabletten.
+
+A) Alle Vulkane sind keine Tabletten.
+B) Einige Vulkane sind Tabletten.
+C) Einige Vulkane sind keine Tabletten.
+D) Alle Vulkane sind Tabletten.
+E) Keine der Schlussfolgerungen ist richtig.

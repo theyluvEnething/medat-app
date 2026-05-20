@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Haie sind Giraffen.
+- Einige Giraffen sind Tulpen.
+
+A) Einige Haie sind keine Tulpen.
+B) Alle Haie sind Tulpen.
+C) Einige Haie sind Tulpen.
+D) Alle Haie sind keine Tulpen.
+E) Keine der Schlussfolgerungen ist richtig.

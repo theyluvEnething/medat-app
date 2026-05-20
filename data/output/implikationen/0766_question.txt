@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Möbel sind Lehrer.
+- Alle Lehrer sind keine Menschen.
+
+A) Einige Möbel sind Menschen.
+B) Alle Möbel sind Menschen.
+C) Einige Möbel sind keine Menschen.
+D) Alle Möbel sind keine Menschen.
+E) Keine der Schlussfolgerungen ist richtig.

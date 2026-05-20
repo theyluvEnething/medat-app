@@ -1,0 +1,7 @@
+Zahlenfolge: -11 -25 -39 -53 -67 -81 ? ?
+
+A) -111/-122
+B) -109/-123
+C) -107/-122
+D) -123/-109
+E) Keine der Antworten ist richtig

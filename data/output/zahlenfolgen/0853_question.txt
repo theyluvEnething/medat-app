@@ -1,0 +1,7 @@
+Zahlenfolge: 16 2 18 20 38 58 ? ?
+
+A) 116/124
+B) 248/402
+C) 66/74
+D) 250/404
+E) Keine der Antworten ist richtig

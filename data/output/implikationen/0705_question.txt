@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Maler sind Marder.
+- Alle Marder sind Wirbeltiere.
+
+A) Alle Maler sind Wirbeltiere.
+B) Einige Maler sind Wirbeltiere.
+C) Alle Maler sind keine Wirbeltiere.
+D) Einige Maler sind keine Wirbeltiere.
+E) Keine der Schlussfolgerungen ist richtig.

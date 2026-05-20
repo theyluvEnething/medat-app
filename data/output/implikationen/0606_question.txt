@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Wirbeltiere sind Roboter.
+- Einige Roboter sind Werkzeuge.
+
+A) Einige Wirbeltiere sind keine Werkzeuge.
+B) Alle Wirbeltiere sind keine Werkzeuge.
+C) Alle Wirbeltiere sind Werkzeuge.
+D) Einige Wirbeltiere sind Werkzeuge.
+E) Keine der Schlussfolgerungen ist richtig.

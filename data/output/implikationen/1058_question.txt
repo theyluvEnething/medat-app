@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Gräser sind Eichen.
+- Alle Eichen sind keine Tannen.
+
+A) Alle Gräser sind keine Tannen.
+B) Einige Gräser sind Tannen.
+C) Alle Gräser sind Tannen.
+D) Einige Gräser sind keine Tannen.
+E) Keine der Schlussfolgerungen ist richtig.

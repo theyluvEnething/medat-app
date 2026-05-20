@@ -1,0 +1,7 @@
+Zahlenfolge: 4 15 26 37 48 59 ? ?
+
+A) 82/93
+B) 82/90
+C) 79/91
+D) 81/92
+E) Keine der Antworten ist richtig

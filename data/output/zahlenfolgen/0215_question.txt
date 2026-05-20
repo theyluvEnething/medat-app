@@ -1,0 +1,7 @@
+Zahlenfolge: 16 17 19 22 26 31 ? ?
+
+A) 50/62
+B) 53/63
+C) 52/61
+D) 34/37
+E) Keine der Antworten ist richtig

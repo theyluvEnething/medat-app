@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Lilien sind Mammute.
+- Alle Mammute sind keine Politiker.
+
+A) Einige Lilien sind keine Politiker.
+B) Alle Lilien sind keine Politiker.
+C) Einige Lilien sind Politiker.
+D) Alle Lilien sind Politiker.
+E) Keine der Schlussfolgerungen ist richtig.

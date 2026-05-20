@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Blumen sind Möbel.
+- Einige Möbel sind Amseln.
+
+A) Einige Blumen sind Amseln.
+B) Alle Blumen sind keine Amseln.
+C) Einige Blumen sind keine Amseln.
+D) Alle Blumen sind Amseln.
+E) Keine der Schlussfolgerungen ist richtig.

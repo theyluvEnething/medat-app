@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Schriftsteller sind keine Lilien.
+- Alle Lilien sind keine Möbel.
+
+A) Einige Schriftsteller sind keine Möbel.
+B) Alle Schriftsteller sind Möbel.
+C) Alle Schriftsteller sind keine Möbel.
+D) Einige Schriftsteller sind Möbel.
+E) Keine der Schlussfolgerungen ist richtig.

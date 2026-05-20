@@ -1,0 +1,7 @@
+Zahlenfolge: 9 8 16 15 30 29 ? ?
+
+A) 115/115
+B) 114/113
+C) 116/111
+D) 112/112
+E) Keine der Antworten ist richtig

@@ -1,0 +1,7 @@
+Zahlenfolge: 27 2 17 -3 7 -8 ? ?
+
+A) -11/-20
+B) -11/-17
+C) -13/-18
+D) -15/-20
+E) Keine der Antworten ist richtig

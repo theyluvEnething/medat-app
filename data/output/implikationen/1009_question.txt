@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Schriftsteller sind keine Delfine.
+- Alle Delfine sind Sportler.
+
+A) Alle Schriftsteller sind keine Sportler.
+B) Einige Schriftsteller sind Sportler.
+C) Alle Schriftsteller sind Sportler.
+D) Einige Schriftsteller sind keine Sportler.
+E) Keine der Schlussfolgerungen ist richtig.

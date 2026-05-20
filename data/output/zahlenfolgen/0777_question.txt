@@ -1,0 +1,7 @@
+Zahlenfolge: 16 26 36 46 56 66 ? ?
+
+A) 87/94
+B) 85/97
+C) 84/97
+D) 86/96
+E) Keine der Antworten ist richtig

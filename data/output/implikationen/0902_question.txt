@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Schlangen sind Chemiker.
+- Einige Chemiker sind keine Tomaten.
+
+A) Einige Schlangen sind keine Tomaten.
+B) Alle Schlangen sind Tomaten.
+C) Einige Schlangen sind Tomaten.
+D) Alle Schlangen sind keine Tomaten.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Stühle sind keine Vasen.
+- Einige Vasen sind keine Pilze.
+
+A) Alle Stühle sind Pilze.
+B) Einige Stühle sind Pilze.
+C) Alle Stühle sind keine Pilze.
+D) Einige Stühle sind keine Pilze.
+E) Keine der Schlussfolgerungen ist richtig.

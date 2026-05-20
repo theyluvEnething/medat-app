@@ -1,0 +1,7 @@
+Zahlenfolge: 18 13 31 44 75 119 ? ?
+
+A) 507/820
+B) 508/821
+C) 506/819
+D) 505/819
+E) Keine der Antworten ist richtig

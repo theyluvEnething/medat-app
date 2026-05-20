@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Dinosaurier sind Schiffe.
+- Einige Schiffe sind Schriftsteller.
+
+A) Einige Dinosaurier sind keine Schriftsteller.
+B) Alle Dinosaurier sind Schriftsteller.
+C) Einige Dinosaurier sind Schriftsteller.
+D) Alle Dinosaurier sind keine Schriftsteller.
+E) Keine der Schlussfolgerungen ist richtig.

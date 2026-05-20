@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Schriftsteller sind Tulpen.
+- Alle Tulpen sind Häuser.
+
+A) Einige Schriftsteller sind keine Häuser.
+B) Alle Schriftsteller sind keine Häuser.
+C) Einige Schriftsteller sind Häuser.
+D) Alle Schriftsteller sind Häuser.
+E) Keine der Schlussfolgerungen ist richtig.

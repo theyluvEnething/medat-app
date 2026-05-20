@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Lilien sind Türen.
+- Alle Türen sind keine Granite.
+
+A) Alle Lilien sind Granite.
+B) Alle Lilien sind keine Granite.
+C) Einige Lilien sind Granite.
+D) Einige Lilien sind keine Granite.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Säugetiere sind keine Chemiker.
+- Einige Chemiker sind Vögel.
+
+A) Alle Säugetiere sind keine Vögel.
+B) Einige Säugetiere sind keine Vögel.
+C) Einige Säugetiere sind Vögel.
+D) Alle Säugetiere sind Vögel.
+E) Keine der Schlussfolgerungen ist richtig.

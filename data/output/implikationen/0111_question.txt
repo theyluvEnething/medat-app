@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Skulpturen sind keine Granite.
+- Einige Granite sind Politiker.
+
+A) Alle Skulpturen sind keine Politiker.
+B) Alle Skulpturen sind Politiker.
+C) Einige Skulpturen sind Politiker.
+D) Einige Skulpturen sind keine Politiker.
+E) Keine der Schlussfolgerungen ist richtig.

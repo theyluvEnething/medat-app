@@ -14,6 +14,8 @@ medat-parse = "medat_parser.pdf_parser:main"
 medat-convert = "medat_parser.converter:main"
 medat-merge = "medat_parser.merge:main"
 medat-extract-images = "medat_parser.extract_ausweise_images:main"
+medat-generate-implikationen = "medat_parser.generate_implikationen:main"
+medat-generate-zahlenfolgen = "medat_parser.generate_zahlenfolgen:main"
 
 [tool.ruff]
 target-version = "py313"

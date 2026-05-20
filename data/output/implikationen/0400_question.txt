@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Dichter sind Telefone.
+- Einige Telefone sind Schriftsteller.
+
+A) Alle Dichter sind Schriftsteller.
+B) Einige Dichter sind Schriftsteller.
+C) Alle Dichter sind keine Schriftsteller.
+D) Einige Dichter sind keine Schriftsteller.
+E) Keine der Schlussfolgerungen ist richtig.

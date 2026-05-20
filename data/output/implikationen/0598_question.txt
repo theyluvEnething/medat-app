@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Sportler sind Dinosaurier.
+- Einige Dinosaurier sind keine Schauspieler.
+
+A) Alle Sportler sind Schauspieler.
+B) Einige Sportler sind keine Schauspieler.
+C) Alle Sportler sind keine Schauspieler.
+D) Einige Sportler sind Schauspieler.
+E) Keine der Schlussfolgerungen ist richtig.

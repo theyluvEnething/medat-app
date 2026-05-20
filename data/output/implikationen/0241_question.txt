@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Züge sind Chemiker.
+- Einige Chemiker sind Ingenieure.
+
+A) Alle Züge sind Ingenieure.
+B) Einige Züge sind keine Ingenieure.
+C) Einige Züge sind Ingenieure.
+D) Alle Züge sind keine Ingenieure.
+E) Keine der Schlussfolgerungen ist richtig.

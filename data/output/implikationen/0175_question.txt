@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Blumen sind keine Teleskope.
+- Alle Teleskope sind keine Zebras.
+
+A) Einige Blumen sind Zebras.
+B) Alle Blumen sind Zebras.
+C) Einige Blumen sind keine Zebras.
+D) Alle Blumen sind keine Zebras.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Vulkane sind Elektroautos.
+- Alle Elektroautos sind Fische.
+
+A) Einige Vulkane sind Fische.
+B) Alle Vulkane sind Fische.
+C) Alle Vulkane sind keine Fische.
+D) Einige Vulkane sind keine Fische.
+E) Keine der Schlussfolgerungen ist richtig.

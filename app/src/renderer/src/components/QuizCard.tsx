@@ -1,4 +1,3 @@
-import { useState, useEffect } from 'react'
 import type { SectionKey } from '../types'
 import { ProgressTracker } from './ProgressTracker'
 
@@ -9,6 +8,11 @@ const figurenImages = import.meta.glob<{ default: string }>(
 
 const ausweiseImages = import.meta.glob<{ default: string }>(
   '../assets/ausweise/*.png',
+  { eager: true },
+)
+
+const recallImages = import.meta.glob<{ default: string }>(
+  '../assets/ausweise/recall/*.png',
   { eager: true },
 )
 
@@ -26,6 +30,7 @@ interface QuizCardProps {
   image?: string
   selectedAnswer: string | null
   correctAnswer: string
+  showSolution: boolean
   setSize: number
   onSelect: (choice: string) => void
   onNext: () => void
@@ -34,8 +39,8 @@ interface QuizCardProps {
 
 const CHOICES = ['A', 'B', 'C', 'D', 'E'] as const
 
-function fmtId(n: number): string {
-  return n.toString().padStart(3, '0')
+function fmtId(n: number, width = 3): string {
+  return n.toString().padStart(width, '0')
 }
 
 function getImageSrc(
@@ -63,29 +68,18 @@ export function QuizCard({
   image,
   selectedAnswer,
   correctAnswer,
+  showSolution,
   setSize,
   onSelect,
   onNext,
   progressAnswers,
 }: QuizCardProps) {
-  const [revealed, setRevealed] = useState(false)
-  useEffect(() => { setRevealed(false) }, [questionId])
-
   const isMemorize = section === 'ausweise_memorize'
+  const isRecall = section === 'ausweise_recall'
   const hasAnswered = selectedAnswer !== null
   const isCorrect = hasAnswered && selectedAnswer === correctAnswer
   const setIndex = Math.floor((questionId - 1) / setSize)
   const isLast = number >= total
-
-  const handleSelect = (choice: string) => {
-    if (hasAnswered) return
-    onSelect(choice)
-  }
-
-  const handleCheck = () => {
-    if (!hasAnswered || revealed) return
-    setRevealed(true)
-  }
 
   return (
     <div className="mx-auto w-full max-w-2xl animate-fade-in rounded-2xl bg-gray-900 shadow-2xl border border-gray-700">
@@ -104,6 +98,20 @@ export function QuizCard({
               <img
                 src={getImageSrc(figurenImages, `${fmtId(questionId)}.png`)!}
                 alt={`Figur ${questionId}`}
+                className="max-h-[45vh] max-w-full object-contain rounded"
+              />
+            ) : (
+              <p className="text-gray-400">Bild nicht verfügbar</p>
+            )}
+          </div>
+        ) : null}
+
+        {isRecall ? (
+          <div className="mb-6 flex justify-center rounded-xl bg-gray-800/50 p-4">
+            {getImageSrc(recallImages, `${fmtId(questionId, 4)}.png`) ? (
+              <img
+                src={getImageSrc(recallImages, `${fmtId(questionId, 4)}.png`)!}
+                alt={`Recall ${questionId}`}
                 className="max-h-[45vh] max-w-full object-contain rounded"
               />
             ) : (
@@ -134,22 +142,16 @@ export function QuizCard({
             {CHOICES.map((choice) => {
               const isSelected = selectedAnswer === choice
               const isCorrectChoice = choice === correctAnswer
-              const isWrongChoice = revealed && isSelected && !isCorrectChoice
 
               let border = 'border-gray-600'
               let bg = 'bg-gray-800 hover:border-gray-400'
               let badgeBg = 'bg-gray-600'
-              let badgeText = 'text-white'
 
-              if (revealed && isCorrectChoice) {
+              if (showSolution && isCorrectChoice) {
                 border = 'border-green-500'
                 bg = 'bg-green-500/10'
                 badgeBg = 'bg-green-500'
-              } else if (isWrongChoice) {
-                border = 'border-red-500'
-                bg = 'bg-red-500/10'
-                badgeBg = 'bg-red-500'
-              } else if (isSelected && !revealed) {
+              } else if (isSelected) {
                 border = 'border-blue-500'
                 bg = 'bg-blue-500/10'
                 badgeBg = 'bg-blue-500'
@@ -158,20 +160,18 @@ export function QuizCard({
               return (
                 <button
                   key={choice}
-                  onClick={() => handleSelect(choice)}
-                  disabled={revealed}
-                  className={`flex w-full items-center gap-4 rounded-xl border px-4 py-3 text-left text-lg transition-all duration-200
+                  onClick={() => onSelect(choice)}
+                  className={`flex w-full items-center gap-4 rounded-xl border px-4 py-3 text-left text-lg transition-all duration-200 cursor-pointer active:scale-[0.98]
                     ${border} ${bg}
-                    ${revealed ? 'cursor-default' : 'cursor-pointer active:scale-[0.98]'}
                   `}
                 >
                   <span
-                    className={`flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-lg text-sm font-bold ${badgeText} ${badgeBg}`}
+                    className={`flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-lg text-sm font-bold text-white ${badgeBg}`}
                   >
                     {choice}
                   </span>
                   <span className="text-gray-200">
-                    {isSelected && !revealed ? 'Ausgewählt' : ''}
+                    {isSelected && !showSolution ? 'Ausgewählt' : ''}
                   </span>
                 </button>
               )
@@ -180,8 +180,8 @@ export function QuizCard({
         </div>
       )}
 
-      {/* Feedback text after reveal */}
-      {revealed && !isMemorize && (
+      {/* Solution reveal when user toggles "Lösung anzeigen" */}
+      {showSolution && !isMemorize && (
         <div className="animate-fade-in px-6 pb-2 text-center">
           {isCorrect ? (
             <p className="font-semibold text-green-400">✓ Richtig!</p>
@@ -193,8 +193,8 @@ export function QuizCard({
         </div>
       )}
 
-      {/* Solution image for figuren after reveal */}
-      {revealed && section === 'figuren' && (
+      {/* Solution image for figuren */}
+      {showSolution && section === 'figuren' && (
         <div className="animate-fade-in px-6 pb-4">
           <div className="rounded-xl bg-gray-800/50 px-5 py-4">
             <p className="mb-3 text-sm text-gray-400">
@@ -225,32 +225,18 @@ export function QuizCard({
             {isLast ? 'Fertig' : 'Weiter →'}
           </button>
         ) : (
-          <div className="flex justify-between gap-4">
-            <button
-              onClick={handleCheck}
-              disabled={!hasAnswered || revealed}
-              className={`rounded-xl px-8 py-3 font-semibold transition-all duration-200
-                ${hasAnswered && !revealed
-                  ? 'bg-gradient-to-r from-blue-600 to-blue-500 text-white hover:from-blue-500 hover:to-blue-600 active:scale-[0.98] shadow-lg shadow-blue-500/25'
-                  : 'bg-gray-700 text-gray-500 cursor-not-allowed'
-                }
-              `}
-            >
-              ✓ Check
-            </button>
-            <button
-              onClick={onNext}
-              disabled={!hasAnswered}
-              className={`rounded-xl px-8 py-3 font-semibold transition-all duration-200
-                ${hasAnswered
-                  ? 'bg-gradient-to-r from-emerald-600 to-emerald-500 text-white hover:from-emerald-500 hover:to-emerald-600 active:scale-[0.98] shadow-lg shadow-emerald-500/25'
-                  : 'bg-gray-700 text-gray-500 cursor-not-allowed'
-                }
-              `}
-            >
-              {isLast ? 'Fertig' : 'Weiter →'}
-            </button>
-          </div>
+          <button
+            onClick={onNext}
+            disabled={!hasAnswered}
+            className={`w-full rounded-xl px-8 py-3.5 font-semibold transition-all duration-200 text-lg text-center
+              ${hasAnswered
+                ? 'bg-gradient-to-r from-emerald-600 to-emerald-500 text-white hover:from-emerald-500 hover:to-emerald-600 active:scale-[0.98] shadow-lg shadow-emerald-500/25'
+                : 'bg-gray-700 text-gray-500 cursor-not-allowed'
+              }
+            `}
+          >
+            {isLast ? 'Fertig' : 'Weiter →'}
+          </button>
         )}
       </div>
 

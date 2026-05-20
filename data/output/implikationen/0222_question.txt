@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Lilien sind Marder.
+- Alle Marder sind keine Autos.
+
+A) Einige Lilien sind Autos.
+B) Einige Lilien sind keine Autos.
+C) Alle Lilien sind keine Autos.
+D) Alle Lilien sind Autos.
+E) Keine der Schlussfolgerungen ist richtig.

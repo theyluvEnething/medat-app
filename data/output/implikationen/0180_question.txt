@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Wissenschaftler sind keine Amseln.
+- Alle Amseln sind Vasen.
+
+A) Einige Wissenschaftler sind keine Vasen.
+B) Alle Wissenschaftler sind keine Vasen.
+C) Alle Wissenschaftler sind Vasen.
+D) Einige Wissenschaftler sind Vasen.
+E) Keine der Schlussfolgerungen ist richtig.

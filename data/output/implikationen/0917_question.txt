@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Dichter sind Wale.
+- Alle Wale sind Teleskope.
+
+A) Alle Dichter sind Teleskope.
+B) Einige Dichter sind Teleskope.
+C) Alle Dichter sind keine Teleskope.
+D) Einige Dichter sind keine Teleskope.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Vögel sind keine Züge.
+- Einige Züge sind keine Schlangen.
+
+A) Alle Vögel sind keine Schlangen.
+B) Einige Vögel sind keine Schlangen.
+C) Einige Vögel sind Schlangen.
+D) Alle Vögel sind Schlangen.
+E) Keine der Schlussfolgerungen ist richtig.

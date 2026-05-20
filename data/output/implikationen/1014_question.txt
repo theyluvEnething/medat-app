@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Klaviere sind Autos.
+- Alle Autos sind keine Reptilien.
+
+A) Alle Klaviere sind keine Reptilien.
+B) Alle Klaviere sind Reptilien.
+C) Einige Klaviere sind Reptilien.
+D) Einige Klaviere sind keine Reptilien.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: 19 11 3 -5 -13 -21 ? ?
+
+A) -39/-43
+B) -37/-45
+C) -36/-44
+D) -36/-43
+E) Keine der Antworten ist richtig

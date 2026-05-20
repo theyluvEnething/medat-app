@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Nashörner sind keine Schlangen.
+- Einige Schlangen sind Wölfe.
+
+A) Alle Nashörner sind keine Wölfe.
+B) Alle Nashörner sind Wölfe.
+C) Einige Nashörner sind Wölfe.
+D) Einige Nashörner sind keine Wölfe.
+E) Keine der Schlussfolgerungen ist richtig.

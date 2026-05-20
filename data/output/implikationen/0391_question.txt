@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Vögel sind keine Ingenieure.
+- Alle Ingenieure sind keine Wirbeltiere.
+
+A) Einige Vögel sind Wirbeltiere.
+B) Einige Vögel sind keine Wirbeltiere.
+C) Alle Vögel sind Wirbeltiere.
+D) Alle Vögel sind keine Wirbeltiere.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: 18 20 40 42 84 86 ? ?
+
+A) 350/352
+B) 350/351
+C) 346/352
+D) 348/350
+E) Keine der Antworten ist richtig

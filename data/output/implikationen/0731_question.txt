@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Ärzte sind Pilze.
+- Alle Pilze sind Rosen.
+
+A) Einige Ärzte sind keine Rosen.
+B) Alle Ärzte sind keine Rosen.
+C) Einige Ärzte sind Rosen.
+D) Alle Ärzte sind Rosen.
+E) Keine der Schlussfolgerungen ist richtig.

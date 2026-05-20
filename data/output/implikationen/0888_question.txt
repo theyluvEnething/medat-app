@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Tiger sind Rosen.
+- Einige Rosen sind keine Skulpturen.
+
+A) Alle Tiger sind Skulpturen.
+B) Alle Tiger sind keine Skulpturen.
+C) Einige Tiger sind Skulpturen.
+D) Einige Tiger sind keine Skulpturen.
+E) Keine der Schlussfolgerungen ist richtig.

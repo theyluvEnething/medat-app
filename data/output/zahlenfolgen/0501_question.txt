@@ -1,0 +1,7 @@
+Zahlenfolge: 18 9 27 36 63 99 ? ?
+
+A) 421/685
+B) 423/684
+C) 425/683
+D) 424/685
+E) Keine der Antworten ist richtig

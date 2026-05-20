@@ -1,0 +1,7 @@
+Zahlenfolge: 18 19 37 56 93 149 ? ?
+
+A) 635/1026
+B) 633/1024
+C) 635/1025
+D) 634/1022
+E) Keine der Antworten ist richtig

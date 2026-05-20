@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Politiker sind Züge.
+- Alle Züge sind keine Anwälte.
+
+A) Alle Politiker sind Anwälte.
+B) Einige Politiker sind keine Anwälte.
+C) Einige Politiker sind Anwälte.
+D) Alle Politiker sind keine Anwälte.
+E) Keine der Schlussfolgerungen ist richtig.

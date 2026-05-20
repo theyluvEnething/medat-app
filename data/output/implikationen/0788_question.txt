@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Musikinstrumente sind keine Glühbirnen.
+- Alle Glühbirnen sind Wale.
+
+A) Einige Musikinstrumente sind keine Wale.
+B) Alle Musikinstrumente sind Wale.
+C) Einige Musikinstrumente sind Wale.
+D) Alle Musikinstrumente sind keine Wale.
+E) Keine der Schlussfolgerungen ist richtig.

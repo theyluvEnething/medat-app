@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Quartette sind keine Schlangen.
+- Alle Schlangen sind keine Lehrer.
+
+A) Einige Quartette sind keine Lehrer.
+B) Alle Quartette sind keine Lehrer.
+C) Einige Quartette sind Lehrer.
+D) Alle Quartette sind Lehrer.
+E) Keine der Schlussfolgerungen ist richtig.

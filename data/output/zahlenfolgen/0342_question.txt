@@ -1,0 +1,7 @@
+Zahlenfolge: 13 1 14 15 29 44 ? ?
+
+A) 189/306
+B) 190/307
+C) 188/308
+D) 189/309
+E) Keine der Antworten ist richtig

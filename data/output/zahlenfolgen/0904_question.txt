@@ -1,0 +1,7 @@
+Zahlenfolge: 3 6 18 36 108 216 ? ?
+
+A) 3890/7777
+B) 3888/7776
+C) 3890/7778
+D) 258/300
+E) Keine der Antworten ist richtig

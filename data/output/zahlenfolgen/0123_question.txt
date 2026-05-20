@@ -1,0 +1,7 @@
+Zahlenfolge: 18 19 22 27 34 43 ? ?
+
+A) 86/91
+B) 82/99
+C) 84/101
+D) 80/98
+E) Keine der Antworten ist richtig

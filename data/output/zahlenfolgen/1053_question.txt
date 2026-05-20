@@ -1,0 +1,7 @@
+Zahlenfolge: 8 9 17 26 43 69 ? ?
+
+A) 294/472
+B) 138/150
+C) 293/474
+D) 292/475
+E) Keine der Antworten ist richtig

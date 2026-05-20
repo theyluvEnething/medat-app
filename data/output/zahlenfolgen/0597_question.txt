@@ -1,0 +1,7 @@
+Zahlenfolge: 12 11 33 32 96 95 ? ?
+
+A) 851/849
+B) 850/850
+C) 852/851
+D) 851/852
+E) Keine der Antworten ist richtig

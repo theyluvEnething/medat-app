@@ -1,0 +1,7 @@
+Zahlenfolge: 4 12 20 28 36 44 ? ?
+
+A) 62/69
+B) 60/68
+C) 68/60
+D) 61/69
+E) Keine der Antworten ist richtig

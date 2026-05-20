@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Rosen sind keine Vulkane.
+- Alle Vulkane sind Amphibien.
+
+A) Einige Rosen sind keine Amphibien.
+B) Alle Rosen sind keine Amphibien.
+C) Alle Rosen sind Amphibien.
+D) Einige Rosen sind Amphibien.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Politiker sind keine Musikinstrumente.
+- Alle Musikinstrumente sind Chemiker.
+
+A) Einige Politiker sind Chemiker.
+B) Alle Politiker sind keine Chemiker.
+C) Alle Politiker sind Chemiker.
+D) Einige Politiker sind keine Chemiker.
+E) Keine der Schlussfolgerungen ist richtig.

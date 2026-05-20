@@ -1,0 +1,7 @@
+Zahlenfolge: 7 19 3 12 -1 5 ? ?
+
+A) -9/-9
+B) 10/9
+C) -10/-8
+D) -7/-7
+E) Keine der Antworten ist richtig

@@ -1,0 +1,7 @@
+Zahlenfolge: 27 37 47 57 67 77 ? ?
+
+A) 95/105
+B) 87/97
+C) 96/106
+D) 97/107
+E) Keine der Antworten ist richtig

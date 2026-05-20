@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Pilze sind Gräser.
+- Einige Gräser sind keine Mammute.
+
+A) Einige Pilze sind Mammute.
+B) Einige Pilze sind keine Mammute.
+C) Alle Pilze sind keine Mammute.
+D) Alle Pilze sind Mammute.
+E) Keine der Schlussfolgerungen ist richtig.

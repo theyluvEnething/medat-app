@@ -8,20 +8,14 @@ from pathlib import Path
 from medat_parser.converter import _parse_id, convert
 
 
-def test_parse_id_figuren() -> None:
-    assert _parse_id("001_question.txt", 3) == 1
-    assert _parse_id("255_question.txt", 3) == 255
-    assert _parse_id("01_question.txt", 3) is None  # wrong padding
-
-
-def test_parse_id_implikationen() -> None:
-    assert _parse_id("01_question.txt", 2) == 1
-    assert _parse_id("70_question.txt", 2) == 70
-
-
-def test_parse_id_wortfluessigkeit() -> None:
-    assert _parse_id("0001_question.txt", 4) == 1
-    assert _parse_id("1650_question.txt", 4) == 1650
+def test_parse_id() -> None:
+    assert _parse_id("001_question.txt") == 1
+    assert _parse_id("255_question.txt") == 255
+    assert _parse_id("01_question.txt") == 1
+    assert _parse_id("70_question.txt") == 70
+    assert _parse_id("0001_question.txt") == 1
+    assert _parse_id("1650_question.txt") == 1650
+    assert _parse_id("1070_question.txt") == 1070
 
 
 def test_convert_figuren(tmp_path: Path) -> None:

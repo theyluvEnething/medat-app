@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Züge sind keine Chemiker.
+- Einige Chemiker sind Gedichte.
+
+A) Einige Züge sind Gedichte.
+B) Alle Züge sind Gedichte.
+C) Einige Züge sind keine Gedichte.
+D) Alle Züge sind keine Gedichte.
+E) Keine der Schlussfolgerungen ist richtig.

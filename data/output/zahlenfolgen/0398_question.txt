@@ -1,0 +1,7 @@
+Zahlenfolge: 1 15 16 31 47 78 ? ?
+
+A) 328/531
+B) 330/532
+C) 531/328
+D) 326/529
+E) Keine der Antworten ist richtig

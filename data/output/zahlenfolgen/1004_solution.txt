@@ -1,0 +1,2 @@
+D — 64/76
+Differenz wächst um +1 je Schritt

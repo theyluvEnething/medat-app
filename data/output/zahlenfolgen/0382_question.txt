@@ -1,0 +1,7 @@
+Zahlenfolge: 7 -8 -23 -38 -53 -68 ? ?
+
+A) -97/-115
+B) -98/-113
+C) -96/-114
+D) -99/-114
+E) Keine der Antworten ist richtig

@@ -1,0 +1,7 @@
+Zahlenfolge: -6 -15 -24 -33 -42 -51 ? ?
+
+A) -69/-78
+B) -71/-77
+C) -68/-80
+D) -70/-79
+E) Keine der Antworten ist richtig

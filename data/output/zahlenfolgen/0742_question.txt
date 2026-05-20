@@ -1,0 +1,7 @@
+Zahlenfolge: 1 2 5 10 17 26 ? ?
+
+A) 52/57
+B) 65/82
+C) 67/83
+D) 66/83
+E) Keine der Antworten ist richtig

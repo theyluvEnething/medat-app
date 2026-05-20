@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Menschen sind Telefone.
+- Alle Telefone sind keine Smartphones.
+
+A) Einige Menschen sind keine Smartphones.
+B) Einige Menschen sind Smartphones.
+C) Alle Menschen sind keine Smartphones.
+D) Alle Menschen sind Smartphones.
+E) Keine der Schlussfolgerungen ist richtig.

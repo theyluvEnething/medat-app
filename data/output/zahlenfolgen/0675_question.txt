@@ -1,0 +1,7 @@
+Zahlenfolge: -5 -9 -13 -17 -21 -25 ? ?
+
+A) -32/-36
+B) -32/-38
+C) -50/-54
+D) -33/-37
+E) Keine der Antworten ist richtig

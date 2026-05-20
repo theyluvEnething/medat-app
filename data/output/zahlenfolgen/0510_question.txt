@@ -1,0 +1,7 @@
+Zahlenfolge: 13 17 23 31 41 53 ? ?
+
+A) 100/122
+B) 102/122
+C) 102/120
+D) 101/121
+E) Keine der Antworten ist richtig

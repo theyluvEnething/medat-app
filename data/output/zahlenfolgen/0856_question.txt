@@ -1,0 +1,7 @@
+Zahlenfolge: 27 30 34 39 45 52 ? ?
+
+A) 78/92
+B) 78/89
+C) 84/95
+D) 79/90
+E) Keine der Antworten ist richtig

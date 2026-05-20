@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Taucher sind keine Mathematiker.
+- Alle Mathematiker sind Statuen.
+
+A) Einige Taucher sind Statuen.
+B) Alle Taucher sind Statuen.
+C) Alle Taucher sind keine Statuen.
+D) Einige Taucher sind keine Statuen.
+E) Keine der Schlussfolgerungen ist richtig.

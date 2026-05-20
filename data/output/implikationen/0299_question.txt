@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Amseln sind Säugetiere.
+- Alle Säugetiere sind keine Sportler.
+
+A) Einige Amseln sind keine Sportler.
+B) Alle Amseln sind Sportler.
+C) Alle Amseln sind keine Sportler.
+D) Einige Amseln sind Sportler.
+E) Keine der Schlussfolgerungen ist richtig.

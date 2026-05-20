@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Uhren sind keine Pandas.
+- Alle Pandas sind Metalle.
+
+A) Alle Uhren sind keine Metalle.
+B) Einige Uhren sind Metalle.
+C) Einige Uhren sind keine Metalle.
+D) Alle Uhren sind Metalle.
+E) Keine der Schlussfolgerungen ist richtig.

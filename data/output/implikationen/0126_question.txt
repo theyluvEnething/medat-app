@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Kätzchen sind Vulkane.
+- Einige Vulkane sind keine Giraffen.
+
+A) Einige Kätzchen sind Giraffen.
+B) Alle Kätzchen sind Giraffen.
+C) Alle Kätzchen sind keine Giraffen.
+D) Einige Kätzchen sind keine Giraffen.
+E) Keine der Schlussfolgerungen ist richtig.

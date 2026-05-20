@@ -1,0 +1,7 @@
+Zahlenfolge: 19 28 15 35 11 42 ? ?
+
+A) 7/60
+B) 1/54
+C) 1/55
+D) 3/56
+E) Keine der Antworten ist richtig

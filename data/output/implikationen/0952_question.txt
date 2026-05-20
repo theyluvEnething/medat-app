@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Säugetiere sind Granite.
+- Alle Granite sind Autos.
+
+A) Einige Säugetiere sind keine Autos.
+B) Einige Säugetiere sind Autos.
+C) Alle Säugetiere sind Autos.
+D) Alle Säugetiere sind keine Autos.
+E) Keine der Schlussfolgerungen ist richtig.

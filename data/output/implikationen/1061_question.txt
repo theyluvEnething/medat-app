@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Fische sind Pandas.
+- Einige Pandas sind Möbel.
+
+A) Einige Fische sind Möbel.
+B) Alle Fische sind keine Möbel.
+C) Einige Fische sind keine Möbel.
+D) Alle Fische sind Möbel.
+E) Keine der Schlussfolgerungen ist richtig.

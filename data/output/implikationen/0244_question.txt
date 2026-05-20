@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Tiger sind keine Schauspieler.
+- Einige Schauspieler sind keine Chemiker.
+
+A) Alle Tiger sind keine Chemiker.
+B) Einige Tiger sind keine Chemiker.
+C) Alle Tiger sind Chemiker.
+D) Einige Tiger sind Chemiker.
+E) Keine der Schlussfolgerungen ist richtig.

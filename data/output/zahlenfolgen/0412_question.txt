@@ -1,0 +1,7 @@
+Zahlenfolge: 9 14 21 30 41 54 ? ?
+
+A) 105/126
+B) 103/127
+C) 103/128
+D) 106/128
+E) Keine der Antworten ist richtig

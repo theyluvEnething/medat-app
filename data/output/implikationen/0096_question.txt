@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Wissenschaftler sind Politiker.
+- Einige Politiker sind Haie.
+
+A) Einige Wissenschaftler sind Haie.
+B) Einige Wissenschaftler sind keine Haie.
+C) Alle Wissenschaftler sind keine Haie.
+D) Alle Wissenschaftler sind Haie.
+E) Keine der Schlussfolgerungen ist richtig.

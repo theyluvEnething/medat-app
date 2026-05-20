@@ -74,6 +74,7 @@ export function Session() {
   const [step, setStep] = useState<Step>('intro')
   const [answers, setAnswers] = useState<Record<string, string>>({})
   const [showTimer, setShowTimer] = useState(true)
+  const [showSolution, setShowSolution] = useState(false)
   const [zoom, setZoom] = useState(1)
   const [sessionStarted, setSessionStarted] = useState(false)
 
@@ -124,6 +125,11 @@ export function Session() {
       updateDailyStreak()
     }
   }, [sessionStarted, type, startSession, updateDailyStreak])
+
+  // Reset solution visibility on section/question change
+  useEffect(() => {
+    setShowSolution(false)
+  }, [sectionIndex, questionIndex])
 
   // Ctrl+Wheel zoom
   useEffect(() => {
@@ -237,20 +243,13 @@ export function Session() {
     }
   }
 
-  // Build progress answers for ProgressTracker
+  // Build progress answers for ProgressTracker (answered / pending only during session)
   const progressAnswers: Record<number, 'correct' | 'wrong' | 'pending'> = {}
   for (let i = 0; i < displayedQuestions.length; i++) {
     const q = displayedQuestions[i]
     if (!q) continue
     const key = `${section.key}-${q.id}`
-    const choice = answers[key]
-    if (choice === undefined) {
-      progressAnswers[i] = 'pending'
-    } else if (choice === q.answer) {
-      progressAnswers[i] = 'correct'
-    } else {
-      progressAnswers[i] = 'wrong'
-    }
+    progressAnswers[i] = answers[key] !== undefined ? 'correct' : 'pending'
   }
 
   return (
@@ -327,6 +326,7 @@ export function Session() {
             setSize={section.count}
             selectedAnswer={selectedAnswer}
             correctAnswer={currentQuestion.answer}
+            showSolution={showSolution}
             onSelect={selectAnswer}
             onNext={goNext}
             progressAnswers={progressAnswers}
@@ -348,6 +348,13 @@ export function Session() {
                 className="rounded-lg border border-amber-700/50 bg-amber-950/20 px-4 py-2 text-sm text-amber-300 transition-all duration-200 hover:scale-[1.03] hover:border-amber-600/70 hover:bg-amber-950/40 active:scale-95"
               >
                 Überspringen
+              </button>
+
+              <button
+                onClick={() => setShowSolution((v) => !v)}
+                className="text-xs text-zinc-500 transition-colors duration-200 hover:text-zinc-300"
+              >
+                {showSolution ? 'Lösung ausblenden' : 'Lösung anzeigen'}
               </button>
             </div>
 

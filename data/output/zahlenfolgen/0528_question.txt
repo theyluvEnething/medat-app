@@ -1,0 +1,7 @@
+Zahlenfolge: 1 7 8 15 23 38 ? ?
+
+A) 167/266
+B) 76/83
+C) 45/52
+D) 160/259
+E) Keine der Antworten ist richtig

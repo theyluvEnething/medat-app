@@ -1,0 +1,7 @@
+Zahlenfolge: -18 -13 -8 -3 2 7 ? ?
+
+A) 22/27
+B) 16/24
+C) 22/17
+D) 17/22
+E) Keine der Antworten ist richtig

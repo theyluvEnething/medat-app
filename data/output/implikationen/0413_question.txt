@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Diamanten sind keine Tannen.
+- Alle Tannen sind keine Maler.
+
+A) Einige Diamanten sind keine Maler.
+B) Alle Diamanten sind Maler.
+C) Einige Diamanten sind Maler.
+D) Alle Diamanten sind keine Maler.
+E) Keine der Schlussfolgerungen ist richtig.

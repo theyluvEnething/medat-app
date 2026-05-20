@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Eidechsen sind keine Schauspieler.
+- Einige Schauspieler sind Pilze.
+
+A) Einige Eidechsen sind keine Pilze.
+B) Einige Eidechsen sind Pilze.
+C) Alle Eidechsen sind keine Pilze.
+D) Alle Eidechsen sind Pilze.
+E) Keine der Schlussfolgerungen ist richtig.

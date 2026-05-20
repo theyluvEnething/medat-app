@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Klaviere sind Wirbeltiere.
+- Alle Wirbeltiere sind Tulpen.
+
+A) Einige Klaviere sind keine Tulpen.
+B) Alle Klaviere sind Tulpen.
+C) Einige Klaviere sind Tulpen.
+D) Alle Klaviere sind keine Tulpen.
+E) Keine der Schlussfolgerungen ist richtig.

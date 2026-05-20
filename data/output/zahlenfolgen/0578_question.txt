@@ -1,0 +1,7 @@
+Zahlenfolge: 15 19 38 42 84 88 ? ?
+
+A) 102/116
+B) 358/366
+C) 360/364
+D) 359/362
+E) Keine der Antworten ist richtig

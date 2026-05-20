@@ -1,0 +1,7 @@
+Zahlenfolge: 17 13 30 43 73 116 ? ?
+
+A) 493/800
+B) 495/797
+C) 496/801
+D) 494/799
+E) Keine der Antworten ist richtig

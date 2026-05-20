@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Klaviere sind Pandas.
+- Alle Pandas sind Flugzeuge.
+
+A) Einige Klaviere sind keine Flugzeuge.
+B) Einige Klaviere sind Flugzeuge.
+C) Alle Klaviere sind Flugzeuge.
+D) Alle Klaviere sind keine Flugzeuge.
+E) Keine der Schlussfolgerungen ist richtig.

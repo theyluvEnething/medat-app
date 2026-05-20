@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Amseln sind Häuser.
+- Einige Häuser sind keine Mathematiker.
+
+A) Alle Amseln sind keine Mathematiker.
+B) Alle Amseln sind Mathematiker.
+C) Einige Amseln sind keine Mathematiker.
+D) Einige Amseln sind Mathematiker.
+E) Keine der Schlussfolgerungen ist richtig.

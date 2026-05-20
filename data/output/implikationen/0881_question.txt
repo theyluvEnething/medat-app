@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Sänger sind Vulkane.
+- Alle Vulkane sind keine Flugzeuge.
+
+A) Alle Sänger sind Flugzeuge.
+B) Alle Sänger sind keine Flugzeuge.
+C) Einige Sänger sind Flugzeuge.
+D) Einige Sänger sind keine Flugzeuge.
+E) Keine der Schlussfolgerungen ist richtig.

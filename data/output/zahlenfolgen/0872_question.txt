@@ -1,0 +1,7 @@
+Zahlenfolge: 16 21 42 47 94 99 ? ?
+
+A) 405/412
+B) 405/410
+C) 406/411
+D) 408/412
+E) Keine der Antworten ist richtig

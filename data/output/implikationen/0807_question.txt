@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Gemälde sind Insekten.
+- Alle Insekten sind Mammute.
+
+A) Einige Gemälde sind keine Mammute.
+B) Alle Gemälde sind Mammute.
+C) Einige Gemälde sind Mammute.
+D) Alle Gemälde sind keine Mammute.
+E) Keine der Schlussfolgerungen ist richtig.

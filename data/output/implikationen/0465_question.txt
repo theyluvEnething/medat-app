@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Bücher sind keine Vulkane.
+- Alle Vulkane sind keine Anwälte.
+
+A) Einige Bücher sind keine Anwälte.
+B) Einige Bücher sind Anwälte.
+C) Alle Bücher sind Anwälte.
+D) Alle Bücher sind keine Anwälte.
+E) Keine der Schlussfolgerungen ist richtig.

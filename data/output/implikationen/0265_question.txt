@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Mathematiker sind keine Schlangen.
+- Einige Schlangen sind keine Sportler.
+
+A) Alle Mathematiker sind keine Sportler.
+B) Einige Mathematiker sind keine Sportler.
+C) Alle Mathematiker sind Sportler.
+D) Einige Mathematiker sind Sportler.
+E) Keine der Schlussfolgerungen ist richtig.

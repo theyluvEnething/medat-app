@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Tannen sind keine Diamanten.
+- Einige Diamanten sind keine Häuser.
+
+A) Einige Tannen sind Häuser.
+B) Alle Tannen sind keine Häuser.
+C) Einige Tannen sind keine Häuser.
+D) Alle Tannen sind Häuser.
+E) Keine der Schlussfolgerungen ist richtig.

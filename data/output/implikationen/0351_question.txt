@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Kupfer sind Mathematiker.
+- Einige Mathematiker sind Maler.
+
+A) Einige Kupfer sind Maler.
+B) Alle Kupfer sind Maler.
+C) Alle Kupfer sind keine Maler.
+D) Einige Kupfer sind keine Maler.
+E) Keine der Schlussfolgerungen ist richtig.

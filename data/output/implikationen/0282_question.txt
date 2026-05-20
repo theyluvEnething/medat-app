@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Wölfe sind Pandas.
+- Einige Pandas sind keine Mathematiker.
+
+A) Einige Wölfe sind keine Mathematiker.
+B) Einige Wölfe sind Mathematiker.
+C) Alle Wölfe sind Mathematiker.
+D) Alle Wölfe sind keine Mathematiker.
+E) Keine der Schlussfolgerungen ist richtig.

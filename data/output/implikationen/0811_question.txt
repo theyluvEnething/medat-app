@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Sportler sind Statuen.
+- Alle Statuen sind keine Reptilien.
+
+A) Alle Sportler sind keine Reptilien.
+B) Einige Sportler sind Reptilien.
+C) Einige Sportler sind keine Reptilien.
+D) Alle Sportler sind Reptilien.
+E) Keine der Schlussfolgerungen ist richtig.

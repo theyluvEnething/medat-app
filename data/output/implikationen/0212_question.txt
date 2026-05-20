@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Tiger sind keine Bücher.
+- Alle Bücher sind Mammute.
+
+A) Einige Tiger sind keine Mammute.
+B) Einige Tiger sind Mammute.
+C) Alle Tiger sind Mammute.
+D) Alle Tiger sind keine Mammute.
+E) Keine der Schlussfolgerungen ist richtig.

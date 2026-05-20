@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Eichen sind keine Schauspieler.
+- Alle Schauspieler sind Pandas.
+
+A) Alle Eichen sind keine Pandas.
+B) Einige Eichen sind Pandas.
+C) Alle Eichen sind Pandas.
+D) Einige Eichen sind keine Pandas.
+E) Keine der Schlussfolgerungen ist richtig.

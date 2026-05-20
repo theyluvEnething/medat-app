@@ -1,0 +1,7 @@
+Zahlenfolge: -19 -10 -1 8 17 26 ? ?
+
+A) 35/44
+B) 42/55
+C) 44/53
+D) 46/55
+E) Keine der Antworten ist richtig

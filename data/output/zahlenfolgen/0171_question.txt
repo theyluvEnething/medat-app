@@ -1,0 +1,7 @@
+Zahlenfolge: 8 6 12 10 20 18 ? ?
+
+A) 69/65
+B) 68/66
+C) 70/65
+D) 67/67
+E) Keine der Antworten ist richtig

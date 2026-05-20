@@ -1,0 +1,7 @@
+Zahlenfolge: 5 10 16 23 31 40 ? ?
+
+A) 73/86
+B) 74/84
+C) 71/87
+D) 72/88
+E) Keine der Antworten ist richtig

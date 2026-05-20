@@ -1,0 +1,7 @@
+Zahlenfolge: 25 29 15 37 5 45 ? ?
+
+A) 90/94
+B) -13/60
+C) -15/61
+D) -14/62
+E) Keine der Antworten ist richtig

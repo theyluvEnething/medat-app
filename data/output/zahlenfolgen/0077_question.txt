@@ -1,0 +1,7 @@
+Zahlenfolge: -9 0 9 18 27 36 ? ?
+
+A) 55/64
+B) 55/61
+C) 54/63
+D) 56/62
+E) Keine der Antworten ist richtig

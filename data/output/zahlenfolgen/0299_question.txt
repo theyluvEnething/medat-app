@@ -1,0 +1,7 @@
+Zahlenfolge: -3 6 -12 24 -48 96 ? ?
+
+A) 115/134
+B) 192/211
+C) 384/-768
+D) 385/-766
+E) Keine der Antworten ist richtig

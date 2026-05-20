@@ -1,0 +1,7 @@
+Zahlenfolge: 5 1 6 7 13 20 ? ?
+
+A) 85/141
+B) 86/139
+C) 85/140
+D) 87/141
+E) Keine der Antworten ist richtig

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Eidechsen sind Stühle.
+- Alle Stühle sind keine Menschen.
+
+A) Alle Eidechsen sind Menschen.
+B) Alle Eidechsen sind keine Menschen.
+C) Einige Eidechsen sind keine Menschen.
+D) Einige Eidechsen sind Menschen.
+E) Keine der Schlussfolgerungen ist richtig.

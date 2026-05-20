@@ -1,0 +1,7 @@
+Zahlenfolge: -11 -1 9 19 29 39 ? ?
+
+A) 60/67
+B) 61/68
+C) 59/69
+D) 58/67
+E) Keine der Antworten ist richtig

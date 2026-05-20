@@ -1,0 +1,7 @@
+Zahlenfolge: 30 35 44 57 74 95 ? ?
+
+A) 182/219
+B) 180/217
+C) 181/220
+D) 183/220
+E) Keine der Antworten ist richtig

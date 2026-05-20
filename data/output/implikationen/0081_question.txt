@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Taucher sind keine Stühle.
+- Einige Stühle sind Pilze.
+
+A) Alle Taucher sind keine Pilze.
+B) Einige Taucher sind Pilze.
+C) Alle Taucher sind Pilze.
+D) Einige Taucher sind keine Pilze.
+E) Keine der Schlussfolgerungen ist richtig.

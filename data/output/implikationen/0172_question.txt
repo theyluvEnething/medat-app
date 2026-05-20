@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Häuser sind Mammute.
+- Alle Mammute sind keine Musikinstrumente.
+
+A) Einige Häuser sind keine Musikinstrumente.
+B) Einige Häuser sind Musikinstrumente.
+C) Alle Häuser sind keine Musikinstrumente.
+D) Alle Häuser sind Musikinstrumente.
+E) Keine der Schlussfolgerungen ist richtig.

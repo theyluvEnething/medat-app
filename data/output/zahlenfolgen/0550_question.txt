@@ -1,0 +1,7 @@
+Zahlenfolge: 25 13 27 11 29 9 ? ?
+
+A) 31/4
+B) 32/6
+C) 32/7
+D) 33/5
+E) Keine der Antworten ist richtig

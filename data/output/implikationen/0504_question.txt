@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Amseln sind keine Granite.
+- Einige Granite sind Blumen.
+
+A) Einige Amseln sind Blumen.
+B) Einige Amseln sind keine Blumen.
+C) Alle Amseln sind Blumen.
+D) Alle Amseln sind keine Blumen.
+E) Keine der Schlussfolgerungen ist richtig.

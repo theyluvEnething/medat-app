@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Dichter sind keine Wirbeltiere.
+- Alle Wirbeltiere sind keine Dinosaurier.
+
+A) Einige Dichter sind keine Dinosaurier.
+B) Einige Dichter sind Dinosaurier.
+C) Alle Dichter sind Dinosaurier.
+D) Alle Dichter sind keine Dinosaurier.
+E) Keine der Schlussfolgerungen ist richtig.

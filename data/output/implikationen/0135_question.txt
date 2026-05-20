@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Schriftsteller sind Maler.
+- Einige Maler sind Elektroautos.
+
+A) Einige Schriftsteller sind Elektroautos.
+B) Alle Schriftsteller sind Elektroautos.
+C) Alle Schriftsteller sind keine Elektroautos.
+D) Einige Schriftsteller sind keine Elektroautos.
+E) Keine der Schlussfolgerungen ist richtig.

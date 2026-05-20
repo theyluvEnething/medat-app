@@ -1,0 +1,7 @@
+Zahlenfolge: 18 9 19 6 20 3 ? ?
+
+A) 22/-3
+B) 21/-2
+C) 20/-2
+D) 23/-1
+E) Keine der Antworten ist richtig

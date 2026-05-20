@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Bücher sind Menschen.
+- Einige Menschen sind Krokodile.
+
+A) Alle Bücher sind keine Krokodile.
+B) Alle Bücher sind Krokodile.
+C) Einige Bücher sind keine Krokodile.
+D) Einige Bücher sind Krokodile.
+E) Keine der Schlussfolgerungen ist richtig.

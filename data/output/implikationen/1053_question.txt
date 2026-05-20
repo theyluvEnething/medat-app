@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Wirbeltiere sind Wölfe.
+- Einige Wölfe sind Nashörner.
+
+A) Alle Wirbeltiere sind Nashörner.
+B) Einige Wirbeltiere sind Nashörner.
+C) Einige Wirbeltiere sind keine Nashörner.
+D) Alle Wirbeltiere sind keine Nashörner.
+E) Keine der Schlussfolgerungen ist richtig.

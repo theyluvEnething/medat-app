@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Lehrer sind keine Mammute.
+- Alle Mammute sind Roboter.
+
+A) Einige Lehrer sind keine Roboter.
+B) Alle Lehrer sind keine Roboter.
+C) Einige Lehrer sind Roboter.
+D) Alle Lehrer sind Roboter.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: 14 11 8 5 2 -1 ? ?
+
+A) -10/-13
+B) -6/-12
+C) -9/-11
+D) -7/-10
+E) Keine der Antworten ist richtig

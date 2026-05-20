@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Roboter sind keine Pilze.
+- Einige Pilze sind keine Vulkane.
+
+A) Alle Roboter sind keine Vulkane.
+B) Einige Roboter sind keine Vulkane.
+C) Einige Roboter sind Vulkane.
+D) Alle Roboter sind Vulkane.
+E) Keine der Schlussfolgerungen ist richtig.

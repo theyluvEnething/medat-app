@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Werkzeuge sind Lilien.
+- Alle Lilien sind Menschen.
+
+A) Einige Werkzeuge sind Menschen.
+B) Alle Werkzeuge sind keine Menschen.
+C) Einige Werkzeuge sind keine Menschen.
+D) Alle Werkzeuge sind Menschen.
+E) Keine der Schlussfolgerungen ist richtig.

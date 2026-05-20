@@ -1,0 +1,7 @@
+Zahlenfolge: 4 14 8 13 12 12 ? ?
+
+A) 20/10
+B) 18/9
+C) 21/9
+D) 24/25
+E) Keine der Antworten ist richtig

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Möbel sind keine Chemiker.
+- Einige Chemiker sind keine Eidechsen.
+
+A) Einige Möbel sind Eidechsen.
+B) Einige Möbel sind keine Eidechsen.
+C) Alle Möbel sind Eidechsen.
+D) Alle Möbel sind keine Eidechsen.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: 30 3 12 21 30 3 ? ?
+
+A) 28/4
+B) 32/4
+C) 30/3
+D) 31/2
+E) Keine der Antworten ist richtig

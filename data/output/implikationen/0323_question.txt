@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Vasen sind Marder.
+- Alle Marder sind keine Blumen.
+
+A) Alle Vasen sind Blumen.
+B) Einige Vasen sind Blumen.
+C) Alle Vasen sind keine Blumen.
+D) Einige Vasen sind keine Blumen.
+E) Keine der Schlussfolgerungen ist richtig.

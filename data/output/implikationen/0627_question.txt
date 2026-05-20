@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Fische sind Hunde.
+- Alle Hunde sind Amphibien.
+
+A) Einige Fische sind Amphibien.
+B) Einige Fische sind keine Amphibien.
+C) Alle Fische sind Amphibien.
+D) Alle Fische sind keine Amphibien.
+E) Keine der Schlussfolgerungen ist richtig.

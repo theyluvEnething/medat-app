@@ -1,0 +1,7 @@
+Zahlenfolge: 19 21 26 34 45 59 ? ?
+
+A) 118/146
+B) 117/146
+C) 118/126
+D) 119/145
+E) Keine der Antworten ist richtig

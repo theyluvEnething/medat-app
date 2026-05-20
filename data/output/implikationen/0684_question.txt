@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Sportler sind keine Tabletten.
+- Einige Tabletten sind keine Sänger.
+
+A) Alle Sportler sind Sänger.
+B) Alle Sportler sind keine Sänger.
+C) Einige Sportler sind keine Sänger.
+D) Einige Sportler sind Sänger.
+E) Keine der Schlussfolgerungen ist richtig.

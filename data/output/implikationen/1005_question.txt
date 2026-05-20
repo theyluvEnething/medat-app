@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Stühle sind keine Quartette.
+- Einige Quartette sind keine Teleskope.
+
+A) Einige Stühle sind keine Teleskope.
+B) Alle Stühle sind Teleskope.
+C) Alle Stühle sind keine Teleskope.
+D) Einige Stühle sind Teleskope.
+E) Keine der Schlussfolgerungen ist richtig.

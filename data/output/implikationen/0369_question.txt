@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Ingenieure sind Uhren.
+- Einige Uhren sind Autos.
+
+A) Einige Ingenieure sind Autos.
+B) Einige Ingenieure sind keine Autos.
+C) Alle Ingenieure sind keine Autos.
+D) Alle Ingenieure sind Autos.
+E) Keine der Schlussfolgerungen ist richtig.

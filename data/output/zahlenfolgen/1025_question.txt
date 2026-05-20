@@ -1,0 +1,7 @@
+Zahlenfolge: 14 19 27 38 52 69 ? ?
+
+A) 167/138
+B) 140/166
+C) 149/178
+D) 138/167
+E) Keine der Antworten ist richtig

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Möbel sind Politiker.
+- Einige Politiker sind Sportler.
+
+A) Alle Möbel sind keine Sportler.
+B) Alle Möbel sind Sportler.
+C) Einige Möbel sind keine Sportler.
+D) Einige Möbel sind Sportler.
+E) Keine der Schlussfolgerungen ist richtig.

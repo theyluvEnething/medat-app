@@ -1,0 +1,7 @@
+Zahlenfolge: 13 16 32 35 70 73 ? ?
+
+A) 298/301
+B) 299/302
+C) 310/313
+D) 85/97
+E) Keine der Antworten ist richtig

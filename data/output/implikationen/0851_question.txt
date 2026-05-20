@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Säugetiere sind keine Radios.
+- Einige Radios sind Vulkane.
+
+A) Einige Säugetiere sind keine Vulkane.
+B) Einige Säugetiere sind Vulkane.
+C) Alle Säugetiere sind Vulkane.
+D) Alle Säugetiere sind keine Vulkane.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,2 @@
+A — 520/841
+Jedes Glied = Summe der beiden Vorgänger

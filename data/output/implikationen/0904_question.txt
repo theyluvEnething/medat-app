@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Türen sind Zebras.
+- Einige Zebras sind keine Blumen.
+
+A) Einige Türen sind Blumen.
+B) Alle Türen sind Blumen.
+C) Alle Türen sind keine Blumen.
+D) Einige Türen sind keine Blumen.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: 2 4 6 10 16 26 ? ?
+
+A) 110/178
+B) 52/56
+C) 108/177
+D) 111/180
+E) Keine der Antworten ist richtig

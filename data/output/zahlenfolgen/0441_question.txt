@@ -1,0 +1,7 @@
+Zahlenfolge: -4 -1 2 5 8 11 ? ?
+
+A) 18/18
+B) 15/22
+C) 17/20
+D) 22/25
+E) Keine der Antworten ist richtig

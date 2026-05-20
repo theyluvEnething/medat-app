@@ -1,0 +1,7 @@
+Zahlenfolge: 14 18 32 50 82 132 ? ?
+
+A) 583/929
+B) 559/904
+C) 560/906
+D) 561/907
+E) Keine der Antworten ist richtig

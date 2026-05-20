@@ -1,0 +1,7 @@
+Zahlenfolge: -7 -4 -1 -7 5 -10 ? ?
+
+A) 19/-18
+B) 19/-14
+C) 15/-17
+D) 17/-16
+E) Keine der Antworten ist richtig

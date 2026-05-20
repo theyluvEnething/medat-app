@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Schauspieler sind Mäuse.
+- Einige Mäuse sind Musikinstrumente.
+
+A) Alle Schauspieler sind Musikinstrumente.
+B) Einige Schauspieler sind keine Musikinstrumente.
+C) Einige Schauspieler sind Musikinstrumente.
+D) Alle Schauspieler sind keine Musikinstrumente.
+E) Keine der Schlussfolgerungen ist richtig.

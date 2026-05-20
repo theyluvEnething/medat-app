@@ -1,0 +1,7 @@
+Zahlenfolge: 11 13 17 19 23 29 ? ?
+
+A) 43/44
+B) 40/41
+C) 41/43
+D) 40/45
+E) Keine der Antworten ist richtig

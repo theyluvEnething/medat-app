@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Reptilien sind Rosen.
+- Einige Rosen sind keine Fische.
+
+A) Einige Reptilien sind keine Fische.
+B) Alle Reptilien sind keine Fische.
+C) Alle Reptilien sind Fische.
+D) Einige Reptilien sind Fische.
+E) Keine der Schlussfolgerungen ist richtig.

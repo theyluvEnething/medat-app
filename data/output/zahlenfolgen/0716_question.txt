@@ -1,0 +1,7 @@
+Zahlenfolge: 16 10 26 36 62 98 ? ?
+
+A) 418/676
+B) 417/677
+C) 416/678
+D) 416/675
+E) Keine der Antworten ist richtig

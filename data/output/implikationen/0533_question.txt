@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Zebras sind keine Orchideen.
+- Alle Orchideen sind keine Krokodile.
+
+A) Alle Zebras sind keine Krokodile.
+B) Alle Zebras sind Krokodile.
+C) Einige Zebras sind Krokodile.
+D) Einige Zebras sind keine Krokodile.
+E) Keine der Schlussfolgerungen ist richtig.

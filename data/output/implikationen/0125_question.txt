@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Tulpen sind keine Mammute.
+- Alle Mammute sind keine Telefone.
+
+A) Einige Tulpen sind Telefone.
+B) Alle Tulpen sind Telefone.
+C) Einige Tulpen sind keine Telefone.
+D) Alle Tulpen sind keine Telefone.
+E) Keine der Schlussfolgerungen ist richtig.

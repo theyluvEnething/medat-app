@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Politiker sind Sportler.
+- Einige Sportler sind keine Marder.
+
+A) Einige Politiker sind Marder.
+B) Einige Politiker sind keine Marder.
+C) Alle Politiker sind keine Marder.
+D) Alle Politiker sind Marder.
+E) Keine der Schlussfolgerungen ist richtig.

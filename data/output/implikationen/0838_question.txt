@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Delfine sind Spatzen.
+- Einige Spatzen sind Rosen.
+
+A) Alle Delfine sind Rosen.
+B) Alle Delfine sind keine Rosen.
+C) Einige Delfine sind Rosen.
+D) Einige Delfine sind keine Rosen.
+E) Keine der Schlussfolgerungen ist richtig.

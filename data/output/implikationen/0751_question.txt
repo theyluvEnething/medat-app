@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Roboter sind Tannen.
+- Einige Tannen sind Metalle.
+
+A) Einige Roboter sind keine Metalle.
+B) Alle Roboter sind Metalle.
+C) Einige Roboter sind Metalle.
+D) Alle Roboter sind keine Metalle.
+E) Keine der Schlussfolgerungen ist richtig.

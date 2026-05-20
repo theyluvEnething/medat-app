@@ -1,0 +1,7 @@
+Zahlenfolge: 23 18 13 8 3 -2 ? ?
+
+A) -12/-17
+B) -4/-9
+C) -10/-16
+D) -11/-19
+E) Keine der Antworten ist richtig

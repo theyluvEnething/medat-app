@@ -1,0 +1,7 @@
+Zahlenfolge: 1 9 17 25 33 41 ? ?
+
+A) 58/67
+B) 57/65
+C) 56/64
+D) 58/63
+E) Keine der Antworten ist richtig

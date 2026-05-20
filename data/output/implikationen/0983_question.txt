@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Amseln sind keine Sportler.
+- Einige Sportler sind keine Tannen.
+
+A) Einige Amseln sind keine Tannen.
+B) Einige Amseln sind Tannen.
+C) Alle Amseln sind keine Tannen.
+D) Alle Amseln sind Tannen.
+E) Keine der Schlussfolgerungen ist richtig.

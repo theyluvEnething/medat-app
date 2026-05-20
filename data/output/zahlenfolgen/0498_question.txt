@@ -1,0 +1,7 @@
+Zahlenfolge: 12 11 23 34 57 91 ? ?
+
+A) 387/626
+B) 389/627
+C) 388/625
+D) 385/624
+E) Keine der Antworten ist richtig

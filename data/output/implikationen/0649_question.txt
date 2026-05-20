@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Musikinstrumente sind Sänger.
+- Alle Sänger sind keine Vasen.
+
+A) Einige Musikinstrumente sind keine Vasen.
+B) Alle Musikinstrumente sind keine Vasen.
+C) Einige Musikinstrumente sind Vasen.
+D) Alle Musikinstrumente sind Vasen.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Häuser sind keine Türen.
+- Alle Türen sind keine Krokodile.
+
+A) Alle Häuser sind keine Krokodile.
+B) Alle Häuser sind Krokodile.
+C) Einige Häuser sind Krokodile.
+D) Einige Häuser sind keine Krokodile.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Marder sind keine Türen.
+- Alle Türen sind keine Tiger.
+
+A) Alle Marder sind keine Tiger.
+B) Einige Marder sind keine Tiger.
+C) Alle Marder sind Tiger.
+D) Einige Marder sind Tiger.
+E) Keine der Schlussfolgerungen ist richtig.

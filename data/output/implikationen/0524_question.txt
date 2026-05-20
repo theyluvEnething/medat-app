@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Teleskope sind keine Kupfer.
+- Alle Kupfer sind Schriftsteller.
+
+A) Einige Teleskope sind keine Schriftsteller.
+B) Alle Teleskope sind keine Schriftsteller.
+C) Alle Teleskope sind Schriftsteller.
+D) Einige Teleskope sind Schriftsteller.
+E) Keine der Schlussfolgerungen ist richtig.

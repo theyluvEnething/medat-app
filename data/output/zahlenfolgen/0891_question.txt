@@ -1,0 +1,7 @@
+Zahlenfolge: 10 12 24 26 52 54 ? ?
+
+A) 222/223
+B) 222/224
+C) 221/223
+D) 220/222
+E) Keine der Antworten ist richtig

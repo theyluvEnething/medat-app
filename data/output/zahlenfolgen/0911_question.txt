@@ -1,0 +1,7 @@
+Zahlenfolge: 3 16 19 35 54 89 ? ?
+
+A) 375/607
+B) 106/123
+C) 607/375
+D) 374/605
+E) Keine der Antworten ist richtig

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Tannen sind keine Taucher.
+- Alle Taucher sind Eidechsen.
+
+A) Alle Tannen sind keine Eidechsen.
+B) Einige Tannen sind Eidechsen.
+C) Alle Tannen sind Eidechsen.
+D) Einige Tannen sind keine Eidechsen.
+E) Keine der Schlussfolgerungen ist richtig.

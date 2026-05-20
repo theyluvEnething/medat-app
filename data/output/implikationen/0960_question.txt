@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Bäume sind keine Maler.
+- Alle Maler sind keine Statuen.
+
+A) Alle Bäume sind Statuen.
+B) Einige Bäume sind Statuen.
+C) Alle Bäume sind keine Statuen.
+D) Einige Bäume sind keine Statuen.
+E) Keine der Schlussfolgerungen ist richtig.

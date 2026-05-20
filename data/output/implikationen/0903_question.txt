@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Maler sind Sänger.
+- Alle Sänger sind Glühbirnen.
+
+A) Einige Maler sind Glühbirnen.
+B) Einige Maler sind keine Glühbirnen.
+C) Alle Maler sind Glühbirnen.
+D) Alle Maler sind keine Glühbirnen.
+E) Keine der Schlussfolgerungen ist richtig.

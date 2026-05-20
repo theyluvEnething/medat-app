@@ -1,0 +1,7 @@
+Zahlenfolge: 5 6 13 32 69 130 ? ?
+
+A) 349/515
+B) 349/518
+C) 155/180
+D) 348/517
+E) Keine der Antworten ist richtig

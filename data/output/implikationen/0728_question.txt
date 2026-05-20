@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Vasen sind Taucher.
+- Einige Taucher sind keine Vögel.
+
+A) Alle Vasen sind keine Vögel.
+B) Einige Vasen sind keine Vögel.
+C) Einige Vasen sind Vögel.
+D) Alle Vasen sind Vögel.
+E) Keine der Schlussfolgerungen ist richtig.

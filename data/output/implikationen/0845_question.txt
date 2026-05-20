@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Vulkane sind Chemiker.
+- Einige Chemiker sind Stühle.
+
+A) Einige Vulkane sind keine Stühle.
+B) Alle Vulkane sind Stühle.
+C) Einige Vulkane sind Stühle.
+D) Alle Vulkane sind keine Stühle.
+E) Keine der Schlussfolgerungen ist richtig.

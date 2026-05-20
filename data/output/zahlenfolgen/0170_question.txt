@@ -1,0 +1,7 @@
+Zahlenfolge: 77 77 82 28 33 33 ? ?
+
+A) 89/89
+B) 87/87
+C) 86/86
+D) 88/88
+E) Keine der Antworten ist richtig

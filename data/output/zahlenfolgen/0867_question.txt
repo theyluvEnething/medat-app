@@ -1,0 +1,7 @@
+Zahlenfolge: 2 4 12 24 72 144 ? ?
+
+A) 288/316
+B) 2592/5184
+C) 2591/5185
+D) 2594/5182
+E) Keine der Antworten ist richtig

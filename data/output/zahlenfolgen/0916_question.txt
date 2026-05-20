@@ -1,0 +1,7 @@
+Zahlenfolge: -2 -14 -26 -38 -50 -62 ? ?
+
+A) -88/-96
+B) -86/-98
+C) -98/-86
+D) -88/-97
+E) Keine der Antworten ist richtig

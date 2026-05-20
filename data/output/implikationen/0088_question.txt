@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Menschen sind keine Glühbirnen.
+- Alle Glühbirnen sind keine Vegetarier.
+
+A) Alle Menschen sind keine Vegetarier.
+B) Einige Menschen sind keine Vegetarier.
+C) Einige Menschen sind Vegetarier.
+D) Alle Menschen sind Vegetarier.
+E) Keine der Schlussfolgerungen ist richtig.

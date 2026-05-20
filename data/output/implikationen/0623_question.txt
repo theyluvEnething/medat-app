@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Gemälde sind Chemiker.
+- Einige Chemiker sind keine Pandas.
+
+A) Alle Gemälde sind keine Pandas.
+B) Einige Gemälde sind Pandas.
+C) Einige Gemälde sind keine Pandas.
+D) Alle Gemälde sind Pandas.
+E) Keine der Schlussfolgerungen ist richtig.

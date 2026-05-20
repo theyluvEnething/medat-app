@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Tulpen sind Taucher.
+- Alle Taucher sind Wissenschaftler.
+
+A) Einige Tulpen sind Wissenschaftler.
+B) Einige Tulpen sind keine Wissenschaftler.
+C) Alle Tulpen sind Wissenschaftler.
+D) Alle Tulpen sind keine Wissenschaftler.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Mäuse sind keine Sänger.
+- Einige Sänger sind keine Zebras.
+
+A) Alle Mäuse sind Zebras.
+B) Alle Mäuse sind keine Zebras.
+C) Einige Mäuse sind keine Zebras.
+D) Einige Mäuse sind Zebras.
+E) Keine der Schlussfolgerungen ist richtig.

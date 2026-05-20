@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Tabletten sind Stühle.
+- Einige Stühle sind keine Radios.
+
+A) Alle Tabletten sind keine Radios.
+B) Einige Tabletten sind keine Radios.
+C) Alle Tabletten sind Radios.
+D) Einige Tabletten sind Radios.
+E) Keine der Schlussfolgerungen ist richtig.

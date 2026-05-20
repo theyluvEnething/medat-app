@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Tulpen sind Gedichte.
+- Einige Gedichte sind keine Wale.
+
+A) Alle Tulpen sind Wale.
+B) Einige Tulpen sind Wale.
+C) Einige Tulpen sind keine Wale.
+D) Alle Tulpen sind keine Wale.
+E) Keine der Schlussfolgerungen ist richtig.

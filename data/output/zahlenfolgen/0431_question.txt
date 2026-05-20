@@ -1,0 +1,7 @@
+Zahlenfolge: 20 21 24 29 36 45 ? ?
+
+A) 83/100
+B) 85/103
+C) 84/101
+D) 101/84
+E) Keine der Antworten ist richtig

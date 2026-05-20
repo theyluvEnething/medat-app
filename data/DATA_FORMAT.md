@@ -201,9 +201,9 @@ numbers.
 | Section | Dir | Count | Per Set | Padding | ID Range |
 |---------|-----|-------|---------|---------|----------|
 | Figuren | `figuren/` | 255 | 15 | 3-digit | 001–255 |
-| Implikationen | `implikationen/` | 70 | 10 | 2-digit | 01–70 |
+| Implikationen | `implikationen/` | 1,070 | 10 | 4-digit | 0001–1070 |
 | Wortflüssigkeit | `wortfluessigkeit/` | 1,650 | 15 | 4-digit | 0001–1650 |
-| Zahlenfolgen | `zahlenfolgen/` | 70 | 10 | 2-digit | 01–70 |
+| Zahlenfolgen | `zahlenfolgen/` | 1,070 | 10 | 4-digit | 0001–1070 |
 | Ausweise Cards | `ausweise/cards/` | 320 | 8 | 3-digit | 001–320 |
 | Ausweise Recall | `ausweise/recall/` | 1,000 | 25 | 4-digit | 0001–1000 |
 

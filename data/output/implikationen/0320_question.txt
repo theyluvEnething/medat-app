@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Rosen sind keine Tabletten.
+- Alle Tabletten sind Mäuse.
+
+A) Einige Rosen sind keine Mäuse.
+B) Einige Rosen sind Mäuse.
+C) Alle Rosen sind keine Mäuse.
+D) Alle Rosen sind Mäuse.
+E) Keine der Schlussfolgerungen ist richtig.

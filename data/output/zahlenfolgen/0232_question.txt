@@ -1,0 +1,7 @@
+Zahlenfolge: 1 -1 -3 -5 -15 -17 ? ?
+
+A) -159/-161
+B) -21/-25
+C) -160/-159
+D) -158/-160
+E) Keine der Antworten ist richtig

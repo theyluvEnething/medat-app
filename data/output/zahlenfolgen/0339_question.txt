@@ -1,0 +1,7 @@
+Zahlenfolge: 69 96 103 301 308 803 ? ?
+
+A) 25/52
+B) 24/53
+C) 23/53
+D) 1606/1752
+E) Keine der Antworten ist richtig

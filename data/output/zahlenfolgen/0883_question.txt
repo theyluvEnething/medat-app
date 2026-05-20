@@ -1,0 +1,7 @@
+Zahlenfolge: 23 29 31 37 41 43 ? ?
+
+A) 47/51
+B) 60/59
+C) 59/61
+D) 58/59
+E) Keine der Antworten ist richtig

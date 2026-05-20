@@ -1,0 +1,7 @@
+Zahlenfolge: 16 1 17 18 35 53 ? ?
+
+A) 370/229
+B) 231/369
+C) 231/371
+D) 229/370
+E) Keine der Antworten ist richtig

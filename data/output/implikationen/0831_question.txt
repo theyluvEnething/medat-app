@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Quallen sind keine Vegetarier.
+- Einige Vegetarier sind Flüsse.
+
+A) Alle Quallen sind keine Flüsse.
+B) Einige Quallen sind Flüsse.
+C) Einige Quallen sind keine Flüsse.
+D) Alle Quallen sind Flüsse.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: 50 46 42 38 34 30 ? ?
+
+A) 21/16
+B) 20/20
+C) 22/18
+D) 24/19
+E) Keine der Antworten ist richtig

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Diamanten sind Dinosaurier.
+- Alle Dinosaurier sind Pilze.
+
+A) Einige Diamanten sind Pilze.
+B) Alle Diamanten sind keine Pilze.
+C) Einige Diamanten sind keine Pilze.
+D) Alle Diamanten sind Pilze.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Delfine sind keine Nashörner.
+- Einige Nashörner sind Hunde.
+
+A) Alle Delfine sind keine Hunde.
+B) Alle Delfine sind Hunde.
+C) Einige Delfine sind Hunde.
+D) Einige Delfine sind keine Hunde.
+E) Keine der Schlussfolgerungen ist richtig.

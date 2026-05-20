@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Klaviere sind Diamanten.
+- Einige Diamanten sind keine Gedichte.
+
+A) Einige Klaviere sind keine Gedichte.
+B) Alle Klaviere sind Gedichte.
+C) Einige Klaviere sind Gedichte.
+D) Alle Klaviere sind keine Gedichte.
+E) Keine der Schlussfolgerungen ist richtig.

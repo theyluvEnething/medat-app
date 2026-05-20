@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Smartphones sind Schlangen.
+- Alle Schlangen sind Telefone.
+
+A) Alle Smartphones sind Telefone.
+B) Einige Smartphones sind Telefone.
+C) Einige Smartphones sind keine Telefone.
+D) Alle Smartphones sind keine Telefone.
+E) Keine der Schlussfolgerungen ist richtig.

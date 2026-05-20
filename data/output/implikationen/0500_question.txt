@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Klaviere sind keine Vögel.
+- Einige Vögel sind keine Züge.
+
+A) Alle Klaviere sind keine Züge.
+B) Einige Klaviere sind Züge.
+C) Alle Klaviere sind Züge.
+D) Einige Klaviere sind keine Züge.
+E) Keine der Schlussfolgerungen ist richtig.

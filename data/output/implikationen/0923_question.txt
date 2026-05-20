@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Tulpen sind keine Orchideen.
+- Alle Orchideen sind keine Taucher.
+
+A) Einige Tulpen sind keine Taucher.
+B) Alle Tulpen sind keine Taucher.
+C) Einige Tulpen sind Taucher.
+D) Alle Tulpen sind Taucher.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Statuen sind keine Gedichte.
+- Alle Gedichte sind keine Glühbirnen.
+
+A) Alle Statuen sind keine Glühbirnen.
+B) Einige Statuen sind Glühbirnen.
+C) Einige Statuen sind keine Glühbirnen.
+D) Alle Statuen sind Glühbirnen.
+E) Keine der Schlussfolgerungen ist richtig.

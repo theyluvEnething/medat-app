@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Klaviere sind Eidechsen.
+- Einige Eidechsen sind Sänger.
+
+A) Alle Klaviere sind keine Sänger.
+B) Alle Klaviere sind Sänger.
+C) Einige Klaviere sind Sänger.
+D) Einige Klaviere sind keine Sänger.
+E) Keine der Schlussfolgerungen ist richtig.

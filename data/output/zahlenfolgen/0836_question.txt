@@ -1,0 +1,7 @@
+Zahlenfolge: 67 71 73 79 83 89 ? ?
+
+A) 105/105
+B) 103/107
+C) 102/109
+D) 107/111
+E) Keine der Antworten ist richtig

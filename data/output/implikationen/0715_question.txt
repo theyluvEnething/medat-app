@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Ingenieure sind Dichter.
+- Alle Dichter sind keine Blumen.
+
+A) Alle Ingenieure sind Blumen.
+B) Einige Ingenieure sind Blumen.
+C) Einige Ingenieure sind keine Blumen.
+D) Alle Ingenieure sind keine Blumen.
+E) Keine der Schlussfolgerungen ist richtig.

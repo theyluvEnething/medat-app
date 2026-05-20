@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Teleskope sind Eidechsen.
+- Einige Eidechsen sind Vögel.
+
+A) Einige Teleskope sind keine Vögel.
+B) Alle Teleskope sind Vögel.
+C) Einige Teleskope sind Vögel.
+D) Alle Teleskope sind keine Vögel.
+E) Keine der Schlussfolgerungen ist richtig.

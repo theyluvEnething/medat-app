@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Quallen sind keine Insekten.
+- Alle Insekten sind Stühle.
+
+A) Einige Quallen sind Stühle.
+B) Alle Quallen sind keine Stühle.
+C) Alle Quallen sind Stühle.
+D) Einige Quallen sind keine Stühle.
+E) Keine der Schlussfolgerungen ist richtig.

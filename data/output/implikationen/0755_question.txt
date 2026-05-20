@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Mammute sind keine Chemiker.
+- Einige Chemiker sind Tulpen.
+
+A) Einige Mammute sind keine Tulpen.
+B) Alle Mammute sind keine Tulpen.
+C) Alle Mammute sind Tulpen.
+D) Einige Mammute sind Tulpen.
+E) Keine der Schlussfolgerungen ist richtig.

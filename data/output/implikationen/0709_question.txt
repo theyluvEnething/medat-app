@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Kätzchen sind Eichen.
+- Alle Eichen sind Giraffen.
+
+A) Einige Kätzchen sind keine Giraffen.
+B) Einige Kätzchen sind Giraffen.
+C) Alle Kätzchen sind keine Giraffen.
+D) Alle Kätzchen sind Giraffen.
+E) Keine der Schlussfolgerungen ist richtig.

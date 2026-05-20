@@ -1,0 +1,7 @@
+Zahlenfolge: 28 33 42 55 72 93 ? ?
+
+A) 182/218
+B) 179/215
+C) 180/217
+D) 179/216
+E) Keine der Antworten ist richtig

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Mammute sind keine Wirbeltiere.
+- Alle Wirbeltiere sind Klaviere.
+
+A) Alle Mammute sind keine Klaviere.
+B) Einige Mammute sind Klaviere.
+C) Alle Mammute sind Klaviere.
+D) Einige Mammute sind keine Klaviere.
+E) Keine der Schlussfolgerungen ist richtig.

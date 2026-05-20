@@ -1,0 +1,7 @@
+Zahlenfolge: 18 81 84 48 51 15 ? ?
+
+A) 84/48
+B) 83/50
+C) 14/13
+D) 83/49
+E) Keine der Antworten ist richtig

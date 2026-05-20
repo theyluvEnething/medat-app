@@ -1,0 +1,7 @@
+Zahlenfolge: -15 -7 1 9 17 25 ? ?
+
+A) 41/49
+B) 42/50
+C) 43/50
+D) 42/48
+E) Keine der Antworten ist richtig

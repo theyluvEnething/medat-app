@@ -1,0 +1,7 @@
+Zahlenfolge: 20 21 23 26 30 35 ? ?
+
+A) 55/67
+B) 58/64
+C) 57/63
+D) 56/65
+E) Keine der Antworten ist richtig

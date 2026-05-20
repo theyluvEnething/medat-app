@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Gräser sind Vasen.
+- Einige Vasen sind Chemiker.
+
+A) Einige Gräser sind Chemiker.
+B) Alle Gräser sind Chemiker.
+C) Einige Gräser sind keine Chemiker.
+D) Alle Gräser sind keine Chemiker.
+E) Keine der Schlussfolgerungen ist richtig.

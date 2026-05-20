@@ -13,26 +13,18 @@ from pathlib import Path
 
 SECTION_KEYS = ["figuren", "zahlenfolgen", "wortfluessigkeit", "implikationen"]
 
-ID_PAD = {
-    "figuren": 3,
-    "zahlenfolgen": 2,
-    "wortfluessigkeit": 4,
-    "implikationen": 2,
-}
-
-
-def _parse_id(filename: str, pad: int) -> int | None:
-    m = re.match(rf"(\d{{{pad}}})_question\.txt", filename)
+def _parse_id(filename: str) -> int | None:
+    """Extract question ID from filename, accepting any digit count."""
+    m = re.match(r"(\d+)_question\.txt", filename)
     return int(m.group(1)) if m else None
 
 
 def _load_section(section_dir: Path, section_key: str) -> list[dict]:
     """Load all questions from a flat section directory."""
-    pad = ID_PAD[section_key]
     questions: list[dict] = []
 
     for txt_file in sorted(section_dir.glob("*_question.txt")):
-        qid = _parse_id(txt_file.name, pad)
+        qid = _parse_id(txt_file.name)
         if qid is None:
             continue
 

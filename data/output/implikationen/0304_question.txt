@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Reptilien sind keine Smartphones.
+- Alle Smartphones sind keine Sänger.
+
+A) Einige Reptilien sind Sänger.
+B) Alle Reptilien sind keine Sänger.
+C) Einige Reptilien sind keine Sänger.
+D) Alle Reptilien sind Sänger.
+E) Keine der Schlussfolgerungen ist richtig.

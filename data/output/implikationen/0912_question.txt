@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Taucher sind Quartette.
+- Alle Quartette sind keine Vögel.
+
+A) Alle Taucher sind Vögel.
+B) Einige Taucher sind keine Vögel.
+C) Einige Taucher sind Vögel.
+D) Alle Taucher sind keine Vögel.
+E) Keine der Schlussfolgerungen ist richtig.

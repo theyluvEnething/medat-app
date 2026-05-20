@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Wirbeltiere sind Schriftsteller.
+- Einige Schriftsteller sind keine Lehrer.
+
+A) Alle Wirbeltiere sind Lehrer.
+B) Alle Wirbeltiere sind keine Lehrer.
+C) Einige Wirbeltiere sind keine Lehrer.
+D) Einige Wirbeltiere sind Lehrer.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: 2 4 8 16 32 64 ? ?
+
+A) 128/140
+B) 511/1022
+C) 513/1026
+D) 512/1024
+E) Keine der Antworten ist richtig

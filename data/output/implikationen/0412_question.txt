@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Eichen sind Gräser.
+- Alle Gräser sind Eidechsen.
+
+A) Alle Eichen sind keine Eidechsen.
+B) Einige Eichen sind keine Eidechsen.
+C) Alle Eichen sind Eidechsen.
+D) Einige Eichen sind Eidechsen.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Wissenschaftler sind Musikinstrumente.
+- Einige Musikinstrumente sind Tannen.
+
+A) Einige Wissenschaftler sind Tannen.
+B) Einige Wissenschaftler sind keine Tannen.
+C) Alle Wissenschaftler sind Tannen.
+D) Alle Wissenschaftler sind keine Tannen.
+E) Keine der Schlussfolgerungen ist richtig.

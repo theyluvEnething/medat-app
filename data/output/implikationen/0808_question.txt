@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Wale sind Lilien.
+- Einige Lilien sind keine Fische.
+
+A) Einige Wale sind Fische.
+B) Alle Wale sind keine Fische.
+C) Alle Wale sind Fische.
+D) Einige Wale sind keine Fische.
+E) Keine der Schlussfolgerungen ist richtig.

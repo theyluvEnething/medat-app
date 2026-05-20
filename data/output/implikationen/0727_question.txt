@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Züge sind keine Wissenschaftler.
+- Alle Wissenschaftler sind Schiffe.
+
+A) Einige Züge sind keine Schiffe.
+B) Alle Züge sind Schiffe.
+C) Einige Züge sind Schiffe.
+D) Alle Züge sind keine Schiffe.
+E) Keine der Schlussfolgerungen ist richtig.

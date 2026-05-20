@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Chemiker sind keine Dinosaurier.
+- Einige Dinosaurier sind keine Krokodile.
+
+A) Alle Chemiker sind keine Krokodile.
+B) Alle Chemiker sind Krokodile.
+C) Einige Chemiker sind keine Krokodile.
+D) Einige Chemiker sind Krokodile.
+E) Keine der Schlussfolgerungen ist richtig.

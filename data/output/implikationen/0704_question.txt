@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Pilze sind Radios.
+- Einige Radios sind Gedichte.
+
+A) Alle Pilze sind Gedichte.
+B) Einige Pilze sind keine Gedichte.
+C) Alle Pilze sind keine Gedichte.
+D) Einige Pilze sind Gedichte.
+E) Keine der Schlussfolgerungen ist richtig.

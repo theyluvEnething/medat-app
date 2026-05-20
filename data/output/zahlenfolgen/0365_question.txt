@@ -1,0 +1,7 @@
+Zahlenfolge: -4 -9 2 -7 8 -5 ? ?
+
+A) 22/-2
+B) 20/-1
+C) 21/-2
+D) 19/0
+E) Keine der Antworten ist richtig

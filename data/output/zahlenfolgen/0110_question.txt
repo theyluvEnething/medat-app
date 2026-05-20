@@ -1,0 +1,7 @@
+Zahlenfolge: 14 15 18 23 30 39 ? ?
+
+A) 79/97
+B) 78/95
+C) 80/94
+D) 80/96
+E) Keine der Antworten ist richtig

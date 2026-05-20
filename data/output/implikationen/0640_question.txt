@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Giraffen sind Bücher.
+- Einige Bücher sind keine Nashörner.
+
+A) Einige Giraffen sind keine Nashörner.
+B) Alle Giraffen sind Nashörner.
+C) Einige Giraffen sind Nashörner.
+D) Alle Giraffen sind keine Nashörner.
+E) Keine der Schlussfolgerungen ist richtig.

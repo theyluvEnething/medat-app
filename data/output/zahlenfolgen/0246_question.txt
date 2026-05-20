@@ -1,0 +1,7 @@
+Zahlenfolge: 53 59 61 67 71 73 ? ?
+
+A) 91/96
+B) 90/95
+C) 89/97
+D) 90/99
+E) Keine der Antworten ist richtig

@@ -1,0 +1,7 @@
+Zahlenfolge: 6 10 14 18 22 26 ? ?
+
+A) 35/37
+B) 33/37
+C) 33/40
+D) 34/38
+E) Keine der Antworten ist richtig

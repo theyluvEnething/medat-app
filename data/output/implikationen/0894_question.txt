@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Lilien sind keine Wölfe.
+- Einige Wölfe sind keine Nashörner.
+
+A) Einige Lilien sind Nashörner.
+B) Einige Lilien sind keine Nashörner.
+C) Alle Lilien sind Nashörner.
+D) Alle Lilien sind keine Nashörner.
+E) Keine der Schlussfolgerungen ist richtig.

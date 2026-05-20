@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Musikinstrumente sind keine Hunde.
+- Einige Hunde sind keine Insekten.
+
+A) Einige Musikinstrumente sind Insekten.
+B) Alle Musikinstrumente sind Insekten.
+C) Alle Musikinstrumente sind keine Insekten.
+D) Einige Musikinstrumente sind keine Insekten.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Rosen sind keine Metalle.
+- Alle Metalle sind Eichen.
+
+A) Einige Rosen sind keine Eichen.
+B) Alle Rosen sind keine Eichen.
+C) Einige Rosen sind Eichen.
+D) Alle Rosen sind Eichen.
+E) Keine der Schlussfolgerungen ist richtig.

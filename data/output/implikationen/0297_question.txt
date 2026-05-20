@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Bäume sind Mäuse.
+- Einige Mäuse sind keine Eidechsen.
+
+A) Alle Bäume sind keine Eidechsen.
+B) Einige Bäume sind Eidechsen.
+C) Einige Bäume sind keine Eidechsen.
+D) Alle Bäume sind Eidechsen.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Gedichte sind Schiffe.
+- Einige Schiffe sind keine Gemälde.
+
+A) Einige Gedichte sind keine Gemälde.
+B) Einige Gedichte sind Gemälde.
+C) Alle Gedichte sind keine Gemälde.
+D) Alle Gedichte sind Gemälde.
+E) Keine der Schlussfolgerungen ist richtig.

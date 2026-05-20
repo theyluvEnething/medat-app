@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Marder sind keine Diamanten.
+- Einige Diamanten sind keine Tabletten.
+
+A) Einige Marder sind Tabletten.
+B) Alle Marder sind Tabletten.
+C) Einige Marder sind keine Tabletten.
+D) Alle Marder sind keine Tabletten.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Tiger sind Schriftsteller.
+- Einige Schriftsteller sind keine Telefone.
+
+A) Einige Tiger sind keine Telefone.
+B) Alle Tiger sind Telefone.
+C) Alle Tiger sind keine Telefone.
+D) Einige Tiger sind Telefone.
+E) Keine der Schlussfolgerungen ist richtig.

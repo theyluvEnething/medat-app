@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Eidechsen sind keine Insekten.
+- Einige Insekten sind keine Smartphones.
+
+A) Einige Eidechsen sind Smartphones.
+B) Alle Eidechsen sind keine Smartphones.
+C) Alle Eidechsen sind Smartphones.
+D) Einige Eidechsen sind keine Smartphones.
+E) Keine der Schlussfolgerungen ist richtig.

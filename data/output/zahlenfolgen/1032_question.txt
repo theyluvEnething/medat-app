@@ -1,0 +1,7 @@
+Zahlenfolge: 3 9 18 54 108 324 ? ?
+
+A) 3888/11664
+B) 3886/11662
+C) 11664/3888
+D) 388/452
+E) Keine der Antworten ist richtig

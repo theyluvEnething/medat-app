@@ -1,0 +1,7 @@
+Zahlenfolge: 17 20 40 43 86 89 ? ?
+
+A) 365/362
+B) 361/363
+C) 362/365
+D) 376/379
+E) Keine der Antworten ist richtig

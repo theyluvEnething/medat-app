@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Sänger sind Eichen.
+- Alle Eichen sind Mathematiker.
+
+A) Alle Sänger sind Mathematiker.
+B) Alle Sänger sind keine Mathematiker.
+C) Einige Sänger sind keine Mathematiker.
+D) Einige Sänger sind Mathematiker.
+E) Keine der Schlussfolgerungen ist richtig.

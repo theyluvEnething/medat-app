@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Hunde sind Eidechsen.
+- Alle Eidechsen sind Pilze.
+
+A) Alle Hunde sind Pilze.
+B) Alle Hunde sind keine Pilze.
+C) Einige Hunde sind keine Pilze.
+D) Einige Hunde sind Pilze.
+E) Keine der Schlussfolgerungen ist richtig.

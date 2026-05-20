@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Menschen sind keine Statuen.
+- Alle Statuen sind keine Mammute.
+
+A) Alle Menschen sind Mammute.
+B) Alle Menschen sind keine Mammute.
+C) Einige Menschen sind Mammute.
+D) Einige Menschen sind keine Mammute.
+E) Keine der Schlussfolgerungen ist richtig.

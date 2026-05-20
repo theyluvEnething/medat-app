@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Stühle sind keine Schriftsteller.
+- Einige Schriftsteller sind Delfine.
+
+A) Einige Stühle sind Delfine.
+B) Alle Stühle sind keine Delfine.
+C) Alle Stühle sind Delfine.
+D) Einige Stühle sind keine Delfine.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Ingenieure sind keine Häuser.
+- Alle Häuser sind Statuen.
+
+A) Alle Ingenieure sind keine Statuen.
+B) Einige Ingenieure sind Statuen.
+C) Alle Ingenieure sind Statuen.
+D) Einige Ingenieure sind keine Statuen.
+E) Keine der Schlussfolgerungen ist richtig.

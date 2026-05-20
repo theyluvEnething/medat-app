@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Flüsse sind keine Wale.
+- Einige Wale sind keine Insekten.
+
+A) Einige Flüsse sind Insekten.
+B) Einige Flüsse sind keine Insekten.
+C) Alle Flüsse sind keine Insekten.
+D) Alle Flüsse sind Insekten.
+E) Keine der Schlussfolgerungen ist richtig.

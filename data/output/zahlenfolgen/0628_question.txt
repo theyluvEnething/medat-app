@@ -1,0 +1,7 @@
+Zahlenfolge: 6 16 22 38 60 98 ? ?
+
+A) 416/671
+B) 414/670
+C) 415/668
+D) 415/672
+E) Keine der Antworten ist richtig

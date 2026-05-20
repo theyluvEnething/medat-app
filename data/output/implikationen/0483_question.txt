@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Diamanten sind Ärzte.
+- Einige Ärzte sind Bäume.
+
+A) Einige Diamanten sind Bäume.
+B) Alle Diamanten sind Bäume.
+C) Einige Diamanten sind keine Bäume.
+D) Alle Diamanten sind keine Bäume.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: -2 -1 6 25 62 123 ? ?
+
+A) 339/512
+B) 343/511
+C) 510/341
+D) 341/510
+E) Keine der Antworten ist richtig

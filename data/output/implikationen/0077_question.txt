@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Gräser sind Ingenieure.
+- Einige Ingenieure sind Granite.
+
+A) Einige Gräser sind keine Granite.
+B) Einige Gräser sind Granite.
+C) Alle Gräser sind keine Granite.
+D) Alle Gräser sind Granite.
+E) Keine der Schlussfolgerungen ist richtig.

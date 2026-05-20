@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Kupfer sind keine Uhren.
+- Einige Uhren sind keine Politiker.
+
+A) Alle Kupfer sind Politiker.
+B) Einige Kupfer sind keine Politiker.
+C) Einige Kupfer sind Politiker.
+D) Alle Kupfer sind keine Politiker.
+E) Keine der Schlussfolgerungen ist richtig.

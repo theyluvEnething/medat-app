@@ -1,0 +1,7 @@
+Zahlenfolge: 5 2 6 3 9 6 ? ?
+
+A) 45/42
+B) 12/12
+C) 43/43
+D) 44/41
+E) Keine der Antworten ist richtig

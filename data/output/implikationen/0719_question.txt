@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Wissenschaftler sind Glühbirnen.
+- Alle Glühbirnen sind Spatzen.
+
+A) Alle Wissenschaftler sind Spatzen.
+B) Alle Wissenschaftler sind keine Spatzen.
+C) Einige Wissenschaftler sind keine Spatzen.
+D) Einige Wissenschaftler sind Spatzen.
+E) Keine der Schlussfolgerungen ist richtig.

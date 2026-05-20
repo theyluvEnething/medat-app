@@ -1,0 +1,7 @@
+Zahlenfolge: 3 4 11 30 67 128 ? ?
+
+A) 153/178
+B) 344/516
+C) 348/514
+D) 346/515
+E) Keine der Antworten ist richtig

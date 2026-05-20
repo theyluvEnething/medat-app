@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Zebras sind keine Vulkane.
+- Alle Vulkane sind Radios.
+
+A) Alle Zebras sind Radios.
+B) Einige Zebras sind Radios.
+C) Alle Zebras sind keine Radios.
+D) Einige Zebras sind keine Radios.
+E) Keine der Schlussfolgerungen ist richtig.

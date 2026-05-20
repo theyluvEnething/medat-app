@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Insekten sind keine Mathematiker.
+- Einige Mathematiker sind Möbel.
+
+A) Einige Insekten sind keine Möbel.
+B) Alle Insekten sind keine Möbel.
+C) Alle Insekten sind Möbel.
+D) Einige Insekten sind Möbel.
+E) Keine der Schlussfolgerungen ist richtig.

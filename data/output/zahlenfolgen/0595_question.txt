@@ -1,0 +1,7 @@
+Zahlenfolge: 11 12 15 20 27 36 ? ?
+
+A) 75/92
+B) 73/94
+C) 41/46
+D) 76/93
+E) Keine der Antworten ist richtig

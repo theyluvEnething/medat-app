@@ -1,0 +1,7 @@
+Zahlenfolge: 8 17 25 42 67 109 ? ?
+
+A) 463/747
+B) 481/766
+C) 461/746
+D) 459/747
+E) Keine der Antworten ist richtig

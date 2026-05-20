@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Ärzte sind keine Schlangen.
+- Einige Schlangen sind Tomaten.
+
+A) Alle Ärzte sind keine Tomaten.
+B) Alle Ärzte sind Tomaten.
+C) Einige Ärzte sind keine Tomaten.
+D) Einige Ärzte sind Tomaten.
+E) Keine der Schlussfolgerungen ist richtig.

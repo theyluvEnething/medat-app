@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Flüsse sind Tabletten.
+- Alle Tabletten sind keine Nashörner.
+
+A) Einige Flüsse sind Nashörner.
+B) Alle Flüsse sind Nashörner.
+C) Einige Flüsse sind keine Nashörner.
+D) Alle Flüsse sind keine Nashörner.
+E) Keine der Schlussfolgerungen ist richtig.

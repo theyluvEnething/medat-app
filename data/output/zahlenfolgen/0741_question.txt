@@ -1,0 +1,7 @@
+Zahlenfolge: 8 9 16 35 72 133 ? ?
+
+A) 520/351
+B) 350/519
+C) 351/520
+D) 349/519
+E) Keine der Antworten ist richtig

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Flüsse sind keine Teleskope.
+- Einige Teleskope sind Tannen.
+
+A) Einige Flüsse sind Tannen.
+B) Einige Flüsse sind keine Tannen.
+C) Alle Flüsse sind keine Tannen.
+D) Alle Flüsse sind Tannen.
+E) Keine der Schlussfolgerungen ist richtig.

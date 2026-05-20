@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Pandas sind Glühbirnen.
+- Einige Glühbirnen sind keine Anwälte.
+
+A) Alle Pandas sind Anwälte.
+B) Einige Pandas sind keine Anwälte.
+C) Alle Pandas sind keine Anwälte.
+D) Einige Pandas sind Anwälte.
+E) Keine der Schlussfolgerungen ist richtig.
