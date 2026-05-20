@@ -12,6 +12,7 @@ export default defineConfig({
     alias: {
       '@app': appSrc,
     },
+    dedupe: ['react', 'react-dom', 'react-router', 'react-router-dom'],
   },
   plugins: [react(), tailwindcss()],
   base: '/medat-app/',
