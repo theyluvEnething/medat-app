@@ -6,6 +6,7 @@ import { Setup } from './pages/Setup'
 import { Session } from './pages/Session'
 import { Results } from './pages/Results'
 import { Settings } from './pages/Settings'
+import { Leaderboard } from './pages/Leaderboard'
 
 export function App() {
   const username = useAppStore((s) => s.user.username)
@@ -22,6 +23,7 @@ export function App() {
       <Route path="/session/:type" element={<Session />} />
       <Route path="/results" element={<Results />} />
       <Route path="/settings" element={<Settings />} />
+      <Route path="/leaderboard" element={<Leaderboard />} />
     </Routes>
   )
 }

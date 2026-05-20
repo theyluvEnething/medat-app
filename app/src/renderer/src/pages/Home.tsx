@@ -104,7 +104,7 @@ export function Home() {
         </ul>
       </div>
 
-      <div className="flex gap-4">
+      <div className="flex flex-wrap justify-center gap-4">
         <button
           onClick={() => navigate('/setup')}
           className="animate-breathe rounded-xl bg-emerald-600 px-10 py-4 text-lg font-semibold text-white transition-all duration-200 hover:scale-[1.05] hover:bg-emerald-500 active:scale-95"
@@ -116,6 +116,12 @@ export function Home() {
           className="rounded-xl bg-zinc-800 px-6 py-4 text-lg font-semibold text-zinc-300 transition-all duration-200 hover:scale-[1.03] hover:bg-zinc-700 active:scale-95"
         >
           Einstellungen
+        </button>
+        <button
+          onClick={() => navigate('/leaderboard')}
+          className="rounded-xl border border-amber-500/30 bg-amber-950/20 px-6 py-4 text-lg font-semibold text-amber-300 transition-all duration-200 hover:scale-[1.03] hover:border-amber-400/50 hover:bg-amber-950/30 active:scale-95"
+        >
+          {'\u{1F3C6}'} Bestenliste
         </button>
       </div>
 
