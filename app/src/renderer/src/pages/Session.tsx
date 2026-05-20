@@ -74,7 +74,6 @@ export function Session() {
   const [step, setStep] = useState<Step>('intro')
   const [answers, setAnswers] = useState<Record<string, string>>({})
   const [showTimer, setShowTimer] = useState(true)
-  const [showSolution, setShowSolution] = useState(false)
   const [zoom, setZoom] = useState(1)
   const [sessionStarted, setSessionStarted] = useState(false)
 
@@ -138,10 +137,6 @@ export function Session() {
     return () => window.removeEventListener('wheel', handler)
   }, [])
 
-  useEffect(() => {
-    setShowSolution(false)
-  }, [sectionIndex, questionIndex])
-
   const selectAnswer = (choice: string) => {
     if (!currentQuestion) return
     const key = `${section.key}-${currentQuestion.id}`
@@ -160,14 +155,12 @@ export function Session() {
   const goNext = () => {
     if (questionIndex < displayedQuestions.length - 1) {
       setQuestionIndex((i) => i + 1)
-      setShowSolution(false)
     }
   }
 
   const goPrev = () => {
     if (questionIndex > 0) {
       setQuestionIndex((i) => i - 1)
-      setShowSolution(false)
     }
   }
 
@@ -177,7 +170,6 @@ export function Session() {
     setAnswers((prev) => ({ ...prev, [key]: '__SKIPPED__' }))
     if (questionIndex < displayedQuestions.length - 1) {
       setQuestionIndex((i) => i + 1)
-      setShowSolution(false)
     }
   }
 
@@ -325,6 +317,7 @@ export function Session() {
       {step === 'active' && currentQuestion && (
         <div className="flex animate-fade-in flex-col gap-6">
           <QuizCard
+            key={`${section.key}-${questionIndex}`}
             section={section.key}
             number={questionIndex + 1}
             total={displayedQuestions.length}
@@ -332,8 +325,8 @@ export function Session() {
             questionId={currentQuestion.id}
             image={currentQuestion.image}
             setSize={section.count}
-            selectedAnswer={showSolution ? selectedAnswer : selectedAnswer}
-            correctAnswer={showSolution ? currentQuestion.answer : null}
+            selectedAnswer={selectedAnswer}
+            correctAnswer={currentQuestion.answer}
             onSelect={selectAnswer}
             onNext={goNext}
             progressAnswers={progressAnswers}
@@ -341,37 +334,23 @@ export function Session() {
 
           {/* Navigation */}
           <div className="flex items-center justify-between">
-            <button
-              onClick={goPrev}
-              disabled={questionIndex === 0}
-              className="rounded-lg bg-zinc-800 px-4 py-2 text-sm text-zinc-300 transition-all duration-200 hover:scale-[1.03] hover:bg-zinc-700 disabled:opacity-30 disabled:hover:scale-100"
-            >
-              Zurück
-            </button>
+            <div className="flex items-center gap-3">
+              <button
+                onClick={goPrev}
+                disabled={questionIndex === 0}
+                className="rounded-lg bg-zinc-800 px-4 py-2 text-sm text-zinc-300 transition-all duration-200 hover:scale-[1.03] hover:bg-zinc-700 disabled:opacity-30 disabled:hover:scale-100"
+              >
+                Zurück
+              </button>
 
-            <button
-              onClick={skipQuestion}
-              className="rounded-lg border border-amber-700/50 bg-amber-950/20 px-4 py-2 text-sm text-amber-300 transition-all duration-200 hover:scale-[1.03] hover:border-amber-600/70 hover:bg-amber-950/40 active:scale-95"
-            >
-              Überspringen
-            </button>
+              <button
+                onClick={skipQuestion}
+                className="rounded-lg border border-amber-700/50 bg-amber-950/20 px-4 py-2 text-sm text-amber-300 transition-all duration-200 hover:scale-[1.03] hover:border-amber-600/70 hover:bg-amber-950/40 active:scale-95"
+              >
+                Überspringen
+              </button>
+            </div>
 
-            <button
-              onClick={goNext}
-              disabled={questionIndex === displayedQuestions.length - 1}
-              className="rounded-lg bg-zinc-800 px-4 py-2 text-sm text-zinc-300 transition-all duration-200 hover:scale-[1.03] hover:bg-zinc-700 disabled:opacity-30 disabled:hover:scale-100"
-            >
-              Weiter
-            </button>
-          </div>
-
-          <div className="flex items-center justify-between">
-            <button
-              onClick={() => setShowSolution((v) => !v)}
-              className="text-xs text-zinc-500 transition-colors duration-200 hover:text-zinc-300"
-            >
-              {showSolution ? 'Lösung ausblenden' : 'Lösung anzeigen'}
-            </button>
             <button
               onClick={finishEarly}
               className="rounded-lg bg-zinc-800 px-4 py-2 text-sm text-zinc-300 transition-all duration-200 hover:scale-[1.03] hover:bg-zinc-700 active:scale-95"

@@ -6,10 +6,10 @@ interface ProgressTrackerProps {
 
 export function ProgressTracker({ total, current, answers }: ProgressTrackerProps) {
   return (
-    <div className="flex flex-wrap justify-center gap-1.5">
+    <div className="flex flex-wrap justify-center gap-2">
       {Array.from({ length: total }, (_, i) => {
         const status = answers[i] ?? 'pending'
-        let bg = 'bg-zinc-600/50'
+        let bg = 'bg-gray-600'
         if (status === 'correct') bg = 'bg-green-500'
         else if (status === 'wrong') bg = 'bg-red-500'
 
@@ -17,8 +17,8 @@ export function ProgressTracker({ total, current, answers }: ProgressTrackerProp
         return (
           <div
             key={i}
-            className={`h-3 w-3 rounded-sm transition-all duration-300 ${bg} ${
-              isCurrent ? 'ring-2 ring-white/60 scale-110' : ''
+            className={`h-2 rounded-full transition-all duration-300 ${bg} ${
+              isCurrent ? 'w-6 bg-blue-500' : 'w-2'
             }`}
           />
         )
