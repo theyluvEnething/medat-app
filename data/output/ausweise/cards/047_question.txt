@@ -1,7 +1,0 @@
-Name: EVTRAZ
-Geburtstag: 27. Juli
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Ramipril, Fluorid
-Ausweisnummer: 35332
-Ausstellungsland: Litauen

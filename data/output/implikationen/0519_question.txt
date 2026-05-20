@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Menschen sind keine Ingenieure.
-- Alle Ingenieure sind Fische.
-
-A) Alle Menschen sind keine Fische.
-B) Alle Menschen sind Fische.
-C) Einige Menschen sind keine Fische.
-D) Einige Menschen sind Fische.
-E) Keine der Schlussfolgerungen ist richtig.

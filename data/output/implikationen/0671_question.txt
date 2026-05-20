@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Zebras sind keine Säugetiere.
-- Einige Säugetiere sind keine Pandas.
-
-A) Einige Zebras sind keine Pandas.
-B) Alle Zebras sind keine Pandas.
-C) Alle Zebras sind Pandas.
-D) Einige Zebras sind Pandas.
-E) Keine der Schlussfolgerungen ist richtig.

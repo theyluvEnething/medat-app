@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Schauspieler sind Metalle.
-- Einige Metalle sind keine Nashörner.
-
-A) Alle Schauspieler sind keine Nashörner.
-B) Einige Schauspieler sind keine Nashörner.
-C) Alle Schauspieler sind Nashörner.
-D) Einige Schauspieler sind Nashörner.
-E) Keine der Schlussfolgerungen ist richtig.

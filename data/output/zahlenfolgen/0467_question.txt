@@ -1,7 +1,0 @@
-Zahlenfolge: 7 18 29 40 51 62 ? ?
-
-A) 84/95
-B) 82/94
-C) 83/96
-D) 95/106
-E) Keine der Antworten ist richtig

@@ -1,7 +1,0 @@
-Name: WOFLIK
-Geburtstag: 24. April
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Muscheln, Äpfel
-Ausweisnummer: 45292
-Ausstellungsland: Mikronesien

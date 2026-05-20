@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Flugzeuge sind Metalle.
-- Einige Metalle sind Hunde.
-
-A) Einige Flugzeuge sind keine Hunde.
-B) Einige Flugzeuge sind Hunde.
-C) Alle Flugzeuge sind keine Hunde.
-D) Alle Flugzeuge sind Hunde.
-E) Keine der Schlussfolgerungen ist richtig.

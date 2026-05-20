@@ -1,7 +1,0 @@
-Zahlenfolge: 30 9 33 -1 36 -11 ? ?
-
-A) 43/-32
-B) -22/-31
-C) 42/-31
-D) -20/-29
-E) Keine der Antworten ist richtig

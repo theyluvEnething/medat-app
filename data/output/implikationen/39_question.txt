@@ -1,9 +1,0 @@
-Prämissen:
-- AllePilzesindViren.
-- AlleVirensindKeime.
-
-A) AllePilzesindKeime.
-B) AllePilzesindkeineKeime.
-C) EinigePilzesindKeime.
-D) EinigePilzesindkeineKeime.
-E) KeinederSchlussfolgerungenistrichtig.

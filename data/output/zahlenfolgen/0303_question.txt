@@ -1,7 +1,0 @@
-Zahlenfolge: 7 4 12 9 27 24 ? ?
-
-A) 207/204
-B) 48/51
-C) 205/203
-D) 205/206
-E) Keine der Antworten ist richtig

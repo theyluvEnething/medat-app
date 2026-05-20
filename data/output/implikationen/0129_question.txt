@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Zebras sind Quallen.
-- Alle Quallen sind Vegetarier.
-
-A) Einige Zebras sind Vegetarier.
-B) Alle Zebras sind Vegetarier.
-C) Einige Zebras sind keine Vegetarier.
-D) Alle Zebras sind keine Vegetarier.
-E) Keine der Schlussfolgerungen ist richtig.

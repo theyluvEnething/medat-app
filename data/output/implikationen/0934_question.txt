@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Ärzte sind keine Anwälte.
-- Alle Anwälte sind keine Delfine.
-
-A) Einige Ärzte sind keine Delfine.
-B) Alle Ärzte sind keine Delfine.
-C) Alle Ärzte sind Delfine.
-D) Einige Ärzte sind Delfine.
-E) Keine der Schlussfolgerungen ist richtig.

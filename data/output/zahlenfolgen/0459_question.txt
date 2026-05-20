@@ -1,7 +1,0 @@
-Zahlenfolge: 26 30 36 44 54 66 ? ?
-
-A) 113/135
-B) 112/136
-C) 113/133
-D) 114/134
-E) Keine der Antworten ist richtig

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Werkzeuge sind Musikinstrumente.
-- Alle Musikinstrumente sind keine Schauspieler.
-
-A) Einige Werkzeuge sind Schauspieler.
-B) Einige Werkzeuge sind keine Schauspieler.
-C) Alle Werkzeuge sind keine Schauspieler.
-D) Alle Werkzeuge sind Schauspieler.
-E) Keine der Schlussfolgerungen ist richtig.

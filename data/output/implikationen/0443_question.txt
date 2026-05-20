@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Vögel sind keine Vulkane.
-- Alle Vulkane sind Kupfer.
-
-A) Einige Vögel sind keine Kupfer.
-B) Alle Vögel sind Kupfer.
-C) Alle Vögel sind keine Kupfer.
-D) Einige Vögel sind Kupfer.
-E) Keine der Schlussfolgerungen ist richtig.

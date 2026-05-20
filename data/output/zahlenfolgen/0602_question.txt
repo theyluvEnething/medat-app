@@ -1,7 +1,0 @@
-Zahlenfolge: 12 16 48 52 156 160 ? ?
-
-A) 1454/1458
-B) 1452/1456
-C) 1450/1457
-D) 1454/1454
-E) Keine der Antworten ist richtig

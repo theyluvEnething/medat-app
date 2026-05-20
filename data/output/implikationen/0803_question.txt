@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Schriftsteller sind Statuen.
-- Alle Statuen sind keine Quartette.
-
-A) Alle Schriftsteller sind keine Quartette.
-B) Einige Schriftsteller sind Quartette.
-C) Einige Schriftsteller sind keine Quartette.
-D) Alle Schriftsteller sind Quartette.
-E) Keine der Schlussfolgerungen ist richtig.

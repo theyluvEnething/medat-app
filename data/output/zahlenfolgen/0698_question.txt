@@ -1,7 +1,0 @@
-Zahlenfolge: 8 0 -8 -16 -24 -32 ? ?
-
-A) -46/-55
-B) -47/-55
-C) -48/-56
-D) -49/-54
-E) Keine der Antworten ist richtig

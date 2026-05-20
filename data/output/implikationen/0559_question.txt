@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Metalle sind Nashörner.
-- Einige Nashörner sind keine Spatzen.
-
-A) Einige Metalle sind Spatzen.
-B) Einige Metalle sind keine Spatzen.
-C) Alle Metalle sind Spatzen.
-D) Alle Metalle sind keine Spatzen.
-E) Keine der Schlussfolgerungen ist richtig.

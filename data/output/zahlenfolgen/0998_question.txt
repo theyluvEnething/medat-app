@@ -1,7 +1,0 @@
-Zahlenfolge: -3 -2 3 12 25 42 ? ?
-
-A) 115/152
-B) 150/117
-C) 117/150
-D) 119/148
-E) Keine der Antworten ist richtig

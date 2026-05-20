@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Quallen sind Giraffen.
-- Einige Giraffen sind Tomaten.
-
-A) Alle Quallen sind Tomaten.
-B) Alle Quallen sind keine Tomaten.
-C) Einige Quallen sind keine Tomaten.
-D) Einige Quallen sind Tomaten.
-E) Keine der Schlussfolgerungen ist richtig.

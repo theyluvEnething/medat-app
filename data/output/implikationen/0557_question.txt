@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Wissenschaftler sind Taucher.
-- Alle Taucher sind Uhren.
-
-A) Einige Wissenschaftler sind keine Uhren.
-B) Alle Wissenschaftler sind Uhren.
-C) Alle Wissenschaftler sind keine Uhren.
-D) Einige Wissenschaftler sind Uhren.
-E) Keine der Schlussfolgerungen ist richtig.

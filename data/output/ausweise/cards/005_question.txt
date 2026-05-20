@@ -1,7 +1,0 @@
-Name: UMSHAU
-Geburtstag: 23. Februar
-Medikamenteneinnahme: Ja
-Blutgruppe: AB
-Bekannte Allergien: Schalenfrüchte
-Ausweisnummer: 30716
-Ausstellungsland: Libyen

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Uhren sind Sänger.
-- Einige Sänger sind keine Reptilien.
-
-A) Alle Uhren sind Reptilien.
-B) Einige Uhren sind Reptilien.
-C) Alle Uhren sind keine Reptilien.
-D) Einige Uhren sind keine Reptilien.
-E) Keine der Schlussfolgerungen ist richtig.

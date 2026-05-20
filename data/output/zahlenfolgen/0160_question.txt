@@ -1,7 +1,0 @@
-Zahlenfolge: 7 14 21 35 56 91 ? ?
-
-A) 383/625
-B) 386/625
-C) 387/625
-D) 385/623
-E) Keine der Antworten ist richtig

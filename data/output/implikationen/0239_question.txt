@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Fotografen sind Radios.
-- Alle Radios sind keine Eichen.
-
-A) Einige Fotografen sind Eichen.
-B) Alle Fotografen sind keine Eichen.
-C) Alle Fotografen sind Eichen.
-D) Einige Fotografen sind keine Eichen.
-E) Keine der Schlussfolgerungen ist richtig.

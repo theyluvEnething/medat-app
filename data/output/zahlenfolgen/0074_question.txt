@@ -1,7 +1,0 @@
-Zahlenfolge: 7 15 23 31 39 47 ? ?
-
-A) 61/72
-B) 61/69
-C) 63/71
-D) 65/73
-E) Keine der Antworten ist richtig

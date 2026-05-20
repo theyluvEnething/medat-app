@@ -1,7 +1,0 @@
-Name: JUSKRAT
-Geburtstag: 24. November
-Medikamenteneinnahme: Ja
-Blutgruppe: AB
-Bekannte Allergien: Rosen, Milchzucker,
-Ausweisnummer: 62774
-Ausstellungsland: Kongo

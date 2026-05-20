@@ -1,7 +1,0 @@
-Buchstabenreihe: U P A D I E M L T
-
-A) A
-B) T
-C) U
-D) I
-E) KeinederAntwortenistrichtig

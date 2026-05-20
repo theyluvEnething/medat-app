@@ -1,7 +1,0 @@
-Zahlenfolge: 27 28 31 36 43 52 ? ?
-
-A) 93/106
-B) 90/109
-C) 89/109
-D) 91/108
-E) Keine der Antworten ist richtig

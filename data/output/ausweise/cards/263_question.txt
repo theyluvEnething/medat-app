@@ -1,7 +1,0 @@
-Name: REWMEL
-Geburtstag: 17. Januar
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Orangen
-Ausweisnummer: 32540
-Ausstellungsland: Nordzypern

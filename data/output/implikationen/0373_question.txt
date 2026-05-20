@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Werkzeuge sind Elektroautos.
-- Alle Elektroautos sind Granite.
-
-A) Alle Werkzeuge sind Granite.
-B) Einige Werkzeuge sind keine Granite.
-C) Einige Werkzeuge sind Granite.
-D) Alle Werkzeuge sind keine Granite.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Nashörner sind Haie.
-- Alle Haie sind keine Pandas.
-
-A) Einige Nashörner sind Pandas.
-B) Einige Nashörner sind keine Pandas.
-C) Alle Nashörner sind Pandas.
-D) Alle Nashörner sind keine Pandas.
-E) Keine der Schlussfolgerungen ist richtig.

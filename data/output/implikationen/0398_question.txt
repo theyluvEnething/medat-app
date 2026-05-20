@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Ingenieure sind keine Türen.
-- Einige Türen sind keine Sänger.
-
-A) Einige Ingenieure sind keine Sänger.
-B) Alle Ingenieure sind Sänger.
-C) Alle Ingenieure sind keine Sänger.
-D) Einige Ingenieure sind Sänger.
-E) Keine der Schlussfolgerungen ist richtig.

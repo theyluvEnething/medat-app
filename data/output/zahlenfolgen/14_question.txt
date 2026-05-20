@@ -1,7 +1,0 @@
-Zahlenfolge: 14 -7 -17 70 -28 -51 140 ? ?
-
-A) -40/11
-B) -40/-8
-C) -28/0
-D) -31/0
-E) KeinederAntwortenistrichtig

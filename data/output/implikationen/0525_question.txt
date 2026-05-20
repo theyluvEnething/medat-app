@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Gemälde sind Wissenschaftler.
-- Einige Wissenschaftler sind keine Glühbirnen.
-
-A) Einige Gemälde sind Glühbirnen.
-B) Alle Gemälde sind keine Glühbirnen.
-C) Einige Gemälde sind keine Glühbirnen.
-D) Alle Gemälde sind Glühbirnen.
-E) Keine der Schlussfolgerungen ist richtig.

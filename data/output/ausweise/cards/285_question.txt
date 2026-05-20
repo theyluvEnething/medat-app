@@ -1,7 +1,0 @@
-Name: WIKRISO
-Geburtstag: 11. Juni
-Medikamenteneinnahme: Nein
-Blutgruppe: 0
-Bekannte Allergien: Alternaria, Camembert,
-Ausweisnummer: 23709
-Ausstellungsland: Brunei

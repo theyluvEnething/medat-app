@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Taucher sind keine Zebras.
-- Einige Zebras sind keine Delfine.
-
-A) Einige Taucher sind keine Delfine.
-B) Alle Taucher sind Delfine.
-C) Alle Taucher sind keine Delfine.
-D) Einige Taucher sind Delfine.
-E) Keine der Schlussfolgerungen ist richtig.

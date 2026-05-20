@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Säugetiere sind keine Flugzeuge.
-- Alle Flugzeuge sind Sänger.
-
-A) Einige Säugetiere sind keine Sänger.
-B) Einige Säugetiere sind Sänger.
-C) Alle Säugetiere sind keine Sänger.
-D) Alle Säugetiere sind Sänger.
-E) Keine der Schlussfolgerungen ist richtig.

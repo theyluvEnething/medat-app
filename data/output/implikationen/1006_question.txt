@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Insekten sind Rosen.
-- Alle Rosen sind Amseln.
-
-A) Alle Insekten sind Amseln.
-B) Einige Insekten sind keine Amseln.
-C) Einige Insekten sind Amseln.
-D) Alle Insekten sind keine Amseln.
-E) Keine der Schlussfolgerungen ist richtig.

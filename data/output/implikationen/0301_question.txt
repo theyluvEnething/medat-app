@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Tabletten sind keine Säugetiere.
-- Einige Säugetiere sind keine Wale.
-
-A) Alle Tabletten sind Wale.
-B) Einige Tabletten sind keine Wale.
-C) Einige Tabletten sind Wale.
-D) Alle Tabletten sind keine Wale.
-E) Keine der Schlussfolgerungen ist richtig.

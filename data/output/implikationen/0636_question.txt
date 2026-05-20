@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Giraffen sind keine Wölfe.
-- Alle Wölfe sind Sportler.
-
-A) Alle Giraffen sind Sportler.
-B) Einige Giraffen sind Sportler.
-C) Alle Giraffen sind keine Sportler.
-D) Einige Giraffen sind keine Sportler.
-E) Keine der Schlussfolgerungen ist richtig.

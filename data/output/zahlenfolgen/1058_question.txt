@@ -1,7 +1,0 @@
-Zahlenfolge: 2 8 10 18 28 46 ? ?
-
-A) 196/315
-B) 194/314
-C) 193/316
-D) 193/315
-E) Keine der Antworten ist richtig

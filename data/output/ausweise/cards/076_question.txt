@@ -1,7 +1,0 @@
-Name: VOWRELS
-Geburtstag: 25. Januar
-Medikamenteneinnahme: Ja
-Blutgruppe: AB
-Bekannte Allergien: Nitrit, Kohlensäure
-Ausweisnummer: 23790
-Ausstellungsland: Iran

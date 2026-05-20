@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Lilien sind Anwälte.
-- Einige Anwälte sind Autos.
-
-A) Alle Lilien sind keine Autos.
-B) Einige Lilien sind Autos.
-C) Einige Lilien sind keine Autos.
-D) Alle Lilien sind Autos.
-E) Keine der Schlussfolgerungen ist richtig.

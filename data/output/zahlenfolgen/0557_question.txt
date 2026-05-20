@@ -1,7 +1,0 @@
-Zahlenfolge: 25 52 53 35 36 63 ? ?
-
-A) 54/81
-B) 46/73
-C) 47/74
-D) 74/47
-E) Keine der Antworten ist richtig

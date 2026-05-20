@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Tulpen sind keine Türen.
-- Alle Türen sind Pilze.
-
-A) Einige Tulpen sind Pilze.
-B) Alle Tulpen sind Pilze.
-C) Alle Tulpen sind keine Pilze.
-D) Einige Tulpen sind keine Pilze.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- AlleLungensindNieren.
-- AlleLungensindHerzen.
-
-A) AlleHerzensindNieren.
-B) AlleHerzensindkeineNieren.
-C) EinigeHerzensindNieren.
-D) EinigeHerzensindkeineNieren.
-E) KeinederSchlussfolgerungenistrichtig.

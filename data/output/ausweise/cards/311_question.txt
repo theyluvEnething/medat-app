@@ -1,7 +1,0 @@
-Name: XELTROMS
-Geburtstag: 4. März
-Medikamenteneinnahme: Ja
-Blutgruppe: AB
-Bekannte Allergien: Wellensittiche, Thunfisch
-Ausweisnummer: 39095
-Ausstellungsland: Katar

@@ -1,7 +1,0 @@
-Zahlenfolge: -7 2 11 20 29 38 ? ?
-
-A) 54/63
-B) 47/56
-C) 56/65
-D) 58/67
-E) Keine der Antworten ist richtig

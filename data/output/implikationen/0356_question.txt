@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Klaviere sind Quartette.
-- Einige Quartette sind keine Roboter.
-
-A) Alle Klaviere sind Roboter.
-B) Alle Klaviere sind keine Roboter.
-C) Einige Klaviere sind Roboter.
-D) Einige Klaviere sind keine Roboter.
-E) Keine der Schlussfolgerungen ist richtig.

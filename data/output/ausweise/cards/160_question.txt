@@ -1,7 +1,0 @@
-Name: VORLUT
-Geburtstag: 7. September
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Ketoprofen, Sardinen
-Ausweisnummer: 95052
-Ausstellungsland: Schweiz

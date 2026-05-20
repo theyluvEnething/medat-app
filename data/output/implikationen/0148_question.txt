@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Wissenschaftler sind keine Quallen.
-- Alle Quallen sind Möbel.
-
-A) Einige Wissenschaftler sind keine Möbel.
-B) Alle Wissenschaftler sind Möbel.
-C) Alle Wissenschaftler sind keine Möbel.
-D) Einige Wissenschaftler sind Möbel.
-E) Keine der Schlussfolgerungen ist richtig.

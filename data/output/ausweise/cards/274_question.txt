@@ -1,7 +1,0 @@
-Name: XURIDKO
-Geburtstag: 5. Dezember
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Kraken, Mückenstiche
-Ausweisnummer: 58860
-Ausstellungsland: Deutschland

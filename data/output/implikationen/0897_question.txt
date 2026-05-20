@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Lehrer sind Quallen.
-- Alle Quallen sind Pilze.
-
-A) Einige Lehrer sind Pilze.
-B) Einige Lehrer sind keine Pilze.
-C) Alle Lehrer sind keine Pilze.
-D) Alle Lehrer sind Pilze.
-E) Keine der Schlussfolgerungen ist richtig.

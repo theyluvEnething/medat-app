@@ -1,7 +1,0 @@
-Buchstabenreihe: M F K A R P
-
-A) K
-B) A
-C) P
-D) F
-E) KeinederAntwortenistrichtig

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Vögel sind keine Tomaten.
-- Alle Tomaten sind keine Wirbeltiere.
-
-A) Einige Vögel sind Wirbeltiere.
-B) Alle Vögel sind keine Wirbeltiere.
-C) Alle Vögel sind Wirbeltiere.
-D) Einige Vögel sind keine Wirbeltiere.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Elektroautos sind Tiger.
-- Einige Tiger sind Roboter.
-
-A) Einige Elektroautos sind keine Roboter.
-B) Alle Elektroautos sind keine Roboter.
-C) Einige Elektroautos sind Roboter.
-D) Alle Elektroautos sind Roboter.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Autos sind keine Flüsse.
-- Einige Flüsse sind keine Mäuse.
-
-A) Einige Autos sind Mäuse.
-B) Einige Autos sind keine Mäuse.
-C) Alle Autos sind Mäuse.
-D) Alle Autos sind keine Mäuse.
-E) Keine der Schlussfolgerungen ist richtig.

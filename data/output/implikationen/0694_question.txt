@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Zebras sind keine Dinosaurier.
-- Einige Dinosaurier sind Sänger.
-
-A) Alle Zebras sind Sänger.
-B) Einige Zebras sind Sänger.
-C) Alle Zebras sind keine Sänger.
-D) Einige Zebras sind keine Sänger.
-E) Keine der Schlussfolgerungen ist richtig.

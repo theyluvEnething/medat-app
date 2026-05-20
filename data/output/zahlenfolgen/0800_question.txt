@@ -1,7 +1,0 @@
-Zahlenfolge: -1 0 7 26 63 124 ? ?
-
-A) 344/512
-B) 342/511
-C) 367/536
-D) 149/174
-E) Keine der Antworten ist richtig

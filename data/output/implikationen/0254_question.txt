@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Quartette sind Werkzeuge.
-- Einige Werkzeuge sind Metalle.
-
-A) Einige Quartette sind Metalle.
-B) Einige Quartette sind keine Metalle.
-C) Alle Quartette sind Metalle.
-D) Alle Quartette sind keine Metalle.
-E) Keine der Schlussfolgerungen ist richtig.

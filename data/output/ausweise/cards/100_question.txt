@@ -1,7 +1,0 @@
-Name: ABARKIR
-Geburtstag: 29. März
-Medikamenteneinnahme: Nein
-Blutgruppe: A
-Bekannte Allergien: Clementinen
-Ausweisnummer: 34061
-Ausstellungsland: Tadschikistan

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Vulkane sind Spatzen.
-- Einige Spatzen sind Radios.
-
-A) Einige Vulkane sind Radios.
-B) Alle Vulkane sind keine Radios.
-C) Einige Vulkane sind keine Radios.
-D) Alle Vulkane sind Radios.
-E) Keine der Schlussfolgerungen ist richtig.

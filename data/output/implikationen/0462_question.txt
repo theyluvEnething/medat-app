@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Glühbirnen sind Anwälte.
-- Einige Anwälte sind keine Dinosaurier.
-
-A) Einige Glühbirnen sind keine Dinosaurier.
-B) Alle Glühbirnen sind keine Dinosaurier.
-C) Einige Glühbirnen sind Dinosaurier.
-D) Alle Glühbirnen sind Dinosaurier.
-E) Keine der Schlussfolgerungen ist richtig.

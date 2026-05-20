@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Wale sind keine Häuser.
-- Einige Häuser sind keine Ingenieure.
-
-A) Einige Wale sind keine Ingenieure.
-B) Alle Wale sind keine Ingenieure.
-C) Einige Wale sind Ingenieure.
-D) Alle Wale sind Ingenieure.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Name: JUNDKOR
-Geburtstag: 16. März
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Laktose
-Ausweisnummer: 36011
-Ausstellungsland: Namibia

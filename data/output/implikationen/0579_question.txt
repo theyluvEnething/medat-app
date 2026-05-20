@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Schriftsteller sind Flüsse.
-- Einige Flüsse sind keine Wale.
-
-A) Einige Schriftsteller sind keine Wale.
-B) Alle Schriftsteller sind keine Wale.
-C) Alle Schriftsteller sind Wale.
-D) Einige Schriftsteller sind Wale.
-E) Keine der Schlussfolgerungen ist richtig.

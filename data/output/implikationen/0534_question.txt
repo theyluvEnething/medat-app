@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Säugetiere sind keine Sportler.
-- Alle Sportler sind keine Fotografen.
-
-A) Alle Säugetiere sind Fotografen.
-B) Einige Säugetiere sind keine Fotografen.
-C) Alle Säugetiere sind keine Fotografen.
-D) Einige Säugetiere sind Fotografen.
-E) Keine der Schlussfolgerungen ist richtig.

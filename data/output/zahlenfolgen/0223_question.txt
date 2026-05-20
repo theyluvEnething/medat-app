@@ -1,7 +1,0 @@
-Zahlenfolge: 6 8 12 18 26 36 ? ?
-
-A) 79/94
-B) 78/96
-C) 80/95
-D) 76/97
-E) Keine der Antworten ist richtig

@@ -1,7 +1,0 @@
-Zahlenfolge: 6 5 10 9 18 17 ? ?
-
-A) 66/65
-B) 19/21
-C) 65/63
-D) 68/64
-E) Keine der Antworten ist richtig

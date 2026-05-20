@@ -1,7 +1,0 @@
-Name: MOILSIUB
-Geburtstag: 30. Mai
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Kamut, Karpfen, Plastik
-Ausweisnummer: 66969
-Ausstellungsland: Libanon

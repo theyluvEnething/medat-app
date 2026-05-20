@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Klaviere sind Fotografen.
-- Alle Fotografen sind Elektroautos.
-
-A) Einige Klaviere sind keine Elektroautos.
-B) Alle Klaviere sind Elektroautos.
-C) Alle Klaviere sind keine Elektroautos.
-D) Einige Klaviere sind Elektroautos.
-E) Keine der Schlussfolgerungen ist richtig.

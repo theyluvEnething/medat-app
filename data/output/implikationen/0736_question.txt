@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Delfine sind Autos.
-- Alle Autos sind Skulpturen.
-
-A) Einige Delfine sind Skulpturen.
-B) Einige Delfine sind keine Skulpturen.
-C) Alle Delfine sind keine Skulpturen.
-D) Alle Delfine sind Skulpturen.
-E) Keine der Schlussfolgerungen ist richtig.

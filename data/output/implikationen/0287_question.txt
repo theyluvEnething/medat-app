@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Krokodile sind Elektroautos.
-- Einige Elektroautos sind Gemälde.
-
-A) Alle Krokodile sind keine Gemälde.
-B) Alle Krokodile sind Gemälde.
-C) Einige Krokodile sind Gemälde.
-D) Einige Krokodile sind keine Gemälde.
-E) Keine der Schlussfolgerungen ist richtig.

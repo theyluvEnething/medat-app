@@ -1,9 +1,0 @@
-Prämissen:
-- AlleBindungensindElemente.
-- AlleElementesindkeineMoleküle.
-
-A) AlleBindungensindMoleküle.
-B) AlleBindungensindkeineMoleküle.
-C) EinigeBindungensindMoleküle.
-D) EinigeBindungensindkeineMoleküle.
-E) KeinederSchlussfolgerungenistrichtig.

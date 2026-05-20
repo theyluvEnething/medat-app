@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Dichter sind keine Metalle.
-- Einige Metalle sind keine Amphibien.
-
-A) Alle Dichter sind keine Amphibien.
-B) Einige Dichter sind Amphibien.
-C) Einige Dichter sind keine Amphibien.
-D) Alle Dichter sind Amphibien.
-E) Keine der Schlussfolgerungen ist richtig.

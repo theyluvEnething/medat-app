@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Flugzeuge sind keine Musikinstrumente.
-- Alle Musikinstrumente sind Nashörner.
-
-A) Einige Flugzeuge sind Nashörner.
-B) Alle Flugzeuge sind keine Nashörner.
-C) Alle Flugzeuge sind Nashörner.
-D) Einige Flugzeuge sind keine Nashörner.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Gemälde sind keine Musikinstrumente.
-- Alle Musikinstrumente sind Bücher.
-
-A) Alle Gemälde sind keine Bücher.
-B) Einige Gemälde sind keine Bücher.
-C) Alle Gemälde sind Bücher.
-D) Einige Gemälde sind Bücher.
-E) Keine der Schlussfolgerungen ist richtig.

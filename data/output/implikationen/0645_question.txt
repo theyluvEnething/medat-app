@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Radios sind keine Eichen.
-- Alle Eichen sind keine Lilien.
-
-A) Einige Radios sind Lilien.
-B) Einige Radios sind keine Lilien.
-C) Alle Radios sind keine Lilien.
-D) Alle Radios sind Lilien.
-E) Keine der Schlussfolgerungen ist richtig.

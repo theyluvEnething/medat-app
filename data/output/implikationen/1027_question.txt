@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Diamanten sind Tabletten.
-- Alle Tabletten sind Schriftsteller.
-
-A) Einige Diamanten sind Schriftsteller.
-B) Einige Diamanten sind keine Schriftsteller.
-C) Alle Diamanten sind Schriftsteller.
-D) Alle Diamanten sind keine Schriftsteller.
-E) Keine der Schlussfolgerungen ist richtig.

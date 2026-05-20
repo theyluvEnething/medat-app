@@ -1,7 +1,0 @@
-Zahlenfolge: 3 0 0 -3 -9 -12 ? ?
-
-A) -115/-119
-B) -117/-120
-C) -118/-118
-D) -116/-119
-E) Keine der Antworten ist richtig

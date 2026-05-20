@@ -1,7 +1,0 @@
-Zahlenfolge: 7 6 12 11 22 21 ? ?
-
-A) 23/25
-B) 82/81
-C) 80/80
-D) 81/79
-E) Keine der Antworten ist richtig

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Reptilien sind Tannen.
-- Alle Tannen sind keine Chemiker.
-
-A) Einige Reptilien sind Chemiker.
-B) Alle Reptilien sind keine Chemiker.
-C) Einige Reptilien sind keine Chemiker.
-D) Alle Reptilien sind Chemiker.
-E) Keine der Schlussfolgerungen ist richtig.

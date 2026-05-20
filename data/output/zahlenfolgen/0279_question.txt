@@ -1,7 +1,0 @@
-Zahlenfolge: 23 -10 27 -18 31 -26 ? ?
-
-A) 37/-44
-B) 39/-42
-C) 38/-40
-D) -42/39
-E) Keine der Antworten ist richtig

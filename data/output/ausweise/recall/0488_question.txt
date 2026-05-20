@@ -1,7 +1,0 @@
-WievielePersonenhabendieBlutgruppe AB?
-
-A) 5
-B) 0
-C) 2
-D) 1
-E) KeinederAntwortenistrichtig

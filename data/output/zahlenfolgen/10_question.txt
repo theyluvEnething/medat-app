@@ -1,7 +1,0 @@
-Zahlenfolge: 27 162 156 78 468 462 231 ? ?
-
-A) 1393/1380
-B) 1386/1380
-C) 1381/1378
-D) 1398/1372
-E) KeinederAntwortenistrichtig

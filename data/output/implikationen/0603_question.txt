@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Sänger sind keine Amseln.
-- Einige Amseln sind Teleskope.
-
-A) Alle Sänger sind keine Teleskope.
-B) Einige Sänger sind keine Teleskope.
-C) Einige Sänger sind Teleskope.
-D) Alle Sänger sind Teleskope.
-E) Keine der Schlussfolgerungen ist richtig.

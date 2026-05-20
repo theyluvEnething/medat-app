@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Statuen sind Krokodile.
-- Alle Krokodile sind keine Säugetiere.
-
-A) Einige Statuen sind Säugetiere.
-B) Alle Statuen sind Säugetiere.
-C) Alle Statuen sind keine Säugetiere.
-D) Einige Statuen sind keine Säugetiere.
-E) Keine der Schlussfolgerungen ist richtig.

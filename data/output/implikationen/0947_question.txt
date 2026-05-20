@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Musikinstrumente sind keine Spatzen.
-- Einige Spatzen sind Eichen.
-
-A) Alle Musikinstrumente sind Eichen.
-B) Einige Musikinstrumente sind Eichen.
-C) Einige Musikinstrumente sind keine Eichen.
-D) Alle Musikinstrumente sind keine Eichen.
-E) Keine der Schlussfolgerungen ist richtig.

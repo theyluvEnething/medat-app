@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Gedichte sind Amphibien.
-- Alle Amphibien sind keine Musikinstrumente.
-
-A) Alle Gedichte sind keine Musikinstrumente.
-B) Alle Gedichte sind Musikinstrumente.
-C) Einige Gedichte sind keine Musikinstrumente.
-D) Einige Gedichte sind Musikinstrumente.
-E) Keine der Schlussfolgerungen ist richtig.

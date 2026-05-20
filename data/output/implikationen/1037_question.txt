@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Wissenschaftler sind Skulpturen.
-- Einige Skulpturen sind keine Werkzeuge.
-
-A) Alle Wissenschaftler sind keine Werkzeuge.
-B) Einige Wissenschaftler sind Werkzeuge.
-C) Einige Wissenschaftler sind keine Werkzeuge.
-D) Alle Wissenschaftler sind Werkzeuge.
-E) Keine der Schlussfolgerungen ist richtig.

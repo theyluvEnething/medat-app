@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Smartphones sind Tiger.
-- Alle Tiger sind Türen.
-
-A) Alle Smartphones sind Türen.
-B) Alle Smartphones sind keine Türen.
-C) Einige Smartphones sind keine Türen.
-D) Einige Smartphones sind Türen.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 2 -4 -10 -16 -22 -28 ? ?
-
-A) -40/-46
-B) -39/-47
-C) -42/-45
-D) -42/-47
-E) Keine der Antworten ist richtig

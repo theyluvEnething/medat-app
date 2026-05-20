@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Sänger sind Möbel.
-- Einige Möbel sind keine Dichter.
-
-A) Einige Sänger sind Dichter.
-B) Alle Sänger sind keine Dichter.
-C) Einige Sänger sind keine Dichter.
-D) Alle Sänger sind Dichter.
-E) Keine der Schlussfolgerungen ist richtig.

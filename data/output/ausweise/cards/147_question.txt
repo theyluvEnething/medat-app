@@ -1,7 +1,0 @@
-Name: NEBNKLOX
-Geburtstag: 11. Oktober
-Medikamenteneinnahme: Nein
-Blutgruppe: B
-Bekannte Allergien: Parvalbumin
-Ausweisnummer: 12162
-Ausstellungsland: Italien

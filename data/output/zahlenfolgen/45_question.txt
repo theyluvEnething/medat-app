@@ -1,7 +1,0 @@
-Zahlenfolge: 11 12 14 18 26 42 74 ? ?
-
-A) 145/259
-B) 253/129
-C) 145/268
-D) 138/253
-E) KeinederAntwortenistrichtig

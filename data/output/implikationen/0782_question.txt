@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Mathematiker sind Spatzen.
-- Einige Spatzen sind Musikinstrumente.
-
-A) Alle Mathematiker sind Musikinstrumente.
-B) Einige Mathematiker sind Musikinstrumente.
-C) Alle Mathematiker sind keine Musikinstrumente.
-D) Einige Mathematiker sind keine Musikinstrumente.
-E) Keine der Schlussfolgerungen ist richtig.

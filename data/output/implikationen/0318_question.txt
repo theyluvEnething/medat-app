@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Quallen sind Radios.
-- Einige Radios sind keine Gemälde.
-
-A) Alle Quallen sind Gemälde.
-B) Einige Quallen sind keine Gemälde.
-C) Alle Quallen sind keine Gemälde.
-D) Einige Quallen sind Gemälde.
-E) Keine der Schlussfolgerungen ist richtig.

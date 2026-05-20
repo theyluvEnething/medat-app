@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Tiger sind keine Blumen.
-- Alle Blumen sind keine Politiker.
-
-A) Alle Tiger sind Politiker.
-B) Einige Tiger sind Politiker.
-C) Alle Tiger sind keine Politiker.
-D) Einige Tiger sind keine Politiker.
-E) Keine der Schlussfolgerungen ist richtig.

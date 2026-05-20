@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Quallen sind keine Lilien.
-- Einige Lilien sind Vegetarier.
-
-A) Alle Quallen sind Vegetarier.
-B) Einige Quallen sind Vegetarier.
-C) Alle Quallen sind keine Vegetarier.
-D) Einige Quallen sind keine Vegetarier.
-E) Keine der Schlussfolgerungen ist richtig.

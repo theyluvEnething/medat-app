@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Reptilien sind keine Bäume.
-- Einige Bäume sind Quartette.
-
-A) Alle Reptilien sind Quartette.
-B) Einige Reptilien sind Quartette.
-C) Einige Reptilien sind keine Quartette.
-D) Alle Reptilien sind keine Quartette.
-E) Keine der Schlussfolgerungen ist richtig.

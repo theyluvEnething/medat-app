@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Ärzte sind Flugzeuge.
-- Einige Flugzeuge sind Gräser.
-
-A) Einige Ärzte sind keine Gräser.
-B) Einige Ärzte sind Gräser.
-C) Alle Ärzte sind Gräser.
-D) Alle Ärzte sind keine Gräser.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Wirbeltiere sind Klaviere.
-- Einige Klaviere sind Radios.
-
-A) Alle Wirbeltiere sind keine Radios.
-B) Alle Wirbeltiere sind Radios.
-C) Einige Wirbeltiere sind Radios.
-D) Einige Wirbeltiere sind keine Radios.
-E) Keine der Schlussfolgerungen ist richtig.

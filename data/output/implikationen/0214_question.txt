@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Mammute sind Vulkane.
-- Einige Vulkane sind keine Tabletten.
-
-A) Einige Mammute sind Tabletten.
-B) Alle Mammute sind keine Tabletten.
-C) Alle Mammute sind Tabletten.
-D) Einige Mammute sind keine Tabletten.
-E) Keine der Schlussfolgerungen ist richtig.

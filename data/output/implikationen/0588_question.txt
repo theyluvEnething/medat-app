@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Hunde sind keine Anwälte.
-- Einige Anwälte sind Mathematiker.
-
-A) Einige Hunde sind Mathematiker.
-B) Einige Hunde sind keine Mathematiker.
-C) Alle Hunde sind keine Mathematiker.
-D) Alle Hunde sind Mathematiker.
-E) Keine der Schlussfolgerungen ist richtig.

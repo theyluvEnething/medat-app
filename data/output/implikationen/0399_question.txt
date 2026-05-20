@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Uhren sind Amphibien.
-- Alle Amphibien sind keine Insekten.
-
-A) Alle Uhren sind keine Insekten.
-B) Einige Uhren sind Insekten.
-C) Einige Uhren sind keine Insekten.
-D) Alle Uhren sind Insekten.
-E) Keine der Schlussfolgerungen ist richtig.

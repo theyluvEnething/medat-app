@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Schlangen sind Diamanten.
-- Einige Diamanten sind keine Schriftsteller.
-
-A) Alle Schlangen sind Schriftsteller.
-B) Alle Schlangen sind keine Schriftsteller.
-C) Einige Schlangen sind Schriftsteller.
-D) Einige Schlangen sind keine Schriftsteller.
-E) Keine der Schlussfolgerungen ist richtig.

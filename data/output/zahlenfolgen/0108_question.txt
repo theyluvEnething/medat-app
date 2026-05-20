@@ -1,7 +1,0 @@
-Zahlenfolge: 15 21 12 27 9 33 ? ?
-
-A) 3/45
-B) 2/47
-C) 5/43
-D) 1/44
-E) Keine der Antworten ist richtig

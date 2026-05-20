@@ -1,7 +1,0 @@
-Zahlenfolge: 12 9 27 24 72 69 ? ?
-
-A) 610/611
-B) 612/609
-C) 613/608
-D) 613/610
-E) Keine der Antworten ist richtig

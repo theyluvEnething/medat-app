@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Autos sind Uhren.
-- Einige Uhren sind Marder.
-
-A) Einige Autos sind keine Marder.
-B) Alle Autos sind Marder.
-C) Alle Autos sind keine Marder.
-D) Einige Autos sind Marder.
-E) Keine der Schlussfolgerungen ist richtig.

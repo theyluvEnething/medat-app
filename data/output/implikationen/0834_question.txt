@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Hunde sind Teleskope.
-- Alle Teleskope sind keine Glühbirnen.
-
-A) Einige Hunde sind keine Glühbirnen.
-B) Alle Hunde sind keine Glühbirnen.
-C) Einige Hunde sind Glühbirnen.
-D) Alle Hunde sind Glühbirnen.
-E) Keine der Schlussfolgerungen ist richtig.

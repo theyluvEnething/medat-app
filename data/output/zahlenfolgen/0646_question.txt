@@ -1,7 +1,0 @@
-Zahlenfolge: 24 29 14 37 4 45 ? ?
-
-A) -17/62
-B) -18/63
-C) -16/61
-D) -14/62
-E) Keine der Antworten ist richtig

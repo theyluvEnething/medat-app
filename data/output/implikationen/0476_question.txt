@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Musikinstrumente sind keine Tulpen.
-- Einige Tulpen sind Schauspieler.
-
-A) Einige Musikinstrumente sind Schauspieler.
-B) Alle Musikinstrumente sind keine Schauspieler.
-C) Alle Musikinstrumente sind Schauspieler.
-D) Einige Musikinstrumente sind keine Schauspieler.
-E) Keine der Schlussfolgerungen ist richtig.

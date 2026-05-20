@@ -1,7 +1,0 @@
-Zahlenfolge: 27 29 12 44 -3 59 -18 ? ?
-
-A) 86/-30
-B) 73/-42
-C) 86/-45
-D) 73/-7
-E) KeinederAntwortenistrichtig

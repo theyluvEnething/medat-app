@@ -1,7 +1,0 @@
-Zahlenfolge: 27 29 35 45 59 77 ? ?
-
-A) 154/190
-B) 153/188
-C) 155/189
-D) 165/199
-E) Keine der Antworten ist richtig

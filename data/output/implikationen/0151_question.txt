@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Musikinstrumente sind keine Lilien.
-- Alle Lilien sind keine Orchideen.
-
-A) Einige Musikinstrumente sind keine Orchideen.
-B) Einige Musikinstrumente sind Orchideen.
-C) Alle Musikinstrumente sind keine Orchideen.
-D) Alle Musikinstrumente sind Orchideen.
-E) Keine der Schlussfolgerungen ist richtig.

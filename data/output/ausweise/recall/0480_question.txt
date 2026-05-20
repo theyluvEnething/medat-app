@@ -1,7 +1,0 @@
-WievielePersonensindimMaigeboren?
-
-A) 0
-B) 4
-C) 2
-D) 3
-E) KeinederAntwortenistrichtig

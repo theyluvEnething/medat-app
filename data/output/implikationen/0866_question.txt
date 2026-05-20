@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Amphibien sind Flüsse.
-- Alle Flüsse sind keine Möbel.
-
-A) Einige Amphibien sind Möbel.
-B) Einige Amphibien sind keine Möbel.
-C) Alle Amphibien sind keine Möbel.
-D) Alle Amphibien sind Möbel.
-E) Keine der Schlussfolgerungen ist richtig.

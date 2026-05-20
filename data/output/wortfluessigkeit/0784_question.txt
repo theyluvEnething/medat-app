@@ -1,7 +1,0 @@
-Buchstabenreihe: K B T E T U
-
-A) B
-B) E
-C) T
-D) K
-E) KeinederAntwortenistrichtig

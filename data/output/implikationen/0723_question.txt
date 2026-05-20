@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Kupfer sind keine Granite.
-- Alle Granite sind keine Klaviere.
-
-A) Alle Kupfer sind keine Klaviere.
-B) Alle Kupfer sind Klaviere.
-C) Einige Kupfer sind keine Klaviere.
-D) Einige Kupfer sind Klaviere.
-E) Keine der Schlussfolgerungen ist richtig.

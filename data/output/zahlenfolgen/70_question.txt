@@ -1,7 +1,0 @@
-Zahlenfolge: 26 3 -23 -26 -3 23 26 ? ?
-
-A) 14/-25
-B) 6/-29
-C) -17/-38
-D) -5/-38
-E) KeinederAntwortenistrichtig

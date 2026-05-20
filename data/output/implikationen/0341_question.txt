@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Bücher sind Autos.
-- Alle Autos sind keine Taucher.
-
-A) Alle Bücher sind keine Taucher.
-B) Alle Bücher sind Taucher.
-C) Einige Bücher sind keine Taucher.
-D) Einige Bücher sind Taucher.
-E) Keine der Schlussfolgerungen ist richtig.

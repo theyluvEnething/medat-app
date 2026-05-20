@@ -1,9 +1,0 @@
-Prämissen:
-- AlleZähnesindKiefer.
-- AlleKronensindkeineKiefer.
-
-A) AlleKronensindZähne.
-B) AlleKronensindkeineZähne.
-C) EinigeKronensindZähne.
-D) EinigeKronensindkeineZähne.
-E) KeinederSchlussfolgerungenistrichtig.

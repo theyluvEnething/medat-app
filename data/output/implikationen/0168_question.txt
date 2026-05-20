@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Pandas sind Glühbirnen.
-- Einige Glühbirnen sind Hunde.
-
-A) Einige Pandas sind Hunde.
-B) Einige Pandas sind keine Hunde.
-C) Alle Pandas sind Hunde.
-D) Alle Pandas sind keine Hunde.
-E) Keine der Schlussfolgerungen ist richtig.

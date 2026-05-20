@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Taucher sind keine Statuen.
-- Alle Statuen sind Schiffe.
-
-A) Einige Taucher sind Schiffe.
-B) Einige Taucher sind keine Schiffe.
-C) Alle Taucher sind keine Schiffe.
-D) Alle Taucher sind Schiffe.
-E) Keine der Schlussfolgerungen ist richtig.

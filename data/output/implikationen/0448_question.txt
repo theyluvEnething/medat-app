@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Elektroautos sind Maler.
-- Alle Maler sind keine Gedichte.
-
-A) Einige Elektroautos sind keine Gedichte.
-B) Alle Elektroautos sind keine Gedichte.
-C) Einige Elektroautos sind Gedichte.
-D) Alle Elektroautos sind Gedichte.
-E) Keine der Schlussfolgerungen ist richtig.

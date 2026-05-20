@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Gedichte sind keine Züge.
-- Einige Züge sind keine Tabletten.
-
-A) Einige Gedichte sind Tabletten.
-B) Alle Gedichte sind keine Tabletten.
-C) Alle Gedichte sind Tabletten.
-D) Einige Gedichte sind keine Tabletten.
-E) Keine der Schlussfolgerungen ist richtig.

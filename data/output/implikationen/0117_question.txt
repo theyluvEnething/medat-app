@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Gemälde sind keine Haie.
-- Alle Haie sind keine Quallen.
-
-A) Alle Gemälde sind Quallen.
-B) Einige Gemälde sind keine Quallen.
-C) Einige Gemälde sind Quallen.
-D) Alle Gemälde sind keine Quallen.
-E) Keine der Schlussfolgerungen ist richtig.

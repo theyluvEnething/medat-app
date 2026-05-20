@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Taucher sind Bäume.
-- Alle Bäume sind keine Flüsse.
-
-A) Alle Taucher sind keine Flüsse.
-B) Einige Taucher sind keine Flüsse.
-C) Alle Taucher sind Flüsse.
-D) Einige Taucher sind Flüsse.
-E) Keine der Schlussfolgerungen ist richtig.

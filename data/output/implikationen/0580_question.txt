@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Wölfe sind Vulkane.
-- Alle Vulkane sind Maler.
-
-A) Alle Wölfe sind Maler.
-B) Einige Wölfe sind Maler.
-C) Einige Wölfe sind keine Maler.
-D) Alle Wölfe sind keine Maler.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 47 49 51 53 55 57 ? ?
-
-A) 60/62
-B) 60/65
-C) 61/63
-D) 62/64
-E) Keine der Antworten ist richtig

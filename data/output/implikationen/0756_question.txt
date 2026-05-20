@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Vasen sind keine Türen.
-- Einige Türen sind Orchideen.
-
-A) Alle Vasen sind keine Orchideen.
-B) Einige Vasen sind Orchideen.
-C) Einige Vasen sind keine Orchideen.
-D) Alle Vasen sind Orchideen.
-E) Keine der Schlussfolgerungen ist richtig.

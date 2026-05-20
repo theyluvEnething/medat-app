@@ -1,7 +1,0 @@
-Zahlenfolge: 2 -4 8 -16 32 -64 ? ?
-
-A) -270/498
-B) -256/512
-C) -258/511
-D) -257/513
-E) Keine der Antworten ist richtig

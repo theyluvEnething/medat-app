@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Politiker sind Kätzchen.
-- Einige Kätzchen sind Spatzen.
-
-A) Einige Politiker sind Spatzen.
-B) Alle Politiker sind Spatzen.
-C) Einige Politiker sind keine Spatzen.
-D) Alle Politiker sind keine Spatzen.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Quallen sind Sänger.
-- Alle Sänger sind keine Rosen.
-
-A) Alle Quallen sind keine Rosen.
-B) Einige Quallen sind Rosen.
-C) Alle Quallen sind Rosen.
-D) Einige Quallen sind keine Rosen.
-E) Keine der Schlussfolgerungen ist richtig.

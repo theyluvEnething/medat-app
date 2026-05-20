@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Säugetiere sind Maler.
-- Einige Maler sind Hunde.
-
-A) Alle Säugetiere sind keine Hunde.
-B) Einige Säugetiere sind Hunde.
-C) Alle Säugetiere sind Hunde.
-D) Einige Säugetiere sind keine Hunde.
-E) Keine der Schlussfolgerungen ist richtig.

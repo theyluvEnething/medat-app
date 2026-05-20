@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Giraffen sind keine Schauspieler.
-- Alle Schauspieler sind keine Pandas.
-
-A) Einige Giraffen sind keine Pandas.
-B) Einige Giraffen sind Pandas.
-C) Alle Giraffen sind keine Pandas.
-D) Alle Giraffen sind Pandas.
-E) Keine der Schlussfolgerungen ist richtig.

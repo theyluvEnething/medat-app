@@ -1,7 +1,0 @@
-Name: NERFLOXE
-Geburtstag: 2. Juni
-Medikamenteneinnahme: Nein
-Blutgruppe: 0
-Bekannte Allergien: Batate, Retinol
-Ausweisnummer: 92436
-Ausstellungsland: Guatemala

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Radios sind keine Säugetiere.
-- Alle Säugetiere sind Möbel.
-
-A) Alle Radios sind keine Möbel.
-B) Einige Radios sind Möbel.
-C) Einige Radios sind keine Möbel.
-D) Alle Radios sind Möbel.
-E) Keine der Schlussfolgerungen ist richtig.

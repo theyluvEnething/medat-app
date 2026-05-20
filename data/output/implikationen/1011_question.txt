@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Anwälte sind Radios.
-- Einige Radios sind Giraffen.
-
-A) Alle Anwälte sind Giraffen.
-B) Einige Anwälte sind Giraffen.
-C) Alle Anwälte sind keine Giraffen.
-D) Einige Anwälte sind keine Giraffen.
-E) Keine der Schlussfolgerungen ist richtig.

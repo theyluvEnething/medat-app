@@ -1,7 +1,0 @@
-WelcheganzenAllergienhatdiePerson mitdemNamenMICVRINT?
-
-A) Glukosesirup
-B) Hausstaubmilben,Camembert
-C) Phoma,Linde
-D) Hornissengift,Sardellen
-E) KeinederAntwortenistrichtig

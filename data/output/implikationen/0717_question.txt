@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Tulpen sind keine Insekten.
-- Alle Insekten sind keine Schriftsteller.
-
-A) Einige Tulpen sind keine Schriftsteller.
-B) Einige Tulpen sind Schriftsteller.
-C) Alle Tulpen sind Schriftsteller.
-D) Alle Tulpen sind keine Schriftsteller.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Wale sind Diamanten.
-- Einige Diamanten sind keine Vegetarier.
-
-A) Alle Wale sind Vegetarier.
-B) Einige Wale sind keine Vegetarier.
-C) Alle Wale sind keine Vegetarier.
-D) Einige Wale sind Vegetarier.
-E) Keine der Schlussfolgerungen ist richtig.

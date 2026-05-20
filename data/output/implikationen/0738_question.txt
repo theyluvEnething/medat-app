@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Klaviere sind keine Gedichte.
-- Alle Gedichte sind Flugzeuge.
-
-A) Einige Klaviere sind keine Flugzeuge.
-B) Alle Klaviere sind Flugzeuge.
-C) Alle Klaviere sind keine Flugzeuge.
-D) Einige Klaviere sind Flugzeuge.
-E) Keine der Schlussfolgerungen ist richtig.

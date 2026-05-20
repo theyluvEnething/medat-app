@@ -1,2 +1,0 @@
-A — 245/396
-Jedes Glied = Summe der beiden Vorgänger

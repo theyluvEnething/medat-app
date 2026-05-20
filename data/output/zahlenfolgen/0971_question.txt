@@ -1,7 +1,0 @@
-Zahlenfolge: 6 11 22 27 54 59 ? ?
-
-A) 247/250
-B) 118/128
-C) 246/251
-D) 244/252
-E) Keine der Antworten ist richtig

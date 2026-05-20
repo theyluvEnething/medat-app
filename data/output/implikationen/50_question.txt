@@ -1,9 +1,0 @@
-Prämissen:
-- AlleDTSsindkeineCS.
-- AlleZPsindDTS.
-
-A) AlleZPsindCS.
-B) AlleZPsindkeineCS.
-C) EinigeZPsindCS.
-D) EinigeZPsindkeineCS.
-E) KeinederSchlussfolgerungenistrichtig.

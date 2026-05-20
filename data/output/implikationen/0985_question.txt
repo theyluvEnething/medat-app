@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Nashörner sind Amphibien.
-- Alle Amphibien sind keine Skulpturen.
-
-A) Alle Nashörner sind keine Skulpturen.
-B) Alle Nashörner sind Skulpturen.
-C) Einige Nashörner sind Skulpturen.
-D) Einige Nashörner sind keine Skulpturen.
-E) Keine der Schlussfolgerungen ist richtig.

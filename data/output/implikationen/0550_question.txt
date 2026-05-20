@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Haie sind keine Orchideen.
-- Einige Orchideen sind keine Autos.
-
-A) Einige Haie sind Autos.
-B) Einige Haie sind keine Autos.
-C) Alle Haie sind Autos.
-D) Alle Haie sind keine Autos.
-E) Keine der Schlussfolgerungen ist richtig.

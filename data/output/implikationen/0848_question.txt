@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Eichen sind keine Amphibien.
-- Einige Amphibien sind keine Marder.
-
-A) Einige Eichen sind keine Marder.
-B) Einige Eichen sind Marder.
-C) Alle Eichen sind keine Marder.
-D) Alle Eichen sind Marder.
-E) Keine der Schlussfolgerungen ist richtig.

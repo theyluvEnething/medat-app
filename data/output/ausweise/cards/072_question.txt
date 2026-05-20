@@ -1,7 +1,0 @@
-Name: RILFONM
-Geburtstag: 15. September
-Medikamenteneinnahme: Nein
-Blutgruppe: A
-Bekannte Allergien: Ananas
-Ausweisnummer: 90507
-Ausstellungsland: Tansania

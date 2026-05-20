@@ -1,7 +1,0 @@
-Name: ENAMIO
-Geburtstag: 26. November
-Medikamenteneinnahme: Nein
-Blutgruppe: 0
-Bekannte Allergien: Kobalt, Alternaria
-Ausweisnummer: 16571
-Ausstellungsland: Rumänien

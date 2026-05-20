@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Delfine sind keine Werkzeuge.
-- Einige Werkzeuge sind keine Giraffen.
-
-A) Alle Delfine sind Giraffen.
-B) Einige Delfine sind Giraffen.
-C) Einige Delfine sind keine Giraffen.
-D) Alle Delfine sind keine Giraffen.
-E) Keine der Schlussfolgerungen ist richtig.

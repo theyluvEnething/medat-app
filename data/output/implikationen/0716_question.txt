@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Kätzchen sind keine Flugzeuge.
-- Einige Flugzeuge sind keine Elektroautos.
-
-A) Einige Kätzchen sind Elektroautos.
-B) Alle Kätzchen sind keine Elektroautos.
-C) Alle Kätzchen sind Elektroautos.
-D) Einige Kätzchen sind keine Elektroautos.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 40 53 66 79 92 105 ? ?
-
-A) 132/143
-B) 130/145
-C) 144/157
-D) 131/144
-E) Keine der Antworten ist richtig

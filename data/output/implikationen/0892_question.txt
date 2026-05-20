@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Wirbeltiere sind keine Kätzchen.
-- Einige Kätzchen sind Sänger.
-
-A) Alle Wirbeltiere sind keine Sänger.
-B) Einige Wirbeltiere sind Sänger.
-C) Alle Wirbeltiere sind Sänger.
-D) Einige Wirbeltiere sind keine Sänger.
-E) Keine der Schlussfolgerungen ist richtig.

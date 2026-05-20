@@ -1,7 +1,0 @@
-Name: GINDORFS
-Geburtstag: 27. Juli
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Sulfite, Zitronen
-Ausweisnummer: 33211
-Ausstellungsland: Trinidad und Tobago

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Tiger sind keine Werkzeuge.
-- Alle Werkzeuge sind keine Möbel.
-
-A) Einige Tiger sind Möbel.
-B) Alle Tiger sind Möbel.
-C) Einige Tiger sind keine Möbel.
-D) Alle Tiger sind keine Möbel.
-E) Keine der Schlussfolgerungen ist richtig.

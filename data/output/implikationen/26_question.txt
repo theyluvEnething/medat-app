@@ -1,9 +1,0 @@
-Prämissen:
-- AlleEKIsindYK.
-- EinigeEKIsindkeineES.
-
-A) AlleYKsindES.
-B) AlleYKsindkeineES.
-C) EinigeYKsindES.
-D) EinigeYKsindkeineES.
-E) KeinederSchlussfolgerungenistrichtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Sportler sind Stühle.
-- Einige Stühle sind keine Giraffen.
-
-A) Alle Sportler sind keine Giraffen.
-B) Alle Sportler sind Giraffen.
-C) Einige Sportler sind keine Giraffen.
-D) Einige Sportler sind Giraffen.
-E) Keine der Schlussfolgerungen ist richtig.

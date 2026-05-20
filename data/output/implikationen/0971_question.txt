@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Zebras sind Krokodile.
-- Alle Krokodile sind keine Gedichte.
-
-A) Alle Zebras sind keine Gedichte.
-B) Einige Zebras sind Gedichte.
-C) Einige Zebras sind keine Gedichte.
-D) Alle Zebras sind Gedichte.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 29 10 21 7 13 4 ? ?
-
-A) -2/-3
-B) -1/-4
-C) -3/-2
-D) 8/3
-E) Keine der Antworten ist richtig

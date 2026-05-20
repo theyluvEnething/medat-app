@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Türen sind keine Wirbeltiere.
-- Einige Wirbeltiere sind keine Haie.
-
-A) Einige Türen sind Haie.
-B) Alle Türen sind keine Haie.
-C) Alle Türen sind Haie.
-D) Einige Türen sind keine Haie.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Taucher sind Stühle.
-- Einige Stühle sind keine Menschen.
-
-A) Alle Taucher sind Menschen.
-B) Einige Taucher sind Menschen.
-C) Einige Taucher sind keine Menschen.
-D) Alle Taucher sind keine Menschen.
-E) Keine der Schlussfolgerungen ist richtig.

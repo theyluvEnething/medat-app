@@ -1,7 +1,0 @@
-Zahlenfolge: 4 6 8 10 12 14 ? ?
-
-A) 20/22
-B) 17/18
-C) 18/20
-D) 20/18
-E) Keine der Antworten ist richtig

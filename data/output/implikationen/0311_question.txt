@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Delfine sind Roboter.
-- Einige Roboter sind Schiffe.
-
-A) Einige Delfine sind Schiffe.
-B) Alle Delfine sind Schiffe.
-C) Einige Delfine sind keine Schiffe.
-D) Alle Delfine sind keine Schiffe.
-E) Keine der Schlussfolgerungen ist richtig.

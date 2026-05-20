@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Gemälde sind keine Tannen.
-- Einige Tannen sind Werkzeuge.
-
-A) Alle Gemälde sind Werkzeuge.
-B) Einige Gemälde sind Werkzeuge.
-C) Einige Gemälde sind keine Werkzeuge.
-D) Alle Gemälde sind keine Werkzeuge.
-E) Keine der Schlussfolgerungen ist richtig.

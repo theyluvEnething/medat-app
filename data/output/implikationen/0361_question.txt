@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Quallen sind keine Rosen.
-- Einige Rosen sind keine Amphibien.
-
-A) Alle Quallen sind keine Amphibien.
-B) Alle Quallen sind Amphibien.
-C) Einige Quallen sind Amphibien.
-D) Einige Quallen sind keine Amphibien.
-E) Keine der Schlussfolgerungen ist richtig.

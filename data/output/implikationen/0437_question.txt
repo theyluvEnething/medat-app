@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Anwälte sind Fische.
-- Alle Fische sind Amseln.
-
-A) Alle Anwälte sind Amseln.
-B) Einige Anwälte sind keine Amseln.
-C) Alle Anwälte sind keine Amseln.
-D) Einige Anwälte sind Amseln.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Glühbirnen sind Bäume.
-- Einige Bäume sind keine Marder.
-
-A) Alle Glühbirnen sind Marder.
-B) Alle Glühbirnen sind keine Marder.
-C) Einige Glühbirnen sind keine Marder.
-D) Einige Glühbirnen sind Marder.
-E) Keine der Schlussfolgerungen ist richtig.

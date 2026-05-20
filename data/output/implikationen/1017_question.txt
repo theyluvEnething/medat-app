@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Granite sind keine Dinosaurier.
-- Einige Dinosaurier sind keine Musikinstrumente.
-
-A) Einige Granite sind keine Musikinstrumente.
-B) Alle Granite sind keine Musikinstrumente.
-C) Alle Granite sind Musikinstrumente.
-D) Einige Granite sind Musikinstrumente.
-E) Keine der Schlussfolgerungen ist richtig.

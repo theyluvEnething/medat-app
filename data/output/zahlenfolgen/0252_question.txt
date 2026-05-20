@@ -1,7 +1,0 @@
-Zahlenfolge: 92 29 36 63 70 7 ? ?
-
-A) 47/82
-B) 50/82
-C) 48/84
-D) 47/83
-E) Keine der Antworten ist richtig

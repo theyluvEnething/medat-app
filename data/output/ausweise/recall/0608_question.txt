@@ -1,7 +1,0 @@
-WieheißtdiePersonmitder Ausweisnummerbeginnendmit30?
-
-A) JIRKOL
-B) TUBMAL
-C) VEILKOM
-D) NEQUQUA
-E) KeinederAntwortenistrichtig

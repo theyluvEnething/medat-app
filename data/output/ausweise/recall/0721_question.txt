@@ -1,7 +1,0 @@
-WelcheganzenAllergienhatdiePerson mitBlutgruppeBundMedikamenten?
-
-A) Gerste,Erdbeeren
-B) Rosen,Kokosnüsse,Chrom
-C) Ethylalkohol
-D) Auberginen
-E) KeinederAntwortenistrichtig

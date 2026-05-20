@@ -1,7 +1,0 @@
-Zahlenfolge: 3 -9 27 -81 243 -729 ? ?
-
-A) -6559/19685
-B) -6560/19684
-C) -6563/19685
-D) -6561/19683
-E) Keine der Antworten ist richtig

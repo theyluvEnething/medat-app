@@ -1,7 +1,0 @@
-Zahlenfolge: 12 21 28 82 89 98 ? ?
-
-A) 506/803
-B) 507/804
-C) 510/807
-D) 508/805
-E) Keine der Antworten ist richtig

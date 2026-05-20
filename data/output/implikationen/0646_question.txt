@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Stühle sind Pilze.
-- Alle Pilze sind keine Orchideen.
-
-A) Einige Stühle sind Orchideen.
-B) Alle Stühle sind keine Orchideen.
-C) Alle Stühle sind Orchideen.
-D) Einige Stühle sind keine Orchideen.
-E) Keine der Schlussfolgerungen ist richtig.

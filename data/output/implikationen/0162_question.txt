@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Smartphones sind Gräser.
-- Alle Gräser sind keine Quartette.
-
-A) Alle Smartphones sind Quartette.
-B) Alle Smartphones sind keine Quartette.
-C) Einige Smartphones sind Quartette.
-D) Einige Smartphones sind keine Quartette.
-E) Keine der Schlussfolgerungen ist richtig.

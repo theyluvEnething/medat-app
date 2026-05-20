@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Säugetiere sind keine Quallen.
-- Alle Quallen sind keine Kupfer.
-
-A) Einige Säugetiere sind keine Kupfer.
-B) Einige Säugetiere sind Kupfer.
-C) Alle Säugetiere sind Kupfer.
-D) Alle Säugetiere sind keine Kupfer.
-E) Keine der Schlussfolgerungen ist richtig.

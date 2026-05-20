@@ -1,7 +1,0 @@
-Name: ACINKLO
-Geburtstag: 25. Mai
-Medikamenteneinnahme: Ja
-Blutgruppe: 0
-Bekannte Allergien: Laktose, Gräser, Ketoprofen
-Ausweisnummer: 43562
-Ausstellungsland: Indonesien

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Wirbeltiere sind keine Kätzchen.
-- Einige Kätzchen sind Roboter.
-
-A) Einige Wirbeltiere sind keine Roboter.
-B) Alle Wirbeltiere sind keine Roboter.
-C) Alle Wirbeltiere sind Roboter.
-D) Einige Wirbeltiere sind Roboter.
-E) Keine der Schlussfolgerungen ist richtig.

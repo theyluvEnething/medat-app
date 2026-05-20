@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Smartphones sind Tomaten.
-- Einige Tomaten sind keine Schiffe.
-
-A) Einige Smartphones sind keine Schiffe.
-B) Einige Smartphones sind Schiffe.
-C) Alle Smartphones sind keine Schiffe.
-D) Alle Smartphones sind Schiffe.
-E) Keine der Schlussfolgerungen ist richtig.

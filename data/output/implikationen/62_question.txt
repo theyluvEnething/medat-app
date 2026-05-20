@@ -1,9 +1,0 @@
-Prämissen:
-- AlleTelefonesindAnrufe.
-- EinigeHandyssindTelefone.
-
-A) AlleAnrufesindHandys.
-B) AlleAnrufesindkeineHandys.
-C) EinigeAnrufesindHandys.
-D) EinigeAnrufesindkeineHandys.
-E) KeinederSchlussfolgerungenistrichtig.

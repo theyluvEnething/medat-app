@@ -1,7 +1,0 @@
-Zahlenfolge: 5 4 24 23 115 114 456 ? ?
-
-A) 464/1367
-B) 456/1358
-C) 1358/456
-D) 455/1362
-E) KeinederAntwortenistrichtig

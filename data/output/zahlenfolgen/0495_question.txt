@@ -1,7 +1,0 @@
-Zahlenfolge: -5 5 15 25 35 45 ? ?
-
-A) 64/73
-B) 65/75
-C) 66/74
-D) 63/74
-E) Keine der Antworten ist richtig

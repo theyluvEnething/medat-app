@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Uhren sind keine Radios.
-- Alle Radios sind Teleskope.
-
-A) Alle Uhren sind Teleskope.
-B) Einige Uhren sind keine Teleskope.
-C) Einige Uhren sind Teleskope.
-D) Alle Uhren sind keine Teleskope.
-E) Keine der Schlussfolgerungen ist richtig.

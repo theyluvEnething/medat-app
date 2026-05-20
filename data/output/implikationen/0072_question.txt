@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Möbel sind Züge.
-- Alle Züge sind keine Tabletten.
-
-A) Einige Möbel sind keine Tabletten.
-B) Alle Möbel sind Tabletten.
-C) Alle Möbel sind keine Tabletten.
-D) Einige Möbel sind Tabletten.
-E) Keine der Schlussfolgerungen ist richtig.

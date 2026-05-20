@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Wirbeltiere sind keine Säugetiere.
-- Alle Säugetiere sind keine Haie.
-
-A) Einige Wirbeltiere sind Haie.
-B) Alle Wirbeltiere sind keine Haie.
-C) Alle Wirbeltiere sind Haie.
-D) Einige Wirbeltiere sind keine Haie.
-E) Keine der Schlussfolgerungen ist richtig.

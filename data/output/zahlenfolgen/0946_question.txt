@@ -1,7 +1,0 @@
-Zahlenfolge: 3 5 10 18 29 43 ? ?
-
-A) 51/59
-B) 101/130
-C) 129/103
-D) 103/129
-E) Keine der Antworten ist richtig

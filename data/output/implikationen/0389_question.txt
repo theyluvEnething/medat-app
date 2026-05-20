@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Tabletten sind Hunde.
-- Einige Hunde sind keine Kätzchen.
-
-A) Alle Tabletten sind Kätzchen.
-B) Alle Tabletten sind keine Kätzchen.
-C) Einige Tabletten sind Kätzchen.
-D) Einige Tabletten sind keine Kätzchen.
-E) Keine der Schlussfolgerungen ist richtig.

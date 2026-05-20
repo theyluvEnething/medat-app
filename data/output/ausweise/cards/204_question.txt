@@ -1,7 +1,0 @@
-Name: LIFKOV
-Geburtstag: 3. März
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Baumwolle, Fruchtzucker
-Ausweisnummer: 00997
-Ausstellungsland: Madagaskar

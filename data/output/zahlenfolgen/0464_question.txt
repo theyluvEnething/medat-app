@@ -1,7 +1,0 @@
-Zahlenfolge: 18 0 14 9 10 18 ? ?
-
-A) 2/36
-B) 3/37
-C) 0/35
-D) 4/35
-E) Keine der Antworten ist richtig

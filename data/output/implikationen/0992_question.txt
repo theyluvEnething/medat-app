@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Amseln sind keine Mäuse.
-- Einige Mäuse sind Maler.
-
-A) Einige Amseln sind keine Maler.
-B) Alle Amseln sind keine Maler.
-C) Alle Amseln sind Maler.
-D) Einige Amseln sind Maler.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 3 2 6 5 15 14 ? ?
-
-A) 123/122
-B) 122/120
-C) 124/121
-D) 121/121
-E) Keine der Antworten ist richtig

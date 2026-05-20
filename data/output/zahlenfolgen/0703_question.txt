@@ -1,7 +1,0 @@
-Zahlenfolge: 21 -10 31 -19 41 -28 ? ?
-
-A) 63/-44
-B) 62/-47
-C) 61/-46
-D) 51/-56
-E) Keine der Antworten ist richtig

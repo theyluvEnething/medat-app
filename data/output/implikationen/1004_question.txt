@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Uhren sind keine Tabletten.
-- Alle Tabletten sind Zebras.
-
-A) Einige Uhren sind Zebras.
-B) Einige Uhren sind keine Zebras.
-C) Alle Uhren sind Zebras.
-D) Alle Uhren sind keine Zebras.
-E) Keine der Schlussfolgerungen ist richtig.

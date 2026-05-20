@@ -1,7 +1,0 @@
-Zahlenfolge: 73 79 83 89 97 101 ? ?
-
-A) 107/111
-B) 108/112
-C) 109/113
-D) 113/109
-E) Keine der Antworten ist richtig

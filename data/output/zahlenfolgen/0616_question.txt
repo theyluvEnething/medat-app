@@ -1,7 +1,0 @@
-Zahlenfolge: 19 17 36 53 89 142 ? ?
-
-A) 603/978
-B) 606/976
-C) 605/978
-D) 604/977
-E) Keine der Antworten ist richtig

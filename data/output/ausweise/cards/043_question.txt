@@ -1,7 +1,0 @@
-Name: KUZRMAN
-Geburtstag: 25. April
-Medikamenteneinnahme: Ja
-Blutgruppe: 0
-Bekannte Allergien: Kobalt
-Ausweisnummer: 75618
-Ausstellungsland: Cookinseln

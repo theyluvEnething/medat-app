@@ -1,7 +1,0 @@
-Name: JAVBOR
-Geburtstag: 11. Juni
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Latex, Kiwi, Ovalbumin
-Ausweisnummer: 86945
-Ausstellungsland: Angola

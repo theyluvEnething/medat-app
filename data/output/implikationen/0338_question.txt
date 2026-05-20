@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Lehrer sind Schauspieler.
-- Einige Schauspieler sind keine Skulpturen.
-
-A) Einige Lehrer sind keine Skulpturen.
-B) Alle Lehrer sind Skulpturen.
-C) Einige Lehrer sind Skulpturen.
-D) Alle Lehrer sind keine Skulpturen.
-E) Keine der Schlussfolgerungen ist richtig.

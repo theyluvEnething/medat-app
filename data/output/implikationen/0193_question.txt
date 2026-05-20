@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Mammute sind keine Taucher.
-- Alle Taucher sind keine Kupfer.
-
-A) Einige Mammute sind Kupfer.
-B) Einige Mammute sind keine Kupfer.
-C) Alle Mammute sind Kupfer.
-D) Alle Mammute sind keine Kupfer.
-E) Keine der Schlussfolgerungen ist richtig.

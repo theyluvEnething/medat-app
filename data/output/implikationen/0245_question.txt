@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Schiffe sind keine Chemiker.
-- Einige Chemiker sind Sänger.
-
-A) Alle Schiffe sind Sänger.
-B) Alle Schiffe sind keine Sänger.
-C) Einige Schiffe sind keine Sänger.
-D) Einige Schiffe sind Sänger.
-E) Keine der Schlussfolgerungen ist richtig.

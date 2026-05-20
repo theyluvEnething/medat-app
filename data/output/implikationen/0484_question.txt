@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Mäuse sind keine Bäume.
-- Einige Bäume sind keine Dinosaurier.
-
-A) Alle Mäuse sind keine Dinosaurier.
-B) Einige Mäuse sind Dinosaurier.
-C) Alle Mäuse sind Dinosaurier.
-D) Einige Mäuse sind keine Dinosaurier.
-E) Keine der Schlussfolgerungen ist richtig.

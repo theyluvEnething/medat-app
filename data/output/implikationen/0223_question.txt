@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Rosen sind Granite.
-- Einige Granite sind Politiker.
-
-A) Alle Rosen sind keine Politiker.
-B) Einige Rosen sind keine Politiker.
-C) Einige Rosen sind Politiker.
-D) Alle Rosen sind Politiker.
-E) Keine der Schlussfolgerungen ist richtig.

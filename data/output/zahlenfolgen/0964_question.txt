@@ -1,7 +1,0 @@
-Zahlenfolge: 17 18 35 53 88 141 ? ?
-
-A) 600/970
-B) 597/968
-C) 599/969
-D) 165/189
-E) Keine der Antworten ist richtig

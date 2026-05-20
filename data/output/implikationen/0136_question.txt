@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Roboter sind keine Skulpturen.
-- Alle Skulpturen sind Gräser.
-
-A) Alle Roboter sind keine Gräser.
-B) Alle Roboter sind Gräser.
-C) Einige Roboter sind Gräser.
-D) Einige Roboter sind keine Gräser.
-E) Keine der Schlussfolgerungen ist richtig.

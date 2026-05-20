@@ -1,7 +1,0 @@
-Name: WALTROM
-Geburtstag: 15. Juli
-Medikamenteneinnahme: Ja
-Blutgruppe: AB
-Bekannte Allergien: Kaninchen
-Ausweisnummer: 80664
-Ausstellungsland: Bhutan

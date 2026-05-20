@@ -1,7 +1,0 @@
-Zahlenfolge: 49 58 67 76 85 94 ? ?
-
-A) 112/121
-B) 188/197
-C) 111/123
-D) 113/123
-E) Keine der Antworten ist richtig

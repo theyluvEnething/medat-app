@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Elektroautos sind Flüsse.
-- Einige Flüsse sind keine Kätzchen.
-
-A) Alle Elektroautos sind keine Kätzchen.
-B) Alle Elektroautos sind Kätzchen.
-C) Einige Elektroautos sind Kätzchen.
-D) Einige Elektroautos sind keine Kätzchen.
-E) Keine der Schlussfolgerungen ist richtig.

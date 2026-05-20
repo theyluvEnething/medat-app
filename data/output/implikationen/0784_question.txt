@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Marder sind keine Kätzchen.
-- Alle Kätzchen sind Wale.
-
-A) Alle Marder sind Wale.
-B) Einige Marder sind keine Wale.
-C) Alle Marder sind keine Wale.
-D) Einige Marder sind Wale.
-E) Keine der Schlussfolgerungen ist richtig.

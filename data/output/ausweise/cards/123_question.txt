@@ -1,7 +1,0 @@
-Name: HUNDROM
-Geburtstag: 16. Februar
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Chinin, Schweinefleisch
-Ausweisnummer: 14897
-Ausstellungsland: Lettland

@@ -1,7 +1,0 @@
-Zahlenfolge: 5 4 9 13 22 35 ? ?
-
-A) 151/240
-B) 155/247
-C) 149/241
-D) 147/242
-E) Keine der Antworten ist richtig

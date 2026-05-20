@@ -1,9 +1,0 @@
-Prämissen:
-- EinigeVGFsindFNC.
-- AlleFNCsindCCN.
-
-A) AlleCCNsindVGF.
-B) AlleCCNsindkeineVGF.
-C) EinigeCCNsindVGF.
-D) EinigeCCNsindkeineVGF.
-E) KeinederSchlussfolgerungenistrichtig.

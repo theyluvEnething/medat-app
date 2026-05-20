@@ -1,7 +1,0 @@
-WielautetdieAusweisnummerderPerson mitdemNamenUMSHAU?
-
-A) 81942
-B) 23612
-C) 68213
-D) 32771
-E) KeinederAntwortenistrichtig

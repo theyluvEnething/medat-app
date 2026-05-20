@@ -1,7 +1,0 @@
-Name: PLAUVUM
-Geburtstag: 27. März
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Sellerie
-Ausweisnummer: 79356
-Ausstellungsland: Abchasien

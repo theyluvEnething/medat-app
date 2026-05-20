@@ -1,7 +1,0 @@
-Zahlenfolge: 42 36 78 72 150 144 294 ? ?
-
-A) 302/576
-B) 593/302
-C) 318/576
-D) 311/582
-E) KeinederAntwortenistrichtig

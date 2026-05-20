@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Roboter sind keine Spatzen.
-- Alle Spatzen sind Fische.
-
-A) Einige Roboter sind Fische.
-B) Alle Roboter sind keine Fische.
-C) Einige Roboter sind keine Fische.
-D) Alle Roboter sind Fische.
-E) Keine der Schlussfolgerungen ist richtig.

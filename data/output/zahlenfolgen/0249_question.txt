@@ -1,7 +1,0 @@
-Zahlenfolge: 1 3 9 11 33 35 ? ?
-
-A) 320/324
-B) 319/324
-C) 321/323
-D) 320/322
-E) Keine der Antworten ist richtig

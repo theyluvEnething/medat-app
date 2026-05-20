@@ -1,7 +1,0 @@
-Name: REDMOS
-Geburtstag: 9. Mai
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Vanille, Thiomersal
-Ausweisnummer: 96599
-Ausstellungsland: Swasiland

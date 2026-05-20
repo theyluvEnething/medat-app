@@ -1,7 +1,0 @@
-Name: JUGNER
-Geburtstag: 4. August
-Medikamenteneinnahme: Nein
-Blutgruppe: 0
-Bekannte Allergien: Oxaceprol, Mais,
-Ausweisnummer: 73923
-Ausstellungsland: Osttimor

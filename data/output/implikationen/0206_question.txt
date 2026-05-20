@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Marder sind Hunde.
-- Alle Hunde sind Fische.
-
-A) Einige Marder sind keine Fische.
-B) Einige Marder sind Fische.
-C) Alle Marder sind Fische.
-D) Alle Marder sind keine Fische.
-E) Keine der Schlussfolgerungen ist richtig.

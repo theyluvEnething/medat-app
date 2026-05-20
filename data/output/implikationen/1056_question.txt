@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Orchideen sind Gräser.
-- Alle Gräser sind keine Musikinstrumente.
-
-A) Alle Orchideen sind keine Musikinstrumente.
-B) Alle Orchideen sind Musikinstrumente.
-C) Einige Orchideen sind Musikinstrumente.
-D) Einige Orchideen sind keine Musikinstrumente.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Bäume sind Glühbirnen.
-- Einige Glühbirnen sind Kupfer.
-
-A) Alle Bäume sind keine Kupfer.
-B) Alle Bäume sind Kupfer.
-C) Einige Bäume sind keine Kupfer.
-D) Einige Bäume sind Kupfer.
-E) Keine der Schlussfolgerungen ist richtig.

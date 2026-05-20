@@ -1,7 +1,0 @@
-Zahlenfolge: 18 19 57 58 174 175 ? ?
-
-A) 1580/1578
-B) 1578/1579
-C) 1577/1581
-D) 1579/1577
-E) Keine der Antworten ist richtig

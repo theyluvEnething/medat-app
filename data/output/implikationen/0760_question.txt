@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Metalle sind keine Eichen.
-- Alle Eichen sind Häuser.
-
-A) Einige Metalle sind keine Häuser.
-B) Einige Metalle sind Häuser.
-C) Alle Metalle sind keine Häuser.
-D) Alle Metalle sind Häuser.
-E) Keine der Schlussfolgerungen ist richtig.

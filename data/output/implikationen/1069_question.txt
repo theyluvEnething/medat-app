@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Tomaten sind Smartphones.
-- Alle Smartphones sind keine Schriftsteller.
-
-A) Alle Tomaten sind keine Schriftsteller.
-B) Einige Tomaten sind Schriftsteller.
-C) Einige Tomaten sind keine Schriftsteller.
-D) Alle Tomaten sind Schriftsteller.
-E) Keine der Schlussfolgerungen ist richtig.

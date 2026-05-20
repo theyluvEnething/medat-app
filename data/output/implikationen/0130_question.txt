@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Werkzeuge sind keine Rosen.
-- Einige Rosen sind Vulkane.
-
-A) Einige Werkzeuge sind Vulkane.
-B) Alle Werkzeuge sind keine Vulkane.
-C) Alle Werkzeuge sind Vulkane.
-D) Einige Werkzeuge sind keine Vulkane.
-E) Keine der Schlussfolgerungen ist richtig.

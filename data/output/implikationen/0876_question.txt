@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Schauspieler sind Radios.
-- Einige Radios sind Autos.
-
-A) Alle Schauspieler sind keine Autos.
-B) Einige Schauspieler sind Autos.
-C) Einige Schauspieler sind keine Autos.
-D) Alle Schauspieler sind Autos.
-E) Keine der Schlussfolgerungen ist richtig.

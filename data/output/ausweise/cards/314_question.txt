@@ -1,7 +1,0 @@
-Name: GRUDBAND
-Geburtstag: 27. Dezember
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Mückenstiche
-Ausweisnummer: 06835
-Ausstellungsland: Togo

@@ -1,7 +1,0 @@
-Name: SPOLTI
-Geburtstag: 19. Januar
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Kiwi, Gluten, Edelkastanie
-Ausweisnummer: 23688
-Ausstellungsland: Serbien

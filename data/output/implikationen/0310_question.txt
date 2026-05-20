@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Werkzeuge sind Krokodile.
-- Alle Krokodile sind keine Gedichte.
-
-A) Alle Werkzeuge sind Gedichte.
-B) Alle Werkzeuge sind keine Gedichte.
-C) Einige Werkzeuge sind keine Gedichte.
-D) Einige Werkzeuge sind Gedichte.
-E) Keine der Schlussfolgerungen ist richtig.

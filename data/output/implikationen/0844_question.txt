@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Tulpen sind keine Türen.
-- Alle Türen sind Kupfer.
-
-A) Alle Tulpen sind Kupfer.
-B) Einige Tulpen sind Kupfer.
-C) Alle Tulpen sind keine Kupfer.
-D) Einige Tulpen sind keine Kupfer.
-E) Keine der Schlussfolgerungen ist richtig.

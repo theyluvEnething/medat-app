@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Werkzeuge sind keine Delfine.
-- Alle Delfine sind Türen.
-
-A) Einige Werkzeuge sind Türen.
-B) Einige Werkzeuge sind keine Türen.
-C) Alle Werkzeuge sind Türen.
-D) Alle Werkzeuge sind keine Türen.
-E) Keine der Schlussfolgerungen ist richtig.

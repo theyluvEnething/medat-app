@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Telefone sind Türen.
-- Alle Türen sind Tabletten.
-
-A) Alle Telefone sind keine Tabletten.
-B) Alle Telefone sind Tabletten.
-C) Einige Telefone sind Tabletten.
-D) Einige Telefone sind keine Tabletten.
-E) Keine der Schlussfolgerungen ist richtig.

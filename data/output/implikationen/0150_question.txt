@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Granite sind Insekten.
-- Einige Insekten sind keine Mammute.
-
-A) Alle Granite sind keine Mammute.
-B) Einige Granite sind Mammute.
-C) Alle Granite sind Mammute.
-D) Einige Granite sind keine Mammute.
-E) Keine der Schlussfolgerungen ist richtig.

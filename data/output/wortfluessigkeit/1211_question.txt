@@ -1,7 +1,0 @@
-Buchstabenreihe: R K L F F T A O E
-
-A) K
-B) O
-C) E
-D) F
-E) KeinederAntwortenistrichtig

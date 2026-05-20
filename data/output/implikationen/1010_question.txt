@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Quartette sind keine Roboter.
-- Alle Roboter sind Gemälde.
-
-A) Einige Quartette sind Gemälde.
-B) Alle Quartette sind Gemälde.
-C) Einige Quartette sind keine Gemälde.
-D) Alle Quartette sind keine Gemälde.
-E) Keine der Schlussfolgerungen ist richtig.

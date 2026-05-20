@@ -1,7 +1,0 @@
-Name: JASKOX
-Geburtstag: 18. März
-Medikamenteneinnahme: Ja
-Blutgruppe: AB
-Bekannte Allergien: Schwefeldioxid
-Ausweisnummer: 42666
-Ausstellungsland: Kasachstan

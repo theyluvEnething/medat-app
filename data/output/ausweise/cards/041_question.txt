@@ -1,7 +1,0 @@
-Name: ZUBONS
-Geburtstag: 2. Februar
-Medikamenteneinnahme: Ja
-Blutgruppe: 0
-Bekannte Allergien: Zirkonium, Phosphate,
-Ausweisnummer: 18481
-Ausstellungsland: Sri Lanka

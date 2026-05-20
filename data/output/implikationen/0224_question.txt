@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Schauspieler sind Delfine.
-- Alle Delfine sind keine Stühle.
-
-A) Einige Schauspieler sind Stühle.
-B) Einige Schauspieler sind keine Stühle.
-C) Alle Schauspieler sind Stühle.
-D) Alle Schauspieler sind keine Stühle.
-E) Keine der Schlussfolgerungen ist richtig.

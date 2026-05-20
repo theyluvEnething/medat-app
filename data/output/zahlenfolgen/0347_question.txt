@@ -1,7 +1,0 @@
-Zahlenfolge: 10 15 23 34 48 65 ? ?
-
-A) 132/162
-B) 130/141
-C) 134/163
-D) 133/161
-E) Keine der Antworten ist richtig

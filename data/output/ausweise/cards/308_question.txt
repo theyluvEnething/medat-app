@@ -1,7 +1,0 @@
-Name: IXIBAK
-Geburtstag: 9. September
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Kohlensäure, Rispengras,
-Ausweisnummer: 13957
-Ausstellungsland: Island

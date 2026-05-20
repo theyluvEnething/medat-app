@@ -1,7 +1,0 @@
-Zahlenfolge: 82 28 33 33 38 83 ? ?
-
-A) 92/40
-B) 94/37
-C) 39/93
-D) 93/39
-E) Keine der Antworten ist richtig

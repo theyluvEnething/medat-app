@@ -1,7 +1,0 @@
-Name: GILTONS
-Geburtstag: 22. März
-Medikamenteneinnahme: Nein
-Blutgruppe: B
-Bekannte Allergien: Pistazien, Meerschweinchen
-Ausweisnummer: 93115
-Ausstellungsland: Grenada

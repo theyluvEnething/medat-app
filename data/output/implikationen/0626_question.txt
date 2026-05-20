@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Hunde sind Amphibien.
-- Alle Amphibien sind Wirbeltiere.
-
-A) Alle Hunde sind Wirbeltiere.
-B) Einige Hunde sind keine Wirbeltiere.
-C) Einige Hunde sind Wirbeltiere.
-D) Alle Hunde sind keine Wirbeltiere.
-E) Keine der Schlussfolgerungen ist richtig.

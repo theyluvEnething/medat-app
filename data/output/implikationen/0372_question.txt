@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Kätzchen sind Dichter.
-- Einige Dichter sind Statuen.
-
-A) Alle Kätzchen sind Statuen.
-B) Einige Kätzchen sind keine Statuen.
-C) Einige Kätzchen sind Statuen.
-D) Alle Kätzchen sind keine Statuen.
-E) Keine der Schlussfolgerungen ist richtig.

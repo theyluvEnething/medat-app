@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Anwälte sind Möbel.
-- Einige Möbel sind keine Wölfe.
-
-A) Einige Anwälte sind keine Wölfe.
-B) Einige Anwälte sind Wölfe.
-C) Alle Anwälte sind Wölfe.
-D) Alle Anwälte sind keine Wölfe.
-E) Keine der Schlussfolgerungen ist richtig.

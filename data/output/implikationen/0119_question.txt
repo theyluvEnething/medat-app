@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Stühle sind Wirbeltiere.
-- Alle Wirbeltiere sind keine Tannen.
-
-A) Alle Stühle sind keine Tannen.
-B) Einige Stühle sind Tannen.
-C) Alle Stühle sind Tannen.
-D) Einige Stühle sind keine Tannen.
-E) Keine der Schlussfolgerungen ist richtig.

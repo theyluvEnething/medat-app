@@ -1,7 +1,0 @@
-Zahlenfolge: 1 24 2 27 3 30 ? ?
-
-A) 35/40
-B) 36/5
-C) 3/35
-D) 5/36
-E) Keine der Antworten ist richtig

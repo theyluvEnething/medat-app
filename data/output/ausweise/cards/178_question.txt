@@ -1,7 +1,0 @@
-Name: KROMPAS
-Geburtstag: 3. Januar
-Medikamenteneinnahme: Ja
-Blutgruppe: 0
-Bekannte Allergien: Meeresfrüchte, Rindfleisch,
-Ausweisnummer: 41817
-Ausstellungsland: Lesotho

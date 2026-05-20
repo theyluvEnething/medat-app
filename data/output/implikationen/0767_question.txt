@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Vegetarier sind Schlangen.
-- Alle Schlangen sind Haie.
-
-A) Einige Vegetarier sind Haie.
-B) Alle Vegetarier sind Haie.
-C) Alle Vegetarier sind keine Haie.
-D) Einige Vegetarier sind keine Haie.
-E) Keine der Schlussfolgerungen ist richtig.

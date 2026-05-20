@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Kupfer sind Quallen.
-- Einige Quallen sind Dinosaurier.
-
-A) Einige Kupfer sind Dinosaurier.
-B) Alle Kupfer sind keine Dinosaurier.
-C) Einige Kupfer sind keine Dinosaurier.
-D) Alle Kupfer sind Dinosaurier.
-E) Keine der Schlussfolgerungen ist richtig.

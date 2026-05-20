@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Kätzchen sind Delfine.
-- Alle Delfine sind Dichter.
-
-A) Einige Kätzchen sind Dichter.
-B) Einige Kätzchen sind keine Dichter.
-C) Alle Kätzchen sind keine Dichter.
-D) Alle Kätzchen sind Dichter.
-E) Keine der Schlussfolgerungen ist richtig.

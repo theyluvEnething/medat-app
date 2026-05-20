@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Schlangen sind Nashörner.
-- Alle Nashörner sind keine Bäume.
-
-A) Einige Schlangen sind Bäume.
-B) Alle Schlangen sind keine Bäume.
-C) Einige Schlangen sind keine Bäume.
-D) Alle Schlangen sind Bäume.
-E) Keine der Schlussfolgerungen ist richtig.

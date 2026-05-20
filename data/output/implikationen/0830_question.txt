@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Lehrer sind Kupfer.
-- Alle Kupfer sind keine Rosen.
-
-A) Alle Lehrer sind keine Rosen.
-B) Einige Lehrer sind keine Rosen.
-C) Einige Lehrer sind Rosen.
-D) Alle Lehrer sind Rosen.
-E) Keine der Schlussfolgerungen ist richtig.

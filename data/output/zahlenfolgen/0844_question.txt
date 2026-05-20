@@ -1,7 +1,0 @@
-Zahlenfolge: 10 11 14 19 26 35 ? ?
-
-A) 73/89
-B) 75/92
-C) 74/91
-D) 72/93
-E) Keine der Antworten ist richtig

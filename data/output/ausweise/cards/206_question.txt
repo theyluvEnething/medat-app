@@ -1,7 +1,0 @@
-Name: OXIKIDO
-Geburtstag: 19. Juni
-Medikamenteneinnahme: Ja
-Blutgruppe: 0
-Bekannte Allergien: Nickel
-Ausweisnummer: 36124
-Ausstellungsland: Sambia

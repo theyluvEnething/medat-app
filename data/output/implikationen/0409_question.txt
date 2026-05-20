@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Tannen sind keine Radios.
-- Alle Radios sind keine Vögel.
-
-A) Einige Tannen sind Vögel.
-B) Einige Tannen sind keine Vögel.
-C) Alle Tannen sind keine Vögel.
-D) Alle Tannen sind Vögel.
-E) Keine der Schlussfolgerungen ist richtig.

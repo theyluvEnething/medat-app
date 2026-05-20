@@ -1,7 +1,0 @@
-Name: DANVAN
-Geburtstag: 16. Juli
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Dinkel, Kefir
-Ausweisnummer: 71874
-Ausstellungsland: Lettland

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Amphibien sind keine Wölfe.
-- Einige Wölfe sind Menschen.
-
-A) Einige Amphibien sind keine Menschen.
-B) Einige Amphibien sind Menschen.
-C) Alle Amphibien sind keine Menschen.
-D) Alle Amphibien sind Menschen.
-E) Keine der Schlussfolgerungen ist richtig.

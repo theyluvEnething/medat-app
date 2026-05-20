@@ -1,7 +1,0 @@
-Zahlenfolge: 26 12 -2 -16 -30 -44 ? ?
-
-A) -71/-84
-B) -70/-88
-C) -74/-85
-D) -72/-86
-E) Keine der Antworten ist richtig

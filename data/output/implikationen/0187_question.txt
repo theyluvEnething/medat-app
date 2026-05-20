@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Tomaten sind Fotografen.
-- Einige Fotografen sind keine Tiger.
-
-A) Alle Tomaten sind keine Tiger.
-B) Einige Tomaten sind keine Tiger.
-C) Einige Tomaten sind Tiger.
-D) Alle Tomaten sind Tiger.
-E) Keine der Schlussfolgerungen ist richtig.

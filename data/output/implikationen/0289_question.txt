@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Diamanten sind Rosen.
-- Alle Rosen sind keine Ärzte.
-
-A) Einige Diamanten sind keine Ärzte.
-B) Einige Diamanten sind Ärzte.
-C) Alle Diamanten sind keine Ärzte.
-D) Alle Diamanten sind Ärzte.
-E) Keine der Schlussfolgerungen ist richtig.

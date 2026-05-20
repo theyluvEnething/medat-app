@@ -1,7 +1,0 @@
-Zahlenfolge: -9 6 1 15 11 24 ? ?
-
-A) 33/41
-B) 48/54
-C) 31/42
-D) 29/41
-E) Keine der Antworten ist richtig

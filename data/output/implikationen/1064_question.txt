@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Nashörner sind keine Taucher.
-- Alle Taucher sind Haie.
-
-A) Alle Nashörner sind keine Haie.
-B) Einige Nashörner sind Haie.
-C) Alle Nashörner sind Haie.
-D) Einige Nashörner sind keine Haie.
-E) Keine der Schlussfolgerungen ist richtig.

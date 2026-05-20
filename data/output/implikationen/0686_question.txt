@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Wölfe sind Chemiker.
-- Einige Chemiker sind Pandas.
-
-A) Alle Wölfe sind Pandas.
-B) Alle Wölfe sind keine Pandas.
-C) Einige Wölfe sind Pandas.
-D) Einige Wölfe sind keine Pandas.
-E) Keine der Schlussfolgerungen ist richtig.

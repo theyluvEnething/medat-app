@@ -1,7 +1,0 @@
-Name: PROCMAS
-Geburtstag: 5. Dezember
-Medikamenteneinnahme: Nein
-Blutgruppe: B
-Bekannte Allergien: Grapefruit, Kaninchen
-Ausweisnummer: 83472
-Ausstellungsland: Deutschland

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Giraffen sind Schiffe.
-- Einige Schiffe sind keine Chemiker.
-
-A) Alle Giraffen sind Chemiker.
-B) Einige Giraffen sind keine Chemiker.
-C) Einige Giraffen sind Chemiker.
-D) Alle Giraffen sind keine Chemiker.
-E) Keine der Schlussfolgerungen ist richtig.

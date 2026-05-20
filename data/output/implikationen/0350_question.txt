@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Quallen sind Wirbeltiere.
-- Alle Wirbeltiere sind keine Mathematiker.
-
-A) Einige Quallen sind keine Mathematiker.
-B) Alle Quallen sind Mathematiker.
-C) Alle Quallen sind keine Mathematiker.
-D) Einige Quallen sind Mathematiker.
-E) Keine der Schlussfolgerungen ist richtig.

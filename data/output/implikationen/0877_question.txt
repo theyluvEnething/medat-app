@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Giraffen sind keine Schlangen.
-- Einige Schlangen sind keine Krokodile.
-
-A) Einige Giraffen sind keine Krokodile.
-B) Einige Giraffen sind Krokodile.
-C) Alle Giraffen sind keine Krokodile.
-D) Alle Giraffen sind Krokodile.
-E) Keine der Schlussfolgerungen ist richtig.

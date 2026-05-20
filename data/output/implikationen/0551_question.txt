@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Haie sind keine Kätzchen.
-- Alle Kätzchen sind Orchideen.
-
-A) Einige Haie sind Orchideen.
-B) Alle Haie sind Orchideen.
-C) Alle Haie sind keine Orchideen.
-D) Einige Haie sind keine Orchideen.
-E) Keine der Schlussfolgerungen ist richtig.

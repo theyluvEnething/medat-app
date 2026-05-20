@@ -1,7 +1,0 @@
-Zahlenfolge: 3 8 16 21 42 47 ? ?
-
-A) 200/205
-B) 198/203
-C) 199/205
-D) 196/205
-E) Keine der Antworten ist richtig

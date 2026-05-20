@@ -1,7 +1,0 @@
-Buchstabenreihe: I H L M E M
-
-A) I
-B) L
-C) M
-D) H
-E) KeinederAntwortenistrichtig

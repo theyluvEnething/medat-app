@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Sportler sind Gemälde.
-- Alle Gemälde sind keine Mäuse.
-
-A) Einige Sportler sind keine Mäuse.
-B) Alle Sportler sind Mäuse.
-C) Einige Sportler sind Mäuse.
-D) Alle Sportler sind keine Mäuse.
-E) Keine der Schlussfolgerungen ist richtig.

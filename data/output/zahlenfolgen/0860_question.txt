@@ -1,7 +1,0 @@
-Zahlenfolge: 28 30 33 37 42 48 ? ?
-
-A) 71/81
-B) 72/82
-C) 73/83
-D) 73/84
-E) Keine der Antworten ist richtig

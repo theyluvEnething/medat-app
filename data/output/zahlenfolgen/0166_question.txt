@@ -1,7 +1,0 @@
-Zahlenfolge: 27 81 243 729 2187 6561 ? ?
-
-A) 59047/177145
-B) 59050/177148
-C) 59049/177147
-D) 59051/177148
-E) Keine der Antworten ist richtig

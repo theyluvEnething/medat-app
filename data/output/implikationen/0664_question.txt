@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Quartette sind keine Radios.
-- Alle Radios sind keine Fische.
-
-A) Alle Quartette sind keine Fische.
-B) Einige Quartette sind Fische.
-C) Alle Quartette sind Fische.
-D) Einige Quartette sind keine Fische.
-E) Keine der Schlussfolgerungen ist richtig.

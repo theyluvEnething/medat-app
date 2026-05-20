@@ -1,7 +1,0 @@
-Name: HOLDROP
-Geburtstag: 5. Oktober
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Gluten
-Ausweisnummer: 48650
-Ausstellungsland: Malaysia

@@ -1,7 +1,0 @@
-Name: AXTIPOR
-Geburtstag: 7. Juli
-Medikamenteneinnahme: Ja
-Blutgruppe: 0
-Bekannte Allergien: Textilien, Amaranth,
-Ausweisnummer: 22343
-Ausstellungsland: Mexiko

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Schlangen sind Tomaten.
-- Alle Tomaten sind Wissenschaftler.
-
-A) Alle Schlangen sind Wissenschaftler.
-B) Einige Schlangen sind keine Wissenschaftler.
-C) Alle Schlangen sind keine Wissenschaftler.
-D) Einige Schlangen sind Wissenschaftler.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Elektroautos sind Statuen.
-- Alle Statuen sind keine Säugetiere.
-
-A) Einige Elektroautos sind Säugetiere.
-B) Alle Elektroautos sind Säugetiere.
-C) Alle Elektroautos sind keine Säugetiere.
-D) Einige Elektroautos sind keine Säugetiere.
-E) Keine der Schlussfolgerungen ist richtig.

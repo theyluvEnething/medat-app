@@ -1,7 +1,0 @@
-Buchstabenreihe: A E I S S P R E S
-
-A) A
-B) R
-C) I
-D) P
-E) KeinederAntwortenistrichtig

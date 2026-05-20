@@ -1,7 +1,0 @@
-Name: XREDNOI
-Geburtstag: 12. Juli
-Medikamenteneinnahme: Nein
-Blutgruppe: B
-Bekannte Allergien: Teebaumöl
-Ausweisnummer: 49334
-Ausstellungsland: Guyana

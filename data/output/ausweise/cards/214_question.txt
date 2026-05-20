@@ -1,7 +1,0 @@
-Name: ARLDIZ
-Geburtstag: 25. April
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Thiomersal, Kobalt
-Ausweisnummer: 26188
-Ausstellungsland: Vereinigte Staaten

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Uhren sind keine Kätzchen.
-- Einige Kätzchen sind keine Orchideen.
-
-A) Einige Uhren sind Orchideen.
-B) Alle Uhren sind keine Orchideen.
-C) Alle Uhren sind Orchideen.
-D) Einige Uhren sind keine Orchideen.
-E) Keine der Schlussfolgerungen ist richtig.

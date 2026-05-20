@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Tiger sind Klaviere.
-- Einige Klaviere sind Musikinstrumente.
-
-A) Einige Tiger sind keine Musikinstrumente.
-B) Alle Tiger sind Musikinstrumente.
-C) Alle Tiger sind keine Musikinstrumente.
-D) Einige Tiger sind Musikinstrumente.
-E) Keine der Schlussfolgerungen ist richtig.

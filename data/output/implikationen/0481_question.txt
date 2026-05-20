@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Werkzeuge sind keine Flugzeuge.
-- Einige Flugzeuge sind keine Schauspieler.
-
-A) Einige Werkzeuge sind keine Schauspieler.
-B) Alle Werkzeuge sind Schauspieler.
-C) Alle Werkzeuge sind keine Schauspieler.
-D) Einige Werkzeuge sind Schauspieler.
-E) Keine der Schlussfolgerungen ist richtig.

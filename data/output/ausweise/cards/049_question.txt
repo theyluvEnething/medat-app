@@ -1,7 +1,0 @@
-Name: NEZHUKS
-Geburtstag: 18. Dezember
-Medikamenteneinnahme: Nein
-Blutgruppe: B
-Bekannte Allergien: Glukosesirup
-Ausweisnummer: 16443
-Ausstellungsland: Sri Lanka

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Amphibien sind keine Tabletten.
-- Alle Tabletten sind keine Schriftsteller.
-
-A) Alle Amphibien sind keine Schriftsteller.
-B) Einige Amphibien sind Schriftsteller.
-C) Einige Amphibien sind keine Schriftsteller.
-D) Alle Amphibien sind Schriftsteller.
-E) Keine der Schlussfolgerungen ist richtig.

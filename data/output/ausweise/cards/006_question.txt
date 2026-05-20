@@ -1,7 +1,0 @@
-Name: BROSKIN
-Geburtstag: 23. Januar
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Joghurt
-Ausweisnummer: 40240
-Ausstellungsland: Philippinen

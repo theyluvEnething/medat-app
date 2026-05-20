@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Amseln sind Menschen.
-- Alle Menschen sind keine Blumen.
-
-A) Einige Amseln sind keine Blumen.
-B) Einige Amseln sind Blumen.
-C) Alle Amseln sind keine Blumen.
-D) Alle Amseln sind Blumen.
-E) Keine der Schlussfolgerungen ist richtig.

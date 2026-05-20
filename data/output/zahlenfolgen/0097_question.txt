@@ -1,7 +1,0 @@
-Zahlenfolge: 43 36 29 22 15 8 ? ?
-
-A) -4/-14
-B) -5/-12
-C) -7/-15
-D) -6/-13
-E) Keine der Antworten ist richtig

@@ -1,7 +1,0 @@
-Name: TILBOMI
-Geburtstag: 12. März
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Kiefer, Bananen, Thunfisch
-Ausweisnummer: 40018
-Ausstellungsland: Kiribati

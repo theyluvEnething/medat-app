@@ -1,7 +1,0 @@
-Zahlenfolge: 1 2 4 8 16 32 ? ?
-
-A) 130/258
-B) 256/128
-C) 38/44
-D) 128/256
-E) Keine der Antworten ist richtig

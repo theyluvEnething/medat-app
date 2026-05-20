@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Kätzchen sind Ärzte.
-- Alle Ärzte sind Mammute.
-
-A) Alle Kätzchen sind keine Mammute.
-B) Einige Kätzchen sind Mammute.
-C) Einige Kätzchen sind keine Mammute.
-D) Alle Kätzchen sind Mammute.
-E) Keine der Schlussfolgerungen ist richtig.

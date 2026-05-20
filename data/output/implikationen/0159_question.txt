@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Wissenschaftler sind keine Sänger.
-- Alle Sänger sind keine Kätzchen.
-
-A) Einige Wissenschaftler sind keine Kätzchen.
-B) Alle Wissenschaftler sind Kätzchen.
-C) Einige Wissenschaftler sind Kätzchen.
-D) Alle Wissenschaftler sind keine Kätzchen.
-E) Keine der Schlussfolgerungen ist richtig.

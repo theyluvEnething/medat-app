@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Autos sind Ärzte.
-- Alle Ärzte sind Wissenschaftler.
-
-A) Alle Autos sind keine Wissenschaftler.
-B) Alle Autos sind Wissenschaftler.
-C) Einige Autos sind Wissenschaftler.
-D) Einige Autos sind keine Wissenschaftler.
-E) Keine der Schlussfolgerungen ist richtig.

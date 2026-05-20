@@ -1,7 +1,0 @@
-Zahlenfolge: -15 -11 -7 -3 1 5 ? ?
-
-A) 15/18
-B) 14/19
-C) 13/17
-D) 17/13
-E) Keine der Antworten ist richtig

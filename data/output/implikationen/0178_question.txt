@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Vulkane sind Ingenieure.
-- Einige Ingenieure sind keine Metalle.
-
-A) Einige Vulkane sind Metalle.
-B) Alle Vulkane sind Metalle.
-C) Alle Vulkane sind keine Metalle.
-D) Einige Vulkane sind keine Metalle.
-E) Keine der Schlussfolgerungen ist richtig.

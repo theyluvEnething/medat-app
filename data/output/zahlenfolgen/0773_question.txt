@@ -1,7 +1,0 @@
-Zahlenfolge: 1 2 4 8 16 32 ? ?
-
-A) 256/512
-B) 258/513
-C) 254/510
-D) 254/514
-E) Keine der Antworten ist richtig

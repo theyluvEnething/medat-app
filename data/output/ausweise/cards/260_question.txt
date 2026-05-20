@@ -1,7 +1,0 @@
-Name: SUPRANDO
-Geburtstag: 9. November
-Medikamenteneinnahme: Nein
-Blutgruppe: A
-Bekannte Allergien: Bananen, Ulme, Käse
-Ausweisnummer: 43302
-Ausstellungsland: Mali

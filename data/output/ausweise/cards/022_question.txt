@@ -1,7 +1,0 @@
-Name: NOPLAS
-Geburtstag: 23. Februar
-Medikamenteneinnahme: Ja
-Blutgruppe: 0
-Bekannte Allergien: Milchzucker, Hummer
-Ausweisnummer: 75579
-Ausstellungsland: Katar

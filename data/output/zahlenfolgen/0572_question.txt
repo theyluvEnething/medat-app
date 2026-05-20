@@ -1,7 +1,0 @@
-Zahlenfolge: -1 1 4 8 13 19 ? ?
-
-A) 23/27
-B) 43/53
-C) 42/54
-D) 45/55
-E) Keine der Antworten ist richtig

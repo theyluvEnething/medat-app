@@ -1,7 +1,0 @@
-Name: INHAUS
-Geburtstag: 14. August
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Rapsöl
-Ausweisnummer: 18405
-Ausstellungsland: Uruguay

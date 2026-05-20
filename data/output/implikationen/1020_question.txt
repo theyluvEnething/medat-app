@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Schauspieler sind Quallen.
-- Alle Quallen sind Tiger.
-
-A) Einige Schauspieler sind Tiger.
-B) Alle Schauspieler sind Tiger.
-C) Einige Schauspieler sind keine Tiger.
-D) Alle Schauspieler sind keine Tiger.
-E) Keine der Schlussfolgerungen ist richtig.

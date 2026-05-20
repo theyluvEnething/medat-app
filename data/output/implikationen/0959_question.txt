@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Eidechsen sind keine Vögel.
-- Alle Vögel sind keine Quartette.
-
-A) Alle Eidechsen sind keine Quartette.
-B) Einige Eidechsen sind Quartette.
-C) Alle Eidechsen sind Quartette.
-D) Einige Eidechsen sind keine Quartette.
-E) Keine der Schlussfolgerungen ist richtig.

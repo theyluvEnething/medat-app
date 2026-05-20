@@ -1,7 +1,0 @@
-Zahlenfolge: 1 -13 -1 -15 7 -7 25 ? ?
-
-A) 11/53
-B) 20/29
-C) 19/29
-D) 0/53
-E) KeinederAntwortenistrichtig

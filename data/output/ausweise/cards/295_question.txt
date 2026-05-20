@@ -1,7 +1,0 @@
-Name: BORXINT
-Geburtstag: 24. Juni
-Medikamenteneinnahme: Ja
-Blutgruppe: 0
-Bekannte Allergien: Bienenstich
-Ausweisnummer: 19167
-Ausstellungsland: Dominikanische Republik

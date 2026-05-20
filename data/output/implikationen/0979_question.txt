@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Häuser sind keine Eichen.
-- Alle Eichen sind keine Nashörner.
-
-A) Einige Häuser sind keine Nashörner.
-B) Alle Häuser sind Nashörner.
-C) Einige Häuser sind Nashörner.
-D) Alle Häuser sind keine Nashörner.
-E) Keine der Schlussfolgerungen ist richtig.

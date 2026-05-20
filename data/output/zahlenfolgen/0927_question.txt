@@ -1,7 +1,0 @@
-Zahlenfolge: 41 31 21 11 1 -9 ? ?
-
-A) -30/-40
-B) -28/-41
-C) -29/-39
-D) -31/-37
-E) Keine der Antworten ist richtig

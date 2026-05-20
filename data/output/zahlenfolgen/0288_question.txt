@@ -1,7 +1,0 @@
-Zahlenfolge: 37 43 49 55 61 67 ? ?
-
-A) 85/79
-B) 79/85
-C) 81/86
-D) 77/83
-E) Keine der Antworten ist richtig

@@ -1,7 +1,0 @@
-Name: CNUFKI
-Geburtstag: 17. Mai
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Käse, Chinin, Amalgam
-Ausweisnummer: 40926
-Ausstellungsland: Andorra

@@ -1,7 +1,0 @@
-Name: KRIQUSANT
-Geburtstag: 19. April
-Medikamenteneinnahme: Nein
-Blutgruppe: 0
-Bekannte Allergien: Kartoffeln, Ulme
-Ausweisnummer: 98630
-Ausstellungsland: Norwegen

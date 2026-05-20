@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Mäuse sind keine Granite.
-- Alle Granite sind Türen.
-
-A) Einige Mäuse sind Türen.
-B) Einige Mäuse sind keine Türen.
-C) Alle Mäuse sind Türen.
-D) Alle Mäuse sind keine Türen.
-E) Keine der Schlussfolgerungen ist richtig.

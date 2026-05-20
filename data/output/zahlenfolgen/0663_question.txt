@@ -1,7 +1,0 @@
-Zahlenfolge: 19 9 28 37 65 102 ? ?
-
-A) 438/707
-B) 437/707
-C) 435/704
-D) 436/705
-E) Keine der Antworten ist richtig

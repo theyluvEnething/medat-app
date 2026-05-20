@@ -1,7 +1,0 @@
-Zahlenfolge: 16 17 20 25 32 41 ? ?
-
-A) 80/97
-B) 78/95
-C) 79/95
-D) 78/96
-E) Keine der Antworten ist richtig

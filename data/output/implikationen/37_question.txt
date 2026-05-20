@@ -1,9 +1,0 @@
-Prämissen:
-- AlleEidechsensindKrokodile.
-- AlleEidechsensindReptilien.
-
-A) AlleKrokodilesindReptilien.
-B) AlleKrokodilesindkeineReptilien.
-C) EinigeKrokodilesindReptilien.
-D) EinigeKrokodilesindkeineReptilien.
-E) KeinederSchlussfolgerungenistrichtig.

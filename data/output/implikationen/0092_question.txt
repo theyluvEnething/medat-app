@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Wissenschaftler sind keine Dinosaurier.
-- Einige Dinosaurier sind Telefone.
-
-A) Alle Wissenschaftler sind keine Telefone.
-B) Einige Wissenschaftler sind Telefone.
-C) Alle Wissenschaftler sind Telefone.
-D) Einige Wissenschaftler sind keine Telefone.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Name: DREKSOW
-Geburtstag: 26. Januar
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Auberginen
-Ausweisnummer: 25163
-Ausstellungsland: Samoa

@@ -1,7 +1,0 @@
-Zahlenfolge: 8 16 32 64 128 256 ? ?
-
-A) 1022/2047
-B) 1024/2048
-C) 1023/2050
-D) 1026/2049
-E) Keine der Antworten ist richtig

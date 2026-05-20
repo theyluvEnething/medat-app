@@ -1,7 +1,0 @@
-Name: CACANO
-Geburtstag: 2. Juli
-Medikamenteneinnahme: Ja
-Blutgruppe: 0
-Bekannte Allergien: Alkohol, Brauereihefe
-Ausweisnummer: 46452
-Ausstellungsland: Marshallinseln

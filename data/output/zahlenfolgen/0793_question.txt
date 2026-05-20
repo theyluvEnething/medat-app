@@ -1,7 +1,0 @@
-Zahlenfolge: 12 21 30 3 12 21 ? ?
-
-A) 14/20
-B) 12/21
-C) 11/20
-D) 22/23
-E) Keine der Antworten ist richtig

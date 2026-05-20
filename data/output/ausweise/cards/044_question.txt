@@ -1,7 +1,0 @@
-Name: ULIFALKI
-Geburtstag: 31. Juli
-Medikamenteneinnahme: Nein
-Blutgruppe: B
-Bekannte Allergien: Litschi, Knollensellerie,
-Ausweisnummer: 92543
-Ausstellungsland: Palau

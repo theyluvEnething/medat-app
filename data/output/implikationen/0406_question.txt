@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Politiker sind keine Teleskope.
-- Einige Teleskope sind keine Mammute.
-
-A) Alle Politiker sind keine Mammute.
-B) Einige Politiker sind Mammute.
-C) Einige Politiker sind keine Mammute.
-D) Alle Politiker sind Mammute.
-E) Keine der Schlussfolgerungen ist richtig.

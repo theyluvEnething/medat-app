@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Lehrer sind Wale.
-- Alle Wale sind Häuser.
-
-A) Einige Lehrer sind keine Häuser.
-B) Alle Lehrer sind Häuser.
-C) Einige Lehrer sind Häuser.
-D) Alle Lehrer sind keine Häuser.
-E) Keine der Schlussfolgerungen ist richtig.

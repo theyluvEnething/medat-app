@@ -1,7 +1,0 @@
-Name: LANBMO
-Geburtstag: 12. April
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Kopfsalat, Alkohol
-Ausweisnummer: 79594
-Ausstellungsland: Österreich

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Fische sind Vasen.
-- Alle Vasen sind keine Glühbirnen.
-
-A) Alle Fische sind Glühbirnen.
-B) Alle Fische sind keine Glühbirnen.
-C) Einige Fische sind Glühbirnen.
-D) Einige Fische sind keine Glühbirnen.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Name: FOFFLOF
-Geburtstag: 15. Oktober
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Forellen, Litholrubin,
-Ausweisnummer: 49236
-Ausstellungsland: Ruanda

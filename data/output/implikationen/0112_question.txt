@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Züge sind keine Schauspieler.
-- Einige Schauspieler sind Radios.
-
-A) Einige Züge sind Radios.
-B) Alle Züge sind Radios.
-C) Einige Züge sind keine Radios.
-D) Alle Züge sind keine Radios.
-E) Keine der Schlussfolgerungen ist richtig.

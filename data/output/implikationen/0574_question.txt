@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Marder sind Insekten.
-- Alle Insekten sind Reptilien.
-
-A) Alle Marder sind Reptilien.
-B) Einige Marder sind Reptilien.
-C) Alle Marder sind keine Reptilien.
-D) Einige Marder sind keine Reptilien.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 92 29 34 43 48 84 ? ?
-
-A) 103/301
-B) 104/303
-C) 105/300
-D) 105/302
-E) Keine der Antworten ist richtig

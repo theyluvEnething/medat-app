@@ -1,7 +1,0 @@
-Zahlenfolge: 9 12 19 30 45 64 ? ?
-
-A) 145/180
-B) 146/178
-C) 143/182
-D) 147/179
-E) Keine der Antworten ist richtig

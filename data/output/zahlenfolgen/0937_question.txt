@@ -1,7 +1,0 @@
-Zahlenfolge: 29 31 37 41 43 47 ? ?
-
-A) 59/65
-B) 60/66
-C) 63/65
-D) 61/67
-E) Keine der Antworten ist richtig

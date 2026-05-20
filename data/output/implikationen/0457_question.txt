@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Tannen sind keine Kupfer.
-- Einige Kupfer sind Säugetiere.
-
-A) Alle Tannen sind keine Säugetiere.
-B) Einige Tannen sind keine Säugetiere.
-C) Alle Tannen sind Säugetiere.
-D) Einige Tannen sind Säugetiere.
-E) Keine der Schlussfolgerungen ist richtig.

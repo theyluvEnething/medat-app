@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Kätzchen sind keine Musikinstrumente.
-- Einige Musikinstrumente sind keine Fotografen.
-
-A) Einige Kätzchen sind keine Fotografen.
-B) Einige Kätzchen sind Fotografen.
-C) Alle Kätzchen sind Fotografen.
-D) Alle Kätzchen sind keine Fotografen.
-E) Keine der Schlussfolgerungen ist richtig.

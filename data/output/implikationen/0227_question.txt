@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Diamanten sind keine Sänger.
-- Einige Sänger sind Ingenieure.
-
-A) Einige Diamanten sind Ingenieure.
-B) Alle Diamanten sind Ingenieure.
-C) Alle Diamanten sind keine Ingenieure.
-D) Einige Diamanten sind keine Ingenieure.
-E) Keine der Schlussfolgerungen ist richtig.

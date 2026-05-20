@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Smartphones sind Flüsse.
-- Alle Flüsse sind Diamanten.
-
-A) Alle Smartphones sind keine Diamanten.
-B) Alle Smartphones sind Diamanten.
-C) Einige Smartphones sind Diamanten.
-D) Einige Smartphones sind keine Diamanten.
-E) Keine der Schlussfolgerungen ist richtig.

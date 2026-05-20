@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Insekten sind keine Eichen.
-- Einige Eichen sind keine Dinosaurier.
-
-A) Alle Insekten sind keine Dinosaurier.
-B) Alle Insekten sind Dinosaurier.
-C) Einige Insekten sind keine Dinosaurier.
-D) Einige Insekten sind Dinosaurier.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Tabletten sind keine Eichen.
-- Alle Eichen sind keine Lehrer.
-
-A) Alle Tabletten sind Lehrer.
-B) Alle Tabletten sind keine Lehrer.
-C) Einige Tabletten sind keine Lehrer.
-D) Einige Tabletten sind Lehrer.
-E) Keine der Schlussfolgerungen ist richtig.

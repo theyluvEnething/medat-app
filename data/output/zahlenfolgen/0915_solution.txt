@@ -1,2 +1,0 @@
-A — 162/262
-Jedes Glied = Summe der beiden Vorgänger

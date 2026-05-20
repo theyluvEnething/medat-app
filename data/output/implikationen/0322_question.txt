@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Chemiker sind keine Ingenieure.
-- Alle Ingenieure sind keine Lilien.
-
-A) Alle Chemiker sind keine Lilien.
-B) Alle Chemiker sind Lilien.
-C) Einige Chemiker sind keine Lilien.
-D) Einige Chemiker sind Lilien.
-E) Keine der Schlussfolgerungen ist richtig.

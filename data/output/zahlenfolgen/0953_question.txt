@@ -1,7 +1,0 @@
-Zahlenfolge: 1 2 9 28 65 126 ? ?
-
-A) 342/514
-B) 344/513
-C) 343/514
-D) 342/512
-E) Keine der Antworten ist richtig

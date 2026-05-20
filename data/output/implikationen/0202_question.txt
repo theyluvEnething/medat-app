@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Quartette sind keine Gräser.
-- Einige Gräser sind keine Wissenschaftler.
-
-A) Einige Quartette sind Wissenschaftler.
-B) Alle Quartette sind keine Wissenschaftler.
-C) Alle Quartette sind Wissenschaftler.
-D) Einige Quartette sind keine Wissenschaftler.
-E) Keine der Schlussfolgerungen ist richtig.

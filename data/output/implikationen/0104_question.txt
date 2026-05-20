@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Insekten sind Politiker.
-- Alle Politiker sind keine Menschen.
-
-A) Alle Insekten sind keine Menschen.
-B) Einige Insekten sind keine Menschen.
-C) Einige Insekten sind Menschen.
-D) Alle Insekten sind Menschen.
-E) Keine der Schlussfolgerungen ist richtig.

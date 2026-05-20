@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Musikinstrumente sind keine Granite.
-- Alle Granite sind keine Pandas.
-
-A) Alle Musikinstrumente sind keine Pandas.
-B) Einige Musikinstrumente sind keine Pandas.
-C) Alle Musikinstrumente sind Pandas.
-D) Einige Musikinstrumente sind Pandas.
-E) Keine der Schlussfolgerungen ist richtig.

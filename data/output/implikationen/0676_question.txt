@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Taucher sind Tannen.
-- Einige Tannen sind keine Radios.
-
-A) Alle Taucher sind Radios.
-B) Einige Taucher sind keine Radios.
-C) Alle Taucher sind keine Radios.
-D) Einige Taucher sind Radios.
-E) Keine der Schlussfolgerungen ist richtig.

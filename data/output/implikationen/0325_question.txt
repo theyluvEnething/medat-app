@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Werkzeuge sind keine Delfine.
-- Alle Delfine sind Gemälde.
-
-A) Alle Werkzeuge sind keine Gemälde.
-B) Einige Werkzeuge sind keine Gemälde.
-C) Alle Werkzeuge sind Gemälde.
-D) Einige Werkzeuge sind Gemälde.
-E) Keine der Schlussfolgerungen ist richtig.

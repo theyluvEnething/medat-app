@@ -1,7 +1,0 @@
-Name: HIKXOR
-Geburtstag: 26. August
-Medikamenteneinnahme: Nein
-Blutgruppe: A
-Bekannte Allergien: Ananas
-Ausweisnummer: 60977
-Ausstellungsland: Benin

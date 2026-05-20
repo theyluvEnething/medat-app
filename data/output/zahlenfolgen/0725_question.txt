@@ -1,7 +1,0 @@
-Zahlenfolge: 19 13 32 45 77 122 ? ?
-
-A) 520/841
-B) 522/842
-C) 518/843
-D) 518/840
-E) Keine der Antworten ist richtig

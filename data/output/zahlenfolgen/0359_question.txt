@@ -1,7 +1,0 @@
-Zahlenfolge: 22 23 25 28 32 37 ? ?
-
-A) 59/68
-B) 60/68
-C) 58/67
-D) 59/65
-E) Keine der Antworten ist richtig

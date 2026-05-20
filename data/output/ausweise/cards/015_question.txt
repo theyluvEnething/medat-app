@@ -1,7 +1,0 @@
-Name: DWERZYT
-Geburtstag: 29. Mai
-Medikamenteneinnahme: Nein
-Blutgruppe: 0
-Bekannte Allergien: Milchzucker
-Ausweisnummer: 86624
-Ausstellungsland: Monaco

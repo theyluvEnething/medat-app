@@ -1,7 +1,0 @@
-WelcheBlutgruppehatdiePersonmit demNamenPRIMKORT?
-
-A) 0
-B) A
-C) B
-D) AB
-E) KeinederAntwortenistrichtig

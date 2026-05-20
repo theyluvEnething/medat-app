@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Lehrer sind Wirbeltiere.
-- Einige Wirbeltiere sind keine Marder.
-
-A) Einige Lehrer sind keine Marder.
-B) Einige Lehrer sind Marder.
-C) Alle Lehrer sind keine Marder.
-D) Alle Lehrer sind Marder.
-E) Keine der Schlussfolgerungen ist richtig.

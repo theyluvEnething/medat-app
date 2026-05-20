@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Taucher sind Maler.
-- Einige Maler sind Mathematiker.
-
-A) Einige Taucher sind Mathematiker.
-B) Alle Taucher sind Mathematiker.
-C) Einige Taucher sind keine Mathematiker.
-D) Alle Taucher sind keine Mathematiker.
-E) Keine der Schlussfolgerungen ist richtig.

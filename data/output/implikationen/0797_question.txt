@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Diamanten sind keine Schlangen.
-- Alle Schlangen sind keine Tiger.
-
-A) Alle Diamanten sind keine Tiger.
-B) Alle Diamanten sind Tiger.
-C) Einige Diamanten sind Tiger.
-D) Einige Diamanten sind keine Tiger.
-E) Keine der Schlussfolgerungen ist richtig.

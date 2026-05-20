@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Ärzte sind keine Mathematiker.
-- Einige Mathematiker sind Smartphones.
-
-A) Alle Ärzte sind keine Smartphones.
-B) Einige Ärzte sind keine Smartphones.
-C) Einige Ärzte sind Smartphones.
-D) Alle Ärzte sind Smartphones.
-E) Keine der Schlussfolgerungen ist richtig.

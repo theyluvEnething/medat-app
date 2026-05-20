@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Tabletten sind Vögel.
-- Alle Vögel sind keine Teleskope.
-
-A) Einige Tabletten sind Teleskope.
-B) Alle Tabletten sind keine Teleskope.
-C) Alle Tabletten sind Teleskope.
-D) Einige Tabletten sind keine Teleskope.
-E) Keine der Schlussfolgerungen ist richtig.

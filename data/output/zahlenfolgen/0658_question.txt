@@ -1,7 +1,0 @@
-Zahlenfolge: 10 1 4 10 -2 19 ? ?
-
-A) -12/39
-B) -14/37
-C) -12/36
-D) 20/21
-E) Keine der Antworten ist richtig

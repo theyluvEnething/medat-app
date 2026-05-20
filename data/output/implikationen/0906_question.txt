@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Tiger sind Nashörner.
-- Einige Nashörner sind Delfine.
-
-A) Alle Tiger sind Delfine.
-B) Einige Tiger sind keine Delfine.
-C) Alle Tiger sind keine Delfine.
-D) Einige Tiger sind Delfine.
-E) Keine der Schlussfolgerungen ist richtig.

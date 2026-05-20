@@ -1,7 +1,0 @@
-Zahlenfolge: 5 6 9 14 21 30 ? ?
-
-A) 71/88
-B) 68/87
-C) 68/84
-D) 69/86
-E) Keine der Antworten ist richtig

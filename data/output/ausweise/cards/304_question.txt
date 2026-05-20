@@ -1,7 +1,0 @@
-Name: IPIKUYR
-Geburtstag: 22. Februar
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Alkohol, Aspergillus, Minze
-Ausweisnummer: 15323
-Ausstellungsland: Sri Lanka

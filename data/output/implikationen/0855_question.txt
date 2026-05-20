@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Gedichte sind keine Vulkane.
-- Einige Vulkane sind Taucher.
-
-A) Einige Gedichte sind Taucher.
-B) Alle Gedichte sind keine Taucher.
-C) Einige Gedichte sind keine Taucher.
-D) Alle Gedichte sind Taucher.
-E) Keine der Schlussfolgerungen ist richtig.

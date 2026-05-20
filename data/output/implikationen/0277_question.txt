@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Häuser sind Werkzeuge.
-- Alle Werkzeuge sind keine Bäume.
-
-A) Einige Häuser sind Bäume.
-B) Alle Häuser sind Bäume.
-C) Einige Häuser sind keine Bäume.
-D) Alle Häuser sind keine Bäume.
-E) Keine der Schlussfolgerungen ist richtig.

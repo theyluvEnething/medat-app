@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Mäuse sind Gedichte.
-- Einige Gedichte sind keine Sänger.
-
-A) Einige Mäuse sind keine Sänger.
-B) Alle Mäuse sind Sänger.
-C) Alle Mäuse sind keine Sänger.
-D) Einige Mäuse sind Sänger.
-E) Keine der Schlussfolgerungen ist richtig.

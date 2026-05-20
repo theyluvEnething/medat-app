@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Statuen sind Sänger.
-- Alle Sänger sind Dinosaurier.
-
-A) Einige Statuen sind keine Dinosaurier.
-B) Alle Statuen sind Dinosaurier.
-C) Alle Statuen sind keine Dinosaurier.
-D) Einige Statuen sind Dinosaurier.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Taucher sind keine Bäume.
-- Alle Bäume sind keine Tulpen.
-
-A) Alle Taucher sind Tulpen.
-B) Einige Taucher sind Tulpen.
-C) Einige Taucher sind keine Tulpen.
-D) Alle Taucher sind keine Tulpen.
-E) Keine der Schlussfolgerungen ist richtig.

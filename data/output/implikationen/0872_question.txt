@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Pilze sind keine Roboter.
-- Alle Roboter sind keine Schriftsteller.
-
-A) Einige Pilze sind Schriftsteller.
-B) Einige Pilze sind keine Schriftsteller.
-C) Alle Pilze sind Schriftsteller.
-D) Alle Pilze sind keine Schriftsteller.
-E) Keine der Schlussfolgerungen ist richtig.

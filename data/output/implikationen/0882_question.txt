@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Flugzeuge sind Vegetarier.
-- Einige Vegetarier sind Vögel.
-
-A) Alle Flugzeuge sind Vögel.
-B) Alle Flugzeuge sind keine Vögel.
-C) Einige Flugzeuge sind Vögel.
-D) Einige Flugzeuge sind keine Vögel.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Taucher sind keine Ingenieure.
-- Einige Ingenieure sind Tiger.
-
-A) Einige Taucher sind keine Tiger.
-B) Einige Taucher sind Tiger.
-C) Alle Taucher sind keine Tiger.
-D) Alle Taucher sind Tiger.
-E) Keine der Schlussfolgerungen ist richtig.

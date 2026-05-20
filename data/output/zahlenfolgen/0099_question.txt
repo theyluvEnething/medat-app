@@ -1,7 +1,0 @@
-Zahlenfolge: 13 16 32 35 70 73 ? ?
-
-A) 299/300
-B) 298/301
-C) 296/299
-D) 299/303
-E) Keine der Antworten ist richtig

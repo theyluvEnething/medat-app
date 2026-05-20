@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Ärzte sind Sportler.
-- Einige Sportler sind keine Dichter.
-
-A) Einige Ärzte sind Dichter.
-B) Einige Ärzte sind keine Dichter.
-C) Alle Ärzte sind keine Dichter.
-D) Alle Ärzte sind Dichter.
-E) Keine der Schlussfolgerungen ist richtig.

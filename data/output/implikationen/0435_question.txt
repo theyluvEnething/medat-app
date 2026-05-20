@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Marder sind keine Blumen.
-- Einige Blumen sind keine Telefone.
-
-A) Einige Marder sind Telefone.
-B) Alle Marder sind Telefone.
-C) Alle Marder sind keine Telefone.
-D) Einige Marder sind keine Telefone.
-E) Keine der Schlussfolgerungen ist richtig.

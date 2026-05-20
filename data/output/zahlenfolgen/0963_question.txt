@@ -1,7 +1,0 @@
-Zahlenfolge: 9 20 31 42 53 64 ? ?
-
-A) 84/98
-B) 88/99
-C) 85/98
-D) 86/97
-E) Keine der Antworten ist richtig

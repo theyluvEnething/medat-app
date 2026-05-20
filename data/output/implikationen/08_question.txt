@@ -1,9 +1,0 @@
-Prämissen:
-- EinigeTomatensindPaprika.
-- AllePaprikasindGurken.
-
-A) AlleTomatensindGurken.
-B) AlleTomatensindkeineGurken.
-C) EinigeTomatensindGurken.
-D) EinigeTomatensindkeineGurken.
-E) KeinederSchlussfolgerungenistrichtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Mathematiker sind keine Schlangen.
-- Einige Schlangen sind Blumen.
-
-A) Alle Mathematiker sind Blumen.
-B) Einige Mathematiker sind keine Blumen.
-C) Alle Mathematiker sind keine Blumen.
-D) Einige Mathematiker sind Blumen.
-E) Keine der Schlussfolgerungen ist richtig.

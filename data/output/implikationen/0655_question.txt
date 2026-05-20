@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Lilien sind Ärzte.
-- Alle Ärzte sind keine Amphibien.
-
-A) Einige Lilien sind Amphibien.
-B) Alle Lilien sind Amphibien.
-C) Einige Lilien sind keine Amphibien.
-D) Alle Lilien sind keine Amphibien.
-E) Keine der Schlussfolgerungen ist richtig.

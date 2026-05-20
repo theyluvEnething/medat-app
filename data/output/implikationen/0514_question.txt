@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Vegetarier sind Wale.
-- Alle Wale sind Haie.
-
-A) Alle Vegetarier sind Haie.
-B) Einige Vegetarier sind Haie.
-C) Einige Vegetarier sind keine Haie.
-D) Alle Vegetarier sind keine Haie.
-E) Keine der Schlussfolgerungen ist richtig.

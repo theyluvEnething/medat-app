@@ -1,7 +1,0 @@
-Name: TROPXAY
-Geburtstag: 3. Juli
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Laktose, Orangen, Hopfen
-Ausweisnummer: 81343
-Ausstellungsland: Mongolei

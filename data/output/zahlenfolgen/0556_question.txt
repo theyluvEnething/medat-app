@@ -1,7 +1,0 @@
-Zahlenfolge: 20 25 50 55 110 115 ? ?
-
-A) 469/476
-B) 469/473
-C) 489/494
-D) 470/475
-E) Keine der Antworten ist richtig

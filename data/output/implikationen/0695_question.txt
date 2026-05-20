@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Stühle sind Orchideen.
-- Alle Orchideen sind keine Tannen.
-
-A) Alle Stühle sind Tannen.
-B) Alle Stühle sind keine Tannen.
-C) Einige Stühle sind Tannen.
-D) Einige Stühle sind keine Tannen.
-E) Keine der Schlussfolgerungen ist richtig.

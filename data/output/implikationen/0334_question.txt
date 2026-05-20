@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Radios sind keine Flugzeuge.
-- Einige Flugzeuge sind keine Nashörner.
-
-A) Einige Radios sind keine Nashörner.
-B) Alle Radios sind Nashörner.
-C) Alle Radios sind keine Nashörner.
-D) Einige Radios sind Nashörner.
-E) Keine der Schlussfolgerungen ist richtig.

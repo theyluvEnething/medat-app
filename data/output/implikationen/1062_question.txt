@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Musikinstrumente sind Spatzen.
-- Alle Spatzen sind keine Delfine.
-
-A) Einige Musikinstrumente sind keine Delfine.
-B) Alle Musikinstrumente sind keine Delfine.
-C) Einige Musikinstrumente sind Delfine.
-D) Alle Musikinstrumente sind Delfine.
-E) Keine der Schlussfolgerungen ist richtig.

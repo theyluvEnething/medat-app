@@ -1,7 +1,0 @@
-Zahlenfolge: 15 29 43 57 71 85 ? ?
-
-A) 112/128
-B) 113/127
-C) 127/113
-D) 115/126
-E) Keine der Antworten ist richtig

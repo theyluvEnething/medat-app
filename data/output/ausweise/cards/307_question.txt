@@ -1,7 +1,0 @@
-Name: PROXIKS
-Geburtstag: 28. Juli
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Hopfen
-Ausweisnummer: 12863
-Ausstellungsland: Südossetien

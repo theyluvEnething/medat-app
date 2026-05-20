@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Pilze sind Mäuse.
-- Einige Mäuse sind keine Sportler.
-
-A) Einige Pilze sind keine Sportler.
-B) Einige Pilze sind Sportler.
-C) Alle Pilze sind keine Sportler.
-D) Alle Pilze sind Sportler.
-E) Keine der Schlussfolgerungen ist richtig.

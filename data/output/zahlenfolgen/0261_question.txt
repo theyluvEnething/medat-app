@@ -1,7 +1,0 @@
-Zahlenfolge: -1 13 27 41 55 69 ? ?
-
-A) 97/111
-B) 95/112
-C) 98/109
-D) 96/109
-E) Keine der Antworten ist richtig

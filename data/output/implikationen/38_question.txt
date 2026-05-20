@@ -1,9 +1,0 @@
-Prämissen:
-- AlleHölzersindStöcke.
-- AlleStützensindHölzer.
-
-A) AlleStützensindStöcke.
-B) AlleStützensindkeineStöcke.
-C) EinigeStützensindStöcke.
-D) EinigeStützensindkeineStöcke.
-E) KeinederSchlussfolgerungenistrichtig.

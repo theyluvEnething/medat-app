@@ -1,7 +1,0 @@
-Name: KRALNOS
-Geburtstag: 11. Dezember
-Medikamenteneinnahme: Ja
-Blutgruppe: 0
-Bekannte Allergien: Henna, Tintenfische
-Ausweisnummer: 70934
-Ausstellungsland: Vietnam

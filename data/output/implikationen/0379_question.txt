@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Stühle sind Spatzen.
-- Alle Spatzen sind keine Menschen.
-
-A) Alle Stühle sind Menschen.
-B) Einige Stühle sind keine Menschen.
-C) Alle Stühle sind keine Menschen.
-D) Einige Stühle sind Menschen.
-E) Keine der Schlussfolgerungen ist richtig.

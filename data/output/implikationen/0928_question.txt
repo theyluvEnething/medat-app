@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Stühle sind Flüsse.
-- Einige Flüsse sind keine Flugzeuge.
-
-A) Einige Stühle sind Flugzeuge.
-B) Alle Stühle sind keine Flugzeuge.
-C) Alle Stühle sind Flugzeuge.
-D) Einige Stühle sind keine Flugzeuge.
-E) Keine der Schlussfolgerungen ist richtig.

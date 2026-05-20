@@ -1,7 +1,0 @@
-Name: GUZMAKO
-Geburtstag: 10. Oktober
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Parvalbumin
-Ausweisnummer: 58367
-Ausstellungsland: Afghanistan

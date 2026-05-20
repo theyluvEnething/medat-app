@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Spatzen sind keine Tabletten.
-- Alle Tabletten sind keine Musikinstrumente.
-
-A) Alle Spatzen sind Musikinstrumente.
-B) Alle Spatzen sind keine Musikinstrumente.
-C) Einige Spatzen sind keine Musikinstrumente.
-D) Einige Spatzen sind Musikinstrumente.
-E) Keine der Schlussfolgerungen ist richtig.

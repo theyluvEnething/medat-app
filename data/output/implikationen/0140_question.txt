@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Kupfer sind Amphibien.
-- Alle Amphibien sind Stühle.
-
-A) Alle Kupfer sind keine Stühle.
-B) Einige Kupfer sind keine Stühle.
-C) Einige Kupfer sind Stühle.
-D) Alle Kupfer sind Stühle.
-E) Keine der Schlussfolgerungen ist richtig.

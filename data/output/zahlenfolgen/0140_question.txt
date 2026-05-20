@@ -1,7 +1,0 @@
-Zahlenfolge: 4 7 11 18 29 47 ? ?
-
-A) 198/323
-B) 199/322
-C) 198/320
-D) 201/323
-E) Keine der Antworten ist richtig

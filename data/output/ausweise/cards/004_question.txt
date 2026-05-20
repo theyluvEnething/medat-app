@@ -1,7 +1,0 @@
-Name: DUKFAL
-Geburtstag: 9. Oktober
-Medikamenteneinnahme: Nein
-Blutgruppe: A
-Bekannte Allergien: Forellen
-Ausweisnummer: 68213
-Ausstellungsland: Sambia

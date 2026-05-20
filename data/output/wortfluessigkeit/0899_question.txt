@@ -1,7 +1,0 @@
-Buchstabenreihe: O T U I K A P L O N
-
-A) K
-B) U
-C) O
-D) I
-E) KeinederAntwortenistrichtig

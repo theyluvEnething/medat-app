@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Teleskope sind keine Anwälte.
-- Einige Anwälte sind keine Gräser.
-
-A) Einige Teleskope sind Gräser.
-B) Einige Teleskope sind keine Gräser.
-C) Alle Teleskope sind keine Gräser.
-D) Alle Teleskope sind Gräser.
-E) Keine der Schlussfolgerungen ist richtig.

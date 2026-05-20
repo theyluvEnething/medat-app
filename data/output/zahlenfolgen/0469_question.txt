@@ -1,7 +1,0 @@
-Zahlenfolge: 61 67 71 73 79 83 ? ?
-
-A) 101/103
-B) 103/102
-C) 102/104
-D) 87/91
-E) Keine der Antworten ist richtig

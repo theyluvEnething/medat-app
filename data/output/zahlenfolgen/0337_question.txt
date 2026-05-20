@@ -1,7 +1,0 @@
-Zahlenfolge: 18 23 69 74 222 227 ? ?
-
-A) 454/495
-B) 2060/2064
-C) 2058/2063
-D) 2056/2062
-E) Keine der Antworten ist richtig

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Schiffe sind Vulkane.
-- Alle Vulkane sind keine Glühbirnen.
-
-A) Alle Schiffe sind keine Glühbirnen.
-B) Einige Schiffe sind keine Glühbirnen.
-C) Einige Schiffe sind Glühbirnen.
-D) Alle Schiffe sind Glühbirnen.
-E) Keine der Schlussfolgerungen ist richtig.

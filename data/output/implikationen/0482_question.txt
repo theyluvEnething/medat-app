@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Vulkane sind Tiger.
-- Einige Tiger sind keine Stühle.
-
-A) Einige Vulkane sind keine Stühle.
-B) Alle Vulkane sind keine Stühle.
-C) Einige Vulkane sind Stühle.
-D) Alle Vulkane sind Stühle.
-E) Keine der Schlussfolgerungen ist richtig.

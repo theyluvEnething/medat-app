@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Eichen sind Tulpen.
-- Alle Tulpen sind keine Möbel.
-
-A) Alle Eichen sind keine Möbel.
-B) Einige Eichen sind keine Möbel.
-C) Alle Eichen sind Möbel.
-D) Einige Eichen sind Möbel.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 94 94 95 99 108 124 149 ? ?
-
-A) 223/170
-B) 185/238
-C) 170/223
-D) 185/234
-E) KeinederAntwortenistrichtig

@@ -1,7 +1,0 @@
-Name: FLIXRANK
-Geburtstag: 17. Mai
-Medikamenteneinnahme: Nein
-Blutgruppe: B
-Bekannte Allergien: Forellen, Gurken
-Ausweisnummer: 21816
-Ausstellungsland: Montenegro

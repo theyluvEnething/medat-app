@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Schriftsteller sind keine Haie.
-- Einige Haie sind keine Rosen.
-
-A) Einige Schriftsteller sind keine Rosen.
-B) Einige Schriftsteller sind Rosen.
-C) Alle Schriftsteller sind keine Rosen.
-D) Alle Schriftsteller sind Rosen.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 15 16 19 24 31 40 ? ?
-
-A) 96/79
-B) 80/98
-C) 78/97
-D) 79/96
-E) Keine der Antworten ist richtig

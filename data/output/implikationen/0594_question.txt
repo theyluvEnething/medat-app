@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Wölfe sind keine Vasen.
-- Einige Vasen sind keine Granite.
-
-A) Alle Wölfe sind keine Granite.
-B) Einige Wölfe sind keine Granite.
-C) Alle Wölfe sind Granite.
-D) Einige Wölfe sind Granite.
-E) Keine der Schlussfolgerungen ist richtig.

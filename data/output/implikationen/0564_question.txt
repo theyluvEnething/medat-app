@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Züge sind Menschen.
-- Alle Menschen sind keine Bücher.
-
-A) Alle Züge sind Bücher.
-B) Einige Züge sind keine Bücher.
-C) Alle Züge sind keine Bücher.
-D) Einige Züge sind Bücher.
-E) Keine der Schlussfolgerungen ist richtig.

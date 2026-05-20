@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Skulpturen sind Wale.
-- Alle Wale sind Marder.
-
-A) Einige Skulpturen sind keine Marder.
-B) Alle Skulpturen sind keine Marder.
-C) Einige Skulpturen sind Marder.
-D) Alle Skulpturen sind Marder.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 1 15 4 17 7 19 ? ?
-
-A) 11/22
-B) 11/25
-C) 13/23
-D) 14/22
-E) Keine der Antworten ist richtig

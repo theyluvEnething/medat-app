@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Kätzchen sind Taucher.
-- Einige Taucher sind Ingenieure.
-
-A) Einige Kätzchen sind keine Ingenieure.
-B) Einige Kätzchen sind Ingenieure.
-C) Alle Kätzchen sind Ingenieure.
-D) Alle Kätzchen sind keine Ingenieure.
-E) Keine der Schlussfolgerungen ist richtig.

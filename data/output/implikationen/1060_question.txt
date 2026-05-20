@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Amphibien sind keine Autos.
-- Alle Autos sind keine Wale.
-
-A) Einige Amphibien sind keine Wale.
-B) Einige Amphibien sind Wale.
-C) Alle Amphibien sind Wale.
-D) Alle Amphibien sind keine Wale.
-E) Keine der Schlussfolgerungen ist richtig.

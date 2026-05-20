@@ -1,7 +1,0 @@
-Zahlenfolge: -19 -24 -29 -34 -39 -44 ? ?
-
-A) -53/-61
-B) -54/-59
-C) -55/-61
-D) -56/-60
-E) Keine der Antworten ist richtig

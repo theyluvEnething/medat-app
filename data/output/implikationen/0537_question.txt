@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Hunde sind keine Bäume.
-- Alle Bäume sind keine Säugetiere.
-
-A) Einige Hunde sind Säugetiere.
-B) Alle Hunde sind keine Säugetiere.
-C) Alle Hunde sind Säugetiere.
-D) Einige Hunde sind keine Säugetiere.
-E) Keine der Schlussfolgerungen ist richtig.

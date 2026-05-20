@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Vasen sind keine Klaviere.
-- Alle Klaviere sind keine Tiger.
-
-A) Einige Vasen sind keine Tiger.
-B) Alle Vasen sind keine Tiger.
-C) Alle Vasen sind Tiger.
-D) Einige Vasen sind Tiger.
-E) Keine der Schlussfolgerungen ist richtig.

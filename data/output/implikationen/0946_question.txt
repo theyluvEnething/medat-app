@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Schriftsteller sind Lilien.
-- Einige Lilien sind Metalle.
-
-A) Einige Schriftsteller sind keine Metalle.
-B) Einige Schriftsteller sind Metalle.
-C) Alle Schriftsteller sind Metalle.
-D) Alle Schriftsteller sind keine Metalle.
-E) Keine der Schlussfolgerungen ist richtig.

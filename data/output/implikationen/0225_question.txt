@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Zebras sind keine Türen.
-- Alle Türen sind keine Züge.
-
-A) Einige Zebras sind Züge.
-B) Einige Zebras sind keine Züge.
-C) Alle Zebras sind Züge.
-D) Alle Zebras sind keine Züge.
-E) Keine der Schlussfolgerungen ist richtig.

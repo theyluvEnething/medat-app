@@ -1,7 +1,0 @@
-Buchstabenreihe: E Q T O U
-
-A) E
-B) T
-C) O
-D) U
-E) KeinederAntwortenistrichtig

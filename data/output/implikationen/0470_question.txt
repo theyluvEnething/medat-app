@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Glühbirnen sind Fische.
-- Einige Fische sind Sportler.
-
-A) Alle Glühbirnen sind keine Sportler.
-B) Alle Glühbirnen sind Sportler.
-C) Einige Glühbirnen sind Sportler.
-D) Einige Glühbirnen sind keine Sportler.
-E) Keine der Schlussfolgerungen ist richtig.

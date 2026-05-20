@@ -1,7 +1,0 @@
-Name: HEXTRIK
-Geburtstag: 5. September
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Johannisbeeren
-Ausweisnummer: 54478
-Ausstellungsland: Polen

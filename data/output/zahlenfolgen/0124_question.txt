@@ -1,7 +1,0 @@
-Zahlenfolge: 14 25 36 47 58 69 ? ?
-
-A) 92/103
-B) 93/104
-C) 90/100
-D) 91/102
-E) Keine der Antworten ist richtig

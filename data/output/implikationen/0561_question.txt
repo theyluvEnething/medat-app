@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Taucher sind keine Lilien.
-- Alle Lilien sind keine Gräser.
-
-A) Einige Taucher sind Gräser.
-B) Einige Taucher sind keine Gräser.
-C) Alle Taucher sind Gräser.
-D) Alle Taucher sind keine Gräser.
-E) Keine der Schlussfolgerungen ist richtig.

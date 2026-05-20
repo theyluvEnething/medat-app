@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Dichter sind keine Schriftsteller.
-- Alle Schriftsteller sind keine Metalle.
-
-A) Alle Dichter sind keine Metalle.
-B) Einige Dichter sind keine Metalle.
-C) Einige Dichter sind Metalle.
-D) Alle Dichter sind Metalle.
-E) Keine der Schlussfolgerungen ist richtig.

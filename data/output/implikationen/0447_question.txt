@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Tulpen sind keine Pandas.
-- Alle Pandas sind Quartette.
-
-A) Alle Tulpen sind Quartette.
-B) Einige Tulpen sind Quartette.
-C) Einige Tulpen sind keine Quartette.
-D) Alle Tulpen sind keine Quartette.
-E) Keine der Schlussfolgerungen ist richtig.

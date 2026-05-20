@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Schauspieler sind keine Blumen.
-- Einige Blumen sind Werkzeuge.
-
-A) Einige Schauspieler sind keine Werkzeuge.
-B) Alle Schauspieler sind Werkzeuge.
-C) Einige Schauspieler sind Werkzeuge.
-D) Alle Schauspieler sind keine Werkzeuge.
-E) Keine der Schlussfolgerungen ist richtig.

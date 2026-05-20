@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Quartette sind keine Telefone.
-- Alle Telefone sind Tomaten.
-
-A) Alle Quartette sind keine Tomaten.
-B) Einige Quartette sind Tomaten.
-C) Alle Quartette sind Tomaten.
-D) Einige Quartette sind keine Tomaten.
-E) Keine der Schlussfolgerungen ist richtig.

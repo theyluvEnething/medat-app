@@ -1,7 +1,0 @@
-Zahlenfolge: 7 8 15 23 38 61 ? ?
-
-A) 257/417
-B) 257/421
-C) 259/419
-D) 260/420
-E) Keine der Antworten ist richtig

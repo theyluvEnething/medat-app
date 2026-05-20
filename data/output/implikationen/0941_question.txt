@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Wölfe sind Werkzeuge.
-- Einige Werkzeuge sind keine Radios.
-
-A) Einige Wölfe sind keine Radios.
-B) Alle Wölfe sind keine Radios.
-C) Alle Wölfe sind Radios.
-D) Einige Wölfe sind Radios.
-E) Keine der Schlussfolgerungen ist richtig.

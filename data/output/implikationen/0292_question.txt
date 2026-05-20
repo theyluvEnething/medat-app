@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Fotografen sind keine Wirbeltiere.
-- Einige Wirbeltiere sind Mäuse.
-
-A) Alle Fotografen sind Mäuse.
-B) Einige Fotografen sind keine Mäuse.
-C) Einige Fotografen sind Mäuse.
-D) Alle Fotografen sind keine Mäuse.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Schiffe sind keine Sänger.
-- Alle Sänger sind Spatzen.
-
-A) Alle Schiffe sind keine Spatzen.
-B) Alle Schiffe sind Spatzen.
-C) Einige Schiffe sind keine Spatzen.
-D) Einige Schiffe sind Spatzen.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Name: JEWRASD
-Geburtstag: 18. Mai
-Medikamenteneinnahme: Ja
-Blutgruppe: AB
-Bekannte Allergien: Tartrazin, Rosen
-Ausweisnummer: 78970
-Ausstellungsland: Somalia

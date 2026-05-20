@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Eidechsen sind Teleskope.
-- Einige Teleskope sind keine Klaviere.
-
-A) Einige Eidechsen sind Klaviere.
-B) Einige Eidechsen sind keine Klaviere.
-C) Alle Eidechsen sind Klaviere.
-D) Alle Eidechsen sind keine Klaviere.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Name: ELIHAFK
-Geburtstag: 26. Februar
-Medikamenteneinnahme: Nein
-Blutgruppe: B
-Bekannte Allergien: Cochenillerot, Thiomersal,
-Ausweisnummer: 31256
-Ausstellungsland: Nicaragua

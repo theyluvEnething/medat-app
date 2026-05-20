@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Eidechsen sind keine Giraffen.
-- Einige Giraffen sind keine Ärzte.
-
-A) Einige Eidechsen sind keine Ärzte.
-B) Alle Eidechsen sind keine Ärzte.
-C) Alle Eidechsen sind Ärzte.
-D) Einige Eidechsen sind Ärzte.
-E) Keine der Schlussfolgerungen ist richtig.

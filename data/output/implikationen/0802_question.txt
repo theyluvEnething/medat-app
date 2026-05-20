@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Mathematiker sind keine Marder.
-- Einige Marder sind Glühbirnen.
-
-A) Alle Mathematiker sind Glühbirnen.
-B) Alle Mathematiker sind keine Glühbirnen.
-C) Einige Mathematiker sind keine Glühbirnen.
-D) Einige Mathematiker sind Glühbirnen.
-E) Keine der Schlussfolgerungen ist richtig.

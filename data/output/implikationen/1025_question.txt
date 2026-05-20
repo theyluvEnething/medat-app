@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Bäume sind keine Haie.
-- Alle Haie sind Möbel.
-
-A) Einige Bäume sind keine Möbel.
-B) Alle Bäume sind Möbel.
-C) Einige Bäume sind Möbel.
-D) Alle Bäume sind keine Möbel.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Schriftsteller sind keine Klaviere.
-- Alle Klaviere sind keine Giraffen.
-
-A) Alle Schriftsteller sind Giraffen.
-B) Einige Schriftsteller sind Giraffen.
-C) Einige Schriftsteller sind keine Giraffen.
-D) Alle Schriftsteller sind keine Giraffen.
-E) Keine der Schlussfolgerungen ist richtig.

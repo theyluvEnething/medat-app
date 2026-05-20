@@ -1,7 +1,0 @@
-Name: UMBRANO
-Geburtstag: 20. Juni
-Medikamenteneinnahme: Nein
-Blutgruppe: B
-Bekannte Allergien: Fructose, Radieschen
-Ausweisnummer: 42939
-Ausstellungsland: Malaysia

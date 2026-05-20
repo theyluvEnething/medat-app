@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Zebras sind keine Uhren.
-- Einige Uhren sind keine Fotografen.
-
-A) Einige Zebras sind Fotografen.
-B) Alle Zebras sind keine Fotografen.
-C) Alle Zebras sind Fotografen.
-D) Einige Zebras sind keine Fotografen.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Vulkane sind keine Gräser.
-- Alle Gräser sind Wissenschaftler.
-
-A) Einige Vulkane sind Wissenschaftler.
-B) Alle Vulkane sind Wissenschaftler.
-C) Einige Vulkane sind keine Wissenschaftler.
-D) Alle Vulkane sind keine Wissenschaftler.
-E) Keine der Schlussfolgerungen ist richtig.

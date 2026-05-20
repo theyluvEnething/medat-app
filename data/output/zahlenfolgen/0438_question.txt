@@ -1,7 +1,0 @@
-Zahlenfolge: 41 14 16 61 63 36 ? ?
-
-A) 83/59
-B) 84/56
-C) 85/58
-D) 86/57
-E) Keine der Antworten ist richtig

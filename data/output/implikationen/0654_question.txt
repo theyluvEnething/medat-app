@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Vögel sind keine Vegetarier.
-- Einige Vegetarier sind Dinosaurier.
-
-A) Alle Vögel sind Dinosaurier.
-B) Einige Vögel sind Dinosaurier.
-C) Alle Vögel sind keine Dinosaurier.
-D) Einige Vögel sind keine Dinosaurier.
-E) Keine der Schlussfolgerungen ist richtig.

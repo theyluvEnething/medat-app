@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Kupfer sind keine Wölfe.
-- Alle Wölfe sind Diamanten.
-
-A) Alle Kupfer sind Diamanten.
-B) Einige Kupfer sind keine Diamanten.
-C) Alle Kupfer sind keine Diamanten.
-D) Einige Kupfer sind Diamanten.
-E) Keine der Schlussfolgerungen ist richtig.

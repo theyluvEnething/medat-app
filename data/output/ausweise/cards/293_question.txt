@@ -1,7 +1,0 @@
-Name: MAUKFOR
-Geburtstag: 15. Januar
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Bienenstich, Hamsterhaare
-Ausweisnummer: 53804
-Ausstellungsland: Mongolei

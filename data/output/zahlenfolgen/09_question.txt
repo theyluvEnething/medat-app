@@ -1,7 +1,0 @@
-Zahlenfolge: -12 -3 17 59 134 253 427 ? ?
-
-A) 673/960
-B) 664/996
-C) 667/984
-D) 994/673
-E) KeinederAntwortenistrichtig

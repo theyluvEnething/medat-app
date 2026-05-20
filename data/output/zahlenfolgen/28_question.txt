@@ -1,7 +1,0 @@
-Zahlenfolge: -16 32 -6 27 19 22 59 ? ?
-
-A) 22/119
-B) 17/114
-C) 143/-13
-D) -13/143
-E) KeinederAntwortenistrichtig

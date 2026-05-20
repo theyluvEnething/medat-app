@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Bücher sind keine Tomaten.
-- Einige Tomaten sind keine Dichter.
-
-A) Alle Bücher sind Dichter.
-B) Einige Bücher sind keine Dichter.
-C) Einige Bücher sind Dichter.
-D) Alle Bücher sind keine Dichter.
-E) Keine der Schlussfolgerungen ist richtig.

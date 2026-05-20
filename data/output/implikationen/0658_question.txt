@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Chemiker sind keine Vulkane.
-- Einige Vulkane sind Sportler.
-
-A) Alle Chemiker sind keine Sportler.
-B) Alle Chemiker sind Sportler.
-C) Einige Chemiker sind Sportler.
-D) Einige Chemiker sind keine Sportler.
-E) Keine der Schlussfolgerungen ist richtig.

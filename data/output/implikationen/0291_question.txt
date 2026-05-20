@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Pilze sind keine Vegetarier.
-- Alle Vegetarier sind Werkzeuge.
-
-A) Einige Pilze sind Werkzeuge.
-B) Alle Pilze sind keine Werkzeuge.
-C) Alle Pilze sind Werkzeuge.
-D) Einige Pilze sind keine Werkzeuge.
-E) Keine der Schlussfolgerungen ist richtig.

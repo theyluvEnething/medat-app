@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Wölfe sind keine Dinosaurier.
-- Alle Dinosaurier sind keine Bücher.
-
-A) Einige Wölfe sind Bücher.
-B) Alle Wölfe sind Bücher.
-C) Einige Wölfe sind keine Bücher.
-D) Alle Wölfe sind keine Bücher.
-E) Keine der Schlussfolgerungen ist richtig.

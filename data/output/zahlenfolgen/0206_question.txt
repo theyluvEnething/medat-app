@@ -1,7 +1,0 @@
-Zahlenfolge: -10 -1 8 17 26 35 ? ?
-
-A) 53/62
-B) 70/79
-C) 55/64
-D) 55/60
-E) Keine der Antworten ist richtig

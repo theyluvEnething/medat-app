@@ -1,7 +1,0 @@
-Name: PEWDIRE
-Geburtstag: 10. Juni
-Medikamenteneinnahme: Nein
-Blutgruppe: B
-Bekannte Allergien: Porree, Lysozyme
-Ausweisnummer: 20391
-Ausstellungsland: São Tomé und Príncipe

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Orchideen sind keine Blumen.
-- Einige Blumen sind keine Teleskope.
-
-A) Alle Orchideen sind keine Teleskope.
-B) Einige Orchideen sind keine Teleskope.
-C) Einige Orchideen sind Teleskope.
-D) Alle Orchideen sind Teleskope.
-E) Keine der Schlussfolgerungen ist richtig.

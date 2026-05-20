@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Mammute sind keine Gemälde.
-- Alle Gemälde sind Taucher.
-
-A) Alle Mammute sind keine Taucher.
-B) Alle Mammute sind Taucher.
-C) Einige Mammute sind Taucher.
-D) Einige Mammute sind keine Taucher.
-E) Keine der Schlussfolgerungen ist richtig.

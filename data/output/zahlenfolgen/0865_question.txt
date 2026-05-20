@@ -1,7 +1,0 @@
-Zahlenfolge: 18 22 29 39 52 68 ? ?
-
-A) 144/172
-B) 134/162
-C) 133/161
-D) 132/163
-E) Keine der Antworten ist richtig

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Quallen sind Taucher.
-- Alle Taucher sind Amphibien.
-
-A) Alle Quallen sind Amphibien.
-B) Alle Quallen sind keine Amphibien.
-C) Einige Quallen sind keine Amphibien.
-D) Einige Quallen sind Amphibien.
-E) Keine der Schlussfolgerungen ist richtig.

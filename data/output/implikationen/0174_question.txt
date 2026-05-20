@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Anwälte sind Skulpturen.
-- Einige Skulpturen sind keine Nashörner.
-
-A) Alle Anwälte sind keine Nashörner.
-B) Einige Anwälte sind Nashörner.
-C) Einige Anwälte sind keine Nashörner.
-D) Alle Anwälte sind Nashörner.
-E) Keine der Schlussfolgerungen ist richtig.

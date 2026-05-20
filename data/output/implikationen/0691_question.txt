@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Eichen sind keine Rosen.
-- Alle Rosen sind keine Lilien.
-
-A) Alle Eichen sind keine Lilien.
-B) Alle Eichen sind Lilien.
-C) Einige Eichen sind keine Lilien.
-D) Einige Eichen sind Lilien.
-E) Keine der Schlussfolgerungen ist richtig.

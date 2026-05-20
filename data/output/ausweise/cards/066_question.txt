@@ -1,7 +1,0 @@
-Name: DALIURK
-Geburtstag: 29. Juli
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Fruchtzucker
-Ausweisnummer: 99789
-Ausstellungsland: Dominikanische Republik

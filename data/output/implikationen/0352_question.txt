@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Chemiker sind Werkzeuge.
-- Alle Werkzeuge sind keine Kupfer.
-
-A) Einige Chemiker sind keine Kupfer.
-B) Alle Chemiker sind Kupfer.
-C) Einige Chemiker sind Kupfer.
-D) Alle Chemiker sind keine Kupfer.
-E) Keine der Schlussfolgerungen ist richtig.

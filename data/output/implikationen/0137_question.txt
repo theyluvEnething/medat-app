@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Quartette sind Mäuse.
-- Alle Mäuse sind keine Granite.
-
-A) Alle Quartette sind Granite.
-B) Einige Quartette sind Granite.
-C) Einige Quartette sind keine Granite.
-D) Alle Quartette sind keine Granite.
-E) Keine der Schlussfolgerungen ist richtig.

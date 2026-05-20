@@ -1,7 +1,0 @@
-Zahlenfolge: 64 46 55 55 64 46 ? ?
-
-A) 63/44
-B) 62/47
-C) 64/46
-D) 60/42
-E) Keine der Antworten ist richtig

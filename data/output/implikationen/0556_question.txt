@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Vegetarier sind keine Teleskope.
-- Alle Teleskope sind keine Schauspieler.
-
-A) Alle Vegetarier sind keine Schauspieler.
-B) Einige Vegetarier sind keine Schauspieler.
-C) Alle Vegetarier sind Schauspieler.
-D) Einige Vegetarier sind Schauspieler.
-E) Keine der Schlussfolgerungen ist richtig.

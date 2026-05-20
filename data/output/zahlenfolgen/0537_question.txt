@@ -1,7 +1,0 @@
-Zahlenfolge: 11 26 41 56 71 86 ? ?
-
-A) 172/187
-B) 116/131
-C) 118/132
-D) 115/130
-E) Keine der Antworten ist richtig

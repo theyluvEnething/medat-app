@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Fotografen sind Amseln.
-- Einige Amseln sind Granite.
-
-A) Einige Fotografen sind Granite.
-B) Alle Fotografen sind Granite.
-C) Einige Fotografen sind keine Granite.
-D) Alle Fotografen sind keine Granite.
-E) Keine der Schlussfolgerungen ist richtig.

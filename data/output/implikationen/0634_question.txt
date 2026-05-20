@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Wale sind keine Amseln.
-- Alle Amseln sind keine Tomaten.
-
-A) Alle Wale sind keine Tomaten.
-B) Alle Wale sind Tomaten.
-C) Einige Wale sind Tomaten.
-D) Einige Wale sind keine Tomaten.
-E) Keine der Schlussfolgerungen ist richtig.

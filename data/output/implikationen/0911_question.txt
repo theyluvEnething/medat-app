@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Politiker sind keine Fische.
-- Einige Fische sind keine Giraffen.
-
-A) Alle Politiker sind Giraffen.
-B) Einige Politiker sind keine Giraffen.
-C) Einige Politiker sind Giraffen.
-D) Alle Politiker sind keine Giraffen.
-E) Keine der Schlussfolgerungen ist richtig.

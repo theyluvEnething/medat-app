@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Orchideen sind keine Wölfe.
-- Einige Wölfe sind keine Tannen.
-
-A) Alle Orchideen sind Tannen.
-B) Einige Orchideen sind keine Tannen.
-C) Einige Orchideen sind Tannen.
-D) Alle Orchideen sind keine Tannen.
-E) Keine der Schlussfolgerungen ist richtig.

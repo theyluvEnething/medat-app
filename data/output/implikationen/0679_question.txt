@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Dichter sind keine Statuen.
-- Einige Statuen sind Eichen.
-
-A) Einige Dichter sind keine Eichen.
-B) Alle Dichter sind keine Eichen.
-C) Alle Dichter sind Eichen.
-D) Einige Dichter sind Eichen.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Gemälde sind keine Vulkane.
-- Alle Vulkane sind Krokodile.
-
-A) Alle Gemälde sind Krokodile.
-B) Einige Gemälde sind keine Krokodile.
-C) Einige Gemälde sind Krokodile.
-D) Alle Gemälde sind keine Krokodile.
-E) Keine der Schlussfolgerungen ist richtig.

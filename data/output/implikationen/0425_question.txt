@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Gemälde sind keine Möbel.
-- Alle Möbel sind Bücher.
-
-A) Einige Gemälde sind keine Bücher.
-B) Alle Gemälde sind Bücher.
-C) Einige Gemälde sind Bücher.
-D) Alle Gemälde sind keine Bücher.
-E) Keine der Schlussfolgerungen ist richtig.

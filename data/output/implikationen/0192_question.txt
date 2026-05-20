@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Dichter sind Schauspieler.
-- Einige Schauspieler sind Marder.
-
-A) Alle Dichter sind Marder.
-B) Einige Dichter sind Marder.
-C) Alle Dichter sind keine Marder.
-D) Einige Dichter sind keine Marder.
-E) Keine der Schlussfolgerungen ist richtig.

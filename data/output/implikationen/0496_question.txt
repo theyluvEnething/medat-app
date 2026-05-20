@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Elektroautos sind keine Mathematiker.
-- Einige Mathematiker sind keine Vögel.
-
-A) Einige Elektroautos sind keine Vögel.
-B) Alle Elektroautos sind Vögel.
-C) Einige Elektroautos sind Vögel.
-D) Alle Elektroautos sind keine Vögel.
-E) Keine der Schlussfolgerungen ist richtig.

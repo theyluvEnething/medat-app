@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Mammute sind Züge.
-- Alle Züge sind keine Lehrer.
-
-A) Alle Mammute sind keine Lehrer.
-B) Alle Mammute sind Lehrer.
-C) Einige Mammute sind Lehrer.
-D) Einige Mammute sind keine Lehrer.
-E) Keine der Schlussfolgerungen ist richtig.

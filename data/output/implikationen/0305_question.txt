@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Vegetarier sind keine Werkzeuge.
-- Einige Werkzeuge sind keine Lilien.
-
-A) Einige Vegetarier sind keine Lilien.
-B) Alle Vegetarier sind Lilien.
-C) Einige Vegetarier sind Lilien.
-D) Alle Vegetarier sind keine Lilien.
-E) Keine der Schlussfolgerungen ist richtig.

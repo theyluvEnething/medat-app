@@ -1,7 +1,0 @@
-Buchstabenreihe: C L S T H A K
-
-A) L
-B) H
-C) A
-D) K
-E) KeinederAntwortenistrichtig

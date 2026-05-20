@@ -1,7 +1,0 @@
-Zahlenfolge: 30 32 37 44 56 75 106 ? ?
-
-A) 142/231
-B) 156/237
-C) 156/252
-D) 142/247
-E) KeinederAntwortenistrichtig

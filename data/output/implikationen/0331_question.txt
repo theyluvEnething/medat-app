@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Kätzchen sind Vegetarier.
-- Alle Vegetarier sind keine Eichen.
-
-A) Alle Kätzchen sind Eichen.
-B) Einige Kätzchen sind Eichen.
-C) Alle Kätzchen sind keine Eichen.
-D) Einige Kätzchen sind keine Eichen.
-E) Keine der Schlussfolgerungen ist richtig.

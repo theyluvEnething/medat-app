@@ -1,7 +1,0 @@
-Zahlenfolge: -2 -1 6 25 62 123 ? ?
-
-A) 341/510
-B) 246/271
-C) 343/511
-D) 148/173
-E) Keine der Antworten ist richtig

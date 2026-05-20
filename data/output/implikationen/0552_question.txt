@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Werkzeuge sind Smartphones.
-- Alle Smartphones sind Pilze.
-
-A) Alle Werkzeuge sind keine Pilze.
-B) Einige Werkzeuge sind keine Pilze.
-C) Einige Werkzeuge sind Pilze.
-D) Alle Werkzeuge sind Pilze.
-E) Keine der Schlussfolgerungen ist richtig.

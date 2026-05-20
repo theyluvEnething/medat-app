@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Musikinstrumente sind Radios.
-- Alle Radios sind Bücher.
-
-A) Einige Musikinstrumente sind Bücher.
-B) Alle Musikinstrumente sind Bücher.
-C) Alle Musikinstrumente sind keine Bücher.
-D) Einige Musikinstrumente sind keine Bücher.
-E) Keine der Schlussfolgerungen ist richtig.

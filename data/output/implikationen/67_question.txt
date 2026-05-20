@@ -1,9 +1,0 @@
-Prämissen:
-- AlleZitronensindKiwis.
-- AlleKiwissindkeineFrüchte.
-
-A) AlleFrüchtesindZitronen.
-B) AlleFrüchtesindkeineZitronen.
-C) EinigeFrüchtesindZitronen.
-D) EinigeFrüchtesindkeineZitronen.
-E) KeinederSchlussfolgerungenistrichtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 92 29 38 83 92 29 ? ?
-
-A) 90/31
-B) 90/27
-C) 92/29
-D) 94/27
-E) Keine der Antworten ist richtig

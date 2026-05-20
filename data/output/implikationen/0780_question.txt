@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Züge sind keine Glühbirnen.
-- Einige Glühbirnen sind Schauspieler.
-
-A) Alle Züge sind Schauspieler.
-B) Einige Züge sind Schauspieler.
-C) Einige Züge sind keine Schauspieler.
-D) Alle Züge sind keine Schauspieler.
-E) Keine der Schlussfolgerungen ist richtig.

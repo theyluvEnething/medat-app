@@ -1,7 +1,0 @@
-Zahlenfolge: 1 3 6 18 36 108 ? ?
-
-A) 1295/3886
-B) 1295/3889
-C) 1296/3888
-D) 129/150
-E) Keine der Antworten ist richtig

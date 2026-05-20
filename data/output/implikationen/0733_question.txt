@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Flugzeuge sind keine Tabletten.
-- Einige Tabletten sind keine Fotografen.
-
-A) Alle Flugzeuge sind keine Fotografen.
-B) Einige Flugzeuge sind Fotografen.
-C) Alle Flugzeuge sind Fotografen.
-D) Einige Flugzeuge sind keine Fotografen.
-E) Keine der Schlussfolgerungen ist richtig.

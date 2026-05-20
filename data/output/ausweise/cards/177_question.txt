@@ -1,7 +1,0 @@
-Name: FRIBRAUT
-Geburtstag: 30. November
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Tintenfische, Haselnüsse,
-Ausweisnummer: 06848
-Ausstellungsland: Lesotho

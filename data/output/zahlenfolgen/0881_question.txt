@@ -1,7 +1,0 @@
-Zahlenfolge: 1 4 16 64 256 1024 ? ?
-
-A) 16383/65535
-B) 16384/65536
-C) 16383/65537
-D) 16382/65537
-E) Keine der Antworten ist richtig

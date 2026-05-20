@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Flugzeuge sind keine Smartphones.
-- Alle Smartphones sind Vegetarier.
-
-A) Einige Flugzeuge sind Vegetarier.
-B) Alle Flugzeuge sind keine Vegetarier.
-C) Einige Flugzeuge sind keine Vegetarier.
-D) Alle Flugzeuge sind Vegetarier.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Schlangen sind keine Gräser.
-- Alle Gräser sind Dichter.
-
-A) Alle Schlangen sind Dichter.
-B) Alle Schlangen sind keine Dichter.
-C) Einige Schlangen sind Dichter.
-D) Einige Schlangen sind keine Dichter.
-E) Keine der Schlussfolgerungen ist richtig.

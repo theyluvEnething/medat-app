@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Kätzchen sind keine Werkzeuge.
-- Einige Werkzeuge sind Diamanten.
-
-A) Einige Kätzchen sind keine Diamanten.
-B) Alle Kätzchen sind Diamanten.
-C) Einige Kätzchen sind Diamanten.
-D) Alle Kätzchen sind keine Diamanten.
-E) Keine der Schlussfolgerungen ist richtig.

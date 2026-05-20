@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Granite sind keine Rosen.
-- Alle Rosen sind Schauspieler.
-
-A) Einige Granite sind Schauspieler.
-B) Einige Granite sind keine Schauspieler.
-C) Alle Granite sind keine Schauspieler.
-D) Alle Granite sind Schauspieler.
-E) Keine der Schlussfolgerungen ist richtig.

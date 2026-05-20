@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Taucher sind keine Zebras.
-- Alle Zebras sind Vögel.
-
-A) Alle Taucher sind keine Vögel.
-B) Einige Taucher sind Vögel.
-C) Einige Taucher sind keine Vögel.
-D) Alle Taucher sind Vögel.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Häuser sind Quallen.
-- Einige Quallen sind Diamanten.
-
-A) Alle Häuser sind Diamanten.
-B) Alle Häuser sind keine Diamanten.
-C) Einige Häuser sind keine Diamanten.
-D) Einige Häuser sind Diamanten.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- EinigeWürstesindkeineSchnitzel.
-- EinigeSchnitzelsindSchinken.
-
-A) AlleWürstesindSchinken.
-B) AlleWürstesindkeineSchinken.
-C) EinigeWürstesindSchinken.
-D) EinigeWürstesindkeineSchinken.
-E) KeinederSchlussfolgerungenistrichtig.

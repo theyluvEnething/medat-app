@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Metalle sind keine Wissenschaftler.
-- Einige Wissenschaftler sind Giraffen.
-
-A) Alle Metalle sind Giraffen.
-B) Alle Metalle sind keine Giraffen.
-C) Einige Metalle sind keine Giraffen.
-D) Einige Metalle sind Giraffen.
-E) Keine der Schlussfolgerungen ist richtig.

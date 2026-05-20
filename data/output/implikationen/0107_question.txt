@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Schlangen sind keine Marder.
-- Einige Marder sind keine Flugzeuge.
-
-A) Alle Schlangen sind keine Flugzeuge.
-B) Alle Schlangen sind Flugzeuge.
-C) Einige Schlangen sind Flugzeuge.
-D) Einige Schlangen sind keine Flugzeuge.
-E) Keine der Schlussfolgerungen ist richtig.

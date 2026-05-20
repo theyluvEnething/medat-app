@@ -1,7 +1,0 @@
-Name: TARBANO
-Geburtstag: 27. September
-Medikamenteneinnahme: Ja
-Blutgruppe: AB
-Bekannte Allergien: Casein, Kiefer
-Ausweisnummer: 57203
-Ausstellungsland: Georgien

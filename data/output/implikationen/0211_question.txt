@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Amphibien sind Mathematiker.
-- Alle Mathematiker sind keine Vegetarier.
-
-A) Alle Amphibien sind keine Vegetarier.
-B) Alle Amphibien sind Vegetarier.
-C) Einige Amphibien sind keine Vegetarier.
-D) Einige Amphibien sind Vegetarier.
-E) Keine der Schlussfolgerungen ist richtig.

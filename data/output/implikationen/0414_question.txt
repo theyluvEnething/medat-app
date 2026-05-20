@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Türen sind keine Insekten.
-- Einige Insekten sind Uhren.
-
-A) Einige Türen sind keine Uhren.
-B) Alle Türen sind Uhren.
-C) Alle Türen sind keine Uhren.
-D) Einige Türen sind Uhren.
-E) Keine der Schlussfolgerungen ist richtig.

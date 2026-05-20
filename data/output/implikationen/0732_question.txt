@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Wale sind Vögel.
-- Einige Vögel sind keine Kätzchen.
-
-A) Alle Wale sind keine Kätzchen.
-B) Einige Wale sind keine Kätzchen.
-C) Einige Wale sind Kätzchen.
-D) Alle Wale sind Kätzchen.
-E) Keine der Schlussfolgerungen ist richtig.

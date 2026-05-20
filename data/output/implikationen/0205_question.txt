@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Dinosaurier sind keine Stühle.
-- Einige Stühle sind keine Skulpturen.
-
-A) Alle Dinosaurier sind keine Skulpturen.
-B) Alle Dinosaurier sind Skulpturen.
-C) Einige Dinosaurier sind Skulpturen.
-D) Einige Dinosaurier sind keine Skulpturen.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Vögel sind Taucher.
-- Alle Taucher sind Wirbeltiere.
-
-A) Alle Vögel sind Wirbeltiere.
-B) Alle Vögel sind keine Wirbeltiere.
-C) Einige Vögel sind Wirbeltiere.
-D) Einige Vögel sind keine Wirbeltiere.
-E) Keine der Schlussfolgerungen ist richtig.

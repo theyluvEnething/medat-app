@@ -1,7 +1,0 @@
-Zahlenfolge: 47 -2 59 -6 83 -10 119 ? ?
-
-A) -22/171
-B) -22/194
-C) -14/167
-D) 1/167
-E) KeinederAntwortenistrichtig

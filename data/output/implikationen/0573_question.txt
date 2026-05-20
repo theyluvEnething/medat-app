@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Chemiker sind Politiker.
-- Alle Politiker sind keine Tannen.
-
-A) Alle Chemiker sind keine Tannen.
-B) Einige Chemiker sind Tannen.
-C) Alle Chemiker sind Tannen.
-D) Einige Chemiker sind keine Tannen.
-E) Keine der Schlussfolgerungen ist richtig.

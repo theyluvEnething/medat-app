@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Fotografen sind Mammute.
-- Alle Mammute sind keine Tomaten.
-
-A) Alle Fotografen sind Tomaten.
-B) Einige Fotografen sind Tomaten.
-C) Alle Fotografen sind keine Tomaten.
-D) Einige Fotografen sind keine Tomaten.
-E) Keine der Schlussfolgerungen ist richtig.

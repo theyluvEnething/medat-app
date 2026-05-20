@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Ingenieure sind Vögel.
-- Einige Vögel sind Mäuse.
-
-A) Alle Ingenieure sind Mäuse.
-B) Alle Ingenieure sind keine Mäuse.
-C) Einige Ingenieure sind keine Mäuse.
-D) Einige Ingenieure sind Mäuse.
-E) Keine der Schlussfolgerungen ist richtig.

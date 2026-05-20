@@ -1,7 +1,0 @@
-Name: CERXIV
-Geburtstag: 11. Februar
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Botrytis, Bananen
-Ausweisnummer: 49632
-Ausstellungsland: Kamerun

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Sänger sind keine Türen.
-- Einige Türen sind Autos.
-
-A) Einige Sänger sind keine Autos.
-B) Alle Sänger sind Autos.
-C) Einige Sänger sind Autos.
-D) Alle Sänger sind keine Autos.
-E) Keine der Schlussfolgerungen ist richtig.

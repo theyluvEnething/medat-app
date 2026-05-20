@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Tulpen sind Chemiker.
-- Alle Chemiker sind Dichter.
-
-A) Einige Tulpen sind Dichter.
-B) Alle Tulpen sind Dichter.
-C) Alle Tulpen sind keine Dichter.
-D) Einige Tulpen sind keine Dichter.
-E) Keine der Schlussfolgerungen ist richtig.

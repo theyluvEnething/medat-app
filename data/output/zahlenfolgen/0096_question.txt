@@ -1,7 +1,0 @@
-Zahlenfolge: 17 19 57 59 177 179 ? ?
-
-A) 1615/1621
-B) 1617/1619
-C) 1618/1620
-D) 1615/1618
-E) Keine der Antworten ist richtig

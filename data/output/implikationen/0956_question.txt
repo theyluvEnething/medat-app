@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Reptilien sind keine Wirbeltiere.
-- Alle Wirbeltiere sind keine Säugetiere.
-
-A) Einige Reptilien sind keine Säugetiere.
-B) Alle Reptilien sind keine Säugetiere.
-C) Einige Reptilien sind Säugetiere.
-D) Alle Reptilien sind Säugetiere.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Name: NURFAKX
-Geburtstag: 28. Juli
-Medikamenteneinnahme: Nein
-Blutgruppe: B
-Bekannte Allergien: Hafer, Gluten
-Ausweisnummer: 97755
-Ausstellungsland: Sri Lanka

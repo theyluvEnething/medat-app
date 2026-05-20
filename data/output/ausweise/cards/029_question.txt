@@ -1,7 +1,0 @@
-Name: RIUKLIX
-Geburtstag: 5. März
-Medikamenteneinnahme: Ja
-Blutgruppe: AB
-Bekannte Allergien: Mandarinen
-Ausweisnummer: 59826
-Ausstellungsland: Vietnam

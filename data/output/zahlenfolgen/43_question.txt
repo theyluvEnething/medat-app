@@ -1,7 +1,0 @@
-Zahlenfolge: 27 8 36 16 45 48 54 ? ?
-
-A) 204/76
-B) 208/76
-C) 187/63
-D) 192/63
-E) KeinederAntwortenistrichtig

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Eidechsen sind Sportler.
-- Alle Sportler sind keine Amphibien.
-
-A) Alle Eidechsen sind Amphibien.
-B) Einige Eidechsen sind keine Amphibien.
-C) Alle Eidechsen sind keine Amphibien.
-D) Einige Eidechsen sind Amphibien.
-E) Keine der Schlussfolgerungen ist richtig.

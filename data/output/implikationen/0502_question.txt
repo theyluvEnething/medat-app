@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Vegetarier sind Musikinstrumente.
-- Alle Musikinstrumente sind keine Züge.
-
-A) Einige Vegetarier sind Züge.
-B) Alle Vegetarier sind Züge.
-C) Einige Vegetarier sind keine Züge.
-D) Alle Vegetarier sind keine Züge.
-E) Keine der Schlussfolgerungen ist richtig.

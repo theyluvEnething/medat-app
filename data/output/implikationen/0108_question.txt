@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Werkzeuge sind keine Pilze.
-- Alle Pilze sind Lehrer.
-
-A) Alle Werkzeuge sind keine Lehrer.
-B) Einige Werkzeuge sind Lehrer.
-C) Alle Werkzeuge sind Lehrer.
-D) Einige Werkzeuge sind keine Lehrer.
-E) Keine der Schlussfolgerungen ist richtig.

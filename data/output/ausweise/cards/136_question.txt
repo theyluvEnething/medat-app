@@ -1,7 +1,0 @@
-Name: NUXCOM
-Geburtstag: 12. Dezember
-Medikamenteneinnahme: Nein
-Blutgruppe: A
-Bekannte Allergien: Birke, Rosen, Brokkoli
-Ausweisnummer: 24499
-Ausstellungsland: Algerien

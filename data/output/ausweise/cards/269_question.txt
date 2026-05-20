@@ -1,7 +1,0 @@
-Name: YOMINA
-Geburtstag: 21. September
-Medikamenteneinnahme: Nein
-Blutgruppe: A
-Bekannte Allergien: Ovalbumin
-Ausweisnummer: 43516
-Ausstellungsland: Namibia

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Musikinstrumente sind Eidechsen.
-- Alle Eidechsen sind keine Skulpturen.
-
-A) Einige Musikinstrumente sind Skulpturen.
-B) Einige Musikinstrumente sind keine Skulpturen.
-C) Alle Musikinstrumente sind keine Skulpturen.
-D) Alle Musikinstrumente sind Skulpturen.
-E) Keine der Schlussfolgerungen ist richtig.

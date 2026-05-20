@@ -1,7 +1,0 @@
-Name: OKYMOK
-Geburtstag: 30. März
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Ketoprofen
-Ausweisnummer: 52765
-Ausstellungsland: Singapur

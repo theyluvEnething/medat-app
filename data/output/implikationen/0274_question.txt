@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Orchideen sind keine Radios.
-- Einige Radios sind keine Bäume.
-
-A) Einige Orchideen sind Bäume.
-B) Einige Orchideen sind keine Bäume.
-C) Alle Orchideen sind Bäume.
-D) Alle Orchideen sind keine Bäume.
-E) Keine der Schlussfolgerungen ist richtig.

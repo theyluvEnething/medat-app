@@ -1,7 +1,0 @@
-Name: TUHRUH
-Geburtstag: 3. November
-Medikamenteneinnahme: Nein
-Blutgruppe: 0
-Bekannte Allergien: Hornissengift
-Ausweisnummer: 83054
-Ausstellungsland: Kamerun

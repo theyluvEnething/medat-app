@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Roboter sind keine Lilien.
-- Einige Lilien sind keine Smartphones.
-
-A) Einige Roboter sind keine Smartphones.
-B) Alle Roboter sind keine Smartphones.
-C) Einige Roboter sind Smartphones.
-D) Alle Roboter sind Smartphones.
-E) Keine der Schlussfolgerungen ist richtig.

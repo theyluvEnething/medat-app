@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Tannen sind Vasen.
-- Alle Vasen sind keine Ingenieure.
-
-A) Einige Tannen sind Ingenieure.
-B) Alle Tannen sind Ingenieure.
-C) Einige Tannen sind keine Ingenieure.
-D) Alle Tannen sind keine Ingenieure.
-E) Keine der Schlussfolgerungen ist richtig.

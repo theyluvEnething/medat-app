@@ -17860,421 +17860,421 @@
       "section": "implikationen",
       "id": 1,
       "answer": "D",
-      "content": "Prämissen:\n- EinigeZSsindkeineNZ.\n- AlleZLIsindNZ.\n\nA) AlleZSsindZLI.\nB) AlleZSsindkeineZLI.\nC) EinigeZSsindZLI.\nD) EinigeZSsindkeineZLI.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen :\n- Einige ZS sind keine NZ.\n- Alle ZLI sind NZ.\n\nA) Alle ZS sind ZLI.\nB) Alle ZS sind keine ZLI.\nC) Einige ZS sind ZLI.\nD) Einige ZS sind keine ZLI.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 2,
       "answer": "E",
-      "content": "Prämissen:\n- AlleAbfällesindTonnen.\n- EinigeSäckesindkeineAbfälle.\n\nA) AlleTonnensindSäcke.\nB) AlleTonnensindkeineSäcke.\nC) EinigeTonnensindSäcke.\nD) EinigeTonnensindkeineSäcke.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Abfälle sind Tonnen.\n- Einige Säcke sind keine Abfälle.\n\nA) Alle Tonnen sind Säcke.\nB) Alle Tonnen sind keine Säcke.\nC) Einige Tonnen sind Säcke.\nD) Einige Tonnen sind keine Säcke.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 3,
       "answer": "C",
-      "content": "Prämissen:\n- AlleDDNsindFH.\n- EinigeDDNsindNA.\n\nA) AlleFHsindNA.\nB) AlleFHsindkeineNA.\nC) EinigeFHsindNA.\nD) EinigeFHsindkeineNA.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen :\n- Alle DDN sind FH.\n- Einige DDN sind NA.\n\nA) Alle FH sind NA.\nB) Alle FH sind keine NA.\nC) Einige FH sind NA.\nD) Einige FH sind keine NA.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 4,
       "answer": "D",
-      "content": "Prämissen:\n- AlleArtikelsindMeinungen.\n- AlleNachrichtensindkeineArtikel.\n\nA) AlleMeinungensindNachrichten.\nB) AlleMeinungensindkeineNachrichten.\nC) EinigeMeinungensindNachrichten.\nD) EinigeMeinungensindkeineNachrichten.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Artikel sind Meinungen.\n- Alle Nachrichten sind keine Artikel.\n\nA) Alle Meinungen sind Nachrichten.\nB) Alle Meinungen sind keine Nachrichten.\nC) Einige Meinungen sind Nachrichten.\nD) Einige Meinungen sind keine Nachrichten.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 5,
       "answer": "D",
-      "content": "Prämissen:\n- AlleYRFsindkeineLGG.\n- EinigeYFsindYRF.\n- 2\n\nA) AlleYFsindLGG.\nB) AlleYFsindkeineLGG.\nC) EinigeYFsindLGG.\nD) EinigeYFsindkeineLGG.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle YRF sind keine LGG.\n- Einige YF sind YRF.\nA) Alle YF sind LGG.\nB) Alle YF sind keine LGG.\nC) Einige YF sind LGG.\nD) Einige YF sind keine LGG.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 6,
       "answer": "D",
-      "content": "Prämissen:\n- AlleDBsindkeineDO.\n- EinigeDBsindDMB.\n\nA) AlleDMBsindDO.\nB) AlleDMBsindkeineDO.\nC) EinigeDMBsindDO.\nD) EinigeDMBsindkeineDO.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen :\n- Alle DB sind keine DO.\n- Einige DB sind DMB.\n\nA) Alle DMB sind DO.\nB) Alle DMB sind keine DO.\nC) Einige DMB sind DO.\nD) Einige DMB sind keine DO.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 7,
       "answer": "C",
-      "content": "Prämissen:\n- AllePYEsindYZO.\n- AlleYZOsindWP.\n\nA) AlleWPsindPYE.\nB) AlleWPsindkeinePYE.\nC) EinigeWPsindPYE.\nD) EinigeWPsindkeinePYE.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen :\n- Alle PYE sind YZO.\n- Alle YZO sind WP.\n\nA) Alle WP sind PYE.\nB) Alle WP sind keine PYE.\nC) Einige WP sind PYE.\nD) Einige WP sind keine PYE.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 8,
       "answer": "C",
-      "content": "Prämissen:\n- EinigeTomatensindPaprika.\n- AllePaprikasindGurken.\n\nA) AlleTomatensindGurken.\nB) AlleTomatensindkeineGurken.\nC) EinigeTomatensindGurken.\nD) EinigeTomatensindkeineGurken.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Tomaten sind Paprika.\n- Alle Paprika sind Gurken.\n\nA) Alle Tomaten sind Gurken.\nB) Alle Tomaten sind keine Gurken.\nC) Einige Tomaten sind Gurken.\nD) Einige Tomaten sind keine Gurken.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 9,
       "answer": "C",
-      "content": "Prämissen:\n- EinigePolizistensindPiloten.\n- AllePilotensindBusfahrer.\n\nA) AlleBusfahrersindPolizisten.\nB) AlleBusfahrersindkeinePolizisten.\nC) EinigeBusfahrersindPolizisten.\nD) EinigeBusfahrersindkeinePolizisten.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Poliz isten sind Piloten.\n- Alle Piloten sind Busfahrer.\n\nA) Alle Busfahrer sind Poliz isten.\nB) Alle Busfahrer sind keine Poliz isten.\nC) Einige Busfahrer sind Poliz isten.\nD) Einige Busfahrer sind keine Poliz isten.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 10,
       "answer": "C",
-      "content": "Prämissen:\n- EinigeSchauspielersindMaler.\n- AlleSchauspielersindMusiker.\n\nA) AlleMusikersindMaler.\nB) AlleMusikersindkeineMaler.\nC) EinigeMusikersindMaler.\nD) EinigeMusikersindkeineMaler.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Schauspieler sind Maler.\n- Alle Schauspieler sind Musiker.\n\nA) Alle Musiker sind Maler.\nB) Alle Musiker sind keine Maler.\nC) Einige Musiker sind Maler.\nD) Einige Musiker sind keine Maler.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 11,
       "answer": "C",
-      "content": "Prämissen:\n- AlleAnfängersindSchüler.\n- AlleSchülersindStudenten.\n\nA) AlleStudentensindAnfänger.\nB) AlleStudentensindkeineAnfänger.\nC) EinigeStudentensindAnfänger.\nD) EinigeStudentensindkeineAnfänger.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Anfänger sind Schüler.\n- Alle Schüler sind Stu denten.\n\nA) Alle Stu denten sind Anfänger.\nB) Alle Stu denten sind keine Anfänger.\nC) Einige Stu denten sind Anfänger.\nD) Einige Stu denten sind keine Anfänger.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 12,
       "answer": "C",
-      "content": "Prämissen:\n- EinigeVGFsindFNC.\n- AlleFNCsindCCN.\n\nA) AlleCCNsindVGF.\nB) AlleCCNsindkeineVGF.\nC) EinigeCCNsindVGF.\nD) EinigeCCNsindkeineVGF.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen :\n- Einige VGF sind FNC.\n- Alle FNC sind CCN.\n\nA) Alle CCN sind VGF.\nB) Alle CCN sind keine VGF.\nC) Einige CCN sind VGF.\nD) Einige CCN sind keine VGF.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 13,
       "answer": "B",
-      "content": "Prämissen:\n- AlleBAZsindAXB.\n- AlleXFPsindkeineAXB.\n\nA) AlleXFPsindBAZ.\nB) AlleXFPsindkeineBAZ.\nC) EinigeXFPsindBAZ.\nD) EinigeXFPsindkeineBAZ.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen :\n- Alle BAZ sind AXB.\n- Alle XFP sind keine AXB.\n\nA) Alle XFP sind BAZ.\nB) Alle XFP sind keine BAZ.\nC) Einige XFP sind BAZ.\nD) Einige XFP sind keine BAZ.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 14,
       "answer": "E",
-      "content": "Prämissen:\n- EinigeToastersindMixer.\n- AlleSiebesindMixer.\n\nA) AlleSiebesindToaster.\nB) AlleSiebesindkeineToaster.\nC) EinigeSiebesindToaster.\nD) EinigeSiebesindkeineToaster.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Toaster sind Mixer.\n- Alle Siebe sind Mixer.\n\nA) Alle Siebe sind Toaster.\nB) Alle Siebe sind keine Toaster.\nC) Einige Siebe sind Toaster.\nD) Einige Siebe sind keine Toaster.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 15,
       "answer": "D",
-      "content": "Prämissen:\n- AlleNilpferdesindBüffel.\n- AlleNashörnersindkeineNilpferde.\n\nA) AlleBüffelsindNashörner.\nB) AlleBüffelsindkeineNashörner.\nC) EinigeBüffelsindNashörner.\nD) EinigeBüffelsindkeineNashörner.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Nilpferde sind Büffel.\n- Alle Nashörner sind keine Nilpferde.\n\nA) Alle Büffel sind Nashörner.\nB) Alle Büffel sind keine Nashörner.\nC) Einige Büffel sind Nashörner.\nD) Einige Büffel sind keine Nashörner.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 16,
       "answer": "E",
-      "content": "Prämissen:\n- EinigeKernesindkeineNukleonen.\n- EinigeAtomesindkeineNukleonen.\n\nA) AlleKernesindAtome.\nB) AlleKernesindkeineAtome.\nC) EinigeKernesindAtome.\nD) EinigeKernesindkeineAtome.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Kerne sind keine Nukleonen.\n- Einige Atome sind keine Nukleonen.\n\nA) Alle Kerne sind Atome.\nB) Alle Kerne sind keine Atome.\nC) Einige Kerne sind Atome.\nD) Einige Kerne sind keine Atome.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 17,
       "answer": "B",
-      "content": "Prämissen:\n- AlleUUUsindGUS.\n- AlleKFUsindkeineGUS.\n\nA) AlleUUUsindKFU.\nB) AlleUUUsindkeineKFU.\nC) EinigeUUUsindKFU.\nD) EinigeUUUsindkeineKFU.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen :\n- Alle UUU sind GUS.\n- Alle KFU sind keine GUS.\n\nA) Alle UUU sind KFU.\nB) Alle UUU sind keine KFU.\nC) Einige UUU sind KFU.\nD) Einige UUU sind keine KFU.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 18,
       "answer": "D",
-      "content": "Prämissen:\n- EinigeBildersindkeineGemälde.\n- AllePorträtssindGemälde.\n\nA) AlleBildersindPorträts.\nB) AlleBildersindkeinePorträts.\nC) EinigeBildersindPorträts.\nD) EinigeBildersindkeinePorträts.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Bil der sind keine Gemälde.\n- Alle Porträts sind Gemälde.\n\nA) Alle Bil der sind Porträts.\nB) Alle Bil der sind keine Porträts.\nC) Einige Bil der sind Porträts.\nD) Einige Bil der sind keine Porträts.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 19,
       "answer": "E",
-      "content": "Prämissen:\n- EinigeNüssesindBeeren.\n- EinigeSträuchersindBeeren.\n\nA) AlleNüssesindSträucher.\nB) AlleNüssesindkeineSträucher.\nC) EinigeNüssesindSträucher.\nD) EinigeNüssesindkeineSträucher.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Nüsse sind Beeren.\n- Einige Sträucher sind Beeren.\n\nA) Alle Nüsse sind Sträucher.\nB) Alle Nüsse sind keine Sträucher.\nC) Einige Nüsse sind Sträucher.\nD) Einige Nüsse sind keine Sträucher.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 20,
       "answer": "D",
-      "content": "Prämissen:\n- EinigeSatellitensindkeineRaketen.\n- AlleSatellitensindStationen.\n- 3\n\nA) AlleStationensindRaketen.\nB) AlleStationensindkeineRaketen.\nC) EinigeStationensindRaketen.\nD) EinigeStationensindkeineRaketen.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Satelliten sind keine Raketen.\n- Alle Satelliten sind Stationen.\nA) Alle Stationen sind Raketen.\nB) Alle Stationen sind keine Raketen.\nC) Einige Stationen sind Raketen.\nD) Einige Stationen sind keine Raketen.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 21,
       "answer": "C",
-      "content": "Prämissen:\n- AlleZiffernsindNummern.\n- EinigeMittelwertesindZiffern.\n\nA) AlleNummernsindMittelwerte.\nB) AlleNummernsindkeineMittelwerte.\nC) EinigeNummernsindMittelwerte.\nD) EinigeNummernsindkeineMittelwerte.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Ziffern sind Nummern.\n- Einige Mittelwerte sind Ziffern.\n\nA) Alle Nummern sind Mittelwerte.\nB) Alle Nummern sind keine Mittelwerte.\nC) Einige Nummern sind Mittelwerte.\nD) Einige Nummern sind keine Mittelwerte.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 22,
       "answer": "C",
-      "content": "Prämissen:\n- AlleWellensindTeilchen.\n- EinigeWellensindPhotonen.\n\nA) AlleTeilchensindPhotonen.\nB) AlleTeilchensindkeinePhotonen.\nC) EinigeTeilchensindPhotonen.\nD) EinigeTeilchensindkeinePhotonen.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Wellen sind Teilchen.\n- Einige Wellen sind Photonen.\n\nA) Alle Teilchen sind Photonen.\nB) Alle Teilchen sind keine Photonen.\nC) Einige Teilchen sind Photonen.\nD) Einige Teilchen sind keine Photonen.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 23,
       "answer": "C",
-      "content": "Prämissen:\n- EinigeHotelssindTheater.\n- AlleHotelssindKinos.\n\nA) AlleKinossindTheater.\nB) AlleKinossindkeineTheater.\nC) EinigeKinossindTheater.\nD) EinigeKinossindkeineTheater.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Hotels sind Theater.\n- Alle Hotels sind Kinos.\n\nA) Alle Kinos sind Theater.\nB) Alle Kinos sind keine Theater.\nC) Einige Kinos sind Theater.\nD) Einige Kinos sind keine Theater.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 24,
       "answer": "E",
-      "content": "Prämissen:\n- EinigeMotorensindRotatoren.\n- AlleMotorensindkeineHeizungen.\n\nA) AlleHeizungensindRotatoren.\nB) AlleHeizungensindkeineRotatoren.\nC) EinigeHeizungensindRotatoren.\nD) EinigeHeizungensindkeineRotatoren.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Motoren sind Rotatoren.\n- Alle Motoren sind keine Heizungen.\n\nA) Alle Heizungen sind Rotatoren.\nB) Alle Heizungen sind keine Rotatoren.\nC) Einige Heizungen sind Rotatoren.\nD) Einige Heizungen sind keine Rotatoren.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 25,
       "answer": "C",
-      "content": "Prämissen:\n- EinigeRucksäckesindTaschen.\n- AlleTaschensindBehälter.\n- 4\n\nA) AlleRucksäckesindBehälter.\nB) AlleRucksäckesindkeineBehälter.\nC) EinigeRucksäckesindBehälter.\nD) EinigeRucksäckesindkeineBehälter.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Rucksäcke sind Taschen.\n- Alle Taschen sind Behälter.\nA) Alle Rucksäcke sind Behälter.\nB) Alle Rucksäcke sind keine Behälter.\nC) Einige Rucksäcke sind Behälter.\nD) Einige Rucksäcke sind keine Behälter.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 26,
       "answer": "D",
-      "content": "Prämissen:\n- AlleEKIsindYK.\n- EinigeEKIsindkeineES.\n\nA) AlleYKsindES.\nB) AlleYKsindkeineES.\nC) EinigeYKsindES.\nD) EinigeYKsindkeineES.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen :\n- Alle EKI sind YK.\n- Einige EKI sind keine ES.\n\nA) Alle YK sind ES.\nB) Alle YK sind keine ES.\nC) Einige YK sind ES.\nD) Einige YK sind keine ES.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 27,
       "answer": "C",
-      "content": "Prämissen:\n- EinigeBackwarensindGetreide.\n- AlleBackwarensindBrote.\n\nA) AlleBrotesindGetreide.\nB) AlleBrotesindkeineGetreide.\nC) EinigeBrotesindGetreide.\nD) EinigeBrotesindkeineGetreide.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Backwaren sind Getreide.\n- Alle Backwaren sind Brote.\n\nA) Alle Brote sind Getreide.\nB) Alle Brote sind keine Getreide.\nC) Einige Brote sind Getreide.\nD) Einige Brote sind keine Getreide.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 28,
       "answer": "C",
-      "content": "Prämissen:\n- AlleRötungensindTumoren.\n- AlleRötungensindÖdeme.\n\nA) AlleTumorensindÖdeme.\nB) AlleTumorensindkeineÖdeme.\nC) EinigeTumorensindÖdeme.\nD) EinigeTumorensindkeineÖdeme.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Rötungen sind Tumoren.\n- Alle Rötungen sind Ö deme.\n\nA) Alle Tumoren sind Ö deme.\nB) Alle Tumoren sind keine Ö deme.\nC) Einige Tumoren sind Ö deme.\nD) Einige Tumoren sind keine Ö deme.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 29,
       "answer": "E",
-      "content": "Prämissen:\n- AlleKämpfersindkeineWrestler.\n- EinigeWrestlersindBoxer.\n\nA) AlleKämpfersindBoxer.\nB) AlleKämpfersindkeineBoxer.\nC) EinigeKämpfersindBoxer.\nD) EinigeKämpfersindkeineBoxer.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Kämpfer sind keine Wrestler.\n- Einige Wrestler sind Boxer.\n\nA) Alle Kämpfer sind Boxer.\nB) Alle Kämpfer sind keine Boxer.\nC) Einige Kämpfer sind Boxer.\nD) Einige Kämpfer sind keine Boxer.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 30,
       "answer": "B",
-      "content": "Prämissen:\n- AlleZähnesindKiefer.\n- AlleKronensindkeineKiefer.\n\nA) AlleKronensindZähne.\nB) AlleKronensindkeineZähne.\nC) EinigeKronensindZähne.\nD) EinigeKronensindkeineZähne.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Zähne sind Kiefer.\n- Alle Kronen sind keine Kiefer.\n\nA) Alle Kronen sind Zähne.\nB) Alle Kronen sind keine Zähne.\nC) Einige Kronen sind Zähne.\nD) Einige Kronen sind keine Zähne.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 31,
       "answer": "D",
-      "content": "Prämissen:\n- AlleHaiesindkeineSchildkröten.\n- EinigeRochensindSchildkröten.\n\nA) AlleRochensindHaie.\nB) AlleRochensindkeineHaie.\nC) EinigeRochensindHaie.\nD) EinigeRochensindkeineHaie.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Haie sind keine Schildkröten.\n- Einige Rochen sind Schildkröten.\n\nA) Alle Rochen sind Haie.\nB) Alle Rochen sind keine Haie.\nC) Einige Rochen sind Haie.\nD) Einige Rochen sind keine Haie.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 32,
       "answer": "A",
-      "content": "Prämissen:\n- AllePCssindTastaturen.\n- AlleLaptopssindPCs.\n\nA) AlleLaptopssindTastaturen.\nB) AlleLaptopssindkeineTastaturen.\nC) EinigeLaptopssindTastaturen.\nD) EinigeLaptopssindkeineTastaturen.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle PC s sind Tastaturen.\n- Alle Laptops sind PC s.\n\nA) Alle Laptops sind Tastaturen.\nB) Alle Laptops sind keine Tastaturen.\nC) Einige Laptops sind Tastaturen.\nD) Einige Laptops sind keine Tastaturen.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 33,
       "answer": "A",
-      "content": "Prämissen:\n- AlleBlütensindKnospen.\n- AlleKnospensindSamen.\n\nA) AlleBlütensindSamen.\nB) AlleBlütensindkeineSamen.\nC) EinigeBlütensindSamen.\nD) EinigeBlütensindkeineSamen.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Blüten sind Knospen.\n- Alle Knospen sind Samen.\n\nA) Alle Blüten sind Samen.\nB) Alle Blüten sind keine Samen.\nC) Einige Blüten sind Samen.\nD) Einige Blüten sind keine Samen.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 34,
       "answer": "E",
-      "content": "Prämissen:\n- EinigeWürstesindkeineSchnitzel.\n- EinigeSchnitzelsindSchinken.\n\nA) AlleWürstesindSchinken.\nB) AlleWürstesindkeineSchinken.\nC) EinigeWürstesindSchinken.\nD) EinigeWürstesindkeineSchinken.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Würste sind keine Schnitzel.\n- Einige Schnitzel sind Schinken.\n\nA) Alle Würste sind Schinken.\nB) Alle Würste sind keine Schinken.\nC) Einige Würste sind Schinken.\nD) Einige Würste sind keine Schinken.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 35,
       "answer": "E",
-      "content": "Prämissen:\n- AlleTJPsindkeineTG.\n- AlleTJPsindBYU.\n\nA) AlleTGsindBYU.\nB) AlleTGsindkeineBYU.\nC) EinigeTGsindBYU.\nD) EinigeTGsindkeineBYU.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen :\n- Alle TJP sind keine TG.\n- Alle TJP sind BYU.\n\nA) Alle TG sind BYU.\nB) Alle TG sind keine BYU.\nC) Einige TG sind BYU.\nD) Einige TG sind keine BYU.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 36,
       "answer": "D",
-      "content": "Prämissen:\n- AlleGenesindkeineChromosomen.\n- EinigeGenesindKopien.\n\nA) AlleKopiensindChromosomen.\nB) AlleKopiensindkeineChromosomen.\nC) EinigeKopiensindChromosomen.\nD) EinigeKopiensindkeineChromosomen.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Gene sind keine Chromosomen.\n- Einige Gene sind Kopien.\n\nA) Alle Kopien sind Chromosomen.\nB) Alle Kopien sind keine Chromosomen.\nC) Einige Kopien sind Chromosomen.\nD) Einige Kopien sind keine Chromosomen.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 37,
       "answer": "C",
-      "content": "Prämissen:\n- AlleEidechsensindKrokodile.\n- AlleEidechsensindReptilien.\n\nA) AlleKrokodilesindReptilien.\nB) AlleKrokodilesindkeineReptilien.\nC) EinigeKrokodilesindReptilien.\nD) EinigeKrokodilesindkeineReptilien.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Eidechsen sind Krokodile.\n- Alle Eidechsen sind Reptilien.\n\nA) Alle Krokodile sind Reptilien.\nB) Alle Krokodile sind keine Reptilien.\nC) Einige Krokodile sind Reptilien.\nD) Einige Krokodile sind keine Reptilien.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 38,
       "answer": "A",
-      "content": "Prämissen:\n- AlleHölzersindStöcke.\n- AlleStützensindHölzer.\n\nA) AlleStützensindStöcke.\nB) AlleStützensindkeineStöcke.\nC) EinigeStützensindStöcke.\nD) EinigeStützensindkeineStöcke.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Hölzer sind Stöcke.\n- Alle Stützen sind Hölzer.\n\nA) Alle Stützen sind Stöcke.\nB) Alle Stützen sind keine Stöcke.\nC) Einige Stützen sind Stöcke.\nD) Einige Stützen sind keine Stöcke.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 39,
       "answer": "A",
-      "content": "Prämissen:\n- AllePilzesindViren.\n- AlleVirensindKeime.\n\nA) AllePilzesindKeime.\nB) AllePilzesindkeineKeime.\nC) EinigePilzesindKeime.\nD) EinigePilzesindkeineKeime.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Pilze sind Viren.\n- Alle Viren sind Keime.\n\nA) Alle Pilze sind Keime.\nB) Alle Pilze sind keine Keime.\nC) Einige Pilze sind Keime.\nD) Einige Pilze sind keine Keime.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 40,
       "answer": "C",
-      "content": "Prämissen:\n- AlleRohstoffesindSteine.\n- EinigeRohstoffesindMineralien.\n- 5\n\nA) AlleMineraliensindSteine.\nB) AlleMineraliensindkeineSteine.\nC) EinigeMineraliensindSteine.\nD) EinigeMineraliensindkeineSteine.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Rohstoffe sind Steine.\n- Einige Rohstoffe sind Mineralien.\nA) Alle Mineralien sind Steine.\nB) Alle Mineralien sind keine Steine.\nC) Einige Mineralien sind Steine.\nD) Einige Mineralien sind keine Steine.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 41,
       "answer": "C",
-      "content": "Prämissen:\n- AlleSeilesindTaue.\n- EinigeSeilesindFäden.\n\nA) AlleTauesindFäden.\nB) AlleTauesindkeineFäden.\nC) EinigeTauesindFäden.\nD) EinigeTauesindkeineFäden.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Seile sind Taue.\n- Einige Seile sind Fä den.\n\nA) Alle Taue sind Fä den.\nB) Alle Taue sind keine Fä den.\nC) Einige Taue sind Fä den.\nD) Einige Taue sind keine Fä den.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 42,
       "answer": "D",
-      "content": "Prämissen:\n- AlleWestensindkeineHemden.\n- AlleWestensindPullis.\n\nA) AllePullissindHemden.\nB) AllePullissindkeineHemden.\nC) EinigePullissindHemden.\nD) EinigePullissindkeineHemden.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Westen sind keine Hem den.\n- Alle Westen sind Pullis.\n\nA) Alle Pullis sind Hem den.\nB) Alle Pullis sind keine Hem den.\nC) Einige Pullis sind Hem den.\nD) Einige Pullis sind keine Hem den.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 43,
       "answer": "E",
-      "content": "Prämissen:\n- EinigeVerletzungensindInfarkte.\n- EinigeVerletzungensindAnfälle.\n\nA) AlleAnfällesindInfarkte.\nB) AlleAnfällesindkeineInfarkte.\nC) EinigeAnfällesindInfarkte.\nD) EinigeAnfällesindkeineInfarkte.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Verletzungen sind Infarkte.\n- Einige Verletzungen sind Anfälle.\n\nA) Alle Anfälle sind Infarkte.\nB) Alle Anfälle sind keine Infarkte.\nC) Einige Anfälle sind Infarkte.\nD) Einige Anfälle sind keine Infarkte.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 44,
       "answer": "E",
-      "content": "Prämissen:\n- AlleStraßensindBrücken.\n- EinigeTunnelsindkeineBrücken.\n\nA) AlleStraßensindTunnel.\nB) AlleStraßensindkeineTunnel.\nC) EinigeStraßensindTunnel.\nD) EinigeStraßensindkeineTunnel.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Straßen sind Brücken.\n- Einige Tunnel sind keine Brücken.\n\nA) Alle Straßen sind Tunnel.\nB) Alle Straßen sind keine Tunnel.\nC) Einige Straßen sind Tunnel.\nD) Einige Straßen sind keine Tunnel.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 45,
       "answer": "B",
-      "content": "Prämissen:\n- AlleBlättersindkeineRezepte.\n- AlleApothekensindBlätter.\n- 6\n\nA) AlleRezeptesindApotheken.\nB) AlleRezeptesindkeineApotheken.\nC) EinigeRezeptesindApotheken.\nD) EinigeRezeptesindkeineApotheken.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Blätter sind keine Rezepte.\n- Alle Apotheken sind Blätter.\nA) Alle Rezepte sind Apotheken.\nB) Alle Rezepte sind keine Apotheken.\nC) Einige Rezepte sind Apotheken.\nD) Einige Rezepte sind keine Apotheken.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 46,
       "answer": "C",
-      "content": "Prämissen:\n- EinigeLRNsindXF.\n- AlleLRNsindYLE.\n\nA) AlleXFsindYLE.\nB) AlleXFsindkeineYLE.\nC) EinigeXFsindYLE.\nD) EinigeXFsindkeineYLE.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen :\n- Einige LRN sind XF.\n- Alle LRN sind YLE.\n\nA) Alle XF sind YLE.\nB) Alle XF sind keine YLE.\nC) Einige XF sind YLE.\nD) Einige XF sind keine YLE.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 47,
       "answer": "D",
-      "content": "Prämissen:\n- AlleIPGsindKP.\n- AllePDsindkeineIPG.\n\nA) AlleKPsindPD.\nB) AlleKPsindkeinePD.\nC) EinigeKPsindPD.\nD) EinigeKPsindkeinePD.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen :\n- Alle IPG sind KP.\n- Alle PD sind keine IPG.\n\nA) Alle KP sind PD.\nB) Alle KP sind keine PD.\nC) Einige KP sind PD.\nD) Einige KP sind keine PD.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 48,
       "answer": "C",
-      "content": "Prämissen:\n- EinigeGipsesindSchmerzen.\n- AlleSchmerzensindFrakturen.\n\nA) AlleFrakturensindGipse.\nB) AlleFrakturensindkeineGipse.\nC) EinigeFrakturensindGipse.\nD) EinigeFrakturensindkeineGipse.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Gipse sind Schmerzen.\n- Alle Schmerzen sind Frakturen.\n\nA) Alle Frakturen sind Gipse.\nB) Alle Frakturen sind keine Gipse.\nC) Einige Frakturen sind Gipse.\nD) Einige Frakturen sind keine Gipse.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 49,
       "answer": "C",
-      "content": "Prämissen:\n- AlleAllergiensindGräser.\n- AlleAllergiensindErdnüsse.\n\nA) AlleGräsersindErdnüsse.\nB) AlleGräsersindkeineErdnüsse.\nC) EinigeGräsersindErdnüsse.\nD) EinigeGräsersindkeineErdnüsse.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Alle rgien sind Gräser.\n- Alle Alle rgien sind Erdnüsse.\n\nA) Alle Gräser sind Erdnüsse.\nB) Alle Gräser sind keine Erdnüsse.\nC) Einige Gräser sind Erdnüsse.\nD) Einige Gräser sind keine Erdnüsse.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 50,
       "answer": "B",
-      "content": "Prämissen:\n- AlleDTSsindkeineCS.\n- AlleZPsindDTS.\n\nA) AlleZPsindCS.\nB) AlleZPsindkeineCS.\nC) EinigeZPsindCS.\nD) EinigeZPsindkeineCS.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen :\n- Alle DTS sind keine CS.\n- Alle ZP sind DTS.\n\nA) Alle ZP sind CS.\nB) Alle ZP sind keine CS.\nC) Einige ZP sind CS.\nD) Einige ZP sind keine CS.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 51,
       "answer": "D",
-      "content": "Prämissen:\n- AlleKindersindkeineMädchen.\n- EinigeKindersindBuben.\n\nA) AlleBubensindMädchen.\nB) AlleBubensindkeineMädchen.\nC) EinigeBubensindMädchen.\nD) EinigeBubensindkeineMädchen.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Kin der sind keine Mädchen.\n- Einige Kin der sind Buben.\n\nA) Alle Buben sind Mädchen.\nB) Alle Buben sind keine Mädchen.\nC) Einige Buben sind Mädchen.\nD) Einige Buben sind keine Mädchen.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 52,
       "answer": "C",
-      "content": "Prämissen:\n- AlleArchitektensindDesigner.\n- AlleDesignersindIngenieure.\n\nA) AlleIngenieuresindArchitekten.\nB) AlleIngenieuresindkeineArchitekten.\nC) EinigeIngenieuresindArchitekten.\nD) EinigeIngenieuresindkeineArchitekten.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Architekten sind Designer.\n- Alle Designer sind Ingenieure.\n\nA) Alle Ingenieure sind Architekten.\nB) Alle Ingenieure sind keine Architekten.\nC) Einige Ingenieure sind Architekten.\nD) Einige Ingenieure sind keine Architekten.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 53,
       "answer": "A",
-      "content": "Prämissen:\n- AlleWasserfällesindSpritzer.\n- AlleDuschensindWasserfälle.\n\nA) AlleDuschensindSpritzer.\nB) AlleDuschensindkeineSpritzer.\nC) EinigeDuschensindSpritzer.\nD) EinigeDuschensindkeineSpritzer.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Wasserfälle sind Spritzer.\n- Alle Duschen sind Wasserfälle.\n\nA) Alle Duschen sind Spritzer.\nB) Alle Duschen sind keine Spritzer.\nC) Einige Duschen sind Spritzer.\nD) Einige Duschen sind keine Spritzer.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 54,
       "answer": "A",
-      "content": "Prämissen:\n- AlleRobbensindPinguine.\n- AlleEisbärensindRobben.\n\nA) AlleEisbärensindPinguine.\nB) AlleEisbärensindkeinePinguine.\nC) EinigeEisbärensindPinguine.\nD) EinigeEisbärensindkeinePinguine.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Robben sind Pinguine.\n- Alle Eisbären sind Robben.\n\nA) Alle Eisbären sind Pinguine.\nB) Alle Eisbären sind keine Pinguine.\nC) Einige Eisbären sind Pinguine.\nD) Einige Eisbären sind keine Pinguine.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 55,
       "answer": "E",
-      "content": "Prämissen:\n- EinigeStiefelsindkeineSchuhe.\n- AlleSandalensindkeineStiefel.\n\nA) AlleSandalensindSchuhe.\nB) AlleSandalensindkeineSchuhe.\nC) EinigeSandalensindSchuhe.\nD) EinigeSandalensindkeineSchuhe.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Stiefel sind keine Schuhe.\n- Alle Sandalen sind keine Stiefel.\n\nA) Alle Sandalen sind Schuhe.\nB) Alle Sandalen sind keine Schuhe.\nC) Einige Sandalen sind Schuhe.\nD) Einige Sandalen sind keine Schuhe.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 56,
       "answer": "B",
-      "content": "Prämissen:\n- AlleAnzahlensindkeineMengen.\n- AlleGruppensindAnzahlen.\n\nA) AlleMengensindGruppen.\nB) AlleMengensindkeineGruppen.\nC) EinigeMengensindGruppen.\nD) EinigeMengensindkeineGruppen.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Anzahlen sind keine Mengen.\n- Alle Gruppen sind Anzahlen.\n\nA) Alle Mengen sind Gruppen.\nB) Alle Mengen sind keine Gruppen.\nC) Einige Mengen sind Gruppen.\nD) Einige Mengen sind keine Gruppen.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 57,
       "answer": "B",
-      "content": "Prämissen:\n- AlleBindungensindElemente.\n- AlleElementesindkeineMoleküle.\n\nA) AlleBindungensindMoleküle.\nB) AlleBindungensindkeineMoleküle.\nC) EinigeBindungensindMoleküle.\nD) EinigeBindungensindkeineMoleküle.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Bindungen sind Elemente.\n- Alle Elemente sind keine Moleküle.\n\nA) Alle Bindungen sind Moleküle.\nB) Alle Bindungen sind keine Moleküle.\nC) Einige Bindungen sind Moleküle.\nD) Einige Bindungen sind keine Moleküle.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 58,
       "answer": "C",
-      "content": "Prämissen:\n- AlleLungensindNieren.\n- AlleLungensindHerzen.\n\nA) AlleHerzensindNieren.\nB) AlleHerzensindkeineNieren.\nC) EinigeHerzensindNieren.\nD) EinigeHerzensindkeineNieren.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Lungen sind Nieren.\n- Alle Lungen sind Herzen.\n\nA) Alle Herzen sind Nieren.\nB) Alle Herzen sind keine Nieren.\nC) Einige Herzen sind Nieren.\nD) Einige Herzen sind keine Nieren.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 59,
       "answer": "E",
-      "content": "Prämissen:\n- EinigeEnergiensindkeineFelder.\n- AlleKräftesindEnergien.\n\nA) AlleKräftesindFelder.\nB) AlleKräftesindkeineFelder.\nC) EinigeKräftesindFelder.\nD) EinigeKräftesindkeineFelder.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Energien sind keine Fel der.\n- Alle Kräfte sind Energien.\n\nA) Alle Kräfte sind Fel der.\nB) Alle Kräfte sind keine Fel der.\nC) Einige Kräfte sind Fel der.\nD) Einige Kräfte sind keine Fel der.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 60,
       "answer": "B",
-      "content": "Prämissen:\n- AlleRadfahrersindkeineSkifahrer.\n- AlleTurnersindRadfahrer.\n- 7\n\nA) AlleSkifahrersindTurner.\nB) AlleSkifahrersindkeineTurner.\nC) EinigeSkifahrersindTurner.\nD) EinigeSkifahrersindkeineTurner.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Radfahrer sind keine Skifahrer.\n- Alle Turner sind Radfahrer.\nA) Alle Skifahrer sind Turner.\nB) Alle Skifahrer sind keine Turner.\nC) Einige Skifahrer sind Turner.\nD) Einige Skifahrer sind keine Turner.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 61,
       "answer": "E",
-      "content": "Prämissen:\n- EinigeWalnüssesindkeinePfirsiche.\n- AlleKastaniensindkeineWalnüsse.\n\nA) AllePfirsichesindKastanien.\nB) AllePfirsichesindkeineKastanien.\nC) EinigePfirsichesindKastanien.\nD) EinigePfirsichesindkeineKastanien.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Einige Walnüsse sind keine Pfirsiche.\n- Alle Kastanien sind keine Walnüsse.\n\nA) Alle Pfirsiche sind Kastanien.\nB) Alle Pfirsiche sind keine Kastanien.\nC) Einige Pfirsiche sind Kastanien.\nD) Einige Pfirsiche sind keine Kastanien.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 62,
       "answer": "C",
-      "content": "Prämissen:\n- AlleTelefonesindAnrufe.\n- EinigeHandyssindTelefone.\n\nA) AlleAnrufesindHandys.\nB) AlleAnrufesindkeineHandys.\nC) EinigeAnrufesindHandys.\nD) EinigeAnrufesindkeineHandys.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Telefone sind Anrufe.\n- Einige Handys sind Telefone.\n\nA) Alle Anrufe sind Handys.\nB) Alle Anrufe sind keine Handys.\nC) Einige Anrufe sind Handys.\nD) Einige Anrufe sind keine Handys.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 63,
       "answer": "B",
-      "content": "Prämissen:\n- AlleSesselsindBänke.\n- AlleBänkesindkeineHocker.\n\nA) AlleSesselsindHocker.\nB) AlleSesselsindkeineHocker.\nC) EinigeSesselsindHocker.\nD) EinigeSesselsindkeineHocker.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Sessel sind Bänke.\n- Alle Bänke sind keine Hocker.\n\nA) Alle Sessel sind Hocker.\nB) Alle Sessel sind keine Hocker.\nC) Einige Sessel sind Hocker.\nD) Einige Sessel sind keine Hocker.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 64,
       "answer": "D",
-      "content": "Prämissen:\n- AlleWMsindZBN.\n- EinigeNWBsindkeineZBN.\n\nA) AlleNWBsindWM.\nB) AlleNWBsindkeineWM.\nC) EinigeNWBsindWM.\nD) EinigeNWBsindkeineWM.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen :\n- Alle WM sind ZBN.\n- Einige NWB sind keine ZBN.\n\nA) Alle NWB sind WM.\nB) Alle NWB sind keine WM.\nC) Einige NWB sind WM.\nD) Einige NWB sind keine WM.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 65,
       "answer": "D",
-      "content": "Prämissen:\n- AllePizzassindkeineTeigwaren.\n- AllePizzassindNudeln.\n- 8\n\nA) AlleNudelnsindTeigwaren.\nB) AlleNudelnsindkeineTeigwaren.\nC) EinigeNudelnsindTeigwaren.\nD) EinigeNudelnsindkeineTeigwaren.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Pizzas sind keine Teigwaren.\n- Alle Pizzas sind Nudeln.\nA) Alle Nudeln sind Teigwaren.\nB) Alle Nudeln sind keine Teigwaren.\nC) Einige Nudeln sind Teigwaren.\nD) Einige Nudeln sind keine Teigwaren.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 66,
       "answer": "D",
-      "content": "Prämissen:\n- AlleMagnetensindkeineKompasse.\n- AlleKompassesindNordpole.\n\nA) AlleNordpolesindMagneten.\nB) AlleNordpolesindkeineMagneten.\nC) EinigeNordpolesindMagneten.\nD) EinigeNordpolesindkeineMagneten.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Magneten sind keine Kompasse.\n- Alle Kompasse sind Nordpole.\n\nA) Alle Nordpole sind Magneten.\nB) Alle Nordpole sind keine Magneten.\nC) Einige Nordpole sind Magneten.\nD) Einige Nordpole sind keine Magneten.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 67,
       "answer": "B",
-      "content": "Prämissen:\n- AlleZitronensindKiwis.\n- AlleKiwissindkeineFrüchte.\n\nA) AlleFrüchtesindZitronen.\nB) AlleFrüchtesindkeineZitronen.\nC) EinigeFrüchtesindZitronen.\nD) EinigeFrüchtesindkeineZitronen.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Zitronen sind Kiwis.\n- Alle Kiwis sind keine Früchte.\n\nA) Alle Früchte sind Zitronen.\nB) Alle Früchte sind keine Zitronen.\nC) Einige Früchte sind Zitronen.\nD) Einige Früchte sind keine Zitronen.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 68,
       "answer": "B",
-      "content": "Prämissen:\n- AlleKommodensindkeineKästen.\n- AlleRegalesindKommoden.\n\nA) AlleRegalesindKästen.\nB) AlleRegalesindkeineKästen.\nC) EinigeRegalesindKästen.\nD) EinigeRegalesindkeineKästen.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Kommo den sind keine Kästen.\n- Alle Regale sind Kommo den.\n\nA) Alle Regale sind Kästen.\nB) Alle Regale sind keine Kästen.\nC) Einige Regale sind Kästen.\nD) Einige Regale sind keine Kästen.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 69,
       "answer": "D",
-      "content": "Prämissen:\n- AlleNotizensindBlöcke.\n- AlleNotizensindkeineTexte.\n\nA) AlleBlöckesindTexte.\nB) AlleBlöckesindkeineTexte.\nC) EinigeBlöckesindTexte.\nD) EinigeBlöckesindkeineTexte.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Notizen sind Blöcke.\n- Alle Notizen sind keine Texte.\n\nA) Alle Blöcke sind Texte.\nB) Alle Blöcke sind keine Texte.\nC) Einige Blöcke sind Texte.\nD) Einige Blöcke sind keine Texte.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",
       "id": 70,
       "answer": "D",
-      "content": "Prämissen:\n- AlleTräumesindRealitäten.\n- EinigeTräumesindkeineSymbole.\n\nA) AlleRealitätensindSymbole.\nB) AlleRealitätensindkeineSymbole.\nC) EinigeRealitätensindSymbole.\nD) EinigeRealitätensindkeineSymbole.\nE) KeinederSchlussfolgerungenistrichtig."
+      "content": "Prämissen:\n- Alle Träume sind Realitäten.\n- Einige Träume sind keine Symbole.\n\nA) Alle Realitäten sind Symbole.\nB) Alle Realitäten sind keine Symbole.\nC) Einige Realitäten sind Symbole.\nD) Einige Realitäten sind keine Symbole.\nE) Keine der Schlussfolgerungen ist richtig."
     },
     {
       "section": "implikationen",

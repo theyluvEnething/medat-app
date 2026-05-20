@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Schiffe sind keine Uhren.
-- Einige Uhren sind keine Vulkane.
-
-A) Einige Schiffe sind keine Vulkane.
-B) Alle Schiffe sind keine Vulkane.
-C) Alle Schiffe sind Vulkane.
-D) Einige Schiffe sind Vulkane.
-E) Keine der Schlussfolgerungen ist richtig.

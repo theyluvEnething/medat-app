@@ -1,7 +1,0 @@
-Zahlenfolge: -2 3 9 16 24 33 ? ?
-
-A) 66/79
-B) 65/77
-C) 40/47
-D) 68/81
-E) Keine der Antworten ist richtig

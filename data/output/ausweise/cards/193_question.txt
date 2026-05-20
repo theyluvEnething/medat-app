@@ -1,7 +1,0 @@
-Name: TISFLO
-Geburtstag: 8. Juli
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Maracuja, Kartoffeln
-Ausweisnummer: 04521
-Ausstellungsland: Malta

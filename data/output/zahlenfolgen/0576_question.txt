@@ -1,7 +1,0 @@
-Zahlenfolge: 9 12 36 39 117 120 ? ?
-
-A) 1088/1091
-B) 1091/1091
-C) 1088/1090
-D) 1089/1092
-E) Keine der Antworten ist richtig

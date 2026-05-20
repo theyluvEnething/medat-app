@@ -1,7 +1,0 @@
-Name: EMILOKA
-Geburtstag: 7. Oktober
-Medikamenteneinnahme: Nein
-Blutgruppe: A
-Bekannte Allergien: Sardellen
-Ausweisnummer: 78625
-Ausstellungsland: Mauretanien

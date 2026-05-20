@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Metalle sind Amphibien.
-- Alle Amphibien sind Hunde.
-
-A) Einige Metalle sind Hunde.
-B) Alle Metalle sind Hunde.
-C) Alle Metalle sind keine Hunde.
-D) Einige Metalle sind keine Hunde.
-E) Keine der Schlussfolgerungen ist richtig.

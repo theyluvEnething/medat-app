@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Amphibien sind keine Giraffen.
-- Einige Giraffen sind keine Rosen.
-
-A) Alle Amphibien sind Rosen.
-B) Einige Amphibien sind Rosen.
-C) Alle Amphibien sind keine Rosen.
-D) Einige Amphibien sind keine Rosen.
-E) Keine der Schlussfolgerungen ist richtig.

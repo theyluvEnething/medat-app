@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Wirbeltiere sind keine Diamanten.
-- Alle Diamanten sind keine Dichter.
-
-A) Alle Wirbeltiere sind Dichter.
-B) Alle Wirbeltiere sind keine Dichter.
-C) Einige Wirbeltiere sind keine Dichter.
-D) Einige Wirbeltiere sind Dichter.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Wielautetdie AusweisnummerderPerson mitdiesemBild?
-
-A) 46760
-B) 15739
-C) 95529
-D) 67500
-E) KeinederAntwortenistrichtig

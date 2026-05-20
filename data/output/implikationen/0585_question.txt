@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Granite sind Rosen.
-- Alle Rosen sind Vasen.
-
-A) Alle Granite sind Vasen.
-B) Einige Granite sind keine Vasen.
-C) Alle Granite sind keine Vasen.
-D) Einige Granite sind Vasen.
-E) Keine der Schlussfolgerungen ist richtig.

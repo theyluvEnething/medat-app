@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Politiker sind Radios.
-- Einige Radios sind Dichter.
-
-A) Einige Politiker sind Dichter.
-B) Einige Politiker sind keine Dichter.
-C) Alle Politiker sind Dichter.
-D) Alle Politiker sind keine Dichter.
-E) Keine der Schlussfolgerungen ist richtig.

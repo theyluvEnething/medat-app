@@ -1,7 +1,0 @@
-WievielePersonensindallergischgegen Johannisbeeren?
-
-A) 0
-B) 1
-C) 4
-D) 2
-E) KeinederAntwortenistrichtig

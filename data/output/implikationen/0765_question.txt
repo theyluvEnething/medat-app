@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Kätzchen sind Radios.
-- Einige Radios sind keine Lehrer.
-
-A) Einige Kätzchen sind keine Lehrer.
-B) Einige Kätzchen sind Lehrer.
-C) Alle Kätzchen sind Lehrer.
-D) Alle Kätzchen sind keine Lehrer.
-E) Keine der Schlussfolgerungen ist richtig.

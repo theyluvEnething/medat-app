@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Diamanten sind Schriftsteller.
-- Einige Schriftsteller sind keine Taucher.
-
-A) Einige Diamanten sind Taucher.
-B) Alle Diamanten sind Taucher.
-C) Einige Diamanten sind keine Taucher.
-D) Alle Diamanten sind keine Taucher.
-E) Keine der Schlussfolgerungen ist richtig.

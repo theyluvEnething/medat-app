@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Anwälte sind keine Vulkane.
-- Alle Vulkane sind Schlangen.
-
-A) Alle Anwälte sind Schlangen.
-B) Einige Anwälte sind keine Schlangen.
-C) Alle Anwälte sind keine Schlangen.
-D) Einige Anwälte sind Schlangen.
-E) Keine der Schlussfolgerungen ist richtig.

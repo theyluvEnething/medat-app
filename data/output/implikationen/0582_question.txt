@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Insekten sind keine Säugetiere.
-- Alle Säugetiere sind Giraffen.
-
-A) Alle Insekten sind keine Giraffen.
-B) Einige Insekten sind Giraffen.
-C) Alle Insekten sind Giraffen.
-D) Einige Insekten sind keine Giraffen.
-E) Keine der Schlussfolgerungen ist richtig.

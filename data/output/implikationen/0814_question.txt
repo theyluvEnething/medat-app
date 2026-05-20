@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Kätzchen sind keine Vegetarier.
-- Alle Vegetarier sind keine Ärzte.
-
-A) Einige Kätzchen sind keine Ärzte.
-B) Alle Kätzchen sind keine Ärzte.
-C) Alle Kätzchen sind Ärzte.
-D) Einige Kätzchen sind Ärzte.
-E) Keine der Schlussfolgerungen ist richtig.

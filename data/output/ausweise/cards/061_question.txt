@@ -1,7 +1,0 @@
-Name: WOPPEKL
-Geburtstag: 21. Dezember
-Medikamenteneinnahme: Nein
-Blutgruppe: B
-Bekannte Allergien: Sardinen, Hühnereiweiß
-Ausweisnummer: 41354
-Ausstellungsland: Sri Lanka

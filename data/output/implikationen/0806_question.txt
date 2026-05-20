@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Telefone sind keine Mammute.
-- Alle Mammute sind Stühle.
-
-A) Alle Telefone sind Stühle.
-B) Alle Telefone sind keine Stühle.
-C) Einige Telefone sind keine Stühle.
-D) Einige Telefone sind Stühle.
-E) Keine der Schlussfolgerungen ist richtig.

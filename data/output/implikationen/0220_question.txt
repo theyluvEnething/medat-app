@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Säugetiere sind keine Lehrer.
-- Alle Lehrer sind keine Quallen.
-
-A) Einige Säugetiere sind Quallen.
-B) Alle Säugetiere sind Quallen.
-C) Alle Säugetiere sind keine Quallen.
-D) Einige Säugetiere sind keine Quallen.
-E) Keine der Schlussfolgerungen ist richtig.

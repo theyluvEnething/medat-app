@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Türen sind Wölfe.
-- Alle Wölfe sind keine Granite.
-
-A) Alle Türen sind keine Granite.
-B) Einige Türen sind keine Granite.
-C) Einige Türen sind Granite.
-D) Alle Türen sind Granite.
-E) Keine der Schlussfolgerungen ist richtig.

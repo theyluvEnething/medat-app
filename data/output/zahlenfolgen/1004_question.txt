@@ -1,7 +1,0 @@
-Zahlenfolge: 4 8 13 19 26 34 ? ?
-
-A) 65/78
-B) 63/74
-C) 66/75
-D) 64/76
-E) Keine der Antworten ist richtig

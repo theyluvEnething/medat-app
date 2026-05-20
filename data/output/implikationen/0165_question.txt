@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Roboter sind Delfine.
-- Alle Delfine sind Skulpturen.
-
-A) Einige Roboter sind Skulpturen.
-B) Einige Roboter sind keine Skulpturen.
-C) Alle Roboter sind Skulpturen.
-D) Alle Roboter sind keine Skulpturen.
-E) Keine der Schlussfolgerungen ist richtig.

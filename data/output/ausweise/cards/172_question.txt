@@ -1,7 +1,0 @@
-Name: LISZONG
-Geburtstag: 10. Juni
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Flusskrebse, Auberginen
-Ausweisnummer: 40469
-Ausstellungsland: Estland

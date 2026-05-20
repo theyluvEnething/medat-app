@@ -1,7 +1,0 @@
-Zahlenfolge: 16 21 27 34 42 51 ? ?
-
-A) 83/98
-B) 97/84
-C) 84/97
-D) 85/96
-E) Keine der Antworten ist richtig

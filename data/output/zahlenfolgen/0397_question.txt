@@ -1,7 +1,0 @@
-Zahlenfolge: 47 52 57 62 67 72 ? ?
-
-A) 82/87
-B) 81/89
-C) 80/86
-D) 77/82
-E) Keine der Antworten ist richtig

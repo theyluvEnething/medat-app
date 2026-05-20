@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Nashörner sind Wölfe.
-- Einige Wölfe sind Glühbirnen.
-
-A) Einige Nashörner sind Glühbirnen.
-B) Einige Nashörner sind keine Glühbirnen.
-C) Alle Nashörner sind keine Glühbirnen.
-D) Alle Nashörner sind Glühbirnen.
-E) Keine der Schlussfolgerungen ist richtig.

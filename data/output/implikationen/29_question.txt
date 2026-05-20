@@ -1,9 +1,0 @@
-Prämissen:
-- AlleKämpfersindkeineWrestler.
-- EinigeWrestlersindBoxer.
-
-A) AlleKämpfersindBoxer.
-B) AlleKämpfersindkeineBoxer.
-C) EinigeKämpfersindBoxer.
-D) EinigeKämpfersindkeineBoxer.
-E) KeinederSchlussfolgerungenistrichtig.

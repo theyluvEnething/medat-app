@@ -1,7 +1,0 @@
-Zahlenfolge: 53 35 40 4 9 9 ? ?
-
-A) 44/65
-B) 46/64
-C) 44/63
-D) 48/65
-E) Keine der Antworten ist richtig

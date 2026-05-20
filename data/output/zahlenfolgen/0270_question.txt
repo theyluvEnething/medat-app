@@ -1,7 +1,0 @@
-Zahlenfolge: 13 14 17 22 29 38 ? ?
-
-A) 77/94
-B) 75/96
-C) 75/93
-D) 43/48
-E) Keine der Antworten ist richtig

@@ -1,7 +1,0 @@
-Name: GALZURX
-Geburtstag: 7. September
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Tanne, Baumpollen
-Ausweisnummer: 10252
-Ausstellungsland: Russland

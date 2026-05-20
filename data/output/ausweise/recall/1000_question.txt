@@ -1,7 +1,0 @@
-Wielautetdie AusweisnummerderPerson mitdiesemBild?
-
-A) 19429
-B) 37546
-C) 06835
-D) 22314
-E) KeinederAntwortenistrichtig

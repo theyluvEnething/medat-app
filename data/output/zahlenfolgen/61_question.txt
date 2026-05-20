@@ -1,7 +1,0 @@
-Zahlenfolge: -2 24 -1 96 1 288 4 ? ?
-
-A) 574/5
-B) 587/8
-C) 604/10
-D) 576/8
-E) KeinederAntwortenistrichtig

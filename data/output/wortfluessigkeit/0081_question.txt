@@ -1,7 +1,0 @@
-Buchstabenreihe: N A D G E
-
-A) N
-B) A
-C) E
-D) G
-E) KeinederAntwortenistrichtig

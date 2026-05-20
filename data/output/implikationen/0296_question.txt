@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Orchideen sind Smartphones.
-- Einige Smartphones sind Wissenschaftler.
-
-A) Einige Orchideen sind keine Wissenschaftler.
-B) Alle Orchideen sind keine Wissenschaftler.
-C) Einige Orchideen sind Wissenschaftler.
-D) Alle Orchideen sind Wissenschaftler.
-E) Keine der Schlussfolgerungen ist richtig.

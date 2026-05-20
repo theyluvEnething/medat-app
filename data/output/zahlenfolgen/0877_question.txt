@@ -1,7 +1,0 @@
-Zahlenfolge: 4 13 17 30 47 77 ? ?
-
-A) 324/528
-B) 325/526
-C) 154/168
-D) 327/528
-E) Keine der Antworten ist richtig

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Quartette sind Flugzeuge.
-- Alle Flugzeuge sind keine Pandas.
-
-A) Alle Quartette sind Pandas.
-B) Einige Quartette sind Pandas.
-C) Alle Quartette sind keine Pandas.
-D) Einige Quartette sind keine Pandas.
-E) Keine der Schlussfolgerungen ist richtig.

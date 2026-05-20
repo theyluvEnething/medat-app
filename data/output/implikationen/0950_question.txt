@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Zebras sind keine Quartette.
-- Alle Quartette sind keine Häuser.
-
-A) Einige Zebras sind Häuser.
-B) Alle Zebras sind keine Häuser.
-C) Alle Zebras sind Häuser.
-D) Einige Zebras sind keine Häuser.
-E) Keine der Schlussfolgerungen ist richtig.

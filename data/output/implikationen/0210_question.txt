@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Wölfe sind keine Quallen.
-- Alle Quallen sind Gemälde.
-
-A) Einige Wölfe sind keine Gemälde.
-B) Alle Wölfe sind keine Gemälde.
-C) Einige Wölfe sind Gemälde.
-D) Alle Wölfe sind Gemälde.
-E) Keine der Schlussfolgerungen ist richtig.

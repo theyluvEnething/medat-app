@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Musikinstrumente sind Chemiker.
-- Einige Chemiker sind keine Rosen.
-
-A) Einige Musikinstrumente sind keine Rosen.
-B) Alle Musikinstrumente sind Rosen.
-C) Einige Musikinstrumente sind Rosen.
-D) Alle Musikinstrumente sind keine Rosen.
-E) Keine der Schlussfolgerungen ist richtig.

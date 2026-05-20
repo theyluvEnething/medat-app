@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Flüsse sind keine Orchideen.
-- Alle Orchideen sind Amseln.
-
-A) Einige Flüsse sind Amseln.
-B) Alle Flüsse sind keine Amseln.
-C) Alle Flüsse sind Amseln.
-D) Einige Flüsse sind keine Amseln.
-E) Keine der Schlussfolgerungen ist richtig.

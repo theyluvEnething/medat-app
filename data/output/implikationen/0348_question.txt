@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Häuser sind Kätzchen.
-- Alle Kätzchen sind keine Säugetiere.
-
-A) Alle Häuser sind keine Säugetiere.
-B) Einige Häuser sind keine Säugetiere.
-C) Alle Häuser sind Säugetiere.
-D) Einige Häuser sind Säugetiere.
-E) Keine der Schlussfolgerungen ist richtig.

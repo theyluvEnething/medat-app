@@ -1,7 +1,0 @@
-Zahlenfolge: 26 62 71 17 26 62 ? ?
-
-A) 24/64
-B) 62/26
-C) 69/76
-D) 26/62
-E) Keine der Antworten ist richtig

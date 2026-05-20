@@ -1,7 +1,0 @@
-Name: CNOXIZ
-Geburtstag: 20. Oktober
-Medikamenteneinnahme: Ja
-Blutgruppe: 0
-Bekannte Allergien: Retinol, Hornissengift,
-Ausweisnummer: 14611
-Ausstellungsland: Oman

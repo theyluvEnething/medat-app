@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Marder sind Giraffen.
-- Alle Giraffen sind keine Hunde.
-
-A) Alle Marder sind keine Hunde.
-B) Einige Marder sind keine Hunde.
-C) Einige Marder sind Hunde.
-D) Alle Marder sind Hunde.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 8 14 22 36 58 94 ? ?
-
-A) 644/398
-B) 398/644
-C) 397/642
-D) 397/643
-E) Keine der Antworten ist richtig

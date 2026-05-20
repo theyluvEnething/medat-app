@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Türen sind keine Pandas.
-- Einige Pandas sind Klaviere.
-
-A) Alle Türen sind Klaviere.
-B) Einige Türen sind Klaviere.
-C) Einige Türen sind keine Klaviere.
-D) Alle Türen sind keine Klaviere.
-E) Keine der Schlussfolgerungen ist richtig.

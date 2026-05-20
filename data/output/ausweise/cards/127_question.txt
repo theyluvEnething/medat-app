@@ -1,7 +1,0 @@
-Name: HINDRAF
-Geburtstag: 9. Oktober
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Sesamsamen
-Ausweisnummer: 76896
-Ausstellungsland: Norwegen

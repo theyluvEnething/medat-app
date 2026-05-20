@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Vögel sind Tiger.
-- Einige Tiger sind Bäume.
-
-A) Alle Vögel sind keine Bäume.
-B) Alle Vögel sind Bäume.
-C) Einige Vögel sind keine Bäume.
-D) Einige Vögel sind Bäume.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Politiker sind Bäume.
-- Einige Bäume sind Orchideen.
-
-A) Alle Politiker sind keine Orchideen.
-B) Alle Politiker sind Orchideen.
-C) Einige Politiker sind Orchideen.
-D) Einige Politiker sind keine Orchideen.
-E) Keine der Schlussfolgerungen ist richtig.

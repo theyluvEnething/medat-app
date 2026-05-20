@@ -1,7 +1,0 @@
-Zahlenfolge: 29 32 36 41 47 54 ? ?
-
-A) 83/91
-B) 80/91
-C) 81/92
-D) 82/93
-E) Keine der Antworten ist richtig

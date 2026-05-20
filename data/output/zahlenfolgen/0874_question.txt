@@ -1,7 +1,0 @@
-Zahlenfolge: 42 57 72 87 102 117 ? ?
-
-A) 145/163
-B) 162/147
-C) 146/160
-D) 147/162
-E) Keine der Antworten ist richtig

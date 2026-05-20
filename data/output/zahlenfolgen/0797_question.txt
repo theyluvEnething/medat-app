@@ -1,7 +1,0 @@
-Zahlenfolge: 11 16 48 53 159 164 ? ?
-
-A) 1491/1496
-B) 1493/1498
-C) 1490/1498
-D) 1492/1498
-E) Keine der Antworten ist richtig

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Pilze sind Lilien.
-- Alle Lilien sind Werkzeuge.
-
-A) Einige Pilze sind Werkzeuge.
-B) Einige Pilze sind keine Werkzeuge.
-C) Alle Pilze sind keine Werkzeuge.
-D) Alle Pilze sind Werkzeuge.
-E) Keine der Schlussfolgerungen ist richtig.

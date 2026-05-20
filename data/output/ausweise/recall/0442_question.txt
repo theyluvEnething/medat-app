@@ -1,7 +1,0 @@
-WievielePersonenhabeneinenAusweis ausPalau?
-
-A) 0
-B) 3
-C) 2
-D) 4
-E) KeinederAntwortenistrichtig

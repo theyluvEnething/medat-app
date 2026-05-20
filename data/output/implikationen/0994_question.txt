@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Wale sind keine Orchideen.
-- Einige Orchideen sind keine Blumen.
-
-A) Einige Wale sind Blumen.
-B) Einige Wale sind keine Blumen.
-C) Alle Wale sind Blumen.
-D) Alle Wale sind keine Blumen.
-E) Keine der Schlussfolgerungen ist richtig.

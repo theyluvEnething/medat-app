@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Fische sind Orchideen.
-- Einige Orchideen sind keine Taucher.
-
-A) Einige Fische sind Taucher.
-B) Alle Fische sind Taucher.
-C) Alle Fische sind keine Taucher.
-D) Einige Fische sind keine Taucher.
-E) Keine der Schlussfolgerungen ist richtig.

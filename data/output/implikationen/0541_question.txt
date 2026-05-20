@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Schauspieler sind Pandas.
-- Alle Pandas sind Flüsse.
-
-A) Alle Schauspieler sind Flüsse.
-B) Einige Schauspieler sind keine Flüsse.
-C) Einige Schauspieler sind Flüsse.
-D) Alle Schauspieler sind keine Flüsse.
-E) Keine der Schlussfolgerungen ist richtig.

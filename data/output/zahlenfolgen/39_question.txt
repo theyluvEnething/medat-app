@@ -1,7 +1,0 @@
-Zahlenfolge: 40 -21 -22 200 -84 -66 400 ? ?
-
-A) -84/-23
-B) -9/-80
-C) -84/-6
-D) -84/0
-E) KeinederAntwortenistrichtig

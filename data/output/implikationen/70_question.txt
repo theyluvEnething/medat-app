@@ -1,9 +1,0 @@
-Prämissen:
-- AlleTräumesindRealitäten.
-- EinigeTräumesindkeineSymbole.
-
-A) AlleRealitätensindSymbole.
-B) AlleRealitätensindkeineSymbole.
-C) EinigeRealitätensindSymbole.
-D) EinigeRealitätensindkeineSymbole.
-E) KeinederSchlussfolgerungenistrichtig.

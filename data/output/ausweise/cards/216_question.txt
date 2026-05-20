@@ -1,7 +1,0 @@
-Name: QUANSMOR
-Geburtstag: 11. November
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Silber, Orangen, Brombeeren
-Ausweisnummer: 54123
-Ausstellungsland: Nordkorea

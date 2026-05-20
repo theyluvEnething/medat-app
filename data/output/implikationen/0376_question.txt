@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Maler sind keine Gedichte.
-- Einige Gedichte sind keine Wirbeltiere.
-
-A) Einige Maler sind keine Wirbeltiere.
-B) Einige Maler sind Wirbeltiere.
-C) Alle Maler sind keine Wirbeltiere.
-D) Alle Maler sind Wirbeltiere.
-E) Keine der Schlussfolgerungen ist richtig.

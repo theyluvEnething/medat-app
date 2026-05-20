@@ -1,7 +1,0 @@
-Zahlenfolge: 2 -5 15 8 28 21 41 ? ?
-
-A) 46/38
-B) 34/65
-C) 28/38
-D) 34/54
-E) KeinederAntwortenistrichtig

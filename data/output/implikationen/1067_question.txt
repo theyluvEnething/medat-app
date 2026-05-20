@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Pilze sind Giraffen.
-- Einige Giraffen sind Mammute.
-
-A) Alle Pilze sind Mammute.
-B) Einige Pilze sind keine Mammute.
-C) Alle Pilze sind keine Mammute.
-D) Einige Pilze sind Mammute.
-E) Keine der Schlussfolgerungen ist richtig.

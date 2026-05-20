@@ -1,7 +1,0 @@
-MitwelchenZiffernbeginntdie AusweisnummerderPersonmitdem NamenLEIDASM?
-
-A) 01
-B) 16
-C) 84
-D) 40
-E) KeinederAntwortenistrichtig

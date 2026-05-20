@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Zebras sind keine Delfine.
-- Alle Delfine sind keine Türen.
-
-A) Einige Zebras sind keine Türen.
-B) Alle Zebras sind keine Türen.
-C) Einige Zebras sind Türen.
-D) Alle Zebras sind Türen.
-E) Keine der Schlussfolgerungen ist richtig.

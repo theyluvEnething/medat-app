@@ -1,7 +1,0 @@
-Name: CROZTAL
-Geburtstag: 23. August
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Latex
-Ausweisnummer: 99142
-Ausstellungsland: Senegal

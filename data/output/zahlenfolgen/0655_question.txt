@@ -1,7 +1,0 @@
-Zahlenfolge: 14 16 32 34 68 70 ? ?
-
-A) 282/284
-B) 283/284
-C) 284/286
-D) 286/285
-E) Keine der Antworten ist richtig

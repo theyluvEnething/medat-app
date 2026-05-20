@@ -1,7 +1,0 @@
-Zahlenfolge: 3 8 11 19 30 49 ? ?
-
-A) 209/336
-B) 206/336
-C) 207/335
-D) 98/107
-E) Keine der Antworten ist richtig

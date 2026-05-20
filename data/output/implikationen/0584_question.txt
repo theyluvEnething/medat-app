@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Delfine sind Skulpturen.
-- Alle Skulpturen sind keine Maler.
-
-A) Alle Delfine sind keine Maler.
-B) Einige Delfine sind Maler.
-C) Einige Delfine sind keine Maler.
-D) Alle Delfine sind Maler.
-E) Keine der Schlussfolgerungen ist richtig.

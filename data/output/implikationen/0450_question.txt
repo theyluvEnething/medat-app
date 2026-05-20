@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Vögel sind Flüsse.
-- Einige Flüsse sind keine Politiker.
-
-A) Einige Vögel sind Politiker.
-B) Alle Vögel sind keine Politiker.
-C) Einige Vögel sind keine Politiker.
-D) Alle Vögel sind Politiker.
-E) Keine der Schlussfolgerungen ist richtig.

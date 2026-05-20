@@ -1,9 +1,0 @@
-Prämissen:
-- AlleNilpferdesindBüffel.
-- AlleNashörnersindkeineNilpferde.
-
-A) AlleBüffelsindNashörner.
-B) AlleBüffelsindkeineNashörner.
-C) EinigeBüffelsindNashörner.
-D) EinigeBüffelsindkeineNashörner.
-E) KeinederSchlussfolgerungenistrichtig.

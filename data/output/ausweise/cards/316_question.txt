@@ -1,7 +1,0 @@
-Name: UNERAM
-Geburtstag: 9. Juni
-Medikamenteneinnahme: Ja
-Blutgruppe: 0
-Bekannte Allergien: Rispengras, Beifuß
-Ausweisnummer: 22314
-Ausstellungsland: Dänemark

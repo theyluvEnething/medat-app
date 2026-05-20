@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Eichen sind keine Maler.
-- Einige Maler sind keine Wissenschaftler.
-
-A) Alle Eichen sind Wissenschaftler.
-B) Einige Eichen sind keine Wissenschaftler.
-C) Alle Eichen sind keine Wissenschaftler.
-D) Einige Eichen sind Wissenschaftler.
-E) Keine der Schlussfolgerungen ist richtig.

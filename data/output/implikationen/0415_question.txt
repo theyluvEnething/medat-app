@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Lehrer sind Granite.
-- Alle Granite sind keine Häuser.
-
-A) Einige Lehrer sind keine Häuser.
-B) Einige Lehrer sind Häuser.
-C) Alle Lehrer sind Häuser.
-D) Alle Lehrer sind keine Häuser.
-E) Keine der Schlussfolgerungen ist richtig.

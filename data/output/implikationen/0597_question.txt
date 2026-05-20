@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Klaviere sind Reptilien.
-- Alle Reptilien sind keine Dinosaurier.
-
-A) Alle Klaviere sind Dinosaurier.
-B) Einige Klaviere sind Dinosaurier.
-C) Alle Klaviere sind keine Dinosaurier.
-D) Einige Klaviere sind keine Dinosaurier.
-E) Keine der Schlussfolgerungen ist richtig.

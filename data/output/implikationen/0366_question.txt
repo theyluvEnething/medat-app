@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Elektroautos sind Flüsse.
-- Einige Flüsse sind keine Statuen.
-
-A) Alle Elektroautos sind Statuen.
-B) Alle Elektroautos sind keine Statuen.
-C) Einige Elektroautos sind Statuen.
-D) Einige Elektroautos sind keine Statuen.
-E) Keine der Schlussfolgerungen ist richtig.

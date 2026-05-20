@@ -1,9 +1,0 @@
-Prämissen:
-- AlleIPGsindKP.
-- AllePDsindkeineIPG.
-
-A) AlleKPsindPD.
-B) AlleKPsindkeinePD.
-C) EinigeKPsindPD.
-D) EinigeKPsindkeinePD.
-E) KeinederSchlussfolgerungenistrichtig.

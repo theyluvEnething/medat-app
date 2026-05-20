@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Tannen sind Säugetiere.
-- Alle Säugetiere sind keine Smartphones.
-
-A) Einige Tannen sind Smartphones.
-B) Alle Tannen sind Smartphones.
-C) Einige Tannen sind keine Smartphones.
-D) Alle Tannen sind keine Smartphones.
-E) Keine der Schlussfolgerungen ist richtig.

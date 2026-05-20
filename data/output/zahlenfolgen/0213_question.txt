@@ -1,7 +1,0 @@
-Zahlenfolge: 8 9 27 28 84 85 ? ?
-
-A) 769/768
-B) 170/185
-C) 100/115
-D) 768/769
-E) Keine der Antworten ist richtig

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Kätzchen sind keine Züge.
-- Einige Züge sind Roboter.
-
-A) Einige Kätzchen sind Roboter.
-B) Alle Kätzchen sind Roboter.
-C) Einige Kätzchen sind keine Roboter.
-D) Alle Kätzchen sind keine Roboter.
-E) Keine der Schlussfolgerungen ist richtig.

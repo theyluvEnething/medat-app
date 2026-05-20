@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Dichter sind keine Nashörner.
-- Einige Nashörner sind keine Granite.
-
-A) Einige Dichter sind keine Granite.
-B) Einige Dichter sind Granite.
-C) Alle Dichter sind Granite.
-D) Alle Dichter sind keine Granite.
-E) Keine der Schlussfolgerungen ist richtig.

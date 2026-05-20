@@ -1,2 +1,0 @@
-B — 283/458
-Jedes Glied = Summe der beiden Vorgänger

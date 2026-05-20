@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Bäume sind keine Glühbirnen.
-- Alle Glühbirnen sind keine Häuser.
-
-A) Alle Bäume sind Häuser.
-B) Einige Bäume sind Häuser.
-C) Einige Bäume sind keine Häuser.
-D) Alle Bäume sind keine Häuser.
-E) Keine der Schlussfolgerungen ist richtig.

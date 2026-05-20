@@ -1,7 +1,0 @@
-WannistderGeburtstagderPersonmit demNamenBORXINT?
-
-A) 29.April
-B) 15.Januar
-C) 24.Juni
-D) 22.Juli
-E) KeinederAntwortenistrichtig

@@ -1,7 +1,0 @@
-Name: SLEIFRINK
-Geburtstag: 3. Juni
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Johannisbeeren,
-Ausweisnummer: 07006
-Ausstellungsland: Nordmazedonien

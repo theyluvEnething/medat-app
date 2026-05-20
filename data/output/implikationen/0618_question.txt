@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Rosen sind keine Elektroautos.
-- Alle Elektroautos sind keine Mathematiker.
-
-A) Einige Rosen sind keine Mathematiker.
-B) Alle Rosen sind Mathematiker.
-C) Einige Rosen sind Mathematiker.
-D) Alle Rosen sind keine Mathematiker.
-E) Keine der Schlussfolgerungen ist richtig.

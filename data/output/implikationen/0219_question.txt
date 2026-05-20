@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Menschen sind Eichen.
-- Alle Eichen sind Lilien.
-
-A) Alle Menschen sind Lilien.
-B) Einige Menschen sind Lilien.
-C) Alle Menschen sind keine Lilien.
-D) Einige Menschen sind keine Lilien.
-E) Keine der Schlussfolgerungen ist richtig.

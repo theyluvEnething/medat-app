@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Autos sind keine Gedichte.
-- Einige Gedichte sind Kupfer.
-
-A) Einige Autos sind Kupfer.
-B) Alle Autos sind keine Kupfer.
-C) Alle Autos sind Kupfer.
-D) Einige Autos sind keine Kupfer.
-E) Keine der Schlussfolgerungen ist richtig.

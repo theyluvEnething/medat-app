@@ -1,7 +1,0 @@
-Zahlenfolge: 58 85 86 68 69 96 ? ?
-
-A) 82/7
-B) 80/8
-C) 79/6
-D) 192/199
-E) Keine der Antworten ist richtig

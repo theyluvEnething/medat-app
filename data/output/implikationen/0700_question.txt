@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Sänger sind keine Züge.
-- Alle Züge sind keine Häuser.
-
-A) Alle Sänger sind keine Häuser.
-B) Einige Sänger sind keine Häuser.
-C) Alle Sänger sind Häuser.
-D) Einige Sänger sind Häuser.
-E) Keine der Schlussfolgerungen ist richtig.

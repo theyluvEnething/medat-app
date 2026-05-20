@@ -1,7 +1,0 @@
-Zahlenfolge: 17 16 32 31 62 61 ? ?
-
-A) 240/242
-B) 244/239
-C) 240/240
-D) 242/241
-E) Keine der Antworten ist richtig

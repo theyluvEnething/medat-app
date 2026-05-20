@@ -1,9 +1,0 @@
-Prämissen:
-- AlleMagnetensindkeineKompasse.
-- AlleKompassesindNordpole.
-
-A) AlleNordpolesindMagneten.
-B) AlleNordpolesindkeineMagneten.
-C) EinigeNordpolesindMagneten.
-D) EinigeNordpolesindkeineMagneten.
-E) KeinederSchlussfolgerungenistrichtig.

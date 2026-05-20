@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Flüsse sind Quallen.
-- Alle Quallen sind keine Haie.
-
-A) Einige Flüsse sind keine Haie.
-B) Einige Flüsse sind Haie.
-C) Alle Flüsse sind keine Haie.
-D) Alle Flüsse sind Haie.
-E) Keine der Schlussfolgerungen ist richtig.

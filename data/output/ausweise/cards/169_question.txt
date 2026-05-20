@@ -1,7 +1,0 @@
-Name: INDBAR
-Geburtstag: 7. Februar
-Medikamenteneinnahme: Nein
-Blutgruppe: A
-Bekannte Allergien: Lysozyme, Sulfite
-Ausweisnummer: 96116
-Ausstellungsland: Estland

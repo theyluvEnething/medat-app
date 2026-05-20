@@ -1,7 +1,0 @@
-WelcheBlutgruppehatdie PersonmitdiesemBild?
-
-A) B
-B) A
-C) AB
-D) 0
-E) KeinederAntwortenistrichtig

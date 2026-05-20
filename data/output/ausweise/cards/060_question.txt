@@ -1,7 +1,0 @@
-Name: ARTILITO
-Geburtstag: 15. Februar
-Medikamenteneinnahme: Nein
-Blutgruppe: 0
-Bekannte Allergien: Oxaceprol, Farbstoffe,
-Ausweisnummer: 24788
-Ausstellungsland: Äquatorialguinea

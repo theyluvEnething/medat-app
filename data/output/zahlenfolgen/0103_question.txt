@@ -1,7 +1,0 @@
-Zahlenfolge: 18 20 60 62 186 188 ? ?
-
-A) 1732/1734
-B) 1697/1699
-C) 1696/1702
-D) 1698/1700
-E) Keine der Antworten ist richtig

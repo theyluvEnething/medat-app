@@ -1,7 +1,0 @@
-Name: ZLEINKON
-Geburtstag: 10. Juni
-Medikamenteneinnahme: Ja
-Blutgruppe: AB
-Bekannte Allergien: Möhren
-Ausweisnummer: 98916
-Ausstellungsland: Mongolei

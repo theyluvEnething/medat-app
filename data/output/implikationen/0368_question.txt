@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Autos sind keine Gräser.
-- Alle Gräser sind Eichen.
-
-A) Alle Autos sind Eichen.
-B) Alle Autos sind keine Eichen.
-C) Einige Autos sind Eichen.
-D) Einige Autos sind keine Eichen.
-E) Keine der Schlussfolgerungen ist richtig.

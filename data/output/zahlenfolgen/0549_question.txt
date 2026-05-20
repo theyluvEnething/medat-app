@@ -1,7 +1,0 @@
-Zahlenfolge: 19 6 25 31 56 87 ? ?
-
-A) 371/602
-B) 374/605
-C) 386/616
-D) 373/603
-E) Keine der Antworten ist richtig

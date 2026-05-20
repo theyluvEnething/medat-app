@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Amphibien sind Fische.
-- Einige Fische sind Wirbeltiere.
-
-A) Einige Amphibien sind Wirbeltiere.
-B) Einige Amphibien sind keine Wirbeltiere.
-C) Alle Amphibien sind keine Wirbeltiere.
-D) Alle Amphibien sind Wirbeltiere.
-E) Keine der Schlussfolgerungen ist richtig.

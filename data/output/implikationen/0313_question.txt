@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Schlangen sind keine Amphibien.
-- Einige Amphibien sind keine Granite.
-
-A) Einige Schlangen sind Granite.
-B) Einige Schlangen sind keine Granite.
-C) Alle Schlangen sind Granite.
-D) Alle Schlangen sind keine Granite.
-E) Keine der Schlussfolgerungen ist richtig.

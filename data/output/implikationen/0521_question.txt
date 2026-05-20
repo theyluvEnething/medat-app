@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Marder sind Klaviere.
-- Alle Klaviere sind Quartette.
-
-A) Alle Marder sind Quartette.
-B) Einige Marder sind Quartette.
-C) Einige Marder sind keine Quartette.
-D) Alle Marder sind keine Quartette.
-E) Keine der Schlussfolgerungen ist richtig.

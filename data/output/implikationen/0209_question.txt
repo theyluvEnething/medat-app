@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Teleskope sind Lilien.
-- Alle Lilien sind keine Dichter.
-
-A) Einige Teleskope sind Dichter.
-B) Einige Teleskope sind keine Dichter.
-C) Alle Teleskope sind Dichter.
-D) Alle Teleskope sind keine Dichter.
-E) Keine der Schlussfolgerungen ist richtig.

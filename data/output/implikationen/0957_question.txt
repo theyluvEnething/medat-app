@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Gräser sind keine Kupfer.
-- Alle Kupfer sind keine Nashörner.
-
-A) Alle Gräser sind keine Nashörner.
-B) Alle Gräser sind Nashörner.
-C) Einige Gräser sind Nashörner.
-D) Einige Gräser sind keine Nashörner.
-E) Keine der Schlussfolgerungen ist richtig.

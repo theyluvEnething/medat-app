@@ -1,7 +1,0 @@
-Zahlenfolge: 23 36 49 62 75 88 ? ?
-
-A) 116/128
-B) 114/127
-C) 112/128
-D) 116/129
-E) Keine der Antworten ist richtig

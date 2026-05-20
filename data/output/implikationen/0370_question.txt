@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Tomaten sind Statuen.
-- Einige Statuen sind Lehrer.
-
-A) Einige Tomaten sind Lehrer.
-B) Einige Tomaten sind keine Lehrer.
-C) Alle Tomaten sind keine Lehrer.
-D) Alle Tomaten sind Lehrer.
-E) Keine der Schlussfolgerungen ist richtig.

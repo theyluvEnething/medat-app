@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Skulpturen sind Sänger.
-- Einige Sänger sind keine Nashörner.
-
-A) Alle Skulpturen sind Nashörner.
-B) Einige Skulpturen sind Nashörner.
-C) Einige Skulpturen sind keine Nashörner.
-D) Alle Skulpturen sind keine Nashörner.
-E) Keine der Schlussfolgerungen ist richtig.

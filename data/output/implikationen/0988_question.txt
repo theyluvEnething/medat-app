@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Teleskope sind Eichen.
-- Alle Eichen sind Kätzchen.
-
-A) Einige Teleskope sind keine Kätzchen.
-B) Einige Teleskope sind Kätzchen.
-C) Alle Teleskope sind keine Kätzchen.
-D) Alle Teleskope sind Kätzchen.
-E) Keine der Schlussfolgerungen ist richtig.

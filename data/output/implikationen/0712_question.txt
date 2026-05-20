@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Schriftsteller sind Diamanten.
-- Einige Diamanten sind keine Zebras.
-
-A) Alle Schriftsteller sind keine Zebras.
-B) Einige Schriftsteller sind Zebras.
-C) Alle Schriftsteller sind Zebras.
-D) Einige Schriftsteller sind keine Zebras.
-E) Keine der Schlussfolgerungen ist richtig.

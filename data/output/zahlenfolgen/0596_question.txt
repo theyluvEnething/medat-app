@@ -1,7 +1,0 @@
-Zahlenfolge: 39 54 69 84 99 114 ? ?
-
-A) 142/158
-B) 145/157
-C) 145/158
-D) 144/159
-E) Keine der Antworten ist richtig

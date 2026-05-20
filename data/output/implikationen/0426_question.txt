@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Möbel sind keine Delfine.
-- Einige Delfine sind Gräser.
-
-A) Einige Möbel sind keine Gräser.
-B) Einige Möbel sind Gräser.
-C) Alle Möbel sind keine Gräser.
-D) Alle Möbel sind Gräser.
-E) Keine der Schlussfolgerungen ist richtig.

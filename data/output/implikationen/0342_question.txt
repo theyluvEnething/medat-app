@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Tiger sind Delfine.
-- Alle Delfine sind keine Chemiker.
-
-A) Einige Tiger sind Chemiker.
-B) Einige Tiger sind keine Chemiker.
-C) Alle Tiger sind keine Chemiker.
-D) Alle Tiger sind Chemiker.
-E) Keine der Schlussfolgerungen ist richtig.

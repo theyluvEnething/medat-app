@@ -1,7 +1,0 @@
-WielautetdieAusweisnummer derPersonmitdiesemBild?
-
-A) 59826
-B) 18064
-C) 49999
-D) 88637
-E) KeinederAntwortenistrichtig

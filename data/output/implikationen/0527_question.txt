@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Wissenschaftler sind keine Gedichte.
-- Einige Gedichte sind Mathematiker.
-
-A) Einige Wissenschaftler sind Mathematiker.
-B) Alle Wissenschaftler sind Mathematiker.
-C) Einige Wissenschaftler sind keine Mathematiker.
-D) Alle Wissenschaftler sind keine Mathematiker.
-E) Keine der Schlussfolgerungen ist richtig.

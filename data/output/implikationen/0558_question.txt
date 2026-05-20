@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Tabletten sind keine Bäume.
-- Einige Bäume sind Sportler.
-
-A) Einige Tabletten sind Sportler.
-B) Alle Tabletten sind keine Sportler.
-C) Einige Tabletten sind keine Sportler.
-D) Alle Tabletten sind Sportler.
-E) Keine der Schlussfolgerungen ist richtig.

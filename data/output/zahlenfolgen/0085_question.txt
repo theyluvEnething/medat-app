@@ -1,7 +1,0 @@
-Zahlenfolge: 30 29 37 39 44 49 ? ?
-
-A) 60/70
-B) 58/69
-C) 57/70
-D) 57/68
-E) Keine der Antworten ist richtig

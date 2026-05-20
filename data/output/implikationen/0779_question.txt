@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Smartphones sind keine Granite.
-- Einige Granite sind keine Hunde.
-
-A) Einige Smartphones sind keine Hunde.
-B) Alle Smartphones sind Hunde.
-C) Alle Smartphones sind keine Hunde.
-D) Einige Smartphones sind Hunde.
-E) Keine der Schlussfolgerungen ist richtig.

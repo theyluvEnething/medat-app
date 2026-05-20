@@ -1,7 +1,0 @@
-Buchstabenreihe: A T A D S M
-
-A) D
-B) A
-C) M
-D) T
-E) KeinederAntwortenistrichtig

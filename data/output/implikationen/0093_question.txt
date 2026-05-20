@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Eidechsen sind keine Dichter.
-- Einige Dichter sind Musikinstrumente.
-
-A) Einige Eidechsen sind Musikinstrumente.
-B) Einige Eidechsen sind keine Musikinstrumente.
-C) Alle Eidechsen sind Musikinstrumente.
-D) Alle Eidechsen sind keine Musikinstrumente.
-E) Keine der Schlussfolgerungen ist richtig.

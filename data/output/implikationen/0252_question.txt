@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Tabletten sind Flüsse.
-- Einige Flüsse sind Granite.
-
-A) Alle Tabletten sind Granite.
-B) Einige Tabletten sind keine Granite.
-C) Alle Tabletten sind keine Granite.
-D) Einige Tabletten sind Granite.
-E) Keine der Schlussfolgerungen ist richtig.

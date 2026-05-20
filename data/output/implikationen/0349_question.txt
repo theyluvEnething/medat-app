@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Maler sind keine Politiker.
-- Einige Politiker sind keine Telefone.
-
-A) Alle Maler sind Telefone.
-B) Alle Maler sind keine Telefone.
-C) Einige Maler sind keine Telefone.
-D) Einige Maler sind Telefone.
-E) Keine der Schlussfolgerungen ist richtig.

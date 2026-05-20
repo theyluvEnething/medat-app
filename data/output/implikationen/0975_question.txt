@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Vulkane sind keine Tomaten.
-- Alle Tomaten sind Taucher.
-
-A) Einige Vulkane sind Taucher.
-B) Einige Vulkane sind keine Taucher.
-C) Alle Vulkane sind keine Taucher.
-D) Alle Vulkane sind Taucher.
-E) Keine der Schlussfolgerungen ist richtig.

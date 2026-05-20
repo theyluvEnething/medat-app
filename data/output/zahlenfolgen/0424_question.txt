@@ -1,7 +1,0 @@
-Zahlenfolge: 27 29 34 42 53 67 ? ?
-
-A) 129/152
-B) 127/153
-C) 129/154
-D) 129/151
-E) Keine der Antworten ist richtig

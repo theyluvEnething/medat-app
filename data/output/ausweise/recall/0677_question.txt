@@ -1,7 +1,0 @@
-MitwelchenZiffernendetdie AusweisnummerderPersonmit Geburtstagam4.desMonats?
-
-A) 64
-B) 15
-C) 45
-D) 97
-E) KeinederAntwortenistrichtig

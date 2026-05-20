@@ -1,7 +1,0 @@
-Zahlenfolge: 16 32 64 128 256 512 ? ?
-
-A) 2048/4096
-B) 2050/4094
-C) 2050/4095
-D) 2049/4097
-E) Keine der Antworten ist richtig

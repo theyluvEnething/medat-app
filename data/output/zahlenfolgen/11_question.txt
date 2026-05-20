@@ -1,7 +1,0 @@
-Zahlenfolge: 33 38 39 45 52 65 85 ? ?
-
-A) 118/171
-B) 118/182
-C) 119/199
-D) 129/166
-E) KeinederAntwortenistrichtig

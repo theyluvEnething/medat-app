@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Gemälde sind Ärzte.
-- Einige Ärzte sind Radios.
-
-A) Alle Gemälde sind keine Radios.
-B) Alle Gemälde sind Radios.
-C) Einige Gemälde sind Radios.
-D) Einige Gemälde sind keine Radios.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Dichter sind Quartette.
-- Einige Quartette sind Kupfer.
-
-A) Einige Dichter sind Kupfer.
-B) Alle Dichter sind keine Kupfer.
-C) Einige Dichter sind keine Kupfer.
-D) Alle Dichter sind Kupfer.
-E) Keine der Schlussfolgerungen ist richtig.

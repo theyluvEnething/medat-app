@@ -1,7 +1,0 @@
-Buchstabenreihe: A D E E K P A P B
-
-A) B
-B) A
-C) P
-D) D
-E) KeinederAntwortenistrichtig

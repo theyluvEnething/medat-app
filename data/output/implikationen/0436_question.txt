@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Politiker sind keine Insekten.
-- Einige Insekten sind keine Giraffen.
-
-A) Alle Politiker sind keine Giraffen.
-B) Einige Politiker sind keine Giraffen.
-C) Alle Politiker sind Giraffen.
-D) Einige Politiker sind Giraffen.
-E) Keine der Schlussfolgerungen ist richtig.

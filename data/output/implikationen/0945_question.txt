@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Züge sind keine Wale.
-- Einige Wale sind Granite.
-
-A) Einige Züge sind keine Granite.
-B) Einige Züge sind Granite.
-C) Alle Züge sind Granite.
-D) Alle Züge sind keine Granite.
-E) Keine der Schlussfolgerungen ist richtig.

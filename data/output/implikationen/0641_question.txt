@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Tiger sind keine Delfine.
-- Alle Delfine sind Reptilien.
-
-A) Alle Tiger sind Reptilien.
-B) Alle Tiger sind keine Reptilien.
-C) Einige Tiger sind keine Reptilien.
-D) Einige Tiger sind Reptilien.
-E) Keine der Schlussfolgerungen ist richtig.

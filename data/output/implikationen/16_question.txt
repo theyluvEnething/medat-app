@@ -1,9 +1,0 @@
-Prämissen:
-- EinigeKernesindkeineNukleonen.
-- EinigeAtomesindkeineNukleonen.
-
-A) AlleKernesindAtome.
-B) AlleKernesindkeineAtome.
-C) EinigeKernesindAtome.
-D) EinigeKernesindkeineAtome.
-E) KeinederSchlussfolgerungenistrichtig.

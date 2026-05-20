@@ -1,7 +1,0 @@
-Zahlenfolge: 1 6 12 17 34 39 ? ?
-
-A) 165/173
-B) 168/169
-C) 168/172
-D) 166/171
-E) Keine der Antworten ist richtig

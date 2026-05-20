@@ -1,7 +1,0 @@
-Zahlenfolge: -13 -2 2 -15 17 -28 32 ? ?
-
-A) -34/40
-B) 53/-44
-C) -41/47
-D) 40/-29
-E) KeinederAntwortenistrichtig

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Spatzen sind Dichter.
-- Einige Dichter sind Politiker.
-
-A) Einige Spatzen sind keine Politiker.
-B) Alle Spatzen sind keine Politiker.
-C) Alle Spatzen sind Politiker.
-D) Einige Spatzen sind Politiker.
-E) Keine der Schlussfolgerungen ist richtig.

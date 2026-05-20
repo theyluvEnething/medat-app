@@ -1,7 +1,0 @@
-Zahlenfolge: 5 10 20 40 80 160 ? ?
-
-A) 638/1279
-B) 639/1279
-C) 638/1278
-D) 640/1280
-E) Keine der Antworten ist richtig

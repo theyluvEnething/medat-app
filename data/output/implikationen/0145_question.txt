@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Rosen sind keine Anwälte.
-- Alle Anwälte sind Werkzeuge.
-
-A) Alle Rosen sind Werkzeuge.
-B) Alle Rosen sind keine Werkzeuge.
-C) Einige Rosen sind keine Werkzeuge.
-D) Einige Rosen sind Werkzeuge.
-E) Keine der Schlussfolgerungen ist richtig.

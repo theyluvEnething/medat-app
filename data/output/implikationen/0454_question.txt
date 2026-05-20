@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Zebras sind Krokodile.
-- Einige Krokodile sind Reptilien.
-
-A) Alle Zebras sind Reptilien.
-B) Einige Zebras sind keine Reptilien.
-C) Einige Zebras sind Reptilien.
-D) Alle Zebras sind keine Reptilien.
-E) Keine der Schlussfolgerungen ist richtig.

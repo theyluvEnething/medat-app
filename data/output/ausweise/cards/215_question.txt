@@ -1,7 +1,0 @@
-Name: FRIGUNA
-Geburtstag: 13. August
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Thiomersal, Parvalbumin
-Ausweisnummer: 33186
-Ausstellungsland: Tadschikistan

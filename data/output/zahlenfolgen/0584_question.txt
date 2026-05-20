@@ -1,7 +1,0 @@
-Zahlenfolge: 16 13 39 36 108 105 ? ?
-
-A) 953/950
-B) 934/934
-C) 937/934
-D) 936/933
-E) Keine der Antworten ist richtig

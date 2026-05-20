@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Wirbeltiere sind keine Häuser.
-- Einige Häuser sind keine Schlangen.
-
-A) Alle Wirbeltiere sind keine Schlangen.
-B) Alle Wirbeltiere sind Schlangen.
-C) Einige Wirbeltiere sind Schlangen.
-D) Einige Wirbeltiere sind keine Schlangen.
-E) Keine der Schlussfolgerungen ist richtig.

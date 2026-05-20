@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Blumen sind keine Tabletten.
-- Alle Tabletten sind Schiffe.
-
-A) Alle Blumen sind keine Schiffe.
-B) Einige Blumen sind keine Schiffe.
-C) Einige Blumen sind Schiffe.
-D) Alle Blumen sind Schiffe.
-E) Keine der Schlussfolgerungen ist richtig.

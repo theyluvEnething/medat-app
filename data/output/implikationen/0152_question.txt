@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Pandas sind keine Gräser.
-- Alle Gräser sind keine Dichter.
-
-A) Alle Pandas sind keine Dichter.
-B) Einige Pandas sind Dichter.
-C) Einige Pandas sind keine Dichter.
-D) Alle Pandas sind Dichter.
-E) Keine der Schlussfolgerungen ist richtig.

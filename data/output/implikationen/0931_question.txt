@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Wölfe sind keine Taucher.
-- Einige Taucher sind keine Teleskope.
-
-A) Einige Wölfe sind Teleskope.
-B) Alle Wölfe sind keine Teleskope.
-C) Alle Wölfe sind Teleskope.
-D) Einige Wölfe sind keine Teleskope.
-E) Keine der Schlussfolgerungen ist richtig.

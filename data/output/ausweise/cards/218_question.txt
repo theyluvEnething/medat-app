@@ -1,7 +1,0 @@
-Name: STRIKMOL
-Geburtstag: 24. Januar
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Krebstiere
-Ausweisnummer: 36097
-Ausstellungsland: Bhutan

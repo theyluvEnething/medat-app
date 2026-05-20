@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Statuen sind keine Ingenieure.
-- Einige Ingenieure sind Kätzchen.
-
-A) Einige Statuen sind Kätzchen.
-B) Einige Statuen sind keine Kätzchen.
-C) Alle Statuen sind keine Kätzchen.
-D) Alle Statuen sind Kätzchen.
-E) Keine der Schlussfolgerungen ist richtig.

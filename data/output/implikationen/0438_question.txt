@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Lilien sind keine Stühle.
-- Alle Stühle sind Tomaten.
-
-A) Alle Lilien sind keine Tomaten.
-B) Einige Lilien sind Tomaten.
-C) Alle Lilien sind Tomaten.
-D) Einige Lilien sind keine Tomaten.
-E) Keine der Schlussfolgerungen ist richtig.

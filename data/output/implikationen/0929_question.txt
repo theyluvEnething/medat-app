@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Maler sind keine Chemiker.
-- Alle Chemiker sind Türen.
-
-A) Alle Maler sind Türen.
-B) Alle Maler sind keine Türen.
-C) Einige Maler sind Türen.
-D) Einige Maler sind keine Türen.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Teleskope sind keine Tomaten.
-- Einige Tomaten sind keine Säugetiere.
-
-A) Alle Teleskope sind Säugetiere.
-B) Einige Teleskope sind Säugetiere.
-C) Einige Teleskope sind keine Säugetiere.
-D) Alle Teleskope sind keine Säugetiere.
-E) Keine der Schlussfolgerungen ist richtig.

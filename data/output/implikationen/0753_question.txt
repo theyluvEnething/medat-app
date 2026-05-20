@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Mäuse sind Werkzeuge.
-- Alle Werkzeuge sind Gedichte.
-
-A) Alle Mäuse sind keine Gedichte.
-B) Einige Mäuse sind keine Gedichte.
-C) Einige Mäuse sind Gedichte.
-D) Alle Mäuse sind Gedichte.
-E) Keine der Schlussfolgerungen ist richtig.

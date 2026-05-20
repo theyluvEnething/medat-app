@@ -1,7 +1,0 @@
-Name: EMPROSI
-Geburtstag: 14. April
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Kupfer
-Ausweisnummer: 18758
-Ausstellungsland: Laos

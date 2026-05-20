@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Mathematiker sind keine Zebras.
-- Alle Zebras sind Chemiker.
-
-A) Einige Mathematiker sind keine Chemiker.
-B) Alle Mathematiker sind keine Chemiker.
-C) Einige Mathematiker sind Chemiker.
-D) Alle Mathematiker sind Chemiker.
-E) Keine der Schlussfolgerungen ist richtig.

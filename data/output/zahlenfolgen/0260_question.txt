@@ -1,7 +1,0 @@
-Zahlenfolge: 20 15 16 19 12 23 ? ?
-
-A) 31/4
-B) 5/32
-C) 4/31
-D) 3/32
-E) Keine der Antworten ist richtig

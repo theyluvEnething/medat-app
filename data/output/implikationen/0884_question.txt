@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Gemälde sind Uhren.
-- Einige Uhren sind keine Taucher.
-
-A) Alle Gemälde sind keine Taucher.
-B) Alle Gemälde sind Taucher.
-C) Einige Gemälde sind keine Taucher.
-D) Einige Gemälde sind Taucher.
-E) Keine der Schlussfolgerungen ist richtig.

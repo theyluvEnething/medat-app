@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Diamanten sind keine Politiker.
-- Alle Politiker sind keine Wissenschaftler.
-
-A) Alle Diamanten sind Wissenschaftler.
-B) Einige Diamanten sind keine Wissenschaftler.
-C) Alle Diamanten sind keine Wissenschaftler.
-D) Einige Diamanten sind Wissenschaftler.
-E) Keine der Schlussfolgerungen ist richtig.

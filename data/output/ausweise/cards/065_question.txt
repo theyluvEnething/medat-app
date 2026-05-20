@@ -1,7 +1,0 @@
-Name: WRIMKLO
-Geburtstag: 8. Februar
-Medikamenteneinnahme: Ja
-Blutgruppe: 0
-Bekannte Allergien: Phosphate, Ketoprofen
-Ausweisnummer: 55392
-Ausstellungsland: Sudan

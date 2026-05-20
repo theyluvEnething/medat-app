@@ -1,7 +1,0 @@
-Zahlenfolge: 20 -10 27 -7 34 -4 ? ?
-
-A) 46/1
-B) -8/-13
-C) 2/48
-D) 48/2
-E) Keine der Antworten ist richtig

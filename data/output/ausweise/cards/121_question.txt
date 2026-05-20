@@ -1,7 +1,0 @@
-Name: GEILINO
-Geburtstag: 10. November
-Medikamenteneinnahme: Ja
-Blutgruppe: B
-Bekannte Allergien: Sesamsamen, Schokolade
-Ausweisnummer: 69320
-Ausstellungsland: Costa Rica

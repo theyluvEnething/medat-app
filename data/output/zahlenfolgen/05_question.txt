@@ -1,7 +1,0 @@
-Zahlenfolge: 35 27 46 23 16 36 12 ? ?
-
-A) -18/36
-B) 13/16
-C) 6/41
-D) 6/27
-E) KeinederAntwortenistrichtig

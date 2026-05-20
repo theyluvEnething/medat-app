@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Radios sind keine Krokodile.
-- Alle Krokodile sind Lehrer.
-
-A) Einige Radios sind keine Lehrer.
-B) Einige Radios sind Lehrer.
-C) Alle Radios sind keine Lehrer.
-D) Alle Radios sind Lehrer.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Schiffe sind keine Granite.
-- Einige Granite sind Tomaten.
-
-A) Einige Schiffe sind Tomaten.
-B) Einige Schiffe sind keine Tomaten.
-C) Alle Schiffe sind keine Tomaten.
-D) Alle Schiffe sind Tomaten.
-E) Keine der Schlussfolgerungen ist richtig.

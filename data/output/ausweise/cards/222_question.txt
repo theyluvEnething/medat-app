@@ -1,7 +1,0 @@
-Name: PSYMANDO
-Geburtstag: 19. Februar
-Medikamenteneinnahme: Nein
-Blutgruppe: B
-Bekannte Allergien: Osmium, Avocado,
-Ausweisnummer: 90811
-Ausstellungsland: Somaliland

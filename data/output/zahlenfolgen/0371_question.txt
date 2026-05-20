@@ -1,7 +1,0 @@
-Zahlenfolge: 30 32 35 39 44 50 ? ?
-
-A) 73/83
-B) 72/85
-C) 74/84
-D) 73/82
-E) Keine der Antworten ist richtig

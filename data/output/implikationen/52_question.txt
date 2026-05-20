@@ -1,9 +1,0 @@
-Prämissen:
-- AlleArchitektensindDesigner.
-- AlleDesignersindIngenieure.
-
-A) AlleIngenieuresindArchitekten.
-B) AlleIngenieuresindkeineArchitekten.
-C) EinigeIngenieuresindArchitekten.
-D) EinigeIngenieuresindkeineArchitekten.
-E) KeinederSchlussfolgerungenistrichtig.

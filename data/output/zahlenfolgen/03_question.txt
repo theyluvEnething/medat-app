@@ -1,7 +1,0 @@
-Zahlenfolge: 17 41 68 31 204 21 408 ? ?
-
-A) 4/404
-B) 408/11
-C) 11/414
-D) 11/408
-E) KeinederAntwortenistrichtig

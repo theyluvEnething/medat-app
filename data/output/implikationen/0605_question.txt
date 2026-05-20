@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Tabletten sind keine Skulpturen.
-- Einige Skulpturen sind keine Dinosaurier.
-
-A) Einige Tabletten sind Dinosaurier.
-B) Einige Tabletten sind keine Dinosaurier.
-C) Alle Tabletten sind keine Dinosaurier.
-D) Alle Tabletten sind Dinosaurier.
-E) Keine der Schlussfolgerungen ist richtig.

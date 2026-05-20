@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Uhren sind Vegetarier.
-- Alle Vegetarier sind keine Eichen.
-
-A) Alle Uhren sind keine Eichen.
-B) Einige Uhren sind keine Eichen.
-C) Alle Uhren sind Eichen.
-D) Einige Uhren sind Eichen.
-E) Keine der Schlussfolgerungen ist richtig.

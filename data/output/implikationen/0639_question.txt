@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Nashörner sind keine Anwälte.
-- Alle Anwälte sind keine Spatzen.
-
-A) Alle Nashörner sind keine Spatzen.
-B) Einige Nashörner sind keine Spatzen.
-C) Alle Nashörner sind Spatzen.
-D) Einige Nashörner sind Spatzen.
-E) Keine der Schlussfolgerungen ist richtig.

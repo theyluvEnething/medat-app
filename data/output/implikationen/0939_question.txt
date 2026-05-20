@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Hunde sind Insekten.
-- Alle Insekten sind keine Menschen.
-
-A) Einige Hunde sind Menschen.
-B) Alle Hunde sind keine Menschen.
-C) Einige Hunde sind keine Menschen.
-D) Alle Hunde sind Menschen.
-E) Keine der Schlussfolgerungen ist richtig.

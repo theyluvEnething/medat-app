@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Säugetiere sind keine Pandas.
-- Alle Pandas sind keine Amseln.
-
-A) Einige Säugetiere sind keine Amseln.
-B) Einige Säugetiere sind Amseln.
-C) Alle Säugetiere sind Amseln.
-D) Alle Säugetiere sind keine Amseln.
-E) Keine der Schlussfolgerungen ist richtig.

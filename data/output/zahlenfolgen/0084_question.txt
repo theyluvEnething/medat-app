@@ -1,7 +1,0 @@
-Zahlenfolge: 13 14 22 15 31 16 ? ?
-
-A) 50/16
-B) 49/18
-C) 32/32
-D) 16/16
-E) Keine der Antworten ist richtig

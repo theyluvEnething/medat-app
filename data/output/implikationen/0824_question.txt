@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Bäume sind keine Flüsse.
-- Einige Flüsse sind Blumen.
-
-A) Alle Bäume sind keine Blumen.
-B) Einige Bäume sind Blumen.
-C) Einige Bäume sind keine Blumen.
-D) Alle Bäume sind Blumen.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Lehrer sind keine Vasen.
-- Alle Vasen sind keine Haie.
-
-A) Alle Lehrer sind Haie.
-B) Alle Lehrer sind keine Haie.
-C) Einige Lehrer sind Haie.
-D) Einige Lehrer sind keine Haie.
-E) Keine der Schlussfolgerungen ist richtig.

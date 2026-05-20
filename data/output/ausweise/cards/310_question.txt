@@ -1,7 +1,0 @@
-Name: KASEMOS
-Geburtstag: 5. September
-Medikamenteneinnahme: Ja
-Blutgruppe: 0
-Bekannte Allergien: Kaninchen, Mückenstiche,
-Ausweisnummer: 60984
-Ausstellungsland: Brunei

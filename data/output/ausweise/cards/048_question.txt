@@ -1,7 +1,0 @@
-Name: HUWBRANS
-Geburtstag: 15. Februar
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Alternaria, Knollensellerie
-Ausweisnummer: 62768
-Ausstellungsland: Slowenien

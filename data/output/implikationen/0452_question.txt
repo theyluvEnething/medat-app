@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Werkzeuge sind Wirbeltiere.
-- Einige Wirbeltiere sind Marder.
-
-A) Einige Werkzeuge sind keine Marder.
-B) Alle Werkzeuge sind keine Marder.
-C) Alle Werkzeuge sind Marder.
-D) Einige Werkzeuge sind Marder.
-E) Keine der Schlussfolgerungen ist richtig.

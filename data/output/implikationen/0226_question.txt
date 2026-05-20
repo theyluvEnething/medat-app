@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Vulkane sind keine Tannen.
-- Alle Tannen sind Tomaten.
-
-A) Einige Vulkane sind Tomaten.
-B) Alle Vulkane sind keine Tomaten.
-C) Einige Vulkane sind keine Tomaten.
-D) Alle Vulkane sind Tomaten.
-E) Keine der Schlussfolgerungen ist richtig.

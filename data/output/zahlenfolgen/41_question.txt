@@ -1,7 +1,0 @@
-Zahlenfolge: 26 13 39 26 65 52 117 ? ?
-
-A) 114/213
-B) 104/218
-C) 213/92
-D) 104/221
-E) KeinederAntwortenistrichtig

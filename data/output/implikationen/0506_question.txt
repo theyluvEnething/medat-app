@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Pilze sind keine Teleskope.
-- Einige Teleskope sind Radios.
-
-A) Alle Pilze sind keine Radios.
-B) Einige Pilze sind keine Radios.
-C) Alle Pilze sind Radios.
-D) Einige Pilze sind Radios.
-E) Keine der Schlussfolgerungen ist richtig.

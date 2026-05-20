@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Telefone sind keine Politiker.
-- Einige Politiker sind keine Wirbeltiere.
-
-A) Alle Telefone sind keine Wirbeltiere.
-B) Alle Telefone sind Wirbeltiere.
-C) Einige Telefone sind keine Wirbeltiere.
-D) Einige Telefone sind Wirbeltiere.
-E) Keine der Schlussfolgerungen ist richtig.

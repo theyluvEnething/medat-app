@@ -1,7 +1,0 @@
-Name: YUNKID
-Geburtstag: 17. Oktober
-Medikamenteneinnahme: Nein
-Blutgruppe: A
-Bekannte Allergien: Sauerampfer, Sardinen,
-Ausweisnummer: 54290
-Ausstellungsland: Tadschikistan

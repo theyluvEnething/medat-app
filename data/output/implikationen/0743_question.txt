@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Anwälte sind Politiker.
-- Alle Politiker sind Reptilien.
-
-A) Einige Anwälte sind keine Reptilien.
-B) Alle Anwälte sind keine Reptilien.
-C) Alle Anwälte sind Reptilien.
-D) Einige Anwälte sind Reptilien.
-E) Keine der Schlussfolgerungen ist richtig.

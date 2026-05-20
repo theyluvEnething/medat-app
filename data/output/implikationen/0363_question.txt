@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Stühle sind keine Gedichte.
-- Alle Gedichte sind Mammute.
-
-A) Einige Stühle sind Mammute.
-B) Alle Stühle sind keine Mammute.
-C) Einige Stühle sind keine Mammute.
-D) Alle Stühle sind Mammute.
-E) Keine der Schlussfolgerungen ist richtig.

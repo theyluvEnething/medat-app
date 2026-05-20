@@ -1,7 +1,0 @@
-Name: OKLUMAR
-Geburtstag: 28. Januar
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Gurken, Sonne
-Ausweisnummer: 32122
-Ausstellungsland: Barbados

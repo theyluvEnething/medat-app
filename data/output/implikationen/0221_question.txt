@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Dichter sind keine Schriftsteller.
-- Einige Schriftsteller sind keine Lehrer.
-
-A) Alle Dichter sind Lehrer.
-B) Einige Dichter sind Lehrer.
-C) Einige Dichter sind keine Lehrer.
-D) Alle Dichter sind keine Lehrer.
-E) Keine der Schlussfolgerungen ist richtig.

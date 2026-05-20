@@ -1,7 +1,0 @@
-Zahlenfolge: 4 11 15 26 41 67 ? ?
-
-A) 284/459
-B) 283/458
-C) 285/459
-D) 282/460
-E) Keine der Antworten ist richtig

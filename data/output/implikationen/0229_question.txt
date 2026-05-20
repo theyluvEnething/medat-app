@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Stühle sind keine Roboter.
-- Alle Roboter sind keine Krokodile.
-
-A) Einige Stühle sind keine Krokodile.
-B) Alle Stühle sind Krokodile.
-C) Einige Stühle sind Krokodile.
-D) Alle Stühle sind keine Krokodile.
-E) Keine der Schlussfolgerungen ist richtig.

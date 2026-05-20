@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Telefone sind Ingenieure.
-- Alle Ingenieure sind keine Wissenschaftler.
-
-A) Einige Telefone sind keine Wissenschaftler.
-B) Alle Telefone sind Wissenschaftler.
-C) Alle Telefone sind keine Wissenschaftler.
-D) Einige Telefone sind Wissenschaftler.
-E) Keine der Schlussfolgerungen ist richtig.

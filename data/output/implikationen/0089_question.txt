@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Flugzeuge sind Möbel.
-- Einige Möbel sind Chemiker.
-
-A) Alle Flugzeuge sind Chemiker.
-B) Einige Flugzeuge sind Chemiker.
-C) Einige Flugzeuge sind keine Chemiker.
-D) Alle Flugzeuge sind keine Chemiker.
-E) Keine der Schlussfolgerungen ist richtig.

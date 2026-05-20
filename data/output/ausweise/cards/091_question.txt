@@ -1,7 +1,0 @@
-Name: YURNKOM
-Geburtstag: 31. August
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Retinol
-Ausweisnummer: 33669
-Ausstellungsland: Nordzypern

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Sänger sind keine Fische.
-- Alle Fische sind keine Autos.
-
-A) Alle Sänger sind keine Autos.
-B) Einige Sänger sind keine Autos.
-C) Alle Sänger sind Autos.
-D) Einige Sänger sind Autos.
-E) Keine der Schlussfolgerungen ist richtig.

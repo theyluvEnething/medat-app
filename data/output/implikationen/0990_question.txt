@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Maler sind Krokodile.
-- Einige Krokodile sind Kupfer.
-
-A) Alle Maler sind keine Kupfer.
-B) Einige Maler sind keine Kupfer.
-C) Einige Maler sind Kupfer.
-D) Alle Maler sind Kupfer.
-E) Keine der Schlussfolgerungen ist richtig.

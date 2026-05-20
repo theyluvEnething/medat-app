@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Maler sind keine Dichter.
-- Alle Dichter sind Wölfe.
-
-A) Alle Maler sind keine Wölfe.
-B) Einige Maler sind Wölfe.
-C) Alle Maler sind Wölfe.
-D) Einige Maler sind keine Wölfe.
-E) Keine der Schlussfolgerungen ist richtig.

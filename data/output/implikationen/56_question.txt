@@ -1,9 +1,0 @@
-Prämissen:
-- AlleAnzahlensindkeineMengen.
-- AlleGruppensindAnzahlen.
-
-A) AlleMengensindGruppen.
-B) AlleMengensindkeineGruppen.
-C) EinigeMengensindGruppen.
-D) EinigeMengensindkeineGruppen.
-E) KeinederSchlussfolgerungenistrichtig.

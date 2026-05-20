@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Quallen sind keine Fotografen.
-- Alle Fotografen sind keine Mathematiker.
-
-A) Einige Quallen sind Mathematiker.
-B) Alle Quallen sind keine Mathematiker.
-C) Alle Quallen sind Mathematiker.
-D) Einige Quallen sind keine Mathematiker.
-E) Keine der Schlussfolgerungen ist richtig.

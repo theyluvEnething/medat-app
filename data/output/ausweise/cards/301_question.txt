@@ -1,7 +1,0 @@
-Name: WULKBRUX
-Geburtstag: 23. März
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Ratten, Pfeffer, Kunstharz
-Ausweisnummer: 42424
-Ausstellungsland: Mexiko

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Dichter sind keine Stühle.
-- Einige Stühle sind keine Reptilien.
-
-A) Alle Dichter sind keine Reptilien.
-B) Einige Dichter sind keine Reptilien.
-C) Alle Dichter sind Reptilien.
-D) Einige Dichter sind Reptilien.
-E) Keine der Schlussfolgerungen ist richtig.

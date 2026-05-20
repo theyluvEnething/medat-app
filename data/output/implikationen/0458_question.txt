@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Chemiker sind Dichter.
-- Einige Dichter sind keine Lilien.
-
-A) Einige Chemiker sind Lilien.
-B) Alle Chemiker sind Lilien.
-C) Alle Chemiker sind keine Lilien.
-D) Einige Chemiker sind keine Lilien.
-E) Keine der Schlussfolgerungen ist richtig.

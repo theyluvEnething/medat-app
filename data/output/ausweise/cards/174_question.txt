@@ -1,7 +1,0 @@
-Name: NAMSOL
-Geburtstag: 17. Mai
-Medikamenteneinnahme: Ja
-Blutgruppe: AB
-Bekannte Allergien: Bananen, Casein
-Ausweisnummer: 95839
-Ausstellungsland: Haiti

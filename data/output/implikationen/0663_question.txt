@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Dinosaurier sind Wale.
-- Einige Wale sind keine Sportler.
-
-A) Einige Dinosaurier sind keine Sportler.
-B) Alle Dinosaurier sind keine Sportler.
-C) Alle Dinosaurier sind Sportler.
-D) Einige Dinosaurier sind Sportler.
-E) Keine der Schlussfolgerungen ist richtig.

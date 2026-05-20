@@ -1,7 +1,0 @@
-Zahlenfolge: 5 10 17 26 37 50 ? ?
-
-A) 59/68
-B) 102/123
-C) 110/131
-D) 101/122
-E) Keine der Antworten ist richtig

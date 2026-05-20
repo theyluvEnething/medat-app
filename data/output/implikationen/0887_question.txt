@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Schriftsteller sind keine Gräser.
-- Einige Gräser sind keine Möbel.
-
-A) Einige Schriftsteller sind keine Möbel.
-B) Einige Schriftsteller sind Möbel.
-C) Alle Schriftsteller sind keine Möbel.
-D) Alle Schriftsteller sind Möbel.
-E) Keine der Schlussfolgerungen ist richtig.

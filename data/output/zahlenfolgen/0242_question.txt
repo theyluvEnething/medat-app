@@ -1,7 +1,0 @@
-Zahlenfolge: 4 3 6 5 10 9 ? ?
-
-A) 33/31
-B) 35/32
-C) 34/33
-D) 35/34
-E) Keine der Antworten ist richtig

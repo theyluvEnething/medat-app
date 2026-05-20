@@ -1,7 +1,0 @@
-WievielePersonensindFrauen?
-
-A) 6
-B) 3
-C) 7
-D) 1
-E) KeinederAntwortenistrichtig

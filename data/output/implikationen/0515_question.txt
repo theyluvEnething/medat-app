@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Lilien sind keine Flugzeuge.
-- Einige Flugzeuge sind Dinosaurier.
-
-A) Einige Lilien sind keine Dinosaurier.
-B) Einige Lilien sind Dinosaurier.
-C) Alle Lilien sind keine Dinosaurier.
-D) Alle Lilien sind Dinosaurier.
-E) Keine der Schlussfolgerungen ist richtig.

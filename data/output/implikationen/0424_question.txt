@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Bücher sind keine Zebras.
-- Alle Zebras sind keine Vulkane.
-
-A) Alle Bücher sind keine Vulkane.
-B) Einige Bücher sind Vulkane.
-C) Alle Bücher sind Vulkane.
-D) Einige Bücher sind keine Vulkane.
-E) Keine der Schlussfolgerungen ist richtig.

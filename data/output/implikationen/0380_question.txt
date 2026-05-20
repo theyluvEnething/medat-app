@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Telefone sind keine Quartette.
-- Einige Quartette sind Tannen.
-
-A) Alle Telefone sind keine Tannen.
-B) Einige Telefone sind Tannen.
-C) Alle Telefone sind Tannen.
-D) Einige Telefone sind keine Tannen.
-E) Keine der Schlussfolgerungen ist richtig.

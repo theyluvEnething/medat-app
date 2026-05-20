@@ -1,7 +1,0 @@
-Zahlenfolge: 85 58 65 56 63 36 ? ?
-
-A) 39/15
-B) 41/14
-C) 14/41
-D) 42/12
-E) Keine der Antworten ist richtig

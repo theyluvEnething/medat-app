@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Stühle sind Anwälte.
-- Alle Anwälte sind Züge.
-
-A) Alle Stühle sind Züge.
-B) Einige Stühle sind Züge.
-C) Alle Stühle sind keine Züge.
-D) Einige Stühle sind keine Züge.
-E) Keine der Schlussfolgerungen ist richtig.

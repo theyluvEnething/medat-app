@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Vegetarier sind keine Klaviere.
-- Einige Klaviere sind keine Gräser.
-
-A) Alle Vegetarier sind Gräser.
-B) Einige Vegetarier sind Gräser.
-C) Alle Vegetarier sind keine Gräser.
-D) Einige Vegetarier sind keine Gräser.
-E) Keine der Schlussfolgerungen ist richtig.

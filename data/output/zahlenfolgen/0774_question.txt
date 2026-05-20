@@ -1,7 +1,0 @@
-Zahlenfolge: 107 109 113 127 131 137 ? ?
-
-A) 151/157
-B) 149/155
-C) 274/280
-D) 150/156
-E) Keine der Antworten ist richtig

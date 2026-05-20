@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Nashörner sind keine Bäume.
-- Einige Bäume sind keine Gemälde.
-
-A) Alle Nashörner sind keine Gemälde.
-B) Einige Nashörner sind keine Gemälde.
-C) Alle Nashörner sind Gemälde.
-D) Einige Nashörner sind Gemälde.
-E) Keine der Schlussfolgerungen ist richtig.

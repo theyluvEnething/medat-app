@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Wölfe sind keine Züge.
-- Alle Züge sind Gedichte.
-
-A) Einige Wölfe sind keine Gedichte.
-B) Alle Wölfe sind Gedichte.
-C) Alle Wölfe sind keine Gedichte.
-D) Einige Wölfe sind Gedichte.
-E) Keine der Schlussfolgerungen ist richtig.

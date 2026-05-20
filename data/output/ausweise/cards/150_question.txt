@@ -1,7 +1,0 @@
-Name: KLUMSNOK
-Geburtstag: 8. Oktober
-Medikamenteneinnahme: Ja
-Blutgruppe: AB
-Bekannte Allergien: Johannisbeeren, Chinin
-Ausweisnummer: 88189
-Ausstellungsland: Bangladesch

@@ -1,7 +1,0 @@
-WievielePersonennehmenKEINE Medikamenteein?
-
-A) 7
-B) 5
-C) 2
-D) 4
-E) KeinederAntwortenistrichtig

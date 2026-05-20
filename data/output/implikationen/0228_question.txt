@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Hunde sind keine Schauspieler.
-- Alle Schauspieler sind keine Telefone.
-
-A) Alle Hunde sind keine Telefone.
-B) Einige Hunde sind Telefone.
-C) Alle Hunde sind Telefone.
-D) Einige Hunde sind keine Telefone.
-E) Keine der Schlussfolgerungen ist richtig.

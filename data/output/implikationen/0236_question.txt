@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Musikinstrumente sind Diamanten.
-- Einige Diamanten sind keine Pandas.
-
-A) Alle Musikinstrumente sind Pandas.
-B) Einige Musikinstrumente sind keine Pandas.
-C) Einige Musikinstrumente sind Pandas.
-D) Alle Musikinstrumente sind keine Pandas.
-E) Keine der Schlussfolgerungen ist richtig.

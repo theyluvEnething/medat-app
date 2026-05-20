@@ -1,7 +1,0 @@
-Name: HUFZAS
-Geburtstag: 25. August
-Medikamenteneinnahme: Nein
-Blutgruppe: B
-Bekannte Allergien: Anis, Milben
-Ausweisnummer: 46819
-Ausstellungsland: Sudan

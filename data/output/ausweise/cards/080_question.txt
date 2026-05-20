@@ -1,7 +1,0 @@
-Name: XERDOZ
-Geburtstag: 7. Januar
-Medikamenteneinnahme: Ja
-Blutgruppe: AB
-Bekannte Allergien: Nitrit, Katzenhaare, Oregano
-Ausweisnummer: 02671
-Ausstellungsland: Honduras

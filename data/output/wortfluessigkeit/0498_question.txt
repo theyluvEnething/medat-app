@@ -1,7 +1,0 @@
-Buchstabenreihe: I V A P R M
-
-A) I
-B) P
-C) V
-D) A
-E) KeinederAntwortenistrichtig

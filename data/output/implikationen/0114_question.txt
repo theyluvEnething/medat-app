@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Metalle sind keine Wirbeltiere.
-- Alle Wirbeltiere sind Kätzchen.
-
-A) Einige Metalle sind Kätzchen.
-B) Alle Metalle sind keine Kätzchen.
-C) Einige Metalle sind keine Kätzchen.
-D) Alle Metalle sind Kätzchen.
-E) Keine der Schlussfolgerungen ist richtig.

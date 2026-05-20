@@ -1,9 +1,0 @@
-Prämissen:
-- AlleSeilesindTaue.
-- EinigeSeilesindFäden.
-
-A) AlleTauesindFäden.
-B) AlleTauesindkeineFäden.
-C) EinigeTauesindFäden.
-D) EinigeTauesindkeineFäden.
-E) KeinederSchlussfolgerungenistrichtig.

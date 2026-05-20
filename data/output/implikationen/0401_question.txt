@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Reptilien sind keine Lehrer.
-- Alle Lehrer sind Teleskope.
-
-A) Alle Reptilien sind Teleskope.
-B) Einige Reptilien sind Teleskope.
-C) Alle Reptilien sind keine Teleskope.
-D) Einige Reptilien sind keine Teleskope.
-E) Keine der Schlussfolgerungen ist richtig.

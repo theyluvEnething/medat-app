@@ -1,7 +1,0 @@
-WievielePersonensindimSeptember geboren?
-
-A) 3
-B) 4
-C) 0
-D) 2
-E) KeinederAntwortenistrichtig

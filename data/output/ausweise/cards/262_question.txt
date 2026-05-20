@@ -1,7 +1,0 @@
-Name: NYKLONMA
-Geburtstag: 2. November
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Hamster, Löwenzähne
-Ausweisnummer: 85878
-Ausstellungsland: Ghana

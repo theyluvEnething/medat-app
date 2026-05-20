@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Schiffe sind Ingenieure.
-- Einige Ingenieure sind Wölfe.
-
-A) Einige Schiffe sind Wölfe.
-B) Einige Schiffe sind keine Wölfe.
-C) Alle Schiffe sind Wölfe.
-D) Alle Schiffe sind keine Wölfe.
-E) Keine der Schlussfolgerungen ist richtig.

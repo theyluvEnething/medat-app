@@ -1,7 +1,0 @@
-Name: SREXMIK
-Geburtstag: 20. Oktober
-Medikamenteneinnahme: Ja
-Blutgruppe: AB
-Bekannte Allergien: Schwarzerle
-Ausweisnummer: 95949
-Ausstellungsland: Guyana

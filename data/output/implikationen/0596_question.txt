@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Giraffen sind keine Flüsse.
-- Alle Flüsse sind keine Wissenschaftler.
-
-A) Einige Giraffen sind keine Wissenschaftler.
-B) Alle Giraffen sind Wissenschaftler.
-C) Einige Giraffen sind Wissenschaftler.
-D) Alle Giraffen sind keine Wissenschaftler.
-E) Keine der Schlussfolgerungen ist richtig.

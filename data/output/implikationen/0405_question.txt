@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Säugetiere sind Dinosaurier.
-- Alle Dinosaurier sind keine Zebras.
-
-A) Einige Säugetiere sind keine Zebras.
-B) Alle Säugetiere sind keine Zebras.
-C) Einige Säugetiere sind Zebras.
-D) Alle Säugetiere sind Zebras.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Name: QUALSON
-Geburtstag: 4. Januar
-Medikamenteneinnahme: Ja
-Blutgruppe: AB
-Bekannte Allergien: Kokosnüsse, Thiomersal
-Ausweisnummer: 02430
-Ausstellungsland: Brasilien

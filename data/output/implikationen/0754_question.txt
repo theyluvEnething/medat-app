@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Flugzeuge sind keine Vegetarier.
-- Einige Vegetarier sind keine Giraffen.
-
-A) Alle Flugzeuge sind keine Giraffen.
-B) Einige Flugzeuge sind keine Giraffen.
-C) Einige Flugzeuge sind Giraffen.
-D) Alle Flugzeuge sind Giraffen.
-E) Keine der Schlussfolgerungen ist richtig.

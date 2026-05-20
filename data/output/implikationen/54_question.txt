@@ -1,9 +1,0 @@
-Prämissen:
-- AlleRobbensindPinguine.
-- AlleEisbärensindRobben.
-
-A) AlleEisbärensindPinguine.
-B) AlleEisbärensindkeinePinguine.
-C) EinigeEisbärensindPinguine.
-D) EinigeEisbärensindkeinePinguine.
-E) KeinederSchlussfolgerungenistrichtig.

@@ -1,7 +1,0 @@
-Name: OBVISRO
-Geburtstag: 5. November
-Medikamenteneinnahme: Nein
-Blutgruppe: A
-Bekannte Allergien: Asbest
-Ausweisnummer: 28067
-Ausstellungsland: Indonesien

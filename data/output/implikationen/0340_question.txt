@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Statuen sind keine Tabletten.
-- Alle Tabletten sind Elektroautos.
-
-A) Einige Statuen sind keine Elektroautos.
-B) Alle Statuen sind keine Elektroautos.
-C) Alle Statuen sind Elektroautos.
-D) Einige Statuen sind Elektroautos.
-E) Keine der Schlussfolgerungen ist richtig.

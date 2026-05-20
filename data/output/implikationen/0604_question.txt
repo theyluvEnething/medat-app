@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Pilze sind Nashörner.
-- Alle Nashörner sind keine Wölfe.
-
-A) Alle Pilze sind Wölfe.
-B) Alle Pilze sind keine Wölfe.
-C) Einige Pilze sind keine Wölfe.
-D) Einige Pilze sind Wölfe.
-E) Keine der Schlussfolgerungen ist richtig.

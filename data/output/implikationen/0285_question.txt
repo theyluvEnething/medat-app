@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Telefone sind Tomaten.
-- Einige Tomaten sind keine Säugetiere.
-
-A) Einige Telefone sind keine Säugetiere.
-B) Einige Telefone sind Säugetiere.
-C) Alle Telefone sind keine Säugetiere.
-D) Alle Telefone sind Säugetiere.
-E) Keine der Schlussfolgerungen ist richtig.

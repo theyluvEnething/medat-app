@@ -1,7 +1,0 @@
-Buchstabenreihe: N M I A T U R
-
-A) A
-B) I
-C) U
-D) N
-E) KeinederAntwortenistrichtig

@@ -1,7 +1,0 @@
-Zahlenfolge: 10 13 26 29 58 61 ? ?
-
-A) 252/251
-B) 252/255
-C) 251/254
-D) 250/253
-E) Keine der Antworten ist richtig

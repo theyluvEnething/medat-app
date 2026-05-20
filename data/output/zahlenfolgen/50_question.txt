@@ -1,7 +1,0 @@
-Zahlenfolge: -2 19 17 30 47 41 88 ? ?
-
-A) 62/146
-B) 54/148
-C) 148/62
-D) 52/140
-E) KeinederAntwortenistrichtig

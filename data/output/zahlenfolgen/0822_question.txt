@@ -1,7 +1,0 @@
-Zahlenfolge: 93 39 41 14 16 61 ? ?
-
-A) 39/84
-B) 83/38
-C) 38/83
-D) 39/82
-E) Keine der Antworten ist richtig

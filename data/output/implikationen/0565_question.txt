@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Pandas sind keine Wirbeltiere.
-- Einige Wirbeltiere sind Reptilien.
-
-A) Einige Pandas sind Reptilien.
-B) Alle Pandas sind Reptilien.
-C) Alle Pandas sind keine Reptilien.
-D) Einige Pandas sind keine Reptilien.
-E) Keine der Schlussfolgerungen ist richtig.

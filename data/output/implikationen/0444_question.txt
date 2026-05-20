@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Amseln sind Marder.
-- Einige Marder sind Schriftsteller.
-
-A) Alle Amseln sind Schriftsteller.
-B) Einige Amseln sind keine Schriftsteller.
-C) Alle Amseln sind keine Schriftsteller.
-D) Einige Amseln sind Schriftsteller.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Fische sind Maler.
-- Alle Maler sind keine Musikinstrumente.
-
-A) Alle Fische sind Musikinstrumente.
-B) Einige Fische sind keine Musikinstrumente.
-C) Einige Fische sind Musikinstrumente.
-D) Alle Fische sind keine Musikinstrumente.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-WieheißtdiePersonmit AusstellungslandEstlandunddem Geschlechtweiblich?
-
-A) VEILKOM
-B) NAMSOL
-C) HOLFKOR
-D) INDBAR
-E) KeinederAntwortenistrichtig

@@ -1,7 +1,0 @@
-Zahlenfolge: 39 51 57 69 84 96 111 ? ?
-
-A) 111/125
-B) 114/120
-C) 101/128
-D) 130/120
-E) KeinederAntwortenistrichtig

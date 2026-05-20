@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Rosen sind keine Uhren.
-- Einige Uhren sind keine Sänger.
-
-A) Alle Rosen sind Sänger.
-B) Einige Rosen sind keine Sänger.
-C) Einige Rosen sind Sänger.
-D) Alle Rosen sind keine Sänger.
-E) Keine der Schlussfolgerungen ist richtig.

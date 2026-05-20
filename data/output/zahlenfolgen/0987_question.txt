@@ -1,7 +1,0 @@
-Zahlenfolge: 25 27 33 43 57 75 ? ?
-
-A) 153/187
-B) 163/197
-C) 152/189
-D) 150/160
-E) Keine der Antworten ist richtig

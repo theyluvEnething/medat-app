@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Gedichte sind Haie.
-- Einige Haie sind Bücher.
-
-A) Einige Gedichte sind Bücher.
-B) Einige Gedichte sind keine Bücher.
-C) Alle Gedichte sind keine Bücher.
-D) Alle Gedichte sind Bücher.
-E) Keine der Schlussfolgerungen ist richtig.

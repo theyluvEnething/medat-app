@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Amphibien sind keine Reptilien.
-- Alle Reptilien sind Gemälde.
-
-A) Alle Amphibien sind keine Gemälde.
-B) Einige Amphibien sind Gemälde.
-C) Einige Amphibien sind keine Gemälde.
-D) Alle Amphibien sind Gemälde.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Tomaten sind Ärzte.
-- Einige Ärzte sind keine Fische.
-
-A) Einige Tomaten sind Fische.
-B) Einige Tomaten sind keine Fische.
-C) Alle Tomaten sind Fische.
-D) Alle Tomaten sind keine Fische.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Name: PREDRAC
-Geburtstag: 9. August
-Medikamenteneinnahme: Ja
-Blutgruppe: A
-Bekannte Allergien: Kürbisse, Himbeeren,
-Ausweisnummer: 88637
-Ausstellungsland: Brunei

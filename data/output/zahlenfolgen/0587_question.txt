@@ -1,7 +1,0 @@
-Zahlenfolge: 45 54 56 65 67 76 ? ?
-
-A) 87/100
-B) 91/100
-C) 89/98
-D) 90/99
-E) Keine der Antworten ist richtig

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Schlangen sind keine Mäuse.
-- Einige Mäuse sind Uhren.
-
-A) Alle Schlangen sind keine Uhren.
-B) Alle Schlangen sind Uhren.
-C) Einige Schlangen sind keine Uhren.
-D) Einige Schlangen sind Uhren.
-E) Keine der Schlussfolgerungen ist richtig.

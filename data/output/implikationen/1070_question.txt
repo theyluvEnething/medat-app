@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Schlangen sind Amseln.
-- Alle Amseln sind Metalle.
-
-A) Einige Schlangen sind Metalle.
-B) Einige Schlangen sind keine Metalle.
-C) Alle Schlangen sind Metalle.
-D) Alle Schlangen sind keine Metalle.
-E) Keine der Schlussfolgerungen ist richtig.

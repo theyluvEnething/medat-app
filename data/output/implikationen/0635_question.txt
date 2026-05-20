@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Tomaten sind Schauspieler.
-- Einige Schauspieler sind Lehrer.
-
-A) Alle Tomaten sind keine Lehrer.
-B) Alle Tomaten sind Lehrer.
-C) Einige Tomaten sind Lehrer.
-D) Einige Tomaten sind keine Lehrer.
-E) Keine der Schlussfolgerungen ist richtig.

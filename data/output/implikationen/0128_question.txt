@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Spatzen sind keine Nashörner.
-- Einige Nashörner sind keine Flugzeuge.
-
-A) Alle Spatzen sind keine Flugzeuge.
-B) Einige Spatzen sind Flugzeuge.
-C) Alle Spatzen sind Flugzeuge.
-D) Einige Spatzen sind keine Flugzeuge.
-E) Keine der Schlussfolgerungen ist richtig.

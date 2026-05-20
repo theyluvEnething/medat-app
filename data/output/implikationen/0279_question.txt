@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Blumen sind keine Schriftsteller.
-- Einige Schriftsteller sind Glühbirnen.
-
-A) Einige Blumen sind Glühbirnen.
-B) Alle Blumen sind Glühbirnen.
-C) Einige Blumen sind keine Glühbirnen.
-D) Alle Blumen sind keine Glühbirnen.
-E) Keine der Schlussfolgerungen ist richtig.

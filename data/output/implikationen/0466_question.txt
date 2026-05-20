@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Maler sind Granite.
-- Alle Granite sind Fotografen.
-
-A) Einige Maler sind Fotografen.
-B) Einige Maler sind keine Fotografen.
-C) Alle Maler sind Fotografen.
-D) Alle Maler sind keine Fotografen.
-E) Keine der Schlussfolgerungen ist richtig.

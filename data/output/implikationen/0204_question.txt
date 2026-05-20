@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Tiger sind keine Haie.
-- Alle Haie sind Fische.
-
-A) Alle Tiger sind Fische.
-B) Einige Tiger sind Fische.
-C) Alle Tiger sind keine Fische.
-D) Einige Tiger sind keine Fische.
-E) Keine der Schlussfolgerungen ist richtig.

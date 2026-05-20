@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Flüsse sind keine Fische.
-- Alle Fische sind keine Lehrer.
-
-A) Alle Flüsse sind keine Lehrer.
-B) Einige Flüsse sind Lehrer.
-C) Alle Flüsse sind Lehrer.
-D) Einige Flüsse sind keine Lehrer.
-E) Keine der Schlussfolgerungen ist richtig.

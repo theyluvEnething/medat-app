@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Menschen sind keine Reptilien.
-- Alle Reptilien sind Mäuse.
-
-A) Alle Menschen sind keine Mäuse.
-B) Einige Menschen sind keine Mäuse.
-C) Einige Menschen sind Mäuse.
-D) Alle Menschen sind Mäuse.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Haie sind keine Gemälde.
-- Alle Gemälde sind Quartette.
-
-A) Einige Haie sind keine Quartette.
-B) Einige Haie sind Quartette.
-C) Alle Haie sind keine Quartette.
-D) Alle Haie sind Quartette.
-E) Keine der Schlussfolgerungen ist richtig.

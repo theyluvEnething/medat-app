@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Quallen sind Diamanten.
-- Einige Diamanten sind Türen.
-
-A) Einige Quallen sind keine Türen.
-B) Einige Quallen sind Türen.
-C) Alle Quallen sind Türen.
-D) Alle Quallen sind keine Türen.
-E) Keine der Schlussfolgerungen ist richtig.

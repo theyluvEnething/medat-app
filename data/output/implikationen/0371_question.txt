@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Quartette sind Uhren.
-- Einige Uhren sind keine Dinosaurier.
-
-A) Einige Quartette sind Dinosaurier.
-B) Alle Quartette sind Dinosaurier.
-C) Einige Quartette sind keine Dinosaurier.
-D) Alle Quartette sind keine Dinosaurier.
-E) Keine der Schlussfolgerungen ist richtig.

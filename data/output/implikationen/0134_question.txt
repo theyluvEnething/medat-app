@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Taucher sind keine Vögel.
-- Alle Vögel sind keine Fische.
-
-A) Einige Taucher sind keine Fische.
-B) Alle Taucher sind keine Fische.
-C) Einige Taucher sind Fische.
-D) Alle Taucher sind Fische.
-E) Keine der Schlussfolgerungen ist richtig.

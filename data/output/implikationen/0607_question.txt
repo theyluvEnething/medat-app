@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Flugzeuge sind Mathematiker.
-- Alle Mathematiker sind Autos.
-
-A) Einige Flugzeuge sind keine Autos.
-B) Alle Flugzeuge sind Autos.
-C) Einige Flugzeuge sind Autos.
-D) Alle Flugzeuge sind keine Autos.
-E) Keine der Schlussfolgerungen ist richtig.

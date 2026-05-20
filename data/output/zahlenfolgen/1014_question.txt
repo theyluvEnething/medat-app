@@ -1,7 +1,0 @@
-Zahlenfolge: 3 9 27 81 243 729 ? ?
-
-A) 6561/19683
-B) 6562/19685
-C) 6563/19684
-D) 6706/19828
-E) Keine der Antworten ist richtig

@@ -1,7 +1,0 @@
-WievielePersonenhabendieBlutgruppe 0?
-
-A) 5
-B) 1
-C) 2
-D) 0
-E) KeinederAntwortenistrichtig

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Nashörner sind Glühbirnen.
-- Alle Glühbirnen sind Delfine.
-
-A) Alle Nashörner sind Delfine.
-B) Einige Nashörner sind Delfine.
-C) Alle Nashörner sind keine Delfine.
-D) Einige Nashörner sind keine Delfine.
-E) Keine der Schlussfolgerungen ist richtig.

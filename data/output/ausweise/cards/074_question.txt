@@ -1,7 +1,0 @@
-Name: VALTRE
-Geburtstag: 2. Juli
-Medikamenteneinnahme: Nein
-Blutgruppe: A
-Bekannte Allergien: Farbstoffe, Kohlensäure
-Ausweisnummer: 78183
-Ausstellungsland: Guyana

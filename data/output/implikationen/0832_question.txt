@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Pilze sind Türen.
-- Alle Türen sind keine Pandas.
-
-A) Einige Pilze sind Pandas.
-B) Alle Pilze sind keine Pandas.
-C) Einige Pilze sind keine Pandas.
-D) Alle Pilze sind Pandas.
-E) Keine der Schlussfolgerungen ist richtig.

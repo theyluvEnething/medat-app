@@ -1,7 +1,0 @@
-Zahlenfolge: 7 8 11 16 23 32 ? ?
-
-A) 71/88
-B) 37/42
-C) 73/89
-D) 73/86
-E) Keine der Antworten ist richtig

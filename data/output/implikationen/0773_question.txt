@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Wissenschaftler sind keine Nashörner.
-- Einige Nashörner sind keine Mäuse.
-
-A) Alle Wissenschaftler sind Mäuse.
-B) Alle Wissenschaftler sind keine Mäuse.
-C) Einige Wissenschaftler sind Mäuse.
-D) Einige Wissenschaftler sind keine Mäuse.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Name: PIBLOMS
-Geburtstag: 22. Mai
-Medikamenteneinnahme: Ja
-Blutgruppe: AB
-Bekannte Allergien: Pflaster
-Ausweisnummer: 23830
-Ausstellungsland: Palau

@@ -1,7 +1,0 @@
-Zahlenfolge: -3 31 11 62 39 124 95 ? ?
-
-A) 239/195
-B) 239/200
-C) 239/199
-D) 248/207
-E) KeinederAntwortenistrichtig

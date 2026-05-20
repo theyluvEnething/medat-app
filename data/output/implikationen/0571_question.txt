@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Eidechsen sind keine Vasen.
-- Einige Vasen sind Radios.
-
-A) Alle Eidechsen sind keine Radios.
-B) Einige Eidechsen sind keine Radios.
-C) Einige Eidechsen sind Radios.
-D) Alle Eidechsen sind Radios.
-E) Keine der Schlussfolgerungen ist richtig.

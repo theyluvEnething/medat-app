@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Häuser sind Pandas.
-- Einige Pandas sind keine Roboter.
-
-A) Alle Häuser sind keine Roboter.
-B) Alle Häuser sind Roboter.
-C) Einige Häuser sind keine Roboter.
-D) Einige Häuser sind Roboter.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- EinigeEnergiensindkeineFelder.
-- AlleKräftesindEnergien.
-
-A) AlleKräftesindFelder.
-B) AlleKräftesindkeineFelder.
-C) EinigeKräftesindFelder.
-D) EinigeKräftesindkeineFelder.
-E) KeinederSchlussfolgerungenistrichtig.

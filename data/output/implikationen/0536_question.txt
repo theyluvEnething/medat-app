@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Tannen sind keine Pandas.
-- Alle Pandas sind Reptilien.
-
-A) Alle Tannen sind Reptilien.
-B) Alle Tannen sind keine Reptilien.
-C) Einige Tannen sind Reptilien.
-D) Einige Tannen sind keine Reptilien.
-E) Keine der Schlussfolgerungen ist richtig.

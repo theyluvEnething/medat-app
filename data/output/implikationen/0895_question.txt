@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Insekten sind Tannen.
-- Einige Tannen sind keine Hunde.
-
-A) Alle Insekten sind Hunde.
-B) Einige Insekten sind keine Hunde.
-C) Einige Insekten sind Hunde.
-D) Alle Insekten sind keine Hunde.
-E) Keine der Schlussfolgerungen ist richtig.

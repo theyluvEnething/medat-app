@@ -1,7 +1,0 @@
-Zahlenfolge: -7 -3 2 8 15 23 ? ?
-
-A) 46/52
-B) 53/65
-C) 55/64
-D) 52/63
-E) Keine der Antworten ist richtig

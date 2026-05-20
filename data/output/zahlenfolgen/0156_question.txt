@@ -1,7 +1,0 @@
-Zahlenfolge: 17 18 20 23 27 32 ? ?
-
-A) 52/64
-B) 51/60
-C) 52/61
-D) 53/62
-E) Keine der Antworten ist richtig

@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Mammute sind Maler.
-- Alle Maler sind Insekten.
-
-A) Einige Mammute sind keine Insekten.
-B) Einige Mammute sind Insekten.
-C) Alle Mammute sind Insekten.
-D) Alle Mammute sind keine Insekten.
-E) Keine der Schlussfolgerungen ist richtig.

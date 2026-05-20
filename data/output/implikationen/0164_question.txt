@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Klaviere sind Schauspieler.
-- Einige Schauspieler sind Schriftsteller.
-
-A) Alle Klaviere sind keine Schriftsteller.
-B) Einige Klaviere sind Schriftsteller.
-C) Alle Klaviere sind Schriftsteller.
-D) Einige Klaviere sind keine Schriftsteller.
-E) Keine der Schlussfolgerungen ist richtig.

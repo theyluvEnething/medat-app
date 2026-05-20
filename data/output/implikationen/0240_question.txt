@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Mathematiker sind Flüsse.
-- Alle Flüsse sind Vasen.
-
-A) Einige Mathematiker sind keine Vasen.
-B) Alle Mathematiker sind keine Vasen.
-C) Alle Mathematiker sind Vasen.
-D) Einige Mathematiker sind Vasen.
-E) Keine der Schlussfolgerungen ist richtig.

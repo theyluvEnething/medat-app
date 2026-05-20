@@ -1,7 +1,0 @@
-WievielePersonensindMänner?
-
-A) 5
-B) 3
-C) 7
-D) 4
-E) KeinederAntwortenistrichtig

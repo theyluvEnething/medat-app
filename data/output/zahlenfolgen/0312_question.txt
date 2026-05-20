@@ -1,7 +1,0 @@
-Zahlenfolge: 4 20 24 44 68 112 ? ?
-
-A) 471/762
-B) 472/764
-C) 473/766
-D) 764/472
-E) Keine der Antworten ist richtig

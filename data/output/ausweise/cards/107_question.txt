@@ -1,7 +1,0 @@
-Name: RANSOM
-Geburtstag: 18. März
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Heringe, Textilien
-Ausweisnummer: 82799
-Ausstellungsland: Algerien

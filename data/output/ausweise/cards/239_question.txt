@@ -1,7 +1,0 @@
-Name: RAMKLOV
-Geburtstag: 7. November
-Medikamenteneinnahme: Ja
-Blutgruppe: 0
-Bekannte Allergien: Rosen
-Ausweisnummer: 89270
-Ausstellungsland: Spanien

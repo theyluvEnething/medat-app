@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Tulpen sind Dinosaurier.
-- Alle Dinosaurier sind Ingenieure.
-
-A) Einige Tulpen sind keine Ingenieure.
-B) Einige Tulpen sind Ingenieure.
-C) Alle Tulpen sind keine Ingenieure.
-D) Alle Tulpen sind Ingenieure.
-E) Keine der Schlussfolgerungen ist richtig.

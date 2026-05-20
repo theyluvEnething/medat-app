@@ -1,7 +1,0 @@
-WelcheBlutgruppehatdiePersonmit Ausweisnummer40018?
-
-A) B
-B) AB
-C) A
-D) 0
-E) KeinederAntwortenistrichtig

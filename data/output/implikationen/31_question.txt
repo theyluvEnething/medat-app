@@ -1,9 +1,0 @@
-Prämissen:
-- AlleHaiesindkeineSchildkröten.
-- EinigeRochensindSchildkröten.
-
-A) AlleRochensindHaie.
-B) AlleRochensindkeineHaie.
-C) EinigeRochensindHaie.
-D) EinigeRochensindkeineHaie.
-E) KeinederSchlussfolgerungenistrichtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Marder sind keine Lilien.
-- Einige Lilien sind keine Nashörner.
-
-A) Einige Marder sind keine Nashörner.
-B) Alle Marder sind keine Nashörner.
-C) Alle Marder sind Nashörner.
-D) Einige Marder sind Nashörner.
-E) Keine der Schlussfolgerungen ist richtig.

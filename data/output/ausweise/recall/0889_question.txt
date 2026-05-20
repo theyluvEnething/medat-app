@@ -1,7 +1,0 @@
-WievielePersonensindimFebruar geboren?
-
-A) 4
-B) 2
-C) 0
-D) 1
-E) KeinederAntwortenistrichtig

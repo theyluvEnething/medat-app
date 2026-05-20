@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Züge sind keine Tomaten.
-- Einige Tomaten sind keine Politiker.
-
-A) Einige Züge sind keine Politiker.
-B) Einige Züge sind Politiker.
-C) Alle Züge sind Politiker.
-D) Alle Züge sind keine Politiker.
-E) Keine der Schlussfolgerungen ist richtig.

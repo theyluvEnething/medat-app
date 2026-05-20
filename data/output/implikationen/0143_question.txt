@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Amphibien sind keine Hunde.
-- Alle Hunde sind Flüsse.
-
-A) Einige Amphibien sind Flüsse.
-B) Einige Amphibien sind keine Flüsse.
-C) Alle Amphibien sind Flüsse.
-D) Alle Amphibien sind keine Flüsse.
-E) Keine der Schlussfolgerungen ist richtig.

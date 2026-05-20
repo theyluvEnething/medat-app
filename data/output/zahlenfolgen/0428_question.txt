@@ -1,7 +1,0 @@
-Zahlenfolge: 19 3 22 25 47 72 ? ?
-
-A) 312/499
-B) 309/499
-C) 308/499
-D) 310/501
-E) Keine der Antworten ist richtig

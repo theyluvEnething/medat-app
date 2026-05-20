@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Lehrer sind keine Gräser.
-- Alle Gräser sind Flugzeuge.
-
-A) Alle Lehrer sind keine Flugzeuge.
-B) Einige Lehrer sind keine Flugzeuge.
-C) Einige Lehrer sind Flugzeuge.
-D) Alle Lehrer sind Flugzeuge.
-E) Keine der Schlussfolgerungen ist richtig.

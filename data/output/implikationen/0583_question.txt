@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Züge sind Flüsse.
-- Einige Flüsse sind Telefone.
-
-A) Einige Züge sind keine Telefone.
-B) Alle Züge sind keine Telefone.
-C) Alle Züge sind Telefone.
-D) Einige Züge sind Telefone.
-E) Keine der Schlussfolgerungen ist richtig.

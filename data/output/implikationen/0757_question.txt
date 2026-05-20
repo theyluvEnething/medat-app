@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Säugetiere sind keine Granite.
-- Alle Granite sind keine Sänger.
-
-A) Einige Säugetiere sind keine Sänger.
-B) Alle Säugetiere sind Sänger.
-C) Alle Säugetiere sind keine Sänger.
-D) Einige Säugetiere sind Sänger.
-E) Keine der Schlussfolgerungen ist richtig.

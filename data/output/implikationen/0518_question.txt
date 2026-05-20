@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Klaviere sind Teleskope.
-- Einige Teleskope sind Spatzen.
-
-A) Alle Klaviere sind keine Spatzen.
-B) Alle Klaviere sind Spatzen.
-C) Einige Klaviere sind Spatzen.
-D) Einige Klaviere sind keine Spatzen.
-E) Keine der Schlussfolgerungen ist richtig.

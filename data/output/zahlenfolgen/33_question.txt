@@ -1,7 +1,0 @@
-Zahlenfolge: 12 19 7 -12 -19 -7 12 ? ?
-
-A) 21/15
-B) 19/7
-C) 21/-8
-D) 25/7
-E) KeinederAntwortenistrichtig

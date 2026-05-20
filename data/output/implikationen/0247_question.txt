@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Amphibien sind keine Möbel.
-- Einige Möbel sind Schiffe.
-
-A) Einige Amphibien sind keine Schiffe.
-B) Alle Amphibien sind keine Schiffe.
-C) Einige Amphibien sind Schiffe.
-D) Alle Amphibien sind Schiffe.
-E) Keine der Schlussfolgerungen ist richtig.

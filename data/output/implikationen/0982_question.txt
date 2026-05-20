@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Diamanten sind Schlangen.
-- Einige Schlangen sind Kupfer.
-
-A) Einige Diamanten sind keine Kupfer.
-B) Einige Diamanten sind Kupfer.
-C) Alle Diamanten sind keine Kupfer.
-D) Alle Diamanten sind Kupfer.
-E) Keine der Schlussfolgerungen ist richtig.

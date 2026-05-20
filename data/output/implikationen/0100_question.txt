@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Säugetiere sind keine Giraffen.
-- Einige Giraffen sind keine Politiker.
-
-A) Einige Säugetiere sind keine Politiker.
-B) Alle Säugetiere sind Politiker.
-C) Alle Säugetiere sind keine Politiker.
-D) Einige Säugetiere sind Politiker.
-E) Keine der Schlussfolgerungen ist richtig.

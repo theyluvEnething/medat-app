@@ -1,7 +1,0 @@
-Zahlenfolge: 97 81 56 20 -29 -93 -174 ? ?
-
-A) -395/-274
-B) -274/-382
-C) -374/-260
-D) -271/-405
-E) KeinederAntwortenistrichtig

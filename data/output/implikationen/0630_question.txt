@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Smartphones sind keine Diamanten.
-- Alle Diamanten sind keine Türen.
-
-A) Einige Smartphones sind keine Türen.
-B) Alle Smartphones sind keine Türen.
-C) Alle Smartphones sind Türen.
-D) Einige Smartphones sind Türen.
-E) Keine der Schlussfolgerungen ist richtig.

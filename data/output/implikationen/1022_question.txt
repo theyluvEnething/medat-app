@@ -1,9 +1,0 @@
-Prämissen:
-- Alle Tulpen sind keine Nashörner.
-- Einige Nashörner sind keine Dichter.
-
-A) Alle Tulpen sind keine Dichter.
-B) Alle Tulpen sind Dichter.
-C) Einige Tulpen sind Dichter.
-D) Einige Tulpen sind keine Dichter.
-E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- Einige Sportler sind Gräser.
-- Alle Gräser sind Pilze.
-
-A) Alle Sportler sind keine Pilze.
-B) Einige Sportler sind keine Pilze.
-C) Alle Sportler sind Pilze.
-D) Einige Sportler sind Pilze.
-E) Keine der Schlussfolgerungen ist richtig.

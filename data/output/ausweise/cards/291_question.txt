@@ -1,7 +1,0 @@
-Name: REUNIO
-Geburtstag: 10. März
-Medikamenteneinnahme: Nein
-Blutgruppe: AB
-Bekannte Allergien: Schwefeldioxid, Tintenfische
-Ausweisnummer: 98570
-Ausstellungsland: Südafrika
