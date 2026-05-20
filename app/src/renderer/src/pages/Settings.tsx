@@ -1,17 +1,21 @@
 import { useState } from 'react'
-import type { Question, SectionKey } from '../types'
+import { useNavigate } from 'react-router-dom'
+import type { SectionKey } from '../types'
 import { SECTION_ORDER } from '../types'
-import { ensureUserProgress, saveUserProgress, resetSectionProgress, resetAllProgress } from '../services/storage'
+import { useAppStore } from '../store/useAppStore'
 
-interface SettingsProps {
-  username: string
-  questions: Record<string, Question[]>
-  onBack: () => void
-}
+import questionsData from '../assets/questions.json'
+const questions = questionsData as Record<string, { id: number }[]>
 
-export function Settings({ username, questions, onBack }: SettingsProps) {
-  const progress = ensureUserProgress(username)
-  const [sections, setSections] = useState(progress.sections)
+export function Settings() {
+  const navigate = useNavigate()
+  const username = useAppStore((s) => s.user.username)
+  const storeProgress = useAppStore((s) => s.progress)
+  const updateProgress = useAppStore((s) => s.updateProgress)
+  const resetSectionProgress = useAppStore((s) => s.resetSectionProgress)
+  const resetAllProgress = useAppStore((s) => s.resetAllProgress)
+
+  const [sections, setSections] = useState(storeProgress)
 
   const updateSetIndex = (sectionKey: SectionKey, value: number) => {
     const updated = {
@@ -19,20 +23,19 @@ export function Settings({ username, questions, onBack }: SettingsProps) {
       [sectionKey]: { ...sections[sectionKey]!, currentSetIndex: value },
     }
     setSections(updated)
-    saveUserProgress(username, { sections: updated })
+    updateProgress(sectionKey, updated[sectionKey]!)
   }
 
   const resetSection = (sectionKey: SectionKey) => {
-    resetSectionProgress(username, sectionKey)
+    resetSectionProgress(sectionKey)
     const fresh = { currentSetIndex: 0, completed: [], wrongIds: [] }
     setSections((prev) => ({ ...prev, [sectionKey]: fresh }))
   }
 
   const handleResetAll = () => {
     if (window.confirm('Gesamten Fortschritt zurücksetzen? Diese Aktion kann nicht rückgängig gemacht werden.')) {
-      resetAllProgress(username)
-      const fresh = ensureUserProgress(username)
-      setSections(fresh.sections)
+      resetAllProgress()
+      setSections(useAppStore.getState().progress)
     }
   }
 
@@ -41,7 +44,7 @@ export function Settings({ username, questions, onBack }: SettingsProps) {
       <div className="flex items-center justify-between">
         <h1 className="text-2xl font-bold">Einstellungen</h1>
         <button
-          onClick={onBack}
+          onClick={() => navigate('/home')}
           className="rounded-lg bg-zinc-800 px-4 py-2 text-sm text-zinc-300 transition-all duration-200 hover:scale-[1.03] hover:bg-zinc-700 active:scale-95"
         >
           Zurück
@@ -54,7 +57,7 @@ export function Settings({ username, questions, onBack }: SettingsProps) {
 
       <div className="flex flex-col gap-4">
         {SECTION_ORDER.map((sec) => {
-          const sp = sections[sec.key]!
+          const sp = sections[sec.key] ?? { currentSetIndex: 0, completed: [], wrongIds: [] }
           const pool = questions[sec.key] ?? []
           const setSize = sec.count
           const totalSets = setSize > 0 ? Math.ceil(pool.length / setSize) : 1

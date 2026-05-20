@@ -17,5 +17,6 @@ export default defineConfig({
   base: '/medat-app/',
   build: {
     outDir: 'dist',
+    emptyOutDir: true,
   },
 })

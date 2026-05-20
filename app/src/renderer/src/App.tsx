@@ -1,62 +1,27 @@
-import { useState } from 'react'
-import type { Question, Screen } from './types'
+import { Routes, Route, Navigate } from 'react-router-dom'
+import { useAppStore } from './store/useAppStore'
 import { Login } from './pages/Login'
 import { Home } from './pages/Home'
-import { Test } from './pages/Test'
+import { Setup } from './pages/Setup'
+import { Session } from './pages/Session'
+import { Results } from './pages/Results'
 import { Settings } from './pages/Settings'
-import { ensureUserProgress, saveLastUsername } from './services/storage'
-
-import questionsData from './assets/questions.json'
-
-const questions = questionsData as Record<string, Question[]>
 
 export function App() {
-  const [screen, setScreen] = useState<Screen>('login')
-  const [username, setUsername] = useState('')
-
-  const handleLogin = (name: string) => {
-    setUsername(name)
-    saveLastUsername(name)
-    ensureUserProgress(name)
-    setScreen('home')
-  }
-
-  const handleLogout = () => {
-    setUsername('')
-    setScreen('login')
-  }
-
-  if (screen === 'login') {
-    return <Login onLogin={handleLogin} />
-  }
-
-  if (screen === 'settings') {
-    return (
-      <Settings
-        username={username}
-        questions={questions}
-        onBack={() => setScreen('home')}
-      />
-    )
-  }
-
-  if (screen === 'test') {
-    return (
-      <Test
-        questions={questions}
-        username={username}
-        onExit={() => setScreen('home')}
-      />
-    )
-  }
+  const username = useAppStore((s) => s.user.username)
 
   return (
-    <Home
-      username={username}
-      questions={questions}
-      onStart={() => setScreen('test')}
-      onSettings={() => setScreen('settings')}
-      onLogout={handleLogout}
-    />
+    <Routes>
+      <Route
+        path="/"
+        element={<Navigate to={username ? '/home' : '/login'} replace />}
+      />
+      <Route path="/login" element={<Login />} />
+      <Route path="/home" element={<Home />} />
+      <Route path="/setup" element={<Setup />} />
+      <Route path="/session/:type" element={<Session />} />
+      <Route path="/results" element={<Results />} />
+      <Route path="/settings" element={<Settings />} />
+    </Routes>
   )
 }

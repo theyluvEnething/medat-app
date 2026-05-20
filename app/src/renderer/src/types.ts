@@ -31,7 +31,21 @@ export interface UserProgress {
   sections: Record<SectionKey, SectionProgress>
 }
 
-export type Screen = 'login' | 'home' | 'test' | 'settings'
+export interface SectionResult {
+  sectionKey: SectionKey
+  correct: number
+  total: number
+  timeSpent: number
+}
+
+export interface SessionRecord {
+  date: string
+  type: 'full' | SectionKey
+  score: { correct: number; total: number }
+  sectionBreakdown: SectionResult[]
+  answers: Record<string, string>
+  duration: number
+}
 
 export const SECTION_ORDER: SectionConfig[] = [
   { key: 'figuren', label: 'Figuren zusammensetzen', timeMin: 20, count: 15 },

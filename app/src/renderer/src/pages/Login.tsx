@@ -1,21 +1,23 @@
 import { useEffect, useState } from 'react'
-import { loadLastUsername } from '../services/storage'
+import { useNavigate } from 'react-router-dom'
+import { useAppStore } from '../store/useAppStore'
 
-interface LoginProps {
-  onLogin: (username: string) => void
-}
-
-export function Login({ onLogin }: LoginProps) {
+export function Login() {
+  const navigate = useNavigate()
+  const username = useAppStore((s) => s.user.username)
+  const login = useAppStore((s) => s.login)
   const [name, setName] = useState('')
 
   useEffect(() => {
-    const last = loadLastUsername()
-    if (last) setName(last)
-  }, [])
+    if (username) setName(username)
+  }, [username])
 
   const submit = () => {
     const trimmed = name.trim()
-    if (trimmed) onLogin(trimmed)
+    if (trimmed) {
+      login(trimmed)
+      navigate('/home')
+    }
   }
 
   return (

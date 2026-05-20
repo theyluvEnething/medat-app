@@ -1,19 +1,19 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
-import type { Question, SectionProgress } from '../types'
+import { useParams, useNavigate } from 'react-router-dom'
+import type { Question, SectionProgress, SectionKey } from '../types'
 import { SECTION_ORDER } from '../types'
 import { Timer } from '../components/Timer'
-import { QuestionCard } from '../components/QuestionCard'
+import { QuizCard } from '../components/QuizCard'
 import { HintBanner } from '../components/HintBanner'
 import { useTimer } from '../hooks/useTimer'
-import { ensureUserProgress, saveUserProgress } from '../services/storage'
+import { useAppStore } from '../store/useAppStore'
 
-interface TestProps {
-  questions: Record<string, Question[]>
-  username: string
-  onExit: () => void
+import questionsData from '../assets/questions.json'
+const questions = questionsData as Record<string, Question[]>
+
+function emptyProgress(): SectionProgress {
+  return { currentSetIndex: 0, completed: [], wrongIds: [] }
 }
-
-type Step = 'intro' | 'active' | 'section-done' | 'results'
 
 function selectQuestions(
   allPool: Question[],
@@ -46,8 +46,29 @@ function selectQuestions(
   return { questions: remaining.slice(0, count) }
 }
 
-export function Test({ questions, username, onExit }: TestProps) {
-  const [progress, setProgress] = useState(() => ensureUserProgress(username))
+type Step = 'intro' | 'active' | 'section-done'
+
+export function Session() {
+  const { type } = useParams<{ type: string }>()
+  const navigate = useNavigate()
+
+  const storeProgress = useAppStore((s) => s.progress)
+  const updateProgress = useAppStore((s) => s.updateProgress)
+  const startSession = useAppStore((s) => s.startSession)
+  const completeSession = useAppStore((s) => s.completeSession)
+  const recordWrongAnswer = useAppStore((s) => s.recordWrongAnswer)
+  const recalculateMastery = useAppStore((s) => s.recalculateMastery)
+  const updateDailyStreak = useAppStore((s) => s.updateDailyStreak)
+  const sessionAnswers = useAppStore((s) => s.session.answers)
+
+  // Determine sections to run
+  const sectionsToRun = useMemo(() => {
+    if (!type) return []
+    if (type === 'full') return [...SECTION_ORDER]
+    const sec = SECTION_ORDER.find((s) => s.key === type)
+    return sec ? [sec] : []
+  }, [type])
+
   const [sectionIndex, setSectionIndex] = useState(0)
   const [questionIndex, setQuestionIndex] = useState(0)
   const [step, setStep] = useState<Step>('intro')
@@ -55,45 +76,57 @@ export function Test({ questions, username, onExit }: TestProps) {
   const [showTimer, setShowTimer] = useState(true)
   const [showSolution, setShowSolution] = useState(false)
   const [zoom, setZoom] = useState(1)
+  const [sessionStarted, setSessionStarted] = useState(false)
 
-  const section = SECTION_ORDER[sectionIndex]
-  if (!section) return null
+  const section = sectionsToRun[sectionIndex]
+  if (!section) {
+    return (
+      <div className="flex min-h-screen flex-col items-center justify-center gap-6">
+        <p className="text-zinc-400">Ungültiger Testtyp</p>
+        <button
+          onClick={() => navigate('/setup')}
+          className="rounded-xl bg-emerald-600 px-6 py-3 text-lg font-semibold text-white"
+        >
+          Zurück
+        </button>
+      </div>
+    )
+  }
 
   const allPool: Question[] = questions[section.key] ?? []
-  const sp = progress.sections[section.key]
+  const sp: SectionProgress = storeProgress[section.key] ?? emptyProgress()
 
   const displayedQuestions: Question[] = useMemo(() => {
-    if (!sp) return []
     const result = selectQuestions(allPool, sp, section.count)
     if (result.questions.length > 0) {
       const firstId = result.questions[0]!.id
       const newSetIndex = Math.floor((firstId - 1) / section.count)
       if (newSetIndex !== sp.currentSetIndex) {
-        const updated = { ...sp, currentSetIndex: newSetIndex }
-        setProgress((prev) => {
-          const next = { ...prev, sections: { ...prev.sections, [section.key]: updated } }
-          saveUserProgress(username, next)
-          return next
-        })
+        updateProgress(section.key, { ...sp, currentSetIndex: newSetIndex })
       }
     }
     return result.questions
-  }, [section, sp, allPool])
+  }, [section.key, sp.currentSetIndex, sp.completed.length, sp.wrongIds.length, allPool.length])
 
   const currentQuestion = displayedQuestions[questionIndex]
 
   const handleExpire = useCallback(() => {
-    if (sectionIndex < SECTION_ORDER.length - 1) {
-      setStep('section-done')
-    } else {
-      setStep('results')
-    }
-  }, [sectionIndex])
+    setStep('section-done')
+  }, [])
 
   const timerSeconds = section.timeMin * 60
   const { remaining, isRunning, start, pause } = useTimer(timerSeconds, handleExpire)
 
-  // Ctrl+Wheel zoom — CSS zoom scales layout uniformly (unlike transform)
+  // Initialize session on first mount
+  useEffect(() => {
+    if (!sessionStarted && type) {
+      startSession(type as 'full' | SectionKey)
+      setSessionStarted(true)
+      updateDailyStreak()
+    }
+  }, [sessionStarted, type, startSession, updateDailyStreak])
+
+  // Ctrl+Wheel zoom
   useEffect(() => {
     const handler = (e: WheelEvent) => {
       if (e.ctrlKey) {
@@ -127,11 +160,15 @@ export function Test({ questions, username, onExit }: TestProps) {
   const goNext = () => {
     if (questionIndex < displayedQuestions.length - 1) {
       setQuestionIndex((i) => i + 1)
+      setShowSolution(false)
     }
   }
 
   const goPrev = () => {
-    if (questionIndex > 0) setQuestionIndex((i) => i - 1)
+    if (questionIndex > 0) {
+      setQuestionIndex((i) => i - 1)
+      setShowSolution(false)
+    }
   }
 
   const skipQuestion = () => {
@@ -140,6 +177,7 @@ export function Test({ questions, username, onExit }: TestProps) {
     setAnswers((prev) => ({ ...prev, [key]: '__SKIPPED__' }))
     if (questionIndex < displayedQuestions.length - 1) {
       setQuestionIndex((i) => i + 1)
+      setShowSolution(false)
     }
   }
 
@@ -154,7 +192,6 @@ export function Test({ questions, username, onExit }: TestProps) {
   }
 
   const persistSectionProgress = () => {
-    if (!sp) return
     const completedSet = new Set(sp.completed)
     const wrongSet = new Set(sp.wrongIds)
 
@@ -165,9 +202,10 @@ export function Test({ questions, username, onExit }: TestProps) {
       if (choice === q.answer) {
         completedSet.add(q.id)
         wrongSet.delete(q.id)
-      } else {
+      } else if (choice !== '__SKIPPED__') {
         wrongSet.add(q.id)
         completedSet.delete(q.id)
+        recordWrongAnswer(section.key, q.id)
       }
     }
 
@@ -189,72 +227,53 @@ export function Test({ questions, username, onExit }: TestProps) {
       wrongIds: [...wrongSet].sort((a, b) => a - b),
     }
 
-    const next = { ...progress, sections: { ...progress.sections, [section.key]: updated } }
-    setProgress(next)
-    saveUserProgress(username, next)
+    updateProgress(section.key, updated)
   }
 
   const advanceSection = () => {
     persistSectionProgress()
     const next = sectionIndex + 1
-    if (next < SECTION_ORDER.length) {
+    if (next < sectionsToRun.length) {
       setSectionIndex(next)
       setQuestionIndex(0)
       setStep('intro')
     } else {
-      setStep('results')
+      // Session complete
+      recalculateMastery(questions)
+      completeSession()
+      navigate('/results')
     }
   }
 
-  const score = (): [number, number] => {
-    let correct = 0
-    let total = 0
-    for (const [key, choice] of Object.entries(answers)) {
-      if (key.startsWith('ausweise_memorize')) continue
-      const parts = key.split('-')
-      const sectionKey = parts[0]
-      const idStr = parts[1]
-      if (!sectionKey || !idStr) continue
-      const q = (questions[sectionKey] ?? []).find((q) => q.id === Number(idStr))
-      if (q) {
-        total++
-        if (q.answer === choice) correct++
-      }
+  // Build progress answers for ProgressTracker
+  const progressAnswers: Record<number, 'correct' | 'wrong' | 'pending'> = {}
+  for (let i = 0; i < displayedQuestions.length; i++) {
+    const q = displayedQuestions[i]
+    if (!q) continue
+    const key = `${section.key}-${q.id}`
+    const choice = answers[key]
+    if (choice === undefined) {
+      progressAnswers[i] = 'pending'
+    } else if (choice === q.answer) {
+      progressAnswers[i] = 'correct'
+    } else {
+      progressAnswers[i] = 'wrong'
     }
-    return [correct, total]
-  }
-
-  if (step === 'results') {
-    const [correct, total] = score()
-    return (
-      <div className="flex min-h-screen flex-col items-center justify-center gap-8 animate-fade-in">
-        <h1 className="text-4xl font-bold">Ergebnis</h1>
-        <p className="text-6xl font-mono tabular-nums text-emerald-400">
-          {correct}/{total}
-        </p>
-        <button
-          onClick={onExit}
-          className="rounded-xl bg-zinc-800 px-6 py-3 text-sm text-zinc-300 transition-all duration-200 hover:scale-[1.03] hover:bg-zinc-700 active:scale-95"
-        >
-          Zurück zum Start
-        </button>
-      </div>
-    )
   }
 
   return (
     <div
-      className="mx-auto flex min-h-screen max-w-5xl flex-col gap-8 px-10 py-10"
+      className="mx-auto flex min-h-screen max-w-5xl flex-col gap-6 px-6 py-8"
       style={{ zoom }}
     >
       {/* Header */}
       <div className="flex items-center justify-between gap-4">
         <div className="flex items-center gap-4">
           <span className="text-sm text-zinc-500">
-            Abschnitt {sectionIndex + 1}/{SECTION_ORDER.length}
+            Abschnitt {sectionIndex + 1}/{sectionsToRun.length}
           </span>
           <button
-            onClick={onExit}
+            onClick={() => navigate('/home')}
             className="text-xs text-red-400/70 transition-colors duration-200 hover:text-red-400"
           >
             Abbrechen
@@ -281,7 +300,7 @@ export function Test({ questions, username, onExit }: TestProps) {
         </div>
       </div>
 
-      <h2 className="text-2xl font-semibold">{section.label}</h2>
+      <h2 className="text-2xl font-semibold text-zinc-100">{section.label}</h2>
 
       <HintBanner sectionKey={section.key} />
 
@@ -305,7 +324,7 @@ export function Test({ questions, username, onExit }: TestProps) {
       {/* Active step */}
       {step === 'active' && currentQuestion && (
         <div className="flex animate-fade-in flex-col gap-6">
-          <QuestionCard
+          <QuizCard
             section={section.key}
             number={questionIndex + 1}
             total={displayedQuestions.length}
@@ -313,11 +332,14 @@ export function Test({ questions, username, onExit }: TestProps) {
             questionId={currentQuestion.id}
             image={currentQuestion.image}
             setSize={section.count}
-            selectedAnswer={selectedAnswer}
+            selectedAnswer={showSolution ? selectedAnswer : selectedAnswer}
             correctAnswer={showSolution ? currentQuestion.answer : null}
             onSelect={selectAnswer}
+            onNext={goNext}
+            progressAnswers={progressAnswers}
           />
 
+          {/* Navigation */}
           <div className="flex items-center justify-between">
             <button
               onClick={goPrev}
