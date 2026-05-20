@@ -1,34 +1,44 @@
 # MedAT KFF Trainer
 
-Offline desktop app for practising the KFF (Kognitive Fähigkeiten und Fertigkeiten) test of the Austrian MedAT entrance exam. Runs timed full-length simulations matching the real exam — same section order, same time limits, same question counts.
+Realistic KFF (Kognitive Fähigkeiten und Fertigkeiten) test simulator for the Austrian MedAT entrance exam. Runs timed full-length simulations matching the real exam — same section order, same time limits, same question counts.
 
-Built with **Electron + Vite + React 19 + TypeScript + Tailwind CSS v4**. Works fully offline.
+**Try it online:** https://theyluvenething.github.io/medat-app/
+
+Built with **Electron + Vite + React 19 + TypeScript + Tailwind CSS v4**. Available as both a desktop app and a website.
 
 ## Quick start
+
+### Web (browser)
+
+```bash
+cd web
+npm install
+npm run dev          # Vite dev server at localhost:5173
+```
+
+### Desktop (Electron)
 
 ```bash
 cd app
 npm install
-npm run dev          # starts Electron with HMR at 1280×720
+npm run dev          # Electron window at 1280×720
 ```
 
-Requires **Node ≥ 22**. Use nvm if needed (Node 24 is available in the environment).
+Requires **Node ≥ 22**.
 
-## How it works
+## Screens
 
-### Login & user system
+| Route | Screen | Purpose |
+|-------|--------|---------|
+| `/login` | Login | Username entry with persistence |
+| `/home` | Home | Progress dashboard, streak, mastery levels |
+| `/setup` | Setup | Full KFF simulation or single category practice |
+| `/session/:type` | Session | Active quiz with Busuu-style QuizCard |
+| `/results` | Results | Post-session analytics and wrong-answer review |
+| `/settings` | Settings | Per-section set control + progress reset |
+| `/leaderboard` | Leaderboard | Global ranking powered by Supabase |
 
-On first launch you enter a username. The app creates a persistent profile stored in `localStorage` that tracks every question you answer across all sessions. Your username is remembered for next time.
-
-### Home screen
-
-Shows your overall progress (e.g. "80% — 45/56 richtig") and a per-section breakdown with correct/attempted counts and which set you're on. From here you can:
-
-- **Test starten** — run a full 6-section KFF simulation
-- **Einstellungen** — manually set which set you're on for each section (useful if you already completed earlier sets)
-- **Abmelden** — switch users
-
-### Test flow
+## Test flow
 
 The app runs 6 sequential sections matching the real MedAT KFF:
 
@@ -41,42 +51,45 @@ The app runs 6 sequential sections matching the real MedAT KFF:
 | 5 | Ausweise Merken — Abfrage | 8 min | 25 questions |
 | 6 | Implikationen erkennen | 10 min | 10 questions |
 
-Each section draws its questions from a single **set** (e.g. set 0 = questions 1–15 for Figuren). When you correctly answer all questions in a set, the app advances to the next set. When all sets for a section are done, it wraps back to set 0.
+Each section draws questions from fixed-size **sets**. When all questions in a set are answered correctly, the set advances. Wrong answers reappear when the set recycles.
 
-Controls during the test:
-- **A–E buttons** — select an answer
-- **Überspringen** — skip the question (counts as wrong)
-- **Zurück / Weiter** — navigate between questions
-- **Timer ausblenden** — hide the countdown (timer keeps running)
-- **Abbrechen** — quit the test without saving any progress
+### Setup modes
 
-### Progress tracking
+- **Full KFF Simulation**: All 6 sections sequentially with strict timing
+- **Single Category**: Pick one section (e.g. only "Zahlenfolgen") for focused practice
 
-Your progress is saved **only when a section advances** (timer expires or you click "Nächster Abschnitt"). If you click "Abbrechen", nothing is saved.
+## Progress & gamification
 
-Per section, the app stores:
-- `currentSetIndex` — which set you're on
-- `completed` — question IDs answered correctly (never shown again)
-- `wrongIds` — question IDs answered incorrectly (shown again when the set recycles)
+**localStorage persistence** — progress saved automatically after each section. Zustand store tracks:
 
-Correctly answered questions are skipped in future sessions. When all questions in the current set are completed correctly, the set index advances.
+- **Per-section progress**: current set index, completed question IDs, wrong-question IDs
+- **Daily streak**: consecutive active days, displayed with fire emoji
+- **Mastery levels**: 0–100% accuracy per category, shown as Bronze/Silver/Gold
+- **Wrong-question tracking**: counts per question for spaced repetition review
 
-### Question types
+Progress is only saved when a section advances (timer expiry or manual "Fertig"). Clicking "Abbrechen" exits without saving.
+
+## Leaderboard
+
+Global ranking powered by **Supabase** (REST API, public anon key). The leaderboard shows:
+
+- Ranked users sorted by total score (highest first)
+- Questions solved and correct percentage
+- Auto-refreshes every 30 seconds
+- Top-3 podium display
+
+Data is submitted automatically when a user completes a session.
+
+## Question types
 
 | Section | Display |
 |---------|---------|
 | Figuren | Cropped figure image + A–E buttons |
-| Ausweise Merken (memorize) | Allergy pass card image + fields (Name, DOB, blood type, allergies, etc.) — no answer buttons |
+| Ausweise Merken (memorize) | ID card image + fields (Name, DOB, blood type, etc.) — no answer buttons |
 | Wortflüssigkeit | Letter sequence + A–E options |
 | Zahlenfolgen | Number sequence + A–E options |
-| Ausweise Merken (recall) | Question text (e.g. "What is the ID number of person X?") + A–E options |
+| Ausweise Merken (recall) | Question text + A–E options |
 | Implikationen | Premises + A–E logical conclusions |
-
-### Anti-cheat hints
-
-Sections where note-taking is forbidden in the real exam show an amber warning banner:
-- **Figuren**: "✗ Notizen VERBOTEN: Keine Notizen, Markierungen oder Kreise im Heft erlaubt."
-- **Ausweise Merken (memorize)**: "✗ Notizen VERBOTEN: In der Merkphase darfst du nichts aufschreiben."
 
 ## Project structure
 
@@ -84,140 +97,83 @@ Sections where note-taking is forbidden in the real exam show an amber warning b
 medat-app/
 ├── app/                          # Electron + React desktop app
 │   ├── package.json
-│   ├── electron.vite.config.ts   # electron-vite build config (main/preload/renderer)
-│   ├── electron-builder.yml      # electron-builder packaging config
-│   ├── tsconfig.json             # Root tsconfig (references node + web)
-│   ├── tsconfig.node.json        # Main + preload process types
-│   ├── tsconfig.web.json         # Renderer process types
+│   ├── electron.vite.config.ts
+│   ├── electron-builder.yml
 │   └── src/
-│       ├── main/
-│       │   └── index.ts          # Electron main process (BrowserWindow, IPC)
-│       ├── preload/
-│       │   ├── index.ts          # contextBridge (minimal, only ping stub)
-│       │   └── index.d.ts        # Window.api type augmentation
-│       └── renderer/
-│           ├── index.html        # HTML entry point
-│           └── src/
-│               ├── main.tsx      # React root mount (StrictMode)
-│               ├── App.tsx       # Screen router (login → home ↔ test/settings)
-│               ├── index.css     # Tailwind v4 import
-│               ├── vite-env.d.ts # Vite client type reference
-│               ├── types.ts      # SectionKey, SectionConfig, Question,
-│               │                 #   SectionProgress, UserProgress, Screen, SECTION_ORDER
-│               ├── assets/
-│               │   ├── questions.json   # 3,365 questions (bundled at build time)
-│               │   ├── figuren/        # 255 cropped figure PNGs (001–255.png)
-│               │   ├── ausweise/       # 320 ID card PNGs (001–320.png)
-│               │   └── solutions/      # Full-page answer-key renders
-│               ├── components/
-│               │   ├── QuestionCard.tsx # Renders question content + A–E buttons
-│               │   ├── Timer.tsx        # Progress bar + M:SS countdown
-│               │   └── HintBanner.tsx   # "Notizen VERBOTEN" amber warning
-│               ├── hooks/
-│               │   └── useTimer.ts     # Countdown timer (start/pause/reset/expire)
-│               ├── pages/
-│               │   ├── Login.tsx       # Username input (remembers last user)
-│               │   ├── Home.tsx        # Progress dashboard + start/settings buttons
-│               │   ├── Test.tsx        # Full KFF test orchestrator
-│               │   └── Settings.tsx    # Per-section set index override + reset
-│               └── services/
-│                   └── storage.ts      # localStorage wrapper + stats computation
+│       ├── main/index.ts         # Electron main process
+│       ├── preload/              # contextBridge (minimal)
+│       └── renderer/src/
+│           ├── main.tsx          # React root + HashRouter
+│           ├── App.tsx           # Route definitions
+│           ├── types.ts          # SectionKey, Question, SessionRecord, etc.
+│           ├── index.css         # Tailwind v4 + custom animations
+│           ├── assets/           # questions.json + figuren/ausweise/solutions PNGs
+│           ├── components/
+│           │   ├── QuizCard.tsx       # Busuu-style question card
+│           │   ├── ProgressTracker.tsx # Green/red/gray square row
+│           │   ├── Timer.tsx          # Progress bar + M:SS countdown
+│           │   └── HintBanner.tsx     # "Notizen VERBOTEN" warning
+│           ├── hooks/
+│           │   └── useTimer.ts        # Countdown timer hook
+│           ├── pages/
+│           │   ├── Login.tsx, Home.tsx, Setup.tsx
+│           │   ├── Session.tsx, Results.tsx
+│           │   ├── Settings.tsx, Leaderboard.tsx
+│           ├── services/
+│           │   ├── storage.ts         # Legacy localStorage helpers
+│           │   └── supabase.ts        # Supabase REST client
+│           └── store/
+│               └── useAppStore.ts     # Zustand store with persist
 │
-└── data/                          # Python PDF extraction tooling
-    ├── pyproject.toml             # uv-based project config (Python 3.13)
-    ├── DATA_FORMAT.md             # Parser output schema & ID conventions
-    ├── input/                     # Source PDFs by section
-    │   ├── figuren/
-    │   ├── implikationen/
-    │   ├── wortfluessigkeit/
-    │   ├── zahlenfolgen/
-    │   └── ausweise/
-    ├── output/                    # Flat text files + images by section
-    │   ├── figuren/   (001–255_question.txt/png + 001–255_solution.txt + solutions/)
-    │   ├── implikationen/ (01–70_question.txt + 01–70_solution.txt)
-    │   ├── wortfluessigkeit/ (0001–1650_question.txt + 0001–1650_solution.txt)
-    │   ├── zahlenfolgen/ (01–70_question.txt + 01–70_solution.txt)
-    │   └── ausweise/
-    │       ├── cards/   (001–320_question.png + 001–320_question.txt)
-    │       └── recall/  (0001–1000_question.txt + 0001–1000_solution.txt)
-    └── src/
-        └── medat_parser/
-            ├── pdf_parser.py          # Unified entry point (dispatches to section parsers)
-            ├── figuren_parser.py      # Figuren: PDF → flat text + cropped PNGs
-            ├── implikationen_parser.py
-            ├── wortfluessigkeit_parser.py
-            ├── zahlenfolgen_parser.py
-            ├── ausweise_parser.py     # Ausweise: PDF → card PNGs + recall questions
-            ├── converter.py           # flat output/ → app's questions.json (bundled JSON)
-            ├── merge.py               # Merges new PDF outputs into existing output/
-            ├── models.py              # Shared enums and constants
-            └── utils.py               # Shared text extraction helpers
+├── web/                          # Standalone web build
+│   ├── package.json
+│   ├── vite.config.ts            # @app alias + dedupe config
+│   ├── tsconfig.json
+│   ├── index.html
+│   └── src/
+│       ├── main.tsx              # Entry (imports App from @app)
+│       ├── index.css             # @source for app tree scanning
+│       ├── env.d.ts              # Web type declarations
+│       └── environment.ts        # Electron/browser platform abstraction
+│
+└── data/                         # Python PDF extraction tooling
+    ├── pyproject.toml
+    ├── DATA_FORMAT.md
+    ├── input/                    # Source PDFs by section
+    ├── output/                   # Flat text files + images
+    └── src/medat_parser/         # Section parsers + converter
 ```
+
+## Tech stack
+
+| Layer | Technology |
+|-------|-----------|
+| Desktop shell | Electron 33 |
+| Web deployment | Vite 6 → GitHub Pages |
+| UI | React 19, TypeScript 5.7 (strict) |
+| Routing | React Router v7 (HashRouter) |
+| State | Zustand v5 (persist middleware) |
+| Styling | Tailwind CSS v4 (Vite plugin) |
+| Leaderboard | Supabase (PostgREST API) |
+| Data extraction | Python 3.13, uv, pdfplumber, PyMuPDF, Pillow |
 
 ## Data pipeline
 
 ### Adding or updating questions
 
-1. Place new PDFs in `data/input/<section>/`
-2. Run the parser for that section:
-   ```bash
-   cd data
-   uv run medat-parse --input input/ --output output/
-   ```
-   Or a single section:
-   ```bash
-   uv run python -m medat_parser.figuren_parser --input "input/figuren/new.pdf" --output output/figuren/
-   ```
-3. Run the converter to rebuild the app's question bundle:
-   ```bash
-   uv run medat-convert --input output --output ../app/src/renderer/src/assets/questions.json
-   ```
-4. If the parser produced images, copy them into the app assets (strip `_question` suffix):
+1. Place PDFs in `data/input/<section>/`
+2. Parse: `cd data && uv run medat-parse --input input/ --output output/`
+3. Convert: `uv run medat-convert --input output --output ../app/src/renderer/src/assets/questions.json`
+4. Copy images (strip `_question` suffix for app compat):
    ```bash
    for f in data/output/figuren/*_question.png; do
        base=$(basename "$f" _question.png)
        cp "$f" "app/src/renderer/src/assets/figuren/${base}.png"
    done
-   for f in data/output/ausweise/cards/*_question.png; do
-       base=$(basename "$f" _question.png)
-       cp "$f" "app/src/renderer/src/assets/ausweise/${base}.png"
-   done
-   cp data/output/figuren/solutions/*.png app/src/renderer/src/assets/solutions/
    ```
-5. Rebuild the app (`npm run dev` or `npm run build`)
+5. Rebuild: `cd app && npm run dev`
 
-### Data format
-
-See `data/DATA_FORMAT.md` for the complete parser output JSON schema and ID conventions.
-
-The converter (`converter.py`) reads flat text files from `output/` and produces a `Record<section, Question[]>` JSON file:
-
-```json
-{
-  "figuren": [
-    {"section": "figuren", "id": 1, "answer": "C", "content": "Figuren zusammensetzen\nFrage 1"}
-  ],
-  "ausweise_memorize": [
-    {
-      "section": "ausweise_memorize",
-      "id": 1,
-      "answer": "",
-      "content": "Name: GILTONS\nGeburtstag: 22. März\n...",
-      "image": "001.png"
-    }
-  ],
-  "ausweise_recall": [
-    {
-      "section": "ausweise_recall",
-      "id": 1,
-      "answer": "E",
-      "content": "WielautetdieAusweisnummer...\n\nA) 81942\nB) 23612\n..."
-    }
-  ]
-}
-```
-
-### Current question counts (as of 2026-05-18)
+### Current question counts
 
 | Section | Questions | Sets | Set Size |
 |---------|-----------|------|----------|
@@ -229,15 +185,13 @@ The converter (`converter.py`) reads flat text files from `output/` and produces
 | Implikationen | 70 | 7 | 10 |
 | **Total** | **3,365** | | |
 
-## Tech stack
+## Web deployment
 
-| Layer | Technology |
-|-------|-----------|
-| Desktop shell | Electron 33 |
-| Build tooling | electron-vite 3, Vite 6 |
-| UI | React 19, TypeScript 5.7 (strict) |
-| Styling | Tailwind CSS v4 (Vite plugin, no config file) |
-| Lint/format | oxlint, oxfmt |
-| Data extraction | Python 3.13, uv, pdfplumber, PyMuPDF, Pillow, Pydantic |
-| Lint/format (Python) | ruff, ty |
-| Storage | localStorage (per-user progress), JSON files (questions) |
+```bash
+cd web
+npm run build          # → dist/
+# Deploy dist/ contents to gh-pages branch:
+# git subtree push or manual copy to orphan gh-pages branch
+```
+
+Served at `https://theyluvenething.github.io/medat-app/` via GitHub Pages with base path `/medat-app/`.

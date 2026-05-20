@@ -4,9 +4,10 @@ This file provides guidance to Claude Code when working in this repository.
 
 ## Project overview
 
-MedAT KFF Trainer — an offline Electron desktop app for practising the KFF (Kognitive Fähigkeiten und Fertigkeiten) test of the Austrian MedAT entrance exam.
+MedAT KFF Trainer — an offline Electron desktop app and web app for practising the KFF (Kognitive Fähigkeiten und Fertigkeiten) test of the Austrian MedAT entrance exam.
 
-- **`app/`** — Electron + Vite + React 19 + TypeScript + Tailwind v4 frontend
+- **`app/`** — Electron + Vite + React 19 + TypeScript + Tailwind v4 frontend (shared renderer code)
+- **`web/`** — Standalone Vite web build importing renderer source from `app/` via `@app` alias
 - **`data/`** — Python tooling (3.13, uv) to extract questions from PDFs into structured JSON
 
 ## Commands
@@ -24,6 +25,18 @@ npm run lint          # oxlint
 npm run format        # oxfmt
 ```
 
+### Web (`web/`)
+
+```bash
+cd web
+npm install           # install deps (Node ≥ 22)
+npm run dev           # Vite dev server at localhost:5173
+npm run build         # tsc + vite build → dist/
+npm run preview       # preview dist/ at localhost:4173
+```
+
+Deployed to GitHub Pages at https://theyluvenething.github.io/medat-app/ (base: `/medat-app/`).
+
 ### Data (`data/`)
 
 ```bash
@@ -33,36 +46,59 @@ uv run ruff check .          # lint
 uv run ruff format .         # format
 uv run ty check              # type-check
 
-# Run all parsers on input PDFs
 uv run medat-parse --input input/ --output output/
-
-# Regenerate the app's question bundle after parsing
 uv run medat-convert --input output --output ../app/src/renderer/src/assets/questions.json
-
-# Merge question sets from different PDF runs
 uv run medat-merge --input output/ --output merged/
 ```
 
 ## Architecture
 
-### Screen routing
+### Routing
 
-App.tsx manages a `Screen` enum: `'login'` → `'home'` → (`'test'` | `'settings'`). No router library — just React state switches.
+React Router v7 (`HashRouter`) with 7 routes:
+
+```
+/ → /login or /home          (redirect based on auth)
+/login → Login               Username entry
+/home → Home                 Dashboard + gamification stats
+/setup → Setup               Full KFF vs single category selection
+/session/:type → Session     Active quiz (QuizCard + Timer)
+/results → Results           Post-session analytics
+/settings → Settings         Per-section set control + reset
+/leaderboard → Leaderboard   Supabase-powered global ranking
+```
+
+### State management
+
+Zustand v5 store (`store/useAppStore.ts`) with `persist` middleware:
+- `user` — username
+- `progress` — per-section `SectionProgress` (migrated from old localStorage keys)
+- `session` — active quiz state (NOT persisted)
+- `sessionHistory` — completed session records (for Results page)
+- `gamification` — daily streak, mastery levels (0–100%), wrong-counts tracking
+
+Legacy migration: On first run, the `migrate` callback reads `medat_users` + `medat_last_user` from localStorage and converts them into the new store format.
+
+### Component tree
 
 ```
 App
-├── Login           # Username input, pre-filled from localStorage
-├── Home            # Progress dashboard, start/settings buttons
-├── Test            # Full 6-section KFF simulation
-│   ├── HintBanner  # "Notizen VERBOTEN" for figuren + ausweise_memorize
-│   ├── Timer       # Progress bar + M:SS countdown
-│   └── QuestionCard # Content + A–E buttons (images for figuren/ausweise)
-└── Settings        # Per-section set index override + reset
+├── Login             # Username input, pre-filled from store
+├── Home              # Progress dashboard + gamification (streak, mastery)
+├── Setup             # Full KFF card + per-category touch cards
+├── Session           # Quiz orchestrator (intro → active → section-done)
+│   ├── Timer         # Progress bar + M:SS countdown
+│   ├── HintBanner    # "Notizen VERBOTEN" for figuren + ausweise_memorize
+│   └── QuizCard      # Busuu-style (blue bg, 3D buttons, progress squares)
+│       └── ProgressTracker  # Green/red/gray square row at bottom
+├── Results           # Score card, per-section bars, wrong answers list
+├── Settings          # Colored section cards, −/+ set selector, danger zone
+└── Leaderboard       # Supabase-powered ranking table with podium
 ```
 
 ### Test flow
 
-The test runs 6 sequential sections. State machine per section: `intro` → `active` → `section-done`. After the last section, `results` shows correct/total score.
+The test runs 6 sequential sections (or a single selected one). State machine per section: `intro` → `active` → `section-done`.
 
 | # | Section key | Label | Time | Per Set |
 |---|-------------|-------|------|---------|
@@ -73,139 +109,85 @@ The test runs 6 sequential sections. State machine per section: `intro` → `act
 | 5 | `ausweise_recall` | Ausweise Merken — Abfrage | 8 min | 25 |
 | 6 | `implikationen` | Implikationen erkennen | 10 min | 10 |
 
-Defined in `types.ts` as `SECTION_ORDER: SectionConfig[]`. The `count` field is the set size used for set-based progress tracking and question selection.
-
 ### Question selection (set-based)
 
-Each section has a pool of questions (`questions.json`), divided into sets of `count` questions each. The current set is tracked in `SectionProgress.currentSetIndex`.
-
-`Test.tsx:selectQuestions()` — the core algorithm:
+`Session.tsx:selectQuestions()` — same algorithm as the old Test.tsx:
 1. Read pool segment `[setIndex * count .. (setIndex + 1) * count]`
-2. Filter out questions whose IDs are in `progress.completed` (already answered correctly)
-3. If filtered list is empty → all questions in set are done → advance `currentSetIndex` (wrap to 0 if past the end)
-4. If filtered list is shorter than `count` → fill with non-completed wrong answers from the same set
-5. Return the final list
+2. Filter out questions whose IDs are in `progress.completed`
+3. If empty → advance `currentSetIndex` (wrap to 0 if past end)
+4. If shorter than `count` → fill with non-completed wrong answers from same set
+5. Return final list
 
-The `useMemo` that calls `selectQuestions` also persists the new `currentSetIndex` if the set changed (detected by checking which set the first returned question belongs to).
+### QuizCard rendering by section
 
-### Progress persistence
+`QuizCard.tsx` renders differently per section:
+- **figuren**: Image from `assets/figuren/{id}.png` via `import.meta.glob`
+- **ausweise_memorize**: Image from `assets/ausweise/{image}.png` + field text. No answer buttons.
+- **All others**: Large text content + A–E full-width 3D buttons
 
-`storage.ts` wraps `localStorage` with JSON serialization. Keys:
-- `medat_last_user` → last username string
-- `medat_users` → `Record<string, UserProgress>` where `UserProgress.sections` maps each `SectionKey` to `SectionProgress { currentSetIndex, completed[], wrongIds[] }`
-
-Progress is saved by `Test.tsx:persistSectionProgress()` only when a section transitions (timer expiry or manual advance). The "Abbrechen" button exits without calling this function, so no progress is saved.
-
-When all questions in a set are in `completed`, `currentSetIndex` increments. When all sets for a section are done, the index wraps to 0.
-
-### QuestionCard rendering by section
-
-`QuestionCard.tsx` renders differently per section:
-- **figuren**: Image from `assets/figuren/{id}.png` via `import.meta.glob`, max 60vh height
-- **ausweise_memorize**: Pass image from `assets/ausweise/{image}.png` via `import.meta.glob`, then field text below. No A–E buttons (memorization phase).
-- **All others**: Text content with `whitespace-pre-line` + A–E answer grid
-- Selected answer highlighted in emerald
-
-If a glob lookup fails (image not found), shows "Bild nicht verfügbar" fallback.
+Design: Bright blue (`bg-blue-600`) background, lighter content card, 3D buttons (`border-b-4`), orange "Weiter" button, progress square row at bottom.
 
 ### Image handling
 
-Images are in `app/src/renderer/src/assets/<section>/` and loaded via Vite's `import.meta.glob` with `{ eager: true }`. This bundles images through Vite's asset pipeline at build time. The glob returns `Record<string, { default: string }>` where the key is the relative path and `default` is the hashed URL.
+Images in `app/src/renderer/src/assets/<section>/` loaded via Vite's `import.meta.glob` with `{ eager: true }`. Used in QuizCard.tsx for figuren, ausweise, and solution images.
 
-The converter script produces image references as `{id}.png` padded to 3 digits. Data files use `NNN_question.png` naming; the copy step strips the `_question` suffix for app compatibility.
+### Persistence
+
+Zustand `persist` middleware (localStorage key: `medat-app-store`). Partialize excludes the active session. Legacy data (`medat_users`, `medat_last_user`) migrated on first load.
+
+### Supabase / Leaderboard
+
+`services/supabase.ts` — client-side Supabase connection using the public anon key.
+- `fetchLeaderboard()` — GET all entries sorted by `total_score.desc`
+- `upsertUserScore()` — POST with merge-duplicates for upsert
+
+Supabase project: `twjqntyxvpkwbxbyaxzb` (us-east-1). Table: `leaderboard` (id UUID PK, username TEXT UNIQUE, total_score INT, questions_solved INT, questions_correct INT, created_at TIMESTAMPTZ). RLS enabled with public select/insert/update policies.
+
+### Web + Electron dual build
+
+The renderer source in `app/src/renderer/src/` is shared between both targets:
+- **Electron**: Built by `electron-vite` (main/preload/renderer)
+- **Web**: Built by standalone Vite in `web/`, imports via `@app` alias pointing to `../app/src/renderer/src/`
+
+CSS: `web/src/index.css` uses `@source "../../app/src/renderer/src/**/*.{ts,tsx}"` so Tailwind v4 scans the app source tree. Animations (`pulse-warn`, `fade-in`, `breathe`, `slide-up`) defined in both CSS files.
+
+Vite config uses `resolve.dedupe: ['react', 'react-dom', 'react-router', 'react-router-dom']` to prevent duplicate module instances when app source imports resolve to `app/node_modules/` instead of `web/node_modules/`.
 
 ### Electron setup
 
-- **Main** (`main/index.ts`): Creates BrowserWindow (1280×720, min 900×600, no fullscreen, sandbox: false). Loads from `ELECTRON_RENDERER_URL` in dev or `out/renderer/index.html` in prod.
-- **Preload** (`preload/index.ts`): Minimal contextBridge exposing only a `ping` IPC stub. No real IPC needed since the app uses localStorage for persistence.
-- **Build**: `electron-vite` handles three targets (main/preload/renderer) in one config. `externalizeDepsPlugin()` on main + preload.
+- **Main** (`main/index.ts`): BrowserWindow 1280×720, sandbox: false
+- **Preload** (`preload/index.ts`): Minimal contextBridge (ping stub only)
+- **Build**: `electron-vite` with `externalizeDepsPlugin()` on main + preload
 
 ### TypeScript config
 
-Three tsconfigs with project references:
-- `tsconfig.json` — root, strict, references the other two
-- `tsconfig.node.json` — main process + preload, `composite: true`, outputs to `out/main/`
-- `tsconfig.web.json` — renderer, `composite: true`, `resolveJsonModule: true`, outputs to `out/renderer/`
+Three tsconfigs in `app/` with project references:
+- `tsconfig.json` — root, strict
+- `tsconfig.node.json` — main + preload, composite, → `out/main/`
+- `tsconfig.web.json` — renderer, composite, resolveJsonModule, → `out/renderer/`
 
-`vite-env.d.ts` references `vite/client` for `import.meta.glob` types.
+`web/tsconfig.json` — standalone, includes `../app/src/renderer/src/**/*.{ts,tsx,json}`
 
 ## Data pipeline
 
-### Parser scripts
-
-All parsers in `data/src/medat_parser/` extract questions from PDFs and write flat
-text files — no JSON, no nested `sets/` directories.
+Parser scripts in `data/src/medat_parser/` extract questions from PDFs into flat text files (no JSON).
 
 | Parser | Output |
 |--------|--------|
-| `figuren_parser.py` | `NNN_question.png` + `NNN_question.txt` + `NNN_solution.txt` + `solutions/` |
+| `figuren_parser.py` | `NNN_question.png` + `NNN_question.txt` + `NNN_solution.txt` |
 | `implikationen_parser.py` | `NN_question.txt` + `NN_solution.txt` |
 | `wortfluessigkeit_parser.py` | `NNNN_question.txt` + `NNNN_solution.txt` |
 | `zahlenfolgen_parser.py` | `NN_question.txt` + `NN_solution.txt` |
 | `ausweise_parser.py` | `cards/NNN_question.png` + `cards/NNN_question.txt` + `recall/NNNN_question.txt` + `recall/NNNN_solution.txt` |
-| `extract_ausweise_images.py` | `recall/NNNN_question.png` — cropped question blocks with embedded face photos |
-| `pdf_parser.py` | Dispatches to section parsers |
-| `merge.py` | Parses new PDFs with ID remapping; merges into existing output |
-| `converter.py` | Reads flat output → app's `questions.json` |
-
-### Parser output structure (flat text, no JSON)
-
-Each question is two or three flat files in a section directory:
-
-```
-data/output/
-  figuren/                  # 255 questions, 3-digit IDs
-    001_question.png        #   Cropped figure image
-    001_question.txt        #   "Figuren zusammensetzen\nFrage 1"
-    001_solution.txt        #   "C"
-    solutions/
-      page_37.png ...       #   Full-page answer-key renders
-  implikationen/            # 70 questions, 2-digit IDs
-    01_question.txt         #   Prämissen: ... \nA) ... E)
-    01_solution.txt         #   "D"
-  wortfluessigkeit/         # 1650 questions, 4-digit IDs
-    0001_question.txt       #   Buchstabenreihe: ... \nA) ... E)
-    0001_solution.txt       #   "C — EHEFRAU"
-  zahlenfolgen/             # 70 questions, 2-digit IDs
-    01_question.txt         #   Zahlenfolge: ... \nA) ... E)
-    01_solution.txt         #   "C — 71/90\nexplanation..."
-  ausweise/
-    cards/                  # 320 memorization cards, 3-digit IDs
-      001_question.png      #   Cropped Ausweis image
-      001_question.txt      #   "Name: GILTONS\nGeburtstag: ..."
-    recall/                 # 1000 recall questions, 4-digit IDs
-      0001_question.txt     #   "Wie lautet...\nA) ... E)"
-      0001_question.png     #   Cropped question block (may include face photo)
-      0001_solution.txt     #   "E"
-```
-
-Each `_question.txt` file contains exactly what the app displays — premises,
-options, sequences already formatted with newlines. Each `_solution.txt` contains
-the answer letter and any auxiliary data (correct word, explanation).
-
-Full schema and question counts are in `data/DATA_FORMAT.md`.
-
-### Converter (`converter.py`)
-
-Reads the flat output directory and produces `app/src/renderer/src/assets/questions.json`.
-The converter:
-
-1. Scans each section directory for `*_question.txt` files
-2. Extracts the answer from `*_solution.txt` (first line, first character before ` — `)
-3. For ausweise_cards, reads the `image` field from matching PNGs
-
-Run after any parser changes:
-```bash
-cd data
-uv run medat-convert --input output --output ../app/src/renderer/src/assets/questions.json
-```
+| `converter.py` | Flat output → `questions.json` |
+| `merge.py` | Merges new PDF outputs into existing output/ |
 
 ### Adding a new question set
 
 1. Place PDFs in `data/input/<section>/`
 2. Parse: `uv run medat-parse --input input/ --output output/`
 3. Convert: `uv run medat-convert --input output --output ../app/src/renderer/src/assets/questions.json`
-4. Copy images (strip `_question` suffix for app compat):
+4. Copy images (strip `_question` suffix):
    ```bash
    for f in data/output/figuren/*_question.png; do
        base=$(basename "$f" _question.png)
@@ -217,28 +199,25 @@ uv run medat-convert --input output --output ../app/src/renderer/src/assets/ques
    done
    cp data/output/figuren/solutions/*.png app/src/renderer/src/assets/solutions/
    ```
-5. Rebuild app: `cd app && npm run dev`
+5. Rebuild: `cd app && npm run dev`
 
 ## Key design decisions
 
-- **Electron, not web**: MedAT is offline; app must work without network. Electron simplifies file access.
-- **No router**: Only 4 screens; React state switches between them.
-- **localStorage, not IPC**: User progress stored in localStorage (persisted by Electron's Chromium). Avoids IPC complexity for data that only the renderer touches.
-- **Questions as static imports**: `questions.json` is imported at build time, not fetched. Keeps the app offline and fast.
-- **Set-based progress**: Progress tracked per set (not flat index). Questions drawn from the current set; correct answers skipped in future sessions. This matches how the real MedAT is structured (distinct question sets).
-- **Abbrechen = no save**: Only the "Nächster Abschnitt" / timer-expiry path calls `persistSectionProgress`. This means the user can experiment without polluting their stats.
-- **Tailwind v4**: Uses Vite plugin with CSS-based config (`@import "tailwindcss"`). No `tailwind.config.ts`.
-- **electron-vite**: Single config for main/preload/renderer. Output goes to `out/`.
-- **No external state library**: React `useState` + localStorage is sufficient for this app's needs.
+- **HashRouter**: Works on both Electron `file://` and web `http://` protocols
+- **Zustand persist**: Single localStorage key (`medat-app-store`) with legacy migration from old keys
+- **Questions as static imports**: `questions.json` imported at build time, not fetched
+- **Set-based progress**: Tracks per-set completion; correct answers skipped in future sessions
+- **No backend required**: All persistence is client-side (localStorage + Supabase for leaderboard)
+- **Tailwind v4**: `@import "tailwindcss"` with `@source` directive for cross-project scanning
+- **dedupe**: Prevents duplicate React/Router instances across `app/node_modules` and `web/node_modules`
 
 ## Common tasks
 
-### Regenerating question data after parser changes
+### Regenerating question data
 
 ```bash
 cd data
 uv run medat-convert --input output --output ../app/src/renderer/src/assets/questions.json
-# Copy images to app (strip _question suffix)
 for f in output/figuren/*_question.png; do
     base=$(basename "$f" _question.png)
     cp "$f" "../app/src/renderer/src/assets/figuren/${base}.png"
@@ -250,21 +229,25 @@ done
 cp output/figuren/solutions/*.png ../app/src/renderer/src/assets/solutions/
 ```
 
-### Resetting a user's progress
+### Web deployment
 
-Delete the localStorage keys in Electron DevTools (Ctrl+Shift+I):
-```js
-localStorage.removeItem('medat_users')
-localStorage.removeItem('medat_last_user')
+```bash
+cd web
+npm run build          # → dist/
+# Deploy dist/ to gh-pages branch:
+# (uses git subtree or manual copy to gh-pages orphan branch)
 ```
 
-### Debugging the renderer
+### Resetting a user's progress
 
-Open Electron DevTools (Ctrl+Shift+I). Check the Console and Application → Local Storage tabs. The Vite dev server also has HMR — React component changes apply instantly.
+Via Settings UI (Settings → Gefahrenzone → Alles zurücksetzen), or programmatically:
+```js
+useAppStore.getState().resetAllProgress()
+```
 
 ### Type checking
 
 ```bash
-cd app
-npm run typecheck    # runs tsc --noEmit on all three tsconfigs
+cd app && npm run typecheck    # all three app tsconfigs
+cd web && npx tsc --noEmit     # web tsconfig
 ```
