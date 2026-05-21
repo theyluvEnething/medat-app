@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Schauspieler sind Mathematiker.
+- Alle Mathematiker sind Türen.
+
+A) Alle Schauspieler sind Türen.
+B) Alle Schauspieler sind keine Türen.
+C) Einige Schauspieler sind Türen.
+D) Einige Schauspieler sind keine Türen.
+E) Keine der Schlussfolgerungen ist richtig.

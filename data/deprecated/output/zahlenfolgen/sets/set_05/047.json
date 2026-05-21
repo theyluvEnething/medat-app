@@ -1,0 +1,16 @@
+{
+  "id": 47,
+  "set": 5,
+  "set_index": 7,
+  "answer": "D",
+  "answer_value": "94/149",
+  "explanation": "FibonaccibeiSummanden+2,+3,+5,+8,...",
+  "sequence": "8 10 13 18 26 39 60 ? ?",
+  "options": {
+    "A": "141/90",
+    "B": "94/148",
+    "C": "90/154",
+    "D": "94/149",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

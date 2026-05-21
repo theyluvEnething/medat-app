@@ -1,0 +1,14 @@
+{
+  "id": 816,
+  "set": 33,
+  "set_index": 16,
+  "answer": "C",
+  "text": "WelcheBlutgruppehatdiePersonmit AusstellungslandSüdsudan?",
+  "options": {
+    "A": "B",
+    "B": "A",
+    "C": "0",
+    "D": "AB",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 400,
+  "set": 27,
+  "set_index": 10,
+  "answer": "A",
+  "answer_word": "ABLAGE",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "E",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A E A G L B"
+}

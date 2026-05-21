@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Vulkane sind keine Gemälde.
+- Einige Gemälde sind keine Roboter.
+
+A) Alle Vulkane sind keine Roboter.
+B) Alle Vulkane sind Roboter.
+C) Einige Vulkane sind keine Roboter.
+D) Einige Vulkane sind Roboter.
+E) Keine der Schlussfolgerungen ist richtig.

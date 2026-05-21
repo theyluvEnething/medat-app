@@ -1,0 +1,14 @@
+{
+  "id": 94,
+  "set": 4,
+  "set_index": 19,
+  "answer": "C",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitAusweisnummer76770?",
+  "options": {
+    "A": "Montenegro",
+    "B": "Vietnam",
+    "C": "Seychellen",
+    "D": "Marokko",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

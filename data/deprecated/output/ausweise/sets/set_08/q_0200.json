@@ -1,0 +1,14 @@
+{
+  "id": 200,
+  "set": 8,
+  "set_index": 25,
+  "answer": "B",
+  "text": "WieheißtdiePersonmitAllergiegegen Oxaceprol,FarbstoffeundSchnecken?",
+  "options": {
+    "A": "SZINTRO",
+    "B": "ARTILITO",
+    "C": "RIDEXO",
+    "D": "ZIRKRIND",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": 888,
+  "set": 36,
+  "set_index": 13,
+  "answer": "B",
+  "text": "WelcheBlutgruppehatdiePersonmit AusstellungslandPhilippinenund KEINENMedikamenten?",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "0",
+    "D": "AB",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

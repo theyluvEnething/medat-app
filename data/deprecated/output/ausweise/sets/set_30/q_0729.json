@@ -1,0 +1,14 @@
+{
+  "id": 729,
+  "set": 30,
+  "set_index": 4,
+  "answer": "D",
+  "text": "WieheißtdiePersonmitMedikamenten undunteranderemAllergiegegen Rosen?",
+  "options": {
+    "A": "QUALSON",
+    "B": "JAKMOT",
+    "C": "FAPROM",
+    "D": "RAMKLOV",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

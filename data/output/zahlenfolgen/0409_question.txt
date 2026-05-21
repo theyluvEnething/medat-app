@@ -1,0 +1,7 @@
+Zahlenfolge: -7 1 9 17 25 33 ? ?
+
+A) 51/58
+B) 41/49
+C) 49/57
+D) 50/58
+E) Keine der Antworten ist richtig

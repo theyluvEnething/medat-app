@@ -1,0 +1,17 @@
+{
+  "id": 44,
+  "set": 5,
+  "set_index": 4,
+  "answer": "E",
+  "premises": [
+    "AlleStraßensindBrücken.",
+    "EinigeTunnelsindkeineBrücken."
+  ],
+  "conclusions": {
+    "A": "AlleStraßensindTunnel.",
+    "B": "AlleStraßensindkeineTunnel.",
+    "C": "EinigeStraßensindTunnel.",
+    "D": "EinigeStraßensindkeineTunnel.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Quartette sind keine Bücher.
+- Alle Bücher sind keine Gemälde.
+
+A) Einige Quartette sind Gemälde.
+B) Einige Quartette sind keine Gemälde.
+C) Alle Quartette sind keine Gemälde.
+D) Alle Quartette sind Gemälde.
+E) Keine der Schlussfolgerungen ist richtig.

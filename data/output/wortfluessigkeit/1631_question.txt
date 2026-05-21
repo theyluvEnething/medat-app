@@ -1,0 +1,7 @@
+Buchstabenreihe: T B I O R E T A R K D O
+
+A) T
+B) R
+C) K
+D) A
+E) KeinederAntwortenistrichtig

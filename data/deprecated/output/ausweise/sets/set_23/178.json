@@ -1,0 +1,15 @@
+{
+  "id": 178,
+  "set": 23,
+  "set_index": 2,
+  "image": "178.png",
+  "fields": {
+    "Name": "KROMPAS",
+    "Geburtstag": "3. Januar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Meeresfrüchte, Rindfleisch,",
+    "Ausweisnummer": "41817",
+    "Ausstellungsland": "Lesotho"
+  }
+}

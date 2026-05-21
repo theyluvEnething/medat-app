@@ -1,0 +1,15 @@
+{
+  "id": 274,
+  "set": 35,
+  "set_index": 2,
+  "image": "274.png",
+  "fields": {
+    "Name": "XURIDKO",
+    "Geburtstag": "5. Dezember",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Kraken, Mückenstiche",
+    "Ausweisnummer": "58860",
+    "Ausstellungsland": "Deutschland"
+  }
+}

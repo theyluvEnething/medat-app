@@ -1,0 +1,15 @@
+{
+  "id": 900,
+  "set": 60,
+  "set_index": 15,
+  "answer": "E",
+  "answer_word": "ARZNEIMITTEL",
+  "options": {
+    "A": "N",
+    "B": "Z",
+    "C": "T",
+    "D": "M",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T E I E Z T I L R M A N"
+}

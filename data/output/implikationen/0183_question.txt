@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Ärzte sind Musikinstrumente.
+- Alle Musikinstrumente sind Mammute.
+
+A) Einige Ärzte sind keine Mammute.
+B) Einige Ärzte sind Mammute.
+C) Alle Ärzte sind Mammute.
+D) Alle Ärzte sind keine Mammute.
+E) Keine der Schlussfolgerungen ist richtig.

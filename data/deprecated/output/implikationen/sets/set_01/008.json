@@ -1,0 +1,17 @@
+{
+  "id": 8,
+  "set": 1,
+  "set_index": 8,
+  "answer": "C",
+  "premises": [
+    "EinigeTomatensindPaprika.",
+    "AllePaprikasindGurken."
+  ],
+  "conclusions": {
+    "A": "AlleTomatensindGurken.",
+    "B": "AlleTomatensindkeineGurken.",
+    "C": "EinigeTomatensindGurken.",
+    "D": "EinigeTomatensindkeineGurken.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

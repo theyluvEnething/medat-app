@@ -1,0 +1,15 @@
+{
+  "id": 199,
+  "set": 25,
+  "set_index": 7,
+  "image": "199.png",
+  "fields": {
+    "Name": "TUBMAL",
+    "Geburtstag": "19. Februar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Milchzucker, Maracuja,",
+    "Ausweisnummer": "15739",
+    "Ausstellungsland": "Jamaika"
+  }
+}

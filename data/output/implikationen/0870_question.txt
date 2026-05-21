@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Rosen sind keine Autos.
+- Einige Autos sind keine Orchideen.
+
+A) Alle Rosen sind Orchideen.
+B) Alle Rosen sind keine Orchideen.
+C) Einige Rosen sind keine Orchideen.
+D) Einige Rosen sind Orchideen.
+E) Keine der Schlussfolgerungen ist richtig.

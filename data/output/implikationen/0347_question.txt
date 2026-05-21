@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Lehrer sind Skulpturen.
+- Einige Skulpturen sind keine Granite.
+
+A) Alle Lehrer sind Granite.
+B) Einige Lehrer sind Granite.
+C) Einige Lehrer sind keine Granite.
+D) Alle Lehrer sind keine Granite.
+E) Keine der Schlussfolgerungen ist richtig.

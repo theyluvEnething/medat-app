@@ -1,0 +1,14 @@
+{
+  "id": 939,
+  "set": 38,
+  "set_index": 14,
+  "answer": "E",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer46452?",
+  "options": {
+    "A": "Batate,Retinol",
+    "B": "Maracuja,Ulme",
+    "C": "Sulfite,Minze",
+    "D": "Terpentin,Kiefer,Sesamsamen",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

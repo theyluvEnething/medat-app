@@ -1,0 +1,7 @@
+Zahlenfolge: -18 -4 10 24 38 52 ? ?
+
+A) 82/95
+B) 82/93
+C) 81/93
+D) 80/94
+E) Keine der Antworten ist richtig

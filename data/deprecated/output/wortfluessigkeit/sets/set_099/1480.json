@@ -1,0 +1,15 @@
+{
+  "id": 1480,
+  "set": 99,
+  "set_index": 10,
+  "answer": "A",
+  "answer_word": "SITZGELEGENHEIT",
+  "options": {
+    "A": "S",
+    "B": "E",
+    "C": "L",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L T E N I E Z E I H G S G T E"
+}

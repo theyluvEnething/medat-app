@@ -1,0 +1,7 @@
+Zahlenfolge: 16 19 26 37 52 71 ? ?
+
+A) 187/152
+B) 152/187
+C) 150/186
+D) 150/189
+E) Keine der Antworten ist richtig

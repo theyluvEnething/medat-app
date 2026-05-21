@@ -1,0 +1,15 @@
+{
+  "id": 232,
+  "set": 29,
+  "set_index": 8,
+  "image": "232.png",
+  "fields": {
+    "Name": "BAZIDKO",
+    "Geburtstag": "8. April",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Ketoprofen, Levomethadon",
+    "Ausweisnummer": "84966",
+    "Ausstellungsland": "Saudi-Arabien"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 174,
+  "set": 12,
+  "set_index": 9,
+  "answer": "B",
+  "answer_word": "STANDORT",
+  "options": {
+    "A": "N",
+    "B": "S",
+    "C": "A",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S N R T O A T D"
+}

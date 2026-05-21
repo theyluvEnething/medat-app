@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Marder sind keine Quartette.
+- Einige Quartette sind Kupfer.
+
+A) Alle Marder sind Kupfer.
+B) Einige Marder sind Kupfer.
+C) Alle Marder sind keine Kupfer.
+D) Einige Marder sind keine Kupfer.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: 11 -3 -17 -31 -45 -59 ? ?
+
+A) -101/-87
+B) -101/-115
+C) -89/-99
+D) -87/-101
+E) Keine der Antworten ist richtig

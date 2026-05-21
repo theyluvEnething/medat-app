@@ -1,0 +1,7 @@
+Zahlenfolge: 13 18 31 49 80 129 ? ?
+
+A) 548/884
+B) 885/547
+C) 546/883
+D) 547/885
+E) Keine der Antworten ist richtig

@@ -1,0 +1,15 @@
+{
+  "id": 380,
+  "set": 26,
+  "set_index": 5,
+  "answer": "D",
+  "answer_word": "ZENSUR",
+  "options": {
+    "A": "S",
+    "B": "N",
+    "C": "R",
+    "D": "Z",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S E Z R N U"
+}

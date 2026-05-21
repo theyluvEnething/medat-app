@@ -1,0 +1,15 @@
+{
+  "id": 168,
+  "set": 21,
+  "set_index": 8,
+  "image": "168.png",
+  "fields": {
+    "Name": "MIZXID",
+    "Geburtstag": "22. September",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Schwefeldioxid,",
+    "Ausweisnummer": "22853",
+    "Ausstellungsland": "Kap Verde"
+  }
+}

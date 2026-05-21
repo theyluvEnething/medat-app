@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Wale sind Fotografen.
+- Einige Fotografen sind keine Metalle.
+
+A) Einige Wale sind keine Metalle.
+B) Einige Wale sind Metalle.
+C) Alle Wale sind Metalle.
+D) Alle Wale sind keine Metalle.
+E) Keine der Schlussfolgerungen ist richtig.

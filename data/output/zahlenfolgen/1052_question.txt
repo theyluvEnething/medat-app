@@ -1,0 +1,7 @@
+Zahlenfolge: -20 -31 -42 -53 -64 -75 ? ?
+
+A) -95/-106
+B) -97/-108
+C) -99/-110
+D) -96/-110
+E) Keine der Antworten ist richtig

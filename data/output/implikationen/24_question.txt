@@ -1,0 +1,9 @@
+Prämissen:
+- EinigeMotorensindRotatoren.
+- AlleMotorensindkeineHeizungen.
+
+A) AlleHeizungensindRotatoren.
+B) AlleHeizungensindkeineRotatoren.
+C) EinigeHeizungensindRotatoren.
+D) EinigeHeizungensindkeineRotatoren.
+E) KeinederSchlussfolgerungenistrichtig.

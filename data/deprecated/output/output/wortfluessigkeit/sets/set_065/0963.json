@@ -1,0 +1,15 @@
+{
+  "id": 963,
+  "set": 65,
+  "set_index": 3,
+  "answer": "C",
+  "answer_word": "FERNSEHER",
+  "options": {
+    "A": "H",
+    "B": "E",
+    "C": "F",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H R S E R E N E F"
+}

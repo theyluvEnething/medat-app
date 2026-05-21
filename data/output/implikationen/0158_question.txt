@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Bücher sind keine Radios.
+- Alle Radios sind Telefone.
+
+A) Alle Bücher sind Telefone.
+B) Alle Bücher sind keine Telefone.
+C) Einige Bücher sind keine Telefone.
+D) Einige Bücher sind Telefone.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,15 @@
+{
+  "id": 283,
+  "set": 36,
+  "set_index": 3,
+  "image": "283.png",
+  "fields": {
+    "Name": "ZREIMOV",
+    "Geburtstag": "8. November",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Retinol",
+    "Ausweisnummer": "45094",
+    "Ausstellungsland": "Philippinen"
+  }
+}

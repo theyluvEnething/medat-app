@@ -1,0 +1,15 @@
+{
+  "id": 206,
+  "set": 14,
+  "set_index": 11,
+  "answer": "A",
+  "answer_word": "FASSADE",
+  "options": {
+    "A": "F",
+    "B": "A",
+    "C": "S",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A E A D S S F"
+}

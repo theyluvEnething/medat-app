@@ -1,0 +1,7 @@
+Zahlenfolge: 7 14 21 28 35 42 ? ?
+
+A) 56/63
+B) 58/61
+C) 49/56
+D) 55/61
+E) Keine der Antworten ist richtig

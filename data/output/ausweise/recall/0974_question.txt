@@ -1,0 +1,7 @@
+WelcheBlutgruppehatdiePersonmit derAusweisnummerbeginnendmit60?
+
+A) AB
+B) A
+C) B
+D) 0
+E) KeinederAntwortenistrichtig

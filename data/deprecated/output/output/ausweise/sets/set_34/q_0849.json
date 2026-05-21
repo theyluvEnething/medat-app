@@ -1,0 +1,14 @@
+{
+  "id": 849,
+  "set": 34,
+  "set_index": 24,
+  "answer": "E",
+  "text": "AuswelchemLandkommtder AusweisderPersonmit diesemBild?",
+  "options": {
+    "A": "Angola",
+    "B": "Senegal",
+    "C": "Estland",
+    "D": "Afghanistan",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

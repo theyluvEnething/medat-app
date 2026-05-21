@@ -1,0 +1,15 @@
+{
+  "id": 4,
+  "set": 1,
+  "set_index": 4,
+  "image": "004.png",
+  "fields": {
+    "Name": "DUKFAL",
+    "Geburtstag": "9. Oktober",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Forellen",
+    "Ausweisnummer": "68213",
+    "Ausstellungsland": "Sambia"
+  }
+}

@@ -1,0 +1,7 @@
+Zahlenfolge: -2 12 26 40 54 68 ? ?
+
+A) 97/111
+B) 96/110
+C) 95/108
+D) 82/96
+E) Keine der Antworten ist richtig

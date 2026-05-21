@@ -1,0 +1,15 @@
+{
+  "id": 733,
+  "set": 49,
+  "set_index": 13,
+  "answer": "B",
+  "answer_word": "KUHFLADEN",
+  "options": {
+    "A": "H",
+    "B": "K",
+    "C": "L",
+    "D": "F",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H K A D F E N L U"
+}

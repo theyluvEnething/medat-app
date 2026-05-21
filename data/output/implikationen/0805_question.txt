@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Delfine sind keine Lehrer.
+- Alle Lehrer sind keine Bücher.
+
+A) Alle Delfine sind Bücher.
+B) Einige Delfine sind Bücher.
+C) Alle Delfine sind keine Bücher.
+D) Einige Delfine sind keine Bücher.
+E) Keine der Schlussfolgerungen ist richtig.

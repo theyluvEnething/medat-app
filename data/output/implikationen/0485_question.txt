@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Gedichte sind keine Schlangen.
+- Alle Schlangen sind keine Metalle.
+
+A) Alle Gedichte sind Metalle.
+B) Einige Gedichte sind keine Metalle.
+C) Alle Gedichte sind keine Metalle.
+D) Einige Gedichte sind Metalle.
+E) Keine der Schlussfolgerungen ist richtig.

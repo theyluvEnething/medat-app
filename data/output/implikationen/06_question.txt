@@ -1,0 +1,9 @@
+Prämissen:
+- AlleDBsindkeineDO.
+- EinigeDBsindDMB.
+
+A) AlleDMBsindDO.
+B) AlleDMBsindkeineDO.
+C) EinigeDMBsindDO.
+D) EinigeDMBsindkeineDO.
+E) KeinederSchlussfolgerungenistrichtig.

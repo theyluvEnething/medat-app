@@ -1,0 +1,7 @@
+Zahlenfolge: -7 -3 4 14 27 43 ? ?
+
+A) 137/109
+B) 108/139
+C) 109/137
+D) 108/136
+E) Keine der Antworten ist richtig

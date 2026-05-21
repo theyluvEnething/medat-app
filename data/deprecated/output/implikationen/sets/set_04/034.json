@@ -1,0 +1,17 @@
+{
+  "id": 34,
+  "set": 4,
+  "set_index": 4,
+  "answer": "E",
+  "premises": [
+    "EinigeWürstesindkeineSchnitzel.",
+    "EinigeSchnitzelsindSchinken."
+  ],
+  "conclusions": {
+    "A": "AlleWürstesindSchinken.",
+    "B": "AlleWürstesindkeineSchinken.",
+    "C": "EinigeWürstesindSchinken.",
+    "D": "EinigeWürstesindkeineSchinken.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

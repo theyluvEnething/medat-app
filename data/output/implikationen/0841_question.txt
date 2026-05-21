@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Teleskope sind keine Häuser.
+- Alle Häuser sind keine Statuen.
+
+A) Alle Teleskope sind Statuen.
+B) Alle Teleskope sind keine Statuen.
+C) Einige Teleskope sind Statuen.
+D) Einige Teleskope sind keine Statuen.
+E) Keine der Schlussfolgerungen ist richtig.

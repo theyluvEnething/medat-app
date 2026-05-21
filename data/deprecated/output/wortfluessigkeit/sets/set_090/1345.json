@@ -1,0 +1,15 @@
+{
+  "id": 1345,
+  "set": 90,
+  "set_index": 10,
+  "answer": "A",
+  "answer_word": "DEMOGRAPHIE",
+  "options": {
+    "A": "D",
+    "B": "P",
+    "C": "I",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I M D P O R A E G E H"
+}

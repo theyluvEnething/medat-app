@@ -1,0 +1,16 @@
+{
+  "id": 51,
+  "set": 6,
+  "set_index": 1,
+  "answer": "D",
+  "answer_value": "287/203",
+  "explanation": "3er-Sprung:×7,-7,×7,-7,...",
+  "sequence": "49 48 30 343 41 210 336 ? ?",
+  "options": {
+    "A": "207/272",
+    "B": "203/287",
+    "C": "280/203",
+    "D": "287/203",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

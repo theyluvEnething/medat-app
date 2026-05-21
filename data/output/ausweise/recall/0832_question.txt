@@ -1,0 +1,7 @@
+WelcheganzenAllergienhatdiePerson mitdemNamenJAVBOR?
+
+A) Latex
+B) Latex,Kiwi,Ovalbumin
+C) Spinat,Veilchen,Kupfer
+D) Paraben,Petersilie,Ananas
+E) KeinederAntwortenistrichtig

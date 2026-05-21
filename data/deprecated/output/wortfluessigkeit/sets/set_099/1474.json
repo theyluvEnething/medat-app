@@ -1,0 +1,15 @@
+{
+  "id": 1474,
+  "set": 99,
+  "set_index": 4,
+  "answer": "A",
+  "answer_word": "SCHNELLZUG",
+  "options": {
+    "A": "S",
+    "B": "H",
+    "C": "G",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C Z E N L L S G H U"
+}

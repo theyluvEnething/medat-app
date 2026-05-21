@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Tannen sind Ärzte.
+- Einige Ärzte sind Statuen.
+
+A) Alle Tannen sind Statuen.
+B) Einige Tannen sind keine Statuen.
+C) Alle Tannen sind keine Statuen.
+D) Einige Tannen sind Statuen.
+E) Keine der Schlussfolgerungen ist richtig.

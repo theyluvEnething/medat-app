@@ -1,0 +1,15 @@
+{
+  "id": 62,
+  "set": 8,
+  "set_index": 6,
+  "image": "062.png",
+  "fields": {
+    "Name": "OLAFKON",
+    "Geburtstag": "21. August",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Garnelen, Schnecken",
+    "Ausweisnummer": "64084",
+    "Ausstellungsland": "Portugal"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 348,
+  "set": 24,
+  "set_index": 3,
+  "answer": "D",
+  "answer_word": "WISSEN",
+  "options": {
+    "A": "N",
+    "B": "I",
+    "C": "S",
+    "D": "W",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "W E N S I S"
+}

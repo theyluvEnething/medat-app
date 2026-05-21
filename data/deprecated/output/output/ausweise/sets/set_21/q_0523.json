@@ -1,0 +1,14 @@
+{
+  "id": 523,
+  "set": 21,
+  "set_index": 23,
+  "answer": "C",
+  "text": "WelcheganzenAllergienhat diePersonmitdiesemBild?",
+  "options": {
+    "A": "Ascorbinsäure,Glukosesirup",
+    "B": "Teebaumöl",
+    "C": "Schwefeldioxid",
+    "D": "Laktose,Orangen,Hopfen",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

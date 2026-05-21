@@ -1,0 +1,15 @@
+{
+  "id": 855,
+  "set": 57,
+  "set_index": 15,
+  "answer": "B",
+  "answer_word": "SEKTGLAS",
+  "options": {
+    "A": "T",
+    "B": "S",
+    "C": "E",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T E L K A G S S"
+}

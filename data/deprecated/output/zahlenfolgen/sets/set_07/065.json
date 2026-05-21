@@ -1,0 +1,16 @@
+{
+  "id": 65,
+  "set": 7,
+  "set_index": 5,
+  "answer": "A",
+  "answer_value": "649/1289",
+  "explanation": "1er-Sprung:×2-9",
+  "sequence": "14 19 29 49 89 169 329 ? ?",
+  "options": {
+    "A": "649/1289",
+    "B": "634/1299",
+    "C": "634/1276",
+    "D": "644/1289",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

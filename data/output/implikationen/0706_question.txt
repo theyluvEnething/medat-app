@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Elektroautos sind Telefone.
+- Einige Telefone sind keine Tannen.
+
+A) Einige Elektroautos sind Tannen.
+B) Alle Elektroautos sind keine Tannen.
+C) Alle Elektroautos sind Tannen.
+D) Einige Elektroautos sind keine Tannen.
+E) Keine der Schlussfolgerungen ist richtig.

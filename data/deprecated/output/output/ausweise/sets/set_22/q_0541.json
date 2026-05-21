@@ -1,0 +1,14 @@
+{
+  "id": 541,
+  "set": 22,
+  "set_index": 16,
+  "answer": "E",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer60977?",
+  "options": {
+    "A": "Insulin,Amaranth",
+    "B": "Flusskrebse,Auberginen",
+    "C": "Laktose",
+    "D": "Laktose,Gräser,Ketoprofen",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

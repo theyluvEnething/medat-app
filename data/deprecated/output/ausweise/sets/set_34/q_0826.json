@@ -1,0 +1,14 @@
+{
+  "id": 826,
+  "set": 34,
+  "set_index": 1,
+  "answer": "B",
+  "text": "WelcheBlutgruppehatdiePersonmit demGeschlechtmännlichund GeburtstagimAugust?",
+  "options": {
+    "A": "B",
+    "B": "A",
+    "C": "0",
+    "D": "AB",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,7 @@
+Zahlenfolge: 3 4 7 12 19 28 ? ?
+
+A) 67/84
+B) 68/85
+C) 65/82
+D) 33/38
+E) Keine der Antworten ist richtig

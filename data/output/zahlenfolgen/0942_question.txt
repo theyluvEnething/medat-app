@@ -1,0 +1,7 @@
+Zahlenfolge: 9 6 15 21 36 57 ? ?
+
+A) 243/393
+B) 244/391
+C) 252/402
+D) 242/391
+E) Keine der Antworten ist richtig

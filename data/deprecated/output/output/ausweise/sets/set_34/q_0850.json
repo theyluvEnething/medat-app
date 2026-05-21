@@ -1,0 +1,14 @@
+{
+  "id": 850,
+  "set": 34,
+  "set_index": 25,
+  "answer": "A",
+  "text": "WievielePersonenhabeneinenAusweis ausNamibia?",
+  "options": {
+    "A": "2",
+    "B": "0",
+    "C": "1",
+    "D": "4",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

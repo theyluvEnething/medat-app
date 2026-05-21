@@ -1,0 +1,7 @@
+Zahlenfolge: 6 8 16 18 36 38 ? ?
+
+A) 156/158
+B) 157/157
+C) 158/159
+D) 162/164
+E) Keine der Antworten ist richtig

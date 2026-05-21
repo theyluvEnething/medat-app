@@ -1,0 +1,15 @@
+{
+  "id": 345,
+  "set": 23,
+  "set_index": 15,
+  "answer": "C",
+  "answer_word": "DAUMEN",
+  "options": {
+    "A": "A",
+    "B": "U",
+    "C": "D",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "D U M A E N"
+}

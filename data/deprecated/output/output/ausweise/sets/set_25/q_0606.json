@@ -1,0 +1,14 @@
+{
+  "id": 606,
+  "set": 25,
+  "set_index": 6,
+  "answer": "A",
+  "text": "AuswelchemLandkommtder AusweisderPersonmit diesemBild?",
+  "options": {
+    "A": "Transnistrien",
+    "B": "Abchasien",
+    "C": "Jamaika",
+    "D": "Südafrika",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

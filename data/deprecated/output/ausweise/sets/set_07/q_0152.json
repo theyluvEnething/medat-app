@@ -1,0 +1,14 @@
+{
+  "id": 152,
+  "set": 7,
+  "set_index": 2,
+  "answer": "A",
+  "text": "WieheißtdiePersonmitAllergiegegen HefeundNüsse?",
+  "options": {
+    "A": "WOLKRIN",
+    "B": "MICVRINT",
+    "C": "SLIXMO",
+    "D": "HOASFL",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,7 @@
+WievielePersonensindimJunigeboren?
+
+A) 2
+B) 1
+C) 4
+D) 3
+E) KeinederAntwortenistrichtig

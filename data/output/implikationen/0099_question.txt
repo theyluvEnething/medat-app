@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Gräser sind keine Tulpen.
+- Einige Tulpen sind keine Giraffen.
+
+A) Einige Gräser sind keine Giraffen.
+B) Einige Gräser sind Giraffen.
+C) Alle Gräser sind Giraffen.
+D) Alle Gräser sind keine Giraffen.
+E) Keine der Schlussfolgerungen ist richtig.

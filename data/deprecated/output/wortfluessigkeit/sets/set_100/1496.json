@@ -1,0 +1,15 @@
+{
+  "id": 1496,
+  "set": 100,
+  "set_index": 11,
+  "answer": "E",
+  "answer_word": "DANKSAGUNG",
+  "options": {
+    "A": "N",
+    "B": "U",
+    "C": "S",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "G G S K N D N A A U"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 981,
+  "set": 40,
+  "set_index": 6,
+  "answer": "E",
+  "text": "WieheißtdiePersonmit Ausweisnummer80403?",
+  "options": {
+    "A": "JILMOX",
+    "B": "UNERAM",
+    "C": "ESAQUA",
+    "D": "HEXTRIK",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

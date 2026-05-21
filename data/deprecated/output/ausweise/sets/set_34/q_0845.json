@@ -1,0 +1,14 @@
+{
+  "id": 845,
+  "set": 34,
+  "set_index": 20,
+  "answer": "A",
+  "text": "WelcheganzenAllergienhat diePersonmitdiesemBild?",
+  "options": {
+    "A": "Histamin",
+    "B": "Ovalbumin",
+    "C": "Teebaumöl,Paraben,Farbstoffe",
+    "D": "Latex",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,7 @@
+Zahlenfolge: 1 14 27 40 53 66 ? ?
+
+A) 90/107
+B) 105/118
+C) 92/105
+D) 93/103
+E) Keine der Antworten ist richtig

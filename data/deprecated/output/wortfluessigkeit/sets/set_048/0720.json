@@ -1,0 +1,15 @@
+{
+  "id": 720,
+  "set": 48,
+  "set_index": 15,
+  "answer": "E",
+  "answer_word": "BESTECHUNG",
+  "options": {
+    "A": "H",
+    "B": "G",
+    "C": "U",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H N G E C E U B T S"
+}

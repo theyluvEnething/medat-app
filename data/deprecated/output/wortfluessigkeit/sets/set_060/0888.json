@@ -1,0 +1,15 @@
+{
+  "id": 888,
+  "set": 60,
+  "set_index": 3,
+  "answer": "E",
+  "answer_word": "GESCHMACK",
+  "options": {
+    "A": "A",
+    "B": "K",
+    "C": "H",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S A E H K C G C M"
+}

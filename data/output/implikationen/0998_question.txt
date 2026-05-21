@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Tulpen sind keine Stühle.
+- Einige Stühle sind keine Schlangen.
+
+A) Einige Tulpen sind Schlangen.
+B) Einige Tulpen sind keine Schlangen.
+C) Alle Tulpen sind Schlangen.
+D) Alle Tulpen sind keine Schlangen.
+E) Keine der Schlussfolgerungen ist richtig.

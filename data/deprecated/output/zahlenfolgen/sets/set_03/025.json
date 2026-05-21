@@ -1,0 +1,16 @@
+{
+  "id": 25,
+  "set": 3,
+  "set_index": 5,
+  "answer": "D",
+  "answer_value": "418/677",
+  "explanation": "Fibonacci:A₁+A₂=A₃,A₂+A₃=A₄,...",
+  "sequence": "23 18 41 59 100 159 259 ? ?",
+  "options": {
+    "A": "418/682",
+    "B": "426/671",
+    "C": "426/656",
+    "D": "418/677",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

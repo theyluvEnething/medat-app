@@ -1,0 +1,7 @@
+Zahlenfolge: 23 -9 24 0 25 9 ? ?
+
+A) 28/25
+B) 6/3
+C) 27/27
+D) 29/26
+E) Keine der Antworten ist richtig

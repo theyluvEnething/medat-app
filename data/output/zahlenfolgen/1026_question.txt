@@ -1,0 +1,7 @@
+Zahlenfolge: 46 34 22 10 -2 -14 ? ?
+
+A) -37/-49
+B) -40/-49
+C) -38/-50
+D) -36/-52
+E) Keine der Antworten ist richtig

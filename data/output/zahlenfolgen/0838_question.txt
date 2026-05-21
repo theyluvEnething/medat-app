@@ -1,0 +1,7 @@
+Zahlenfolge: 12 5 17 22 39 61 ? ?
+
+A) 259/420
+B) 261/422
+C) 270/431
+D) 259/423
+E) Keine der Antworten ist richtig

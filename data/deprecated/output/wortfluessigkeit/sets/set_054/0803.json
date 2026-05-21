@@ -1,0 +1,15 @@
+{
+  "id": 803,
+  "set": 54,
+  "set_index": 8,
+  "answer": "A",
+  "answer_word": "KURSBUCH",
+  "options": {
+    "A": "K",
+    "B": "B",
+    "C": "H",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H C B R U U K S"
+}

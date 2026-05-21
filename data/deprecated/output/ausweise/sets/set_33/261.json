@@ -1,0 +1,15 @@
+{
+  "id": 261,
+  "set": 33,
+  "set_index": 5,
+  "image": "261.png",
+  "fields": {
+    "Name": "KETOSMAZ",
+    "Geburtstag": "10. Juni",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Ulme, Traubenkraut,",
+    "Ausweisnummer": "16354",
+    "Ausstellungsland": "Honduras"
+  }
+}

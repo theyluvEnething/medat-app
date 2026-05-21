@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Gräser sind keine Züge.
+- Einige Züge sind keine Schauspieler.
+
+A) Einige Gräser sind keine Schauspieler.
+B) Einige Gräser sind Schauspieler.
+C) Alle Gräser sind keine Schauspieler.
+D) Alle Gräser sind Schauspieler.
+E) Keine der Schlussfolgerungen ist richtig.

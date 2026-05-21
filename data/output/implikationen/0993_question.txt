@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Flüsse sind Tabletten.
+- Alle Tabletten sind Menschen.
+
+A) Alle Flüsse sind Menschen.
+B) Einige Flüsse sind Menschen.
+C) Einige Flüsse sind keine Menschen.
+D) Alle Flüsse sind keine Menschen.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: 15 13 39 37 111 109 ? ?
+
+A) 975/973
+B) 973/971
+C) 974/971
+D) 127/145
+E) Keine der Antworten ist richtig

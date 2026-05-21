@@ -1,0 +1,14 @@
+{
+  "id": 392,
+  "set": 16,
+  "set_index": 17,
+  "answer": "A",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusstellungslandTransnistrien?",
+  "options": {
+    "A": "Fluorid,Schokolade",
+    "B": "Bienen,Ephedrin,Krebstiere",
+    "C": "Chinin,Schweinefleisch",
+    "D": "Sesamsamen,Schokolade",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

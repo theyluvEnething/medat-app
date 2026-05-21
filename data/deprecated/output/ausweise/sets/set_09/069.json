@@ -1,0 +1,15 @@
+{
+  "id": 69,
+  "set": 9,
+  "set_index": 5,
+  "image": "069.png",
+  "fields": {
+    "Name": "OMBRAK",
+    "Geburtstag": "12. April",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Buche, Schalenfrüchte",
+    "Ausweisnummer": "53628",
+    "Ausstellungsland": "Island"
+  }
+}

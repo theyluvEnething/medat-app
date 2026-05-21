@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Skulpturen sind Mammute.
+- Alle Mammute sind keine Tomaten.
+
+A) Einige Skulpturen sind Tomaten.
+B) Alle Skulpturen sind Tomaten.
+C) Alle Skulpturen sind keine Tomaten.
+D) Einige Skulpturen sind keine Tomaten.
+E) Keine der Schlussfolgerungen ist richtig.

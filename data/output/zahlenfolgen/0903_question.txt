@@ -1,0 +1,7 @@
+Zahlenfolge: 2 19 21 40 61 101 ? ?
+
+A) 425/688
+B) 424/690
+C) 423/686
+D) 423/687
+E) Keine der Antworten ist richtig

@@ -1,0 +1,14 @@
+{
+  "id": 24,
+  "set": 1,
+  "set_index": 24,
+  "answer": "B",
+  "text": "WielautetdieAusweisnummerderPerson mitKEINENMedikamentenund Blutgruppe0?",
+  "options": {
+    "A": "13154",
+    "B": "81942",
+    "C": "98185",
+    "D": "40240",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 906,
+  "set": 61,
+  "set_index": 6,
+  "answer": "D",
+  "answer_word": "INSTANZ",
+  "options": {
+    "A": "N",
+    "B": "S",
+    "C": "Z",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T A I Z S N N"
+}

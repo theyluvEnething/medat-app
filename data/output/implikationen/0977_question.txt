@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Menschen sind Wirbeltiere.
+- Einige Wirbeltiere sind Tiger.
+
+A) Alle Menschen sind keine Tiger.
+B) Einige Menschen sind keine Tiger.
+C) Einige Menschen sind Tiger.
+D) Alle Menschen sind Tiger.
+E) Keine der Schlussfolgerungen ist richtig.

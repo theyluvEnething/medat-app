@@ -1,0 +1,7 @@
+Zahlenfolge: 18 8 26 34 60 94 ? ?
+
+A) 402/650
+B) 401/649
+C) 403/649
+D) 650/402
+E) Keine der Antworten ist richtig

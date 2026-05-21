@@ -1,0 +1,15 @@
+{
+  "id": 1072,
+  "set": 72,
+  "set_index": 7,
+  "answer": "D",
+  "answer_word": "WIRTIN",
+  "options": {
+    "A": "N",
+    "B": "I",
+    "C": "R",
+    "D": "W",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "W R I I N T"
+}

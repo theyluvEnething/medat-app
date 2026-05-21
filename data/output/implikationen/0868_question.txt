@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Menschen sind keine Taucher.
+- Alle Taucher sind keine Spatzen.
+
+A) Alle Menschen sind keine Spatzen.
+B) Einige Menschen sind Spatzen.
+C) Einige Menschen sind keine Spatzen.
+D) Alle Menschen sind Spatzen.
+E) Keine der Schlussfolgerungen ist richtig.

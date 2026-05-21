@@ -1,0 +1,7 @@
+Buchstabenreihe: T T S I K A
+
+A) A
+B) I
+C) K
+D) S
+E) KeinederAntwortenistrichtig

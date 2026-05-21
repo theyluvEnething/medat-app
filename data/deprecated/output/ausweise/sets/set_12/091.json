@@ -1,0 +1,15 @@
+{
+  "id": 91,
+  "set": 12,
+  "set_index": 3,
+  "image": "091.png",
+  "fields": {
+    "Name": "YURNKOM",
+    "Geburtstag": "31. August",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Retinol",
+    "Ausweisnummer": "33669",
+    "Ausstellungsland": "Nordzypern"
+  }
+}

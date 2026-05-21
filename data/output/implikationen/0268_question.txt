@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Radios sind Elektroautos.
+- Alle Elektroautos sind Giraffen.
+
+A) Alle Radios sind keine Giraffen.
+B) Einige Radios sind keine Giraffen.
+C) Alle Radios sind Giraffen.
+D) Einige Radios sind Giraffen.
+E) Keine der Schlussfolgerungen ist richtig.

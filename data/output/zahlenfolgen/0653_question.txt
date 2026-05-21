@@ -1,0 +1,7 @@
+Zahlenfolge: -1 3 -10 9 -19 15 ? ?
+
+A) 27/-37
+B) -35/26
+C) -37/27
+D) -38/28
+E) Keine der Antworten ist richtig

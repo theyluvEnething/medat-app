@@ -1,0 +1,15 @@
+{
+  "id": 82,
+  "set": 11,
+  "set_index": 2,
+  "image": "082.png",
+  "fields": {
+    "Name": "DEWPOR",
+    "Geburtstag": "8. April",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Kobalt, Pferdehaare",
+    "Ausweisnummer": "32648",
+    "Ausstellungsland": "Libanon"
+  }
+}

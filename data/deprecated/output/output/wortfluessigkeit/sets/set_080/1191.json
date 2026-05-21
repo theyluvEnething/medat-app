@@ -1,0 +1,15 @@
+{
+  "id": 1191,
+  "set": 80,
+  "set_index": 6,
+  "answer": "B",
+  "answer_word": "SALZWASSER",
+  "options": {
+    "A": "E",
+    "B": "S",
+    "C": "Z",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S A S R W A S Z L E"
+}

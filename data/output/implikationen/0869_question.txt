@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Ingenieure sind keine Uhren.
+- Einige Uhren sind keine Insekten.
+
+A) Alle Ingenieure sind keine Insekten.
+B) Alle Ingenieure sind Insekten.
+C) Einige Ingenieure sind Insekten.
+D) Einige Ingenieure sind keine Insekten.
+E) Keine der Schlussfolgerungen ist richtig.

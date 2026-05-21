@@ -1,0 +1,7 @@
+Zahlenfolge: 1 7 6 17 11 27 ? ?
+
+A) 23/49
+B) 21/47
+C) 19/46
+D) 32/37
+E) Keine der Antworten ist richtig

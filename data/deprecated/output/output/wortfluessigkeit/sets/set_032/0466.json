@@ -1,0 +1,15 @@
+{
+  "id": 466,
+  "set": 32,
+  "set_index": 1,
+  "answer": "A",
+  "answer_word": "DREHTAG",
+  "options": {
+    "A": "D",
+    "B": "E",
+    "C": "T",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R E A H D G T"
+}

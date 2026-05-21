@@ -1,0 +1,7 @@
+Zahlenfolge: 3 6 12 24 48 96 ? ?
+
+A) 767/1534
+B) 768/1536
+C) 192/210
+D) 770/1535
+E) Keine der Antworten ist richtig

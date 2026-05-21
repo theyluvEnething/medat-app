@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Vegetarier sind Skulpturen.
+- Einige Skulpturen sind keine Fotografen.
+
+A) Alle Vegetarier sind keine Fotografen.
+B) Alle Vegetarier sind Fotografen.
+C) Einige Vegetarier sind keine Fotografen.
+D) Einige Vegetarier sind Fotografen.
+E) Keine der Schlussfolgerungen ist richtig.

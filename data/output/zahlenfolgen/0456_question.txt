@@ -1,0 +1,7 @@
+Zahlenfolge: 37 45 53 61 69 77 ? ?
+
+A) 92/103
+B) 95/103
+C) 93/101
+D) 92/99
+E) Keine der Antworten ist richtig

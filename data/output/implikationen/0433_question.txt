@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Delfine sind keine Bäume.
+- Einige Bäume sind keine Schriftsteller.
+
+A) Einige Delfine sind keine Schriftsteller.
+B) Alle Delfine sind Schriftsteller.
+C) Alle Delfine sind keine Schriftsteller.
+D) Einige Delfine sind Schriftsteller.
+E) Keine der Schlussfolgerungen ist richtig.

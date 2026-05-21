@@ -1,0 +1,7 @@
+Zahlenfolge: 21 8 16 -1 11 -10 ? ?
+
+A) 2/-27
+B) 1/-28
+C) -1/-30
+D) -20/-27
+E) Keine der Antworten ist richtig

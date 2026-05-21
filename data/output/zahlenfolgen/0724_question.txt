@@ -1,0 +1,7 @@
+Zahlenfolge: -9 -5 2 12 25 41 ? ?
+
+A) 109/133
+B) 107/135
+C) 106/137
+D) 108/133
+E) Keine der Antworten ist richtig

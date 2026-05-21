@@ -1,0 +1,15 @@
+{
+  "id": 1558,
+  "set": 104,
+  "set_index": 13,
+  "answer": "C",
+  "answer_word": "RENOVIERUNG",
+  "options": {
+    "A": "N",
+    "B": "O",
+    "C": "R",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N U I V N E E R O G R"
+}

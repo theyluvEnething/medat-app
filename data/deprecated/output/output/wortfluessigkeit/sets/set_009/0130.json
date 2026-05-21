@@ -1,0 +1,15 @@
+{
+  "id": 130,
+  "set": 9,
+  "set_index": 10,
+  "answer": "C",
+  "answer_word": "NACHT",
+  "options": {
+    "A": "T",
+    "B": "C",
+    "C": "N",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N H A T C"
+}

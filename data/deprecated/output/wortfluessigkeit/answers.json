@@ -1,0 +1,6602 @@
+{
+  "1": {
+    "letter": "C",
+    "word": "EHEFRAU"
+  },
+  "31": {
+    "letter": "B",
+    "word": "HINTERHALT"
+  },
+  "61": {
+    "letter": "E",
+    "word": "QUOTE"
+  },
+  "2": {
+    "letter": "C",
+    "word": "TESTUNG"
+  },
+  "32": {
+    "letter": "B",
+    "word": "WAGGON"
+  },
+  "62": {
+    "letter": "E",
+    "word": "KORTISON"
+  },
+  "3": {
+    "letter": "B",
+    "word": "IRRTUM"
+  },
+  "33": {
+    "letter": "D",
+    "word": "NACHSCHUB"
+  },
+  "63": {
+    "letter": "E",
+    "word": "GENDEFEKT"
+  },
+  "4": {
+    "letter": "B",
+    "word": "BADEHOSE"
+  },
+  "34": {
+    "letter": "E",
+    "word": "WOCHE"
+  },
+  "64": {
+    "letter": "D",
+    "word": "GLOBUS"
+  },
+  "5": {
+    "letter": "B",
+    "word": "RHYTHMUS"
+  },
+  "35": {
+    "letter": "A",
+    "word": "ZULAUF"
+  },
+  "65": {
+    "letter": "A",
+    "word": "SCHUTZ"
+  },
+  "6": {
+    "letter": "C",
+    "word": "JUNGE"
+  },
+  "36": {
+    "letter": "B",
+    "word": "UMLAUF"
+  },
+  "66": {
+    "letter": "E",
+    "word": "PARADIES"
+  },
+  "7": {
+    "letter": "B",
+    "word": "SCHULBUS"
+  },
+  "37": {
+    "letter": "D",
+    "word": "PFLEGER"
+  },
+  "67": {
+    "letter": "D",
+    "word": "OPTION"
+  },
+  "8": {
+    "letter": "D",
+    "word": "MOMENT"
+  },
+  "38": {
+    "letter": "B",
+    "word": "BAUCH"
+  },
+  "68": {
+    "letter": "C",
+    "word": "ENZYM"
+  },
+  "9": {
+    "letter": "E",
+    "word": "SPINNER"
+  },
+  "39": {
+    "letter": "B",
+    "word": "ZIRKUS"
+  },
+  "69": {
+    "letter": "C",
+    "word": "REPORTAGE"
+  },
+  "10": {
+    "letter": "E",
+    "word": "SEEBAD"
+  },
+  "40": {
+    "letter": "D",
+    "word": "DICHTE"
+  },
+  "70": {
+    "letter": "E",
+    "word": "VIRUS"
+  },
+  "11": {
+    "letter": "A",
+    "word": "DATEI"
+  },
+  "41": {
+    "letter": "D",
+    "word": "FRAGMENT"
+  },
+  "71": {
+    "letter": "E",
+    "word": "EMOTION"
+  },
+  "12": {
+    "letter": "E",
+    "word": "BOMMEL"
+  },
+  "42": {
+    "letter": "C",
+    "word": "MOSAIK"
+  },
+  "72": {
+    "letter": "B",
+    "word": "WELTALL"
+  },
+  "13": {
+    "letter": "A",
+    "word": "STIMULATION"
+  },
+  "43": {
+    "letter": "C",
+    "word": "FESTIVAL"
+  },
+  "73": {
+    "letter": "B",
+    "word": "PROZESS"
+  },
+  "14": {
+    "letter": "E",
+    "word": "URAHN"
+  },
+  "44": {
+    "letter": "A",
+    "word": "HAPPEN"
+  },
+  "74": {
+    "letter": "C",
+    "word": "CELSIUS"
+  },
+  "15": {
+    "letter": "C",
+    "word": "TOLLPATSCH"
+  },
+  "45": {
+    "letter": "D",
+    "word": "ROMANTIK"
+  },
+  "75": {
+    "letter": "C",
+    "word": "MEHRUNG"
+  },
+  "16": {
+    "letter": "D",
+    "word": "FEINHEIT"
+  },
+  "46": {
+    "letter": "C",
+    "word": "WAGON"
+  },
+  "76": {
+    "letter": "B",
+    "word": "ZUSAGE"
+  },
+  "17": {
+    "letter": "C",
+    "word": "REKURS"
+  },
+  "47": {
+    "letter": "E",
+    "word": "LABOR"
+  },
+  "77": {
+    "letter": "A",
+    "word": "DISKURS"
+  },
+  "18": {
+    "letter": "D",
+    "word": "PROBE"
+  },
+  "48": {
+    "letter": "B",
+    "word": "BLICK"
+  },
+  "78": {
+    "letter": "E",
+    "word": "SEHNSUCHT"
+  },
+  "19": {
+    "letter": "C",
+    "word": "KODEX"
+  },
+  "49": {
+    "letter": "E",
+    "word": "WIRKUNG"
+  },
+  "79": {
+    "letter": "C",
+    "word": "ZWEIG"
+  },
+  "20": {
+    "letter": "C",
+    "word": "BROWSER"
+  },
+  "50": {
+    "letter": "B",
+    "word": "SAPHIR"
+  },
+  "80": {
+    "letter": "D",
+    "word": "HOTELKETTE"
+  },
+  "21": {
+    "letter": "D",
+    "word": "AQUARIUM"
+  },
+  "51": {
+    "letter": "A",
+    "word": "FLUGLINIE"
+  },
+  "81": {
+    "letter": "D",
+    "word": "GNADE"
+  },
+  "22": {
+    "letter": "E",
+    "word": "SEEFAHRT"
+  },
+  "52": {
+    "letter": "A",
+    "word": "DISTANZ"
+  },
+  "82": {
+    "letter": "A",
+    "word": "SPARSTIFT"
+  },
+  "23": {
+    "letter": "E",
+    "word": "HYGIENE"
+  },
+  "53": {
+    "letter": "C",
+    "word": "KADETT"
+  },
+  "83": {
+    "letter": "B",
+    "word": "KINDHEIT"
+  },
+  "24": {
+    "letter": "A",
+    "word": "BUDDHA"
+  },
+  "54": {
+    "letter": "C",
+    "word": "BEIFALL"
+  },
+  "84": {
+    "letter": "E",
+    "word": "RISIKO"
+  },
+  "25": {
+    "letter": "A",
+    "word": "LUFTNOT"
+  },
+  "55": {
+    "letter": "D",
+    "word": "GOURMET"
+  },
+  "85": {
+    "letter": "D",
+    "word": "JACKPOT"
+  },
+  "26": {
+    "letter": "C",
+    "word": "VULKAN"
+  },
+  "56": {
+    "letter": "E",
+    "word": "SALAMI"
+  },
+  "86": {
+    "letter": "D",
+    "word": "ABBILDUNG"
+  },
+  "27": {
+    "letter": "B",
+    "word": "THEMATIK"
+  },
+  "57": {
+    "letter": "D",
+    "word": "MONAT"
+  },
+  "87": {
+    "letter": "A",
+    "word": "VERLAG"
+  },
+  "28": {
+    "letter": "E",
+    "word": "MALEREI"
+  },
+  "58": {
+    "letter": "C",
+    "word": "SCHLUSS"
+  },
+  "88": {
+    "letter": "B",
+    "word": "BORDELL"
+  },
+  "29": {
+    "letter": "D",
+    "word": "AUFWIND"
+  },
+  "59": {
+    "letter": "B",
+    "word": "WARZE"
+  },
+  "89": {
+    "letter": "C",
+    "word": "HAUTKREBS"
+  },
+  "30": {
+    "letter": "B",
+    "word": "BACKE"
+  },
+  "60": {
+    "letter": "E",
+    "word": "SKRUPEL"
+  },
+  "90": {
+    "letter": "C",
+    "word": "CHROMOSOM"
+  },
+  "91": {
+    "letter": "C",
+    "word": "LITHIUM"
+  },
+  "136": {
+    "letter": "E",
+    "word": "KOFFER"
+  },
+  "181": {
+    "letter": "A",
+    "word": "POSTKARTE"
+  },
+  "92": {
+    "letter": "A",
+    "word": "KREIDE"
+  },
+  "137": {
+    "letter": "B",
+    "word": "PRAXIS"
+  },
+  "182": {
+    "letter": "D",
+    "word": "ABSTURZ"
+  },
+  "93": {
+    "letter": "A",
+    "word": "KASTELL"
+  },
+  "138": {
+    "letter": "A",
+    "word": "BRUSTKORB"
+  },
+  "183": {
+    "letter": "A",
+    "word": "VOKAL"
+  },
+  "94": {
+    "letter": "B",
+    "word": "NEBENSATZ"
+  },
+  "139": {
+    "letter": "E",
+    "word": "VORBILD"
+  },
+  "184": {
+    "letter": "C",
+    "word": "ZUHAUSE"
+  },
+  "95": {
+    "letter": "D",
+    "word": "LANZE"
+  },
+  "140": {
+    "letter": "C",
+    "word": "DIRIGENT"
+  },
+  "185": {
+    "letter": "D",
+    "word": "HOHEIT"
+  },
+  "96": {
+    "letter": "C",
+    "word": "TOCHTER"
+  },
+  "141": {
+    "letter": "D",
+    "word": "RICHTUNG"
+  },
+  "186": {
+    "letter": "A",
+    "word": "HOROSKOP"
+  },
+  "97": {
+    "letter": "B",
+    "word": "FRAGEBOGEN"
+  },
+  "142": {
+    "letter": "E",
+    "word": "ZUCHT"
+  },
+  "187": {
+    "letter": "E",
+    "word": "JAGDHUND"
+  },
+  "98": {
+    "letter": "A",
+    "word": "SPINNE"
+  },
+  "143": {
+    "letter": "E",
+    "word": "TOLLWUT"
+  },
+  "188": {
+    "letter": "D",
+    "word": "NATRIUM"
+  },
+  "99": {
+    "letter": "C",
+    "word": "TEXTFELD"
+  },
+  "144": {
+    "letter": "B",
+    "word": "KLAGE"
+  },
+  "189": {
+    "letter": "B",
+    "word": "FAHRRAD"
+  },
+  "100": {
+    "letter": "D",
+    "word": "LAUCH"
+  },
+  "145": {
+    "letter": "A",
+    "word": "ZENIT"
+  },
+  "190": {
+    "letter": "C",
+    "word": "NACKEN"
+  },
+  "101": {
+    "letter": "C",
+    "word": "KLIMMZUG"
+  },
+  "146": {
+    "letter": "E",
+    "word": "FABRIK"
+  },
+  "191": {
+    "letter": "D",
+    "word": "SCHWERT"
+  },
+  "102": {
+    "letter": "A",
+    "word": "ZELLWAND"
+  },
+  "147": {
+    "letter": "C",
+    "word": "FREQUENZ"
+  },
+  "192": {
+    "letter": "B",
+    "word": "SECHSECK"
+  },
+  "103": {
+    "letter": "A",
+    "word": "NUMMER"
+  },
+  "148": {
+    "letter": "A",
+    "word": "KINOTAG"
+  },
+  "193": {
+    "letter": "E",
+    "word": "RUBRIK"
+  },
+  "104": {
+    "letter": "B",
+    "word": "ABWAHL"
+  },
+  "149": {
+    "letter": "C",
+    "word": "MAGEN"
+  },
+  "194": {
+    "letter": "D",
+    "word": "HIMMEL"
+  },
+  "105": {
+    "letter": "B",
+    "word": "ANMUT"
+  },
+  "150": {
+    "letter": "A",
+    "word": "SYSTEM"
+  },
+  "195": {
+    "letter": "A",
+    "word": "ANZAHLUNG"
+  },
+  "106": {
+    "letter": "D",
+    "word": "DARMKREBS"
+  },
+  "151": {
+    "letter": "B",
+    "word": "VATER"
+  },
+  "196": {
+    "letter": "A",
+    "word": "TECHNIK"
+  },
+  "107": {
+    "letter": "B",
+    "word": "ABREDE"
+  },
+  "152": {
+    "letter": "A",
+    "word": "FAHRT"
+  },
+  "197": {
+    "letter": "B",
+    "word": "MOTORRAD"
+  },
+  "108": {
+    "letter": "A",
+    "word": "FAZIT"
+  },
+  "153": {
+    "letter": "D",
+    "word": "PLAGE"
+  },
+  "198": {
+    "letter": "A",
+    "word": "KLEIDER"
+  },
+  "109": {
+    "letter": "C",
+    "word": "WACHE"
+  },
+  "154": {
+    "letter": "C",
+    "word": "KUNSTSZENE"
+  },
+  "199": {
+    "letter": "C",
+    "word": "DYNAMO"
+  },
+  "110": {
+    "letter": "B",
+    "word": "NOTIZ"
+  },
+  "155": {
+    "letter": "B",
+    "word": "IMPFUNG"
+  },
+  "200": {
+    "letter": "D",
+    "word": "TIRAMISU"
+  },
+  "111": {
+    "letter": "A",
+    "word": "ANRUF"
+  },
+  "156": {
+    "letter": "A",
+    "word": "STORNO"
+  },
+  "201": {
+    "letter": "A",
+    "word": "UMWELT"
+  },
+  "112": {
+    "letter": "B",
+    "word": "RADLAGER"
+  },
+  "157": {
+    "letter": "D",
+    "word": "PRELLUNG"
+  },
+  "202": {
+    "letter": "B",
+    "word": "ABFOLGE"
+  },
+  "113": {
+    "letter": "B",
+    "word": "KRONE"
+  },
+  "158": {
+    "letter": "A",
+    "word": "ROBOTIK"
+  },
+  "203": {
+    "letter": "D",
+    "word": "KABINE"
+  },
+  "114": {
+    "letter": "A",
+    "word": "QUORUM"
+  },
+  "159": {
+    "letter": "A",
+    "word": "ZIEGEL"
+  },
+  "204": {
+    "letter": "A",
+    "word": "ATTRAKTION"
+  },
+  "115": {
+    "letter": "E",
+    "word": "HEILIGTUM"
+  },
+  "160": {
+    "letter": "E",
+    "word": "FIKTION"
+  },
+  "205": {
+    "letter": "B",
+    "word": "BACHBETT"
+  },
+  "116": {
+    "letter": "D",
+    "word": "TIEFBAU"
+  },
+  "161": {
+    "letter": "D",
+    "word": "FLAUM"
+  },
+  "206": {
+    "letter": "A",
+    "word": "FASSADE"
+  },
+  "117": {
+    "letter": "D",
+    "word": "LOCKUNG"
+  },
+  "162": {
+    "letter": "E",
+    "word": "HALOGEN"
+  },
+  "207": {
+    "letter": "B",
+    "word": "ZYKLUS"
+  },
+  "118": {
+    "letter": "C",
+    "word": "AUSREDE"
+  },
+  "163": {
+    "letter": "E",
+    "word": "WETTKAMPF"
+  },
+  "208": {
+    "letter": "D",
+    "word": "WOLKE"
+  },
+  "119": {
+    "letter": "D",
+    "word": "WACHMANN"
+  },
+  "164": {
+    "letter": "B",
+    "word": "KNOSPE"
+  },
+  "209": {
+    "letter": "A",
+    "word": "INHABER"
+  },
+  "120": {
+    "letter": "A",
+    "word": "HAMSTER"
+  },
+  "165": {
+    "letter": "E",
+    "word": "GEFAHR"
+  },
+  "210": {
+    "letter": "C",
+    "word": "TRIBUT"
+  },
+  "121": {
+    "letter": "A",
+    "word": "SCHMERZ"
+  },
+  "166": {
+    "letter": "D",
+    "word": "DIAGNOSE"
+  },
+  "211": {
+    "letter": "B",
+    "word": "BURGMAUER"
+  },
+  "122": {
+    "letter": "B",
+    "word": "LYSOSOM"
+  },
+  "167": {
+    "letter": "C",
+    "word": "JUWEL"
+  },
+  "212": {
+    "letter": "E",
+    "word": "HOCHALTAR"
+  },
+  "123": {
+    "letter": "C",
+    "word": "HEILER"
+  },
+  "168": {
+    "letter": "E",
+    "word": "KARDIOLOGIE"
+  },
+  "213": {
+    "letter": "A",
+    "word": "MAGNET"
+  },
+  "124": {
+    "letter": "D",
+    "word": "TOMATE"
+  },
+  "169": {
+    "letter": "D",
+    "word": "STICHWORT"
+  },
+  "214": {
+    "letter": "B",
+    "word": "SONNTAG"
+  },
+  "125": {
+    "letter": "A",
+    "word": "GEFASEL"
+  },
+  "170": {
+    "letter": "C",
+    "word": "ZAPFHAHN"
+  },
+  "215": {
+    "letter": "E",
+    "word": "REKRUT"
+  },
+  "126": {
+    "letter": "E",
+    "word": "MUSKEL"
+  },
+  "171": {
+    "letter": "B",
+    "word": "KAKTUS"
+  },
+  "216": {
+    "letter": "A",
+    "word": "HALBTON"
+  },
+  "127": {
+    "letter": "E",
+    "word": "KEIMUNG"
+  },
+  "172": {
+    "letter": "C",
+    "word": "QUERSUMME"
+  },
+  "217": {
+    "letter": "C",
+    "word": "WELTKARTE"
+  },
+  "128": {
+    "letter": "A",
+    "word": "TAUFE"
+  },
+  "173": {
+    "letter": "D",
+    "word": "JACHT"
+  },
+  "218": {
+    "letter": "A",
+    "word": "KONSENS"
+  },
+  "129": {
+    "letter": "B",
+    "word": "SYMPTOM"
+  },
+  "174": {
+    "letter": "B",
+    "word": "STANDORT"
+  },
+  "219": {
+    "letter": "A",
+    "word": "ELYSIUM"
+  },
+  "130": {
+    "letter": "C",
+    "word": "NACHT"
+  },
+  "175": {
+    "letter": "D",
+    "word": "BENUTZUNG"
+  },
+  "220": {
+    "letter": "A",
+    "word": "KANDIDAT"
+  },
+  "131": {
+    "letter": "A",
+    "word": "MUSIKANT"
+  },
+  "176": {
+    "letter": "B",
+    "word": "VAKUUM"
+  },
+  "221": {
+    "letter": "B",
+    "word": "GELDWERT"
+  },
+  "132": {
+    "letter": "C",
+    "word": "OLYMPIA"
+  },
+  "177": {
+    "letter": "B",
+    "word": "WACHTURM"
+  },
+  "222": {
+    "letter": "E",
+    "word": "DOKTRIN"
+  },
+  "133": {
+    "letter": "B",
+    "word": "VERRUF"
+  },
+  "178": {
+    "letter": "B",
+    "word": "ABTEI"
+  },
+  "223": {
+    "letter": "D",
+    "word": "VORZUG"
+  },
+  "134": {
+    "letter": "C",
+    "word": "RENNBAHN"
+  },
+  "179": {
+    "letter": "E",
+    "word": "ALMOSEN"
+  },
+  "224": {
+    "letter": "B",
+    "word": "ABITUR"
+  },
+  "135": {
+    "letter": "D",
+    "word": "WERDEGANG"
+  },
+  "180": {
+    "letter": "A",
+    "word": "LYRIK"
+  },
+  "225": {
+    "letter": "E",
+    "word": "DYNAMIK"
+  },
+  "226": {
+    "letter": "B",
+    "word": "VARIANZ"
+  },
+  "271": {
+    "letter": "E",
+    "word": "GEDANKE"
+  },
+  "316": {
+    "letter": "A",
+    "word": "ABDOMEN"
+  },
+  "227": {
+    "letter": "B",
+    "word": "HOLZKISTE"
+  },
+  "272": {
+    "letter": "E",
+    "word": "HAUBE"
+  },
+  "317": {
+    "letter": "D",
+    "word": "SEXUALKUNDE"
+  },
+  "228": {
+    "letter": "D",
+    "word": "HERBST"
+  },
+  "273": {
+    "letter": "B",
+    "word": "PORTAL"
+  },
+  "318": {
+    "letter": "E",
+    "word": "CHAOS"
+  },
+  "229": {
+    "letter": "E",
+    "word": "ZUKUNFT"
+  },
+  "274": {
+    "letter": "D",
+    "word": "GRENZE"
+  },
+  "319": {
+    "letter": "C",
+    "word": "DAUERWELLE"
+  },
+  "230": {
+    "letter": "B",
+    "word": "ZEBRA"
+  },
+  "275": {
+    "letter": "C",
+    "word": "BAMBUS"
+  },
+  "320": {
+    "letter": "B",
+    "word": "WOHNWAGEN"
+  },
+  "231": {
+    "letter": "A",
+    "word": "BILDUNG"
+  },
+  "276": {
+    "letter": "C",
+    "word": "WEBLINK"
+  },
+  "321": {
+    "letter": "B",
+    "word": "OUTFIT"
+  },
+  "232": {
+    "letter": "C",
+    "word": "APOTHEKE"
+  },
+  "277": {
+    "letter": "B",
+    "word": "ANSEHEN"
+  },
+  "322": {
+    "letter": "C",
+    "word": "TUTORIUM"
+  },
+  "233": {
+    "letter": "E",
+    "word": "VISIER"
+  },
+  "278": {
+    "letter": "D",
+    "word": "PROZESSION"
+  },
+  "323": {
+    "letter": "B",
+    "word": "VISION"
+  },
+  "234": {
+    "letter": "A",
+    "word": "KAUGUMMI"
+  },
+  "279": {
+    "letter": "C",
+    "word": "VISITE"
+  },
+  "324": {
+    "letter": "E",
+    "word": "SINNKRISE"
+  },
+  "235": {
+    "letter": "D",
+    "word": "BARRIKADE"
+  },
+  "280": {
+    "letter": "C",
+    "word": "KERAMIK"
+  },
+  "325": {
+    "letter": "E",
+    "word": "XYLOFON"
+  },
+  "236": {
+    "letter": "A",
+    "word": "DAMAST"
+  },
+  "281": {
+    "letter": "B",
+    "word": "PRINZ"
+  },
+  "326": {
+    "letter": "E",
+    "word": "DICHTER"
+  },
+  "237": {
+    "letter": "A",
+    "word": "ANOMALIE"
+  },
+  "282": {
+    "letter": "E",
+    "word": "EISBERG"
+  },
+  "327": {
+    "letter": "E",
+    "word": "FORMSACHE"
+  },
+  "238": {
+    "letter": "D",
+    "word": "SEHNERV"
+  },
+  "283": {
+    "letter": "B",
+    "word": "BOXER"
+  },
+  "328": {
+    "letter": "A",
+    "word": "SATIRE"
+  },
+  "239": {
+    "letter": "D",
+    "word": "EXKURSION"
+  },
+  "284": {
+    "letter": "A",
+    "word": "PIANIST"
+  },
+  "329": {
+    "letter": "C",
+    "word": "LACHGAS"
+  },
+  "240": {
+    "letter": "B",
+    "word": "INSTINKT"
+  },
+  "285": {
+    "letter": "E",
+    "word": "FREMDLING"
+  },
+  "330": {
+    "letter": "A",
+    "word": "WIDDER"
+  },
+  "241": {
+    "letter": "E",
+    "word": "MOTIV"
+  },
+  "286": {
+    "letter": "E",
+    "word": "FAKTOR"
+  },
+  "331": {
+    "letter": "A",
+    "word": "TATWAFFE"
+  },
+  "242": {
+    "letter": "C",
+    "word": "WITWER"
+  },
+  "287": {
+    "letter": "A",
+    "word": "EINFUHR"
+  },
+  "332": {
+    "letter": "A",
+    "word": "FANSHOP"
+  },
+  "243": {
+    "letter": "A",
+    "word": "ZUGRIFF"
+  },
+  "288": {
+    "letter": "E",
+    "word": "DEBAKEL"
+  },
+  "333": {
+    "letter": "E",
+    "word": "DUKTUS"
+  },
+  "244": {
+    "letter": "B",
+    "word": "BAKTERIUM"
+  },
+  "289": {
+    "letter": "D",
+    "word": "HAUFEN"
+  },
+  "334": {
+    "letter": "B",
+    "word": "PRINZIP"
+  },
+  "245": {
+    "letter": "A",
+    "word": "DESTINATION"
+  },
+  "290": {
+    "letter": "C",
+    "word": "FUTURISMUS"
+  },
+  "335": {
+    "letter": "E",
+    "word": "METAPHER"
+  },
+  "246": {
+    "letter": "D",
+    "word": "HABITAT"
+  },
+  "291": {
+    "letter": "A",
+    "word": "DEKLARATION"
+  },
+  "336": {
+    "letter": "A",
+    "word": "INSTITUTION"
+  },
+  "247": {
+    "letter": "C",
+    "word": "BALLAST"
+  },
+  "292": {
+    "letter": "A",
+    "word": "KATZE"
+  },
+  "337": {
+    "letter": "C",
+    "word": "GESTALTUNG"
+  },
+  "248": {
+    "letter": "A",
+    "word": "GESCHENK"
+  },
+  "293": {
+    "letter": "D",
+    "word": "EGOISMUS"
+  },
+  "338": {
+    "letter": "C",
+    "word": "EXKREMENT"
+  },
+  "249": {
+    "letter": "A",
+    "word": "KOPIE"
+  },
+  "294": {
+    "letter": "E",
+    "word": "COWBOY"
+  },
+  "339": {
+    "letter": "D",
+    "word": "AUTOPILOT"
+  },
+  "250": {
+    "letter": "D",
+    "word": "HANGAR"
+  },
+  "295": {
+    "letter": "B",
+    "word": "MONOPOL"
+  },
+  "340": {
+    "letter": "C",
+    "word": "SCHALL"
+  },
+  "251": {
+    "letter": "B",
+    "word": "NEULAND"
+  },
+  "296": {
+    "letter": "A",
+    "word": "QUATSCH"
+  },
+  "341": {
+    "letter": "D",
+    "word": "SCHLUCHT"
+  },
+  "252": {
+    "letter": "E",
+    "word": "TRAUER"
+  },
+  "297": {
+    "letter": "B",
+    "word": "AUSSAGE"
+  },
+  "342": {
+    "letter": "C",
+    "word": "RICHTLINIE"
+  },
+  "253": {
+    "letter": "A",
+    "word": "LANDWEG"
+  },
+  "298": {
+    "letter": "A",
+    "word": "UMWEG"
+  },
+  "343": {
+    "letter": "C",
+    "word": "SOMMER"
+  },
+  "254": {
+    "letter": "C",
+    "word": "PFLEGE"
+  },
+  "299": {
+    "letter": "E",
+    "word": "VOLUMEN"
+  },
+  "344": {
+    "letter": "D",
+    "word": "MITOSE"
+  },
+  "255": {
+    "letter": "C",
+    "word": "MISSIONAR"
+  },
+  "300": {
+    "letter": "C",
+    "word": "LOGIK"
+  },
+  "345": {
+    "letter": "C",
+    "word": "DAUMEN"
+  },
+  "256": {
+    "letter": "A",
+    "word": "POLLER"
+  },
+  "301": {
+    "letter": "D",
+    "word": "GURKE"
+  },
+  "346": {
+    "letter": "E",
+    "word": "WUNSCH"
+  },
+  "257": {
+    "letter": "A",
+    "word": "AUFGUSS"
+  },
+  "302": {
+    "letter": "D",
+    "word": "SPORTAMT"
+  },
+  "347": {
+    "letter": "E",
+    "word": "KADAVER"
+  },
+  "258": {
+    "letter": "C",
+    "word": "KRAWATTE"
+  },
+  "303": {
+    "letter": "D",
+    "word": "TOTENKOPF"
+  },
+  "348": {
+    "letter": "D",
+    "word": "WISSEN"
+  },
+  "259": {
+    "letter": "D",
+    "word": "KINETIK"
+  },
+  "304": {
+    "letter": "B",
+    "word": "HINDU"
+  },
+  "349": {
+    "letter": "D",
+    "word": "NULLPUNKT"
+  },
+  "260": {
+    "letter": "C",
+    "word": "COGNAC"
+  },
+  "305": {
+    "letter": "B",
+    "word": "BLOGGER"
+  },
+  "350": {
+    "letter": "A",
+    "word": "ANFORDERUNG"
+  },
+  "261": {
+    "letter": "A",
+    "word": "LESEGUT"
+  },
+  "306": {
+    "letter": "B",
+    "word": "AIRBAG"
+  },
+  "351": {
+    "letter": "B",
+    "word": "ZUWACHS"
+  },
+  "262": {
+    "letter": "C",
+    "word": "GIPSWAND"
+  },
+  "307": {
+    "letter": "C",
+    "word": "PALISADE"
+  },
+  "352": {
+    "letter": "D",
+    "word": "QUOTIENT"
+  },
+  "263": {
+    "letter": "B",
+    "word": "ANZUG"
+  },
+  "308": {
+    "letter": "C",
+    "word": "FLYER"
+  },
+  "353": {
+    "letter": "D",
+    "word": "MONOKEL"
+  },
+  "264": {
+    "letter": "E",
+    "word": "SILBER"
+  },
+  "309": {
+    "letter": "E",
+    "word": "LESEZEICHEN"
+  },
+  "354": {
+    "letter": "B",
+    "word": "NEPTUN"
+  },
+  "265": {
+    "letter": "E",
+    "word": "EPIGRAMM"
+  },
+  "310": {
+    "letter": "E",
+    "word": "DISKONT"
+  },
+  "355": {
+    "letter": "C",
+    "word": "HEBAMME"
+  },
+  "266": {
+    "letter": "E",
+    "word": "TRUGSCHLUSS"
+  },
+  "311": {
+    "letter": "D",
+    "word": "KONFERENZ"
+  },
+  "356": {
+    "letter": "E",
+    "word": "HARPUNE"
+  },
+  "267": {
+    "letter": "A",
+    "word": "NACHBARSCHAFT"
+  },
+  "312": {
+    "letter": "E",
+    "word": "POSITION"
+  },
+  "357": {
+    "letter": "B",
+    "word": "REHBOCK"
+  },
+  "268": {
+    "letter": "A",
+    "word": "LAUFWEG"
+  },
+  "313": {
+    "letter": "A",
+    "word": "VERLAUF"
+  },
+  "358": {
+    "letter": "D",
+    "word": "DSCHUNGEL"
+  },
+  "269": {
+    "letter": "C",
+    "word": "MALARIA"
+  },
+  "314": {
+    "letter": "A",
+    "word": "SANDALE"
+  },
+  "359": {
+    "letter": "E",
+    "word": "SCHRECKEN"
+  },
+  "270": {
+    "letter": "C",
+    "word": "LAVENDEL"
+  },
+  "315": {
+    "letter": "E",
+    "word": "KURZFILM"
+  },
+  "360": {
+    "letter": "D",
+    "word": "NOVEMBER"
+  },
+  "361": {
+    "letter": "D",
+    "word": "KOKOSNUSS"
+  },
+  "406": {
+    "letter": "C",
+    "word": "METEORIT"
+  },
+  "451": {
+    "letter": "E",
+    "word": "ANDENKEN"
+  },
+  "362": {
+    "letter": "C",
+    "word": "NUANCE"
+  },
+  "407": {
+    "letter": "D",
+    "word": "BEISETZUNG"
+  },
+  "452": {
+    "letter": "D",
+    "word": "TOPOGRAPHIE"
+  },
+  "363": {
+    "letter": "B",
+    "word": "ROLLTREPPE"
+  },
+  "408": {
+    "letter": "B",
+    "word": "ZIRKULATION"
+  },
+  "453": {
+    "letter": "A",
+    "word": "BIOTOP"
+  },
+  "364": {
+    "letter": "E",
+    "word": "FIRMAMENT"
+  },
+  "409": {
+    "letter": "D",
+    "word": "BYPASS"
+  },
+  "454": {
+    "letter": "E",
+    "word": "PRINZESSIN"
+  },
+  "365": {
+    "letter": "C",
+    "word": "ERDLOCH"
+  },
+  "410": {
+    "letter": "A",
+    "word": "GYMNASTIK"
+  },
+  "455": {
+    "letter": "D",
+    "word": "TOTSCHLAG"
+  },
+  "366": {
+    "letter": "A",
+    "word": "SYMPHONIE"
+  },
+  "411": {
+    "letter": "D",
+    "word": "RHETORIK"
+  },
+  "456": {
+    "letter": "C",
+    "word": "GEDICHT"
+  },
+  "367": {
+    "letter": "C",
+    "word": "ZYPRESSE"
+  },
+  "412": {
+    "letter": "D",
+    "word": "RECHNUNG"
+  },
+  "457": {
+    "letter": "C",
+    "word": "BEGEGNUNG"
+  },
+  "368": {
+    "letter": "C",
+    "word": "OBERARME"
+  },
+  "413": {
+    "letter": "C",
+    "word": "ANSAGE"
+  },
+  "458": {
+    "letter": "C",
+    "word": "FUNDSTELLE"
+  },
+  "369": {
+    "letter": "E",
+    "word": "ANPFIFF"
+  },
+  "414": {
+    "letter": "E",
+    "word": "TAKTUNG"
+  },
+  "459": {
+    "letter": "E",
+    "word": "MARXISMUS"
+  },
+  "370": {
+    "letter": "E",
+    "word": "MALKURS"
+  },
+  "415": {
+    "letter": "A",
+    "word": "PROZEDUR"
+  },
+  "460": {
+    "letter": "C",
+    "word": "KURHAUS"
+  },
+  "371": {
+    "letter": "E",
+    "word": "KAVIAR"
+  },
+  "416": {
+    "letter": "A",
+    "word": "APFELBAUM"
+  },
+  "461": {
+    "letter": "B",
+    "word": "MANAGER"
+  },
+  "372": {
+    "letter": "C",
+    "word": "ANGEBOT"
+  },
+  "417": {
+    "letter": "B",
+    "word": "DIKTATUR"
+  },
+  "462": {
+    "letter": "A",
+    "word": "RESTAURANT"
+  },
+  "373": {
+    "letter": "E",
+    "word": "SCHIIT"
+  },
+  "418": {
+    "letter": "A",
+    "word": "EXPERTE"
+  },
+  "463": {
+    "letter": "B",
+    "word": "KROKUS"
+  },
+  "374": {
+    "letter": "D",
+    "word": "PATIENT"
+  },
+  "419": {
+    "letter": "C",
+    "word": "ERINNERUNG"
+  },
+  "464": {
+    "letter": "A",
+    "word": "GRUPPE"
+  },
+  "375": {
+    "letter": "D",
+    "word": "KAMMER"
+  },
+  "420": {
+    "letter": "E",
+    "word": "SKIZZE"
+  },
+  "465": {
+    "letter": "E",
+    "word": "REPRESSION"
+  },
+  "376": {
+    "letter": "E",
+    "word": "ABSINTH"
+  },
+  "421": {
+    "letter": "D",
+    "word": "DICHTUNG"
+  },
+  "466": {
+    "letter": "A",
+    "word": "DREHTAG"
+  },
+  "377": {
+    "letter": "C",
+    "word": "KULTUR"
+  },
+  "422": {
+    "letter": "C",
+    "word": "HOCHZEIT"
+  },
+  "467": {
+    "letter": "A",
+    "word": "WUNSCHKIND"
+  },
+  "378": {
+    "letter": "D",
+    "word": "AUFRISS"
+  },
+  "423": {
+    "letter": "B",
+    "word": "JAHRGANG"
+  },
+  "468": {
+    "letter": "C",
+    "word": "ATEMLUFT"
+  },
+  "379": {
+    "letter": "E",
+    "word": "VEILCHEN"
+  },
+  "424": {
+    "letter": "B",
+    "word": "BEATMUNG"
+  },
+  "469": {
+    "letter": "B",
+    "word": "LEIBARZT"
+  },
+  "380": {
+    "letter": "D",
+    "word": "ZENSUR"
+  },
+  "425": {
+    "letter": "D",
+    "word": "VORDERRAD"
+  },
+  "470": {
+    "letter": "D",
+    "word": "PILGER"
+  },
+  "381": {
+    "letter": "A",
+    "word": "ANALYSE"
+  },
+  "426": {
+    "letter": "D",
+    "word": "HAIFISCH"
+  },
+  "471": {
+    "letter": "B",
+    "word": "DYNASTIE"
+  },
+  "382": {
+    "letter": "D",
+    "word": "GELDGIER"
+  },
+  "427": {
+    "letter": "C",
+    "word": "SYMMETRIE"
+  },
+  "472": {
+    "letter": "A",
+    "word": "WEHRMACHT"
+  },
+  "383": {
+    "letter": "A",
+    "word": "MUNDART"
+  },
+  "428": {
+    "letter": "C",
+    "word": "SENKUNG"
+  },
+  "473": {
+    "letter": "C",
+    "word": "DEFIZIT"
+  },
+  "384": {
+    "letter": "E",
+    "word": "AZTEKE"
+  },
+  "429": {
+    "letter": "B",
+    "word": "EFFIZIENZ"
+  },
+  "474": {
+    "letter": "A",
+    "word": "BEWACHER"
+  },
+  "385": {
+    "letter": "D",
+    "word": "SCHLITTEN"
+  },
+  "430": {
+    "letter": "C",
+    "word": "KAMPAGNE"
+  },
+  "475": {
+    "letter": "D",
+    "word": "QUALLE"
+  },
+  "386": {
+    "letter": "A",
+    "word": "DRUIDE"
+  },
+  "431": {
+    "letter": "B",
+    "word": "SCHINKEN"
+  },
+  "476": {
+    "letter": "B",
+    "word": "POMMES"
+  },
+  "387": {
+    "letter": "A",
+    "word": "ATMUNG"
+  },
+  "432": {
+    "letter": "B",
+    "word": "CHARTA"
+  },
+  "477": {
+    "letter": "A",
+    "word": "KONDOM"
+  },
+  "388": {
+    "letter": "C",
+    "word": "MYTHOS"
+  },
+  "433": {
+    "letter": "A",
+    "word": "PALAST"
+  },
+  "478": {
+    "letter": "C",
+    "word": "GESETZ"
+  },
+  "389": {
+    "letter": "D",
+    "word": "INTERPRETATION"
+  },
+  "434": {
+    "letter": "E",
+    "word": "SPARKURS"
+  },
+  "479": {
+    "letter": "B",
+    "word": "POPCORN"
+  },
+  "390": {
+    "letter": "B",
+    "word": "HARNDRANG"
+  },
+  "435": {
+    "letter": "D",
+    "word": "QUANTEN"
+  },
+  "480": {
+    "letter": "A",
+    "word": "PARMESAN"
+  },
+  "391": {
+    "letter": "B",
+    "word": "RACHEAKT"
+  },
+  "436": {
+    "letter": "B",
+    "word": "VORLAGE"
+  },
+  "481": {
+    "letter": "E",
+    "word": "ABENTEUER"
+  },
+  "392": {
+    "letter": "E",
+    "word": "VERBAND"
+  },
+  "437": {
+    "letter": "E",
+    "word": "KROKODIL"
+  },
+  "482": {
+    "letter": "D",
+    "word": "SCHRANK"
+  },
+  "393": {
+    "letter": "E",
+    "word": "EMIGRATION"
+  },
+  "438": {
+    "letter": "D",
+    "word": "TRANSFER"
+  },
+  "483": {
+    "letter": "D",
+    "word": "NEURON"
+  },
+  "394": {
+    "letter": "C",
+    "word": "PUDDING"
+  },
+  "439": {
+    "letter": "E",
+    "word": "SPRACHE"
+  },
+  "484": {
+    "letter": "A",
+    "word": "SUNNIT"
+  },
+  "395": {
+    "letter": "A",
+    "word": "KOMMERZ"
+  },
+  "440": {
+    "letter": "B",
+    "word": "HOLZFIGUR"
+  },
+  "485": {
+    "letter": "E",
+    "word": "FLUGZEUG"
+  },
+  "396": {
+    "letter": "C",
+    "word": "APRIKOSE"
+  },
+  "441": {
+    "letter": "A",
+    "word": "AUGAPFEL"
+  },
+  "486": {
+    "letter": "E",
+    "word": "GEHSTEIG"
+  },
+  "397": {
+    "letter": "B",
+    "word": "ZYTOPLASMA"
+  },
+  "442": {
+    "letter": "A",
+    "word": "FRAKTION"
+  },
+  "487": {
+    "letter": "B",
+    "word": "UNKRAUT"
+  },
+  "398": {
+    "letter": "B",
+    "word": "AUTOBAHN"
+  },
+  "443": {
+    "letter": "B",
+    "word": "INFLATION"
+  },
+  "488": {
+    "letter": "A",
+    "word": "DEMENZ"
+  },
+  "399": {
+    "letter": "D",
+    "word": "POTENTIAL"
+  },
+  "444": {
+    "letter": "D",
+    "word": "HUMMEL"
+  },
+  "489": {
+    "letter": "D",
+    "word": "HAUSFRAU"
+  },
+  "400": {
+    "letter": "A",
+    "word": "ABLAGE"
+  },
+  "445": {
+    "letter": "C",
+    "word": "SIEGESZUG"
+  },
+  "490": {
+    "letter": "B",
+    "word": "ABSPRUNG"
+  },
+  "401": {
+    "letter": "A",
+    "word": "PUMPWERK"
+  },
+  "446": {
+    "letter": "A",
+    "word": "TORMANN"
+  },
+  "491": {
+    "letter": "E",
+    "word": "PAPILLE"
+  },
+  "402": {
+    "letter": "E",
+    "word": "HORIZONT"
+  },
+  "447": {
+    "letter": "A",
+    "word": "KRIEGER"
+  },
+  "492": {
+    "letter": "D",
+    "word": "TECHNOLOGIE"
+  },
+  "403": {
+    "letter": "B",
+    "word": "SITTICH"
+  },
+  "448": {
+    "letter": "D",
+    "word": "THEATER"
+  },
+  "493": {
+    "letter": "D",
+    "word": "MEIOSE"
+  },
+  "404": {
+    "letter": "B",
+    "word": "FLUGHAFEN"
+  },
+  "449": {
+    "letter": "C",
+    "word": "SPERMIUM"
+  },
+  "494": {
+    "letter": "E",
+    "word": "ELOQUENZ"
+  },
+  "405": {
+    "letter": "E",
+    "word": "GRAFIK"
+  },
+  "450": {
+    "letter": "C",
+    "word": "HOLLER"
+  },
+  "495": {
+    "letter": "B",
+    "word": "VOLKSPARK"
+  },
+  "496": {
+    "letter": "C",
+    "word": "HUMANIST"
+  },
+  "541": {
+    "letter": "E",
+    "word": "DENKWEISE"
+  },
+  "586": {
+    "letter": "B",
+    "word": "TANZBAND"
+  },
+  "497": {
+    "letter": "E",
+    "word": "BALSAM"
+  },
+  "542": {
+    "letter": "E",
+    "word": "UMARMUNG"
+  },
+  "587": {
+    "letter": "E",
+    "word": "KITTEL"
+  },
+  "498": {
+    "letter": "C",
+    "word": "VAMPIR"
+  },
+  "543": {
+    "letter": "C",
+    "word": "JAGUAR"
+  },
+  "588": {
+    "letter": "C",
+    "word": "FEUERWACHE"
+  },
+  "499": {
+    "letter": "D",
+    "word": "UNTERHALT"
+  },
+  "544": {
+    "letter": "A",
+    "word": "KATAPULT"
+  },
+  "589": {
+    "letter": "E",
+    "word": "HINTERHOF"
+  },
+  "500": {
+    "letter": "C",
+    "word": "PERIODE"
+  },
+  "545": {
+    "letter": "D",
+    "word": "ANTWORT"
+  },
+  "590": {
+    "letter": "A",
+    "word": "KARAWANE"
+  },
+  "501": {
+    "letter": "D",
+    "word": "MAGAZIN"
+  },
+  "546": {
+    "letter": "B",
+    "word": "PASSIV"
+  },
+  "591": {
+    "letter": "D",
+    "word": "EXPORTEUR"
+  },
+  "502": {
+    "letter": "E",
+    "word": "AUGENBRAUE"
+  },
+  "547": {
+    "letter": "E",
+    "word": "RESERVOIR"
+  },
+  "592": {
+    "letter": "E",
+    "word": "WAAGSCHALE"
+  },
+  "503": {
+    "letter": "E",
+    "word": "SAFRAN"
+  },
+  "548": {
+    "letter": "C",
+    "word": "OBSTFLIEGE"
+  },
+  "593": {
+    "letter": "A",
+    "word": "UNZUCHT"
+  },
+  "504": {
+    "letter": "B",
+    "word": "KATEGORIE"
+  },
+  "549": {
+    "letter": "B",
+    "word": "CHRONIK"
+  },
+  "594": {
+    "letter": "C",
+    "word": "TRAURIGKEIT"
+  },
+  "505": {
+    "letter": "E",
+    "word": "REICHTUM"
+  },
+  "550": {
+    "letter": "A",
+    "word": "ALLERGIE"
+  },
+  "595": {
+    "letter": "A",
+    "word": "MARKTHALLE"
+  },
+  "506": {
+    "letter": "D",
+    "word": "DONNERSTAG"
+  },
+  "551": {
+    "letter": "C",
+    "word": "BRANDMAL"
+  },
+  "596": {
+    "letter": "C",
+    "word": "SCHUTZANZUG"
+  },
+  "507": {
+    "letter": "C",
+    "word": "EHRFURCHT"
+  },
+  "552": {
+    "letter": "E",
+    "word": "ADDITION"
+  },
+  "597": {
+    "letter": "E",
+    "word": "TAUWETTER"
+  },
+  "508": {
+    "letter": "C",
+    "word": "SENSATION"
+  },
+  "553": {
+    "letter": "A",
+    "word": "LEBENSFORM"
+  },
+  "598": {
+    "letter": "A",
+    "word": "GIGANT"
+  },
+  "509": {
+    "letter": "D",
+    "word": "FASCHISMUS"
+  },
+  "554": {
+    "letter": "C",
+    "word": "BEIHILFE"
+  },
+  "599": {
+    "letter": "D",
+    "word": "UNENDLICHKEIT"
+  },
+  "510": {
+    "letter": "B",
+    "word": "PROTON"
+  },
+  "555": {
+    "letter": "C",
+    "word": "WENDEPUNKT"
+  },
+  "600": {
+    "letter": "C",
+    "word": "WAHLTAG"
+  },
+  "511": {
+    "letter": "B",
+    "word": "AUSZEIT"
+  },
+  "556": {
+    "letter": "A",
+    "word": "GESCHIRR"
+  },
+  "601": {
+    "letter": "A",
+    "word": "SCHNAPPSCHUSS"
+  },
+  "512": {
+    "letter": "C",
+    "word": "KONFIRMATION"
+  },
+  "557": {
+    "letter": "D",
+    "word": "LOGISTIK"
+  },
+  "602": {
+    "letter": "E",
+    "word": "KOMPASS"
+  },
+  "513": {
+    "letter": "A",
+    "word": "PARALYSE"
+  },
+  "558": {
+    "letter": "E",
+    "word": "PARODIE"
+  },
+  "603": {
+    "letter": "B",
+    "word": "DEZEMBER"
+  },
+  "514": {
+    "letter": "B",
+    "word": "GESCHLECHT"
+  },
+  "559": {
+    "letter": "B",
+    "word": "ORIGINAL"
+  },
+  "604": {
+    "letter": "B",
+    "word": "HAUSDACH"
+  },
+  "515": {
+    "letter": "E",
+    "word": "KOMPOTT"
+  },
+  "560": {
+    "letter": "C",
+    "word": "LOTTOSCHEIN"
+  },
+  "605": {
+    "letter": "C",
+    "word": "BENEHMEN"
+  },
+  "516": {
+    "letter": "C",
+    "word": "PARAGRAPH"
+  },
+  "561": {
+    "letter": "C",
+    "word": "SKILIFT"
+  },
+  "606": {
+    "letter": "B",
+    "word": "TYRANN"
+  },
+  "517": {
+    "letter": "B",
+    "word": "HEFETEIG"
+  },
+  "562": {
+    "letter": "E",
+    "word": "ZAHNFEE"
+  },
+  "607": {
+    "letter": "C",
+    "word": "POLITIK"
+  },
+  "518": {
+    "letter": "C",
+    "word": "ALUMINIUM"
+  },
+  "563": {
+    "letter": "D",
+    "word": "BLUTBAD"
+  },
+  "608": {
+    "letter": "A",
+    "word": "DENKMAL"
+  },
+  "519": {
+    "letter": "E",
+    "word": "PFARRE"
+  },
+  "564": {
+    "letter": "A",
+    "word": "ENSEMBLE"
+  },
+  "609": {
+    "letter": "C",
+    "word": "MIKROKOSMOS"
+  },
+  "520": {
+    "letter": "D",
+    "word": "STATIK"
+  },
+  "565": {
+    "letter": "C",
+    "word": "IRRWITZ"
+  },
+  "610": {
+    "letter": "B",
+    "word": "AUSSPRACHE"
+  },
+  "521": {
+    "letter": "D",
+    "word": "KONSULTATION"
+  },
+  "566": {
+    "letter": "A",
+    "word": "DEFINITION"
+  },
+  "611": {
+    "letter": "B",
+    "word": "STIRNBAND"
+  },
+  "522": {
+    "letter": "A",
+    "word": "COURAGE"
+  },
+  "567": {
+    "letter": "E",
+    "word": "HOCHBURG"
+  },
+  "612": {
+    "letter": "A",
+    "word": "ROHKOST"
+  },
+  "523": {
+    "letter": "A",
+    "word": "REGIERUNG"
+  },
+  "568": {
+    "letter": "E",
+    "word": "GEWISSEN"
+  },
+  "613": {
+    "letter": "C",
+    "word": "INFORMATIK"
+  },
+  "524": {
+    "letter": "D",
+    "word": "VERSUCH"
+  },
+  "569": {
+    "letter": "A",
+    "word": "EINWOHNER"
+  },
+  "614": {
+    "letter": "B",
+    "word": "ROMANZE"
+  },
+  "525": {
+    "letter": "C",
+    "word": "SPIONIN"
+  },
+  "570": {
+    "letter": "A",
+    "word": "OKTOPUS"
+  },
+  "615": {
+    "letter": "D",
+    "word": "GREMIUM"
+  },
+  "526": {
+    "letter": "E",
+    "word": "LITERATUR"
+  },
+  "571": {
+    "letter": "B",
+    "word": "BRUCHZAHL"
+  },
+  "616": {
+    "letter": "C",
+    "word": "KREUZBEIN"
+  },
+  "527": {
+    "letter": "E",
+    "word": "TARNUNG"
+  },
+  "572": {
+    "letter": "E",
+    "word": "ARTHROSE"
+  },
+  "617": {
+    "letter": "B",
+    "word": "RACHSUCHT"
+  },
+  "528": {
+    "letter": "C",
+    "word": "TRAGWEITE"
+  },
+  "573": {
+    "letter": "B",
+    "word": "HINTERGRUND"
+  },
+  "618": {
+    "letter": "D",
+    "word": "SZENARIO"
+  },
+  "529": {
+    "letter": "A",
+    "word": "ZWIEBEL"
+  },
+  "574": {
+    "letter": "E",
+    "word": "RELEVANZ"
+  },
+  "619": {
+    "letter": "B",
+    "word": "SPARKONTO"
+  },
+  "530": {
+    "letter": "A",
+    "word": "LEGENDE"
+  },
+  "575": {
+    "letter": "D",
+    "word": "HINGUCKER"
+  },
+  "620": {
+    "letter": "E",
+    "word": "UNTERHOSE"
+  },
+  "531": {
+    "letter": "A",
+    "word": "RESSOURCEN"
+  },
+  "576": {
+    "letter": "B",
+    "word": "OPTIMUM"
+  },
+  "621": {
+    "letter": "D",
+    "word": "ELEGANZ"
+  },
+  "532": {
+    "letter": "B",
+    "word": "GIFTGAS"
+  },
+  "577": {
+    "letter": "A",
+    "word": "WIRKUNGSGRAD"
+  },
+  "622": {
+    "letter": "A",
+    "word": "GENAUIGKEIT"
+  },
+  "533": {
+    "letter": "B",
+    "word": "WARTESCHLANGE"
+  },
+  "578": {
+    "letter": "B",
+    "word": "LIEBESBRIEF"
+  },
+  "623": {
+    "letter": "A",
+    "word": "TRIATHLON"
+  },
+  "534": {
+    "letter": "A",
+    "word": "ROHWARE"
+  },
+  "579": {
+    "letter": "A",
+    "word": "BLATTLAUS"
+  },
+  "624": {
+    "letter": "D",
+    "word": "WASSERDAMM"
+  },
+  "535": {
+    "letter": "D",
+    "word": "ZERFALL"
+  },
+  "580": {
+    "letter": "B",
+    "word": "ZUGFAHRT"
+  },
+  "625": {
+    "letter": "D",
+    "word": "AUTORENNEN"
+  },
+  "536": {
+    "letter": "C",
+    "word": "SCANNER"
+  },
+  "581": {
+    "letter": "C",
+    "word": "PODIUM"
+  },
+  "626": {
+    "letter": "D",
+    "word": "HIRNHAUT"
+  },
+  "537": {
+    "letter": "C",
+    "word": "SKIKLUB"
+  },
+  "582": {
+    "letter": "C",
+    "word": "HORMON"
+  },
+  "627": {
+    "letter": "A",
+    "word": "LEHRKRAFT"
+  },
+  "538": {
+    "letter": "B",
+    "word": "XYLOPHON"
+  },
+  "583": {
+    "letter": "A",
+    "word": "IMPERATOR"
+  },
+  "628": {
+    "letter": "D",
+    "word": "NACHFRAGE"
+  },
+  "539": {
+    "letter": "D",
+    "word": "NACHWUCHS"
+  },
+  "584": {
+    "letter": "B",
+    "word": "KNOCHEN"
+  },
+  "629": {
+    "letter": "B",
+    "word": "OUTLET"
+  },
+  "540": {
+    "letter": "C",
+    "word": "HYPERBEL"
+  },
+  "585": {
+    "letter": "B",
+    "word": "LAUFBAHN"
+  },
+  "630": {
+    "letter": "A",
+    "word": "BANDAGE"
+  },
+  "631": {
+    "letter": "A",
+    "word": "SEIDENPAPIER"
+  },
+  "676": {
+    "letter": "A",
+    "word": "FELDHASE"
+  },
+  "721": {
+    "letter": "D",
+    "word": "KARDINAL"
+  },
+  "632": {
+    "letter": "B",
+    "word": "RAKETE"
+  },
+  "677": {
+    "letter": "D",
+    "word": "BIOLOGIE"
+  },
+  "722": {
+    "letter": "A",
+    "word": "FILIUS"
+  },
+  "633": {
+    "letter": "A",
+    "word": "GRABUNG"
+  },
+  "678": {
+    "letter": "A",
+    "word": "KRAMPF"
+  },
+  "723": {
+    "letter": "E",
+    "word": "TRAUMBERUF"
+  },
+  "634": {
+    "letter": "D",
+    "word": "KASSETTE"
+  },
+  "679": {
+    "letter": "C",
+    "word": "KOFFERRAUM"
+  },
+  "724": {
+    "letter": "D",
+    "word": "GERINNSEL"
+  },
+  "635": {
+    "letter": "A",
+    "word": "BRETTSPORT"
+  },
+  "680": {
+    "letter": "E",
+    "word": "QUERVERWEIS"
+  },
+  "725": {
+    "letter": "D",
+    "word": "KEHRWERT"
+  },
+  "636": {
+    "letter": "A",
+    "word": "VERKEHR"
+  },
+  "681": {
+    "letter": "B",
+    "word": "STIPENDIUM"
+  },
+  "726": {
+    "letter": "E",
+    "word": "KONTOSTAND"
+  },
+  "637": {
+    "letter": "B",
+    "word": "KAFFEETASSE"
+  },
+  "682": {
+    "letter": "C",
+    "word": "KLAUSUR"
+  },
+  "727": {
+    "letter": "A",
+    "word": "SCHLAFZIMMER"
+  },
+  "638": {
+    "letter": "D",
+    "word": "DISKUSSION"
+  },
+  "683": {
+    "letter": "E",
+    "word": "FREUNDIN"
+  },
+  "728": {
+    "letter": "A",
+    "word": "SOZIOLOGIE"
+  },
+  "639": {
+    "letter": "E",
+    "word": "HANDSCHRIFT"
+  },
+  "684": {
+    "letter": "A",
+    "word": "KOLLAGEN"
+  },
+  "729": {
+    "letter": "B",
+    "word": "NACHRUF"
+  },
+  "640": {
+    "letter": "A",
+    "word": "FECHTER"
+  },
+  "685": {
+    "letter": "D",
+    "word": "GALVANISMUS"
+  },
+  "730": {
+    "letter": "D",
+    "word": "VORHOF"
+  },
+  "641": {
+    "letter": "D",
+    "word": "VERBOT"
+  },
+  "686": {
+    "letter": "D",
+    "word": "TRAUMFIGUR"
+  },
+  "731": {
+    "letter": "E",
+    "word": "QUADRANT"
+  },
+  "642": {
+    "letter": "A",
+    "word": "RAUBTIER"
+  },
+  "687": {
+    "letter": "C",
+    "word": "SCHLUCK"
+  },
+  "732": {
+    "letter": "B",
+    "word": "SCHADENFREUDE"
+  },
+  "643": {
+    "letter": "A",
+    "word": "ANSPRUCH"
+  },
+  "688": {
+    "letter": "A",
+    "word": "PAPIER"
+  },
+  "733": {
+    "letter": "B",
+    "word": "KUHFLADEN"
+  },
+  "644": {
+    "letter": "D",
+    "word": "ABSZESS"
+  },
+  "689": {
+    "letter": "A",
+    "word": "EIGENHEIT"
+  },
+  "734": {
+    "letter": "A",
+    "word": "PROTHESE"
+  },
+  "645": {
+    "letter": "C",
+    "word": "ORGANISMUS"
+  },
+  "690": {
+    "letter": "C",
+    "word": "HAUPTTHEMA"
+  },
+  "735": {
+    "letter": "B",
+    "word": "MITTERNACHT"
+  },
+  "646": {
+    "letter": "D",
+    "word": "SYNDROM"
+  },
+  "691": {
+    "letter": "E",
+    "word": "HUMANISMUS"
+  },
+  "736": {
+    "letter": "D",
+    "word": "HELLIGKEIT"
+  },
+  "647": {
+    "letter": "E",
+    "word": "VERSCHLUSS"
+  },
+  "692": {
+    "letter": "A",
+    "word": "BRECHREIZ"
+  },
+  "737": {
+    "letter": "D",
+    "word": "ZEITKARTE"
+  },
+  "648": {
+    "letter": "A",
+    "word": "BILDGEBUNG"
+  },
+  "693": {
+    "letter": "B",
+    "word": "MINISTERIN"
+  },
+  "738": {
+    "letter": "B",
+    "word": "GROTTE"
+  },
+  "649": {
+    "letter": "D",
+    "word": "IMPFSTOFF"
+  },
+  "694": {
+    "letter": "C",
+    "word": "BLICKPUNKT"
+  },
+  "739": {
+    "letter": "E",
+    "word": "RIBOSOM"
+  },
+  "650": {
+    "letter": "D",
+    "word": "SAATGUT"
+  },
+  "695": {
+    "letter": "A",
+    "word": "ABENDESSEN"
+  },
+  "740": {
+    "letter": "C",
+    "word": "LICHTLEIN"
+  },
+  "651": {
+    "letter": "A",
+    "word": "RESONANZ"
+  },
+  "696": {
+    "letter": "E",
+    "word": "BASILIKUM"
+  },
+  "741": {
+    "letter": "A",
+    "word": "BADEKAPPE"
+  },
+  "652": {
+    "letter": "A",
+    "word": "STAUDAMM"
+  },
+  "697": {
+    "letter": "D",
+    "word": "LEHRJAHR"
+  },
+  "742": {
+    "letter": "A",
+    "word": "CHRONOMETER"
+  },
+  "653": {
+    "letter": "A",
+    "word": "SYMBOLIK"
+  },
+  "698": {
+    "letter": "D",
+    "word": "HABGIER"
+  },
+  "743": {
+    "letter": "A",
+    "word": "STUMMFILM"
+  },
+  "654": {
+    "letter": "E",
+    "word": "UMRISS"
+  },
+  "699": {
+    "letter": "D",
+    "word": "SPIRITUS"
+  },
+  "744": {
+    "letter": "C",
+    "word": "SCHEIDUNG"
+  },
+  "655": {
+    "letter": "E",
+    "word": "BLAUWAL"
+  },
+  "700": {
+    "letter": "E",
+    "word": "SPRACHKURS"
+  },
+  "745": {
+    "letter": "D",
+    "word": "KANALROHR"
+  },
+  "656": {
+    "letter": "C",
+    "word": "PARKUHR"
+  },
+  "701": {
+    "letter": "D",
+    "word": "BESINNUNG"
+  },
+  "746": {
+    "letter": "C",
+    "word": "PETROLEUM"
+  },
+  "657": {
+    "letter": "C",
+    "word": "SCHWEIF"
+  },
+  "702": {
+    "letter": "D",
+    "word": "WIRKSTOFF"
+  },
+  "747": {
+    "letter": "B",
+    "word": "BERGMANN"
+  },
+  "658": {
+    "letter": "D",
+    "word": "NUTZEN"
+  },
+  "703": {
+    "letter": "A",
+    "word": "BACKFORM"
+  },
+  "748": {
+    "letter": "D",
+    "word": "ANZIEHUNG"
+  },
+  "659": {
+    "letter": "A",
+    "word": "KAISERTUM"
+  },
+  "704": {
+    "letter": "B",
+    "word": "SKELETT"
+  },
+  "749": {
+    "letter": "A",
+    "word": "HIRNTUMOR"
+  },
+  "660": {
+    "letter": "C",
+    "word": "TASTSINN"
+  },
+  "705": {
+    "letter": "C",
+    "word": "SACHERTORTE"
+  },
+  "750": {
+    "letter": "C",
+    "word": "LIEGESTUHL"
+  },
+  "661": {
+    "letter": "D",
+    "word": "PENTAGRAMM"
+  },
+  "706": {
+    "letter": "B",
+    "word": "GOLFSTROM"
+  },
+  "751": {
+    "letter": "B",
+    "word": "MILCHSCHAUM"
+  },
+  "662": {
+    "letter": "C",
+    "word": "AUFSEHER"
+  },
+  "707": {
+    "letter": "C",
+    "word": "EUPHORIE"
+  },
+  "752": {
+    "letter": "D",
+    "word": "BLASMUSIK"
+  },
+  "663": {
+    "letter": "E",
+    "word": "UNMENSCH"
+  },
+  "708": {
+    "letter": "B",
+    "word": "STRUKTUR"
+  },
+  "753": {
+    "letter": "E",
+    "word": "APPROXIMATION"
+  },
+  "664": {
+    "letter": "E",
+    "word": "AUSRUF"
+  },
+  "709": {
+    "letter": "A",
+    "word": "ALLIANZ"
+  },
+  "754": {
+    "letter": "B",
+    "word": "KOMITEE"
+  },
+  "665": {
+    "letter": "B",
+    "word": "FERMENTIERUNG"
+  },
+  "710": {
+    "letter": "E",
+    "word": "STRANDBAR"
+  },
+  "755": {
+    "letter": "A",
+    "word": "VIDEOTEXT"
+  },
+  "666": {
+    "letter": "A",
+    "word": "KIRCHTURM"
+  },
+  "711": {
+    "letter": "E",
+    "word": "MINUTE"
+  },
+  "756": {
+    "letter": "B",
+    "word": "POLYMERASE"
+  },
+  "667": {
+    "letter": "D",
+    "word": "BESTRAFUNG"
+  },
+  "712": {
+    "letter": "A",
+    "word": "PROTAGONIST"
+  },
+  "757": {
+    "letter": "A",
+    "word": "ZEITZEUGE"
+  },
+  "668": {
+    "letter": "B",
+    "word": "BRUNCH"
+  },
+  "713": {
+    "letter": "B",
+    "word": "WASSERMANN"
+  },
+  "758": {
+    "letter": "A",
+    "word": "STILLSTAND"
+  },
+  "669": {
+    "letter": "C",
+    "word": "ABWEISUNG"
+  },
+  "714": {
+    "letter": "C",
+    "word": "FAVORIT"
+  },
+  "759": {
+    "letter": "E",
+    "word": "BUTTERBROT"
+  },
+  "670": {
+    "letter": "B",
+    "word": "TRUGBILD"
+  },
+  "715": {
+    "letter": "C",
+    "word": "PROGNOSE"
+  },
+  "760": {
+    "letter": "C",
+    "word": "MIMOSE"
+  },
+  "671": {
+    "letter": "D",
+    "word": "DOMIZIL"
+  },
+  "716": {
+    "letter": "C",
+    "word": "MOLKEREI"
+  },
+  "761": {
+    "letter": "A",
+    "word": "INTELLEKT"
+  },
+  "672": {
+    "letter": "C",
+    "word": "HOCHSEE"
+  },
+  "717": {
+    "letter": "D",
+    "word": "GEWAHRSAM"
+  },
+  "762": {
+    "letter": "C",
+    "word": "MUTATION"
+  },
+  "673": {
+    "letter": "C",
+    "word": "SPIRIT"
+  },
+  "718": {
+    "letter": "D",
+    "word": "NIKOTIN"
+  },
+  "763": {
+    "letter": "E",
+    "word": "FETTFLECK"
+  },
+  "674": {
+    "letter": "D",
+    "word": "KEGELBAHN"
+  },
+  "719": {
+    "letter": "A",
+    "word": "KLOPAPIER"
+  },
+  "764": {
+    "letter": "C",
+    "word": "SCHAUPLATZ"
+  },
+  "675": {
+    "letter": "E",
+    "word": "EINTOPF"
+  },
+  "720": {
+    "letter": "E",
+    "word": "BESTECHUNG"
+  },
+  "765": {
+    "letter": "C",
+    "word": "ARMBRUST"
+  },
+  "766": {
+    "letter": "A",
+    "word": "GEOGRAFIE"
+  },
+  "811": {
+    "letter": "C",
+    "word": "PSEUDONYM"
+  },
+  "856": {
+    "letter": "D",
+    "word": "ENTSORGER"
+  },
+  "767": {
+    "letter": "D",
+    "word": "SACHBUCH"
+  },
+  "812": {
+    "letter": "A",
+    "word": "NICHTE"
+  },
+  "857": {
+    "letter": "A",
+    "word": "HYSTERIE"
+  },
+  "768": {
+    "letter": "E",
+    "word": "EXPORT"
+  },
+  "813": {
+    "letter": "C",
+    "word": "DIVISOR"
+  },
+  "858": {
+    "letter": "C",
+    "word": "EMBOLIE"
+  },
+  "769": {
+    "letter": "C",
+    "word": "BARCODE"
+  },
+  "814": {
+    "letter": "A",
+    "word": "ROTKOHL"
+  },
+  "859": {
+    "letter": "C",
+    "word": "KLIMAZONE"
+  },
+  "770": {
+    "letter": "B",
+    "word": "SONNENSCHEIN"
+  },
+  "815": {
+    "letter": "D",
+    "word": "HIPSTER"
+  },
+  "860": {
+    "letter": "E",
+    "word": "MEDIATOR"
+  },
+  "771": {
+    "letter": "D",
+    "word": "FINANZCHEF"
+  },
+  "816": {
+    "letter": "C",
+    "word": "RITTERBURG"
+  },
+  "861": {
+    "letter": "C",
+    "word": "BLAMAGE"
+  },
+  "772": {
+    "letter": "E",
+    "word": "ELEKTROMAGNET"
+  },
+  "817": {
+    "letter": "C",
+    "word": "ZENTRALE"
+  },
+  "862": {
+    "letter": "B",
+    "word": "BAHNANLAGEN"
+  },
+  "773": {
+    "letter": "A",
+    "word": "BUCHHANDEL"
+  },
+  "818": {
+    "letter": "B",
+    "word": "BLUTUNG"
+  },
+  "863": {
+    "letter": "E",
+    "word": "KNOTENPUNKT"
+  },
+  "774": {
+    "letter": "D",
+    "word": "KONVERSATION"
+  },
+  "819": {
+    "letter": "D",
+    "word": "DEKRET"
+  },
+  "864": {
+    "letter": "B",
+    "word": "KRANKENHAUS"
+  },
+  "775": {
+    "letter": "A",
+    "word": "MONDBAHN"
+  },
+  "820": {
+    "letter": "D",
+    "word": "DEFORMIERUNG"
+  },
+  "865": {
+    "letter": "A",
+    "word": "GLUKOSE"
+  },
+  "776": {
+    "letter": "C",
+    "word": "BEWEGUNG"
+  },
+  "821": {
+    "letter": "B",
+    "word": "EVAKUIERUNG"
+  },
+  "866": {
+    "letter": "B",
+    "word": "SPRITZTOUR"
+  },
+  "777": {
+    "letter": "B",
+    "word": "RANDBEDINGUNG"
+  },
+  "822": {
+    "letter": "E",
+    "word": "BINDEGEWEBE"
+  },
+  "867": {
+    "letter": "D",
+    "word": "KOSMOLOGIE"
+  },
+  "778": {
+    "letter": "D",
+    "word": "BEWERTUNG"
+  },
+  "823": {
+    "letter": "D",
+    "word": "UNTERARM"
+  },
+  "868": {
+    "letter": "D",
+    "word": "VOGELEI"
+  },
+  "779": {
+    "letter": "D",
+    "word": "ABSTAND"
+  },
+  "824": {
+    "letter": "A",
+    "word": "PESSIMIST"
+  },
+  "869": {
+    "letter": "A",
+    "word": "GEBURTSTAG"
+  },
+  "780": {
+    "letter": "C",
+    "word": "WASSERBAD"
+  },
+  "825": {
+    "letter": "B",
+    "word": "DREHMOMENT"
+  },
+  "870": {
+    "letter": "D",
+    "word": "BRANDSATZ"
+  },
+  "781": {
+    "letter": "E",
+    "word": "ZAHNARZT"
+  },
+  "826": {
+    "letter": "E",
+    "word": "BESITZUNG"
+  },
+  "871": {
+    "letter": "D",
+    "word": "RUFMORD"
+  },
+  "782": {
+    "letter": "B",
+    "word": "BADMINTON"
+  },
+  "827": {
+    "letter": "E",
+    "word": "MASSENDEFEKT"
+  },
+  "872": {
+    "letter": "C",
+    "word": "QUARTETT"
+  },
+  "783": {
+    "letter": "E",
+    "word": "WAHNSINN"
+  },
+  "828": {
+    "letter": "C",
+    "word": "FESTPLATTE"
+  },
+  "873": {
+    "letter": "C",
+    "word": "PADDELBOOT"
+  },
+  "784": {
+    "letter": "A",
+    "word": "BUKETT"
+  },
+  "829": {
+    "letter": "C",
+    "word": "MITTAGESSEN"
+  },
+  "874": {
+    "letter": "E",
+    "word": "UNTERSUCHUNG"
+  },
+  "785": {
+    "letter": "A",
+    "word": "DIVIDEND"
+  },
+  "830": {
+    "letter": "C",
+    "word": "KLINGELTON"
+  },
+  "875": {
+    "letter": "B",
+    "word": "TROMPETE"
+  },
+  "786": {
+    "letter": "B",
+    "word": "ARZTTERMIN"
+  },
+  "831": {
+    "letter": "B",
+    "word": "EMPFEHLUNG"
+  },
+  "876": {
+    "letter": "A",
+    "word": "FERNGLAS"
+  },
+  "787": {
+    "letter": "A",
+    "word": "VERGEHEN"
+  },
+  "832": {
+    "letter": "B",
+    "word": "EXTRAKTION"
+  },
+  "877": {
+    "letter": "E",
+    "word": "KOMMUNISMUS"
+  },
+  "788": {
+    "letter": "D",
+    "word": "BUCHSEITE"
+  },
+  "833": {
+    "letter": "D",
+    "word": "JANUAR"
+  },
+  "878": {
+    "letter": "A",
+    "word": "HYPOTHEK"
+  },
+  "789": {
+    "letter": "B",
+    "word": "WOLFSRUDEL"
+  },
+  "834": {
+    "letter": "E",
+    "word": "GEGENGIFT"
+  },
+  "879": {
+    "letter": "E",
+    "word": "DEMOGRAFIE"
+  },
+  "790": {
+    "letter": "D",
+    "word": "PSYCHOSE"
+  },
+  "835": {
+    "letter": "B",
+    "word": "NAVIGATOR"
+  },
+  "880": {
+    "letter": "C",
+    "word": "FORENSIK"
+  },
+  "791": {
+    "letter": "A",
+    "word": "TATSACHE"
+  },
+  "836": {
+    "letter": "A",
+    "word": "FAMILIE"
+  },
+  "881": {
+    "letter": "B",
+    "word": "LUFTFAHRT"
+  },
+  "792": {
+    "letter": "B",
+    "word": "FARBSTOFF"
+  },
+  "837": {
+    "letter": "B",
+    "word": "ZELLTEILUNG"
+  },
+  "882": {
+    "letter": "D",
+    "word": "PIERCING"
+  },
+  "793": {
+    "letter": "E",
+    "word": "PHYSIKER"
+  },
+  "838": {
+    "letter": "C",
+    "word": "TARNKAPPE"
+  },
+  "883": {
+    "letter": "A",
+    "word": "VOGELSPINNE"
+  },
+  "794": {
+    "letter": "B",
+    "word": "VORTEST"
+  },
+  "839": {
+    "letter": "D",
+    "word": "SPRECHERIN"
+  },
+  "884": {
+    "letter": "E",
+    "word": "FISCHFANG"
+  },
+  "795": {
+    "letter": "D",
+    "word": "EINBLICK"
+  },
+  "840": {
+    "letter": "B",
+    "word": "MOUNTAINBIKE"
+  },
+  "885": {
+    "letter": "B",
+    "word": "ABSTRAKTION"
+  },
+  "796": {
+    "letter": "D",
+    "word": "ENDNOTE"
+  },
+  "841": {
+    "letter": "B",
+    "word": "MODERATOR"
+  },
+  "886": {
+    "letter": "A",
+    "word": "ZELLULOSE"
+  },
+  "797": {
+    "letter": "E",
+    "word": "NOTLANDUNG"
+  },
+  "842": {
+    "letter": "B",
+    "word": "FETTSUCHT"
+  },
+  "887": {
+    "letter": "D",
+    "word": "KETTENBRIEF"
+  },
+  "798": {
+    "letter": "E",
+    "word": "WAHLALTER"
+  },
+  "843": {
+    "letter": "D",
+    "word": "GELEGENHEIT"
+  },
+  "888": {
+    "letter": "E",
+    "word": "GESCHMACK"
+  },
+  "799": {
+    "letter": "B",
+    "word": "WECKER"
+  },
+  "844": {
+    "letter": "B",
+    "word": "DELFIN"
+  },
+  "889": {
+    "letter": "B",
+    "word": "FENSTERBANK"
+  },
+  "800": {
+    "letter": "B",
+    "word": "WIKINGER"
+  },
+  "845": {
+    "letter": "B",
+    "word": "REALISIERUNG"
+  },
+  "890": {
+    "letter": "D",
+    "word": "BETTTUCH"
+  },
+  "801": {
+    "letter": "C",
+    "word": "PERGAMENT"
+  },
+  "846": {
+    "letter": "D",
+    "word": "GIFTSCHLANGE"
+  },
+  "891": {
+    "letter": "E",
+    "word": "SYMBIOSE"
+  },
+  "802": {
+    "letter": "E",
+    "word": "LEKTOR"
+  },
+  "847": {
+    "letter": "A",
+    "word": "GEHSTOCK"
+  },
+  "892": {
+    "letter": "E",
+    "word": "MAHNUNG"
+  },
+  "803": {
+    "letter": "A",
+    "word": "KURSBUCH"
+  },
+  "848": {
+    "letter": "A",
+    "word": "KAMERATEAM"
+  },
+  "893": {
+    "letter": "D",
+    "word": "MEERWASSER"
+  },
+  "804": {
+    "letter": "C",
+    "word": "FREIHEIT"
+  },
+  "849": {
+    "letter": "D",
+    "word": "INDIKATOR"
+  },
+  "894": {
+    "letter": "C",
+    "word": "GEBETSKREIS"
+  },
+  "805": {
+    "letter": "A",
+    "word": "WALZER"
+  },
+  "850": {
+    "letter": "B",
+    "word": "MELONE"
+  },
+  "895": {
+    "letter": "E",
+    "word": "SPRACHROHR"
+  },
+  "806": {
+    "letter": "D",
+    "word": "LEDERHAUT"
+  },
+  "851": {
+    "letter": "E",
+    "word": "BESCHWERDE"
+  },
+  "896": {
+    "letter": "E",
+    "word": "NACKTFOTO"
+  },
+  "807": {
+    "letter": "D",
+    "word": "EINGEWEIDE"
+  },
+  "852": {
+    "letter": "D",
+    "word": "JUNGFRAU"
+  },
+  "897": {
+    "letter": "D",
+    "word": "AUSPUFF"
+  },
+  "808": {
+    "letter": "A",
+    "word": "INTERVIEW"
+  },
+  "853": {
+    "letter": "B",
+    "word": "STADTPLATZ"
+  },
+  "898": {
+    "letter": "B",
+    "word": "ERSCHAFFUNG"
+  },
+  "809": {
+    "letter": "A",
+    "word": "KONZERT"
+  },
+  "854": {
+    "letter": "C",
+    "word": "KONTRAST"
+  },
+  "899": {
+    "letter": "A",
+    "word": "KOPULATION"
+  },
+  "810": {
+    "letter": "E",
+    "word": "ASTROLOGIE"
+  },
+  "855": {
+    "letter": "B",
+    "word": "SEKTGLAS"
+  },
+  "900": {
+    "letter": "E",
+    "word": "ARZNEIMITTEL"
+  },
+  "901": {
+    "letter": "A",
+    "word": "BIOGRAFIE"
+  },
+  "946": {
+    "letter": "D",
+    "word": "ERKENNTNIS"
+  },
+  "991": {
+    "letter": "D",
+    "word": "ANPASSUNG"
+  },
+  "902": {
+    "letter": "E",
+    "word": "HOFFNUNG"
+  },
+  "947": {
+    "letter": "D",
+    "word": "SEIFENBLASE"
+  },
+  "992": {
+    "letter": "D",
+    "word": "DROMEDAR"
+  },
+  "903": {
+    "letter": "D",
+    "word": "VERGANGENHEIT"
+  },
+  "948": {
+    "letter": "E",
+    "word": "TRIGONOMETRIE"
+  },
+  "993": {
+    "letter": "B",
+    "word": "GERMANISTIK"
+  },
+  "904": {
+    "letter": "E",
+    "word": "JUGENDSTIL"
+  },
+  "949": {
+    "letter": "A",
+    "word": "RAUBKATZE"
+  },
+  "994": {
+    "letter": "E",
+    "word": "FUNKTION"
+  },
+  "905": {
+    "letter": "C",
+    "word": "LAZARETT"
+  },
+  "950": {
+    "letter": "D",
+    "word": "MAUERWERK"
+  },
+  "995": {
+    "letter": "C",
+    "word": "MANUFAKTUR"
+  },
+  "906": {
+    "letter": "D",
+    "word": "INSTANZ"
+  },
+  "951": {
+    "letter": "C",
+    "word": "EINLADUNG"
+  },
+  "996": {
+    "letter": "C",
+    "word": "HYBRIDANTRIEB"
+  },
+  "907": {
+    "letter": "A",
+    "word": "PYROTECHNIK"
+  },
+  "952": {
+    "letter": "D",
+    "word": "BEITRITT"
+  },
+  "997": {
+    "letter": "C",
+    "word": "PARKPLATZ"
+  },
+  "908": {
+    "letter": "E",
+    "word": "JUNGBAUER"
+  },
+  "953": {
+    "letter": "D",
+    "word": "TELEGRAF"
+  },
+  "998": {
+    "letter": "D",
+    "word": "BAUMRINDE"
+  },
+  "909": {
+    "letter": "A",
+    "word": "REDEZEIT"
+  },
+  "954": {
+    "letter": "A",
+    "word": "REGENERATION"
+  },
+  "999": {
+    "letter": "C",
+    "word": "OPPORTUNIST"
+  },
+  "910": {
+    "letter": "D",
+    "word": "HALLENBAD"
+  },
+  "955": {
+    "letter": "A",
+    "word": "UNDING"
+  },
+  "1000": {
+    "letter": "A",
+    "word": "LEUCHTTURM"
+  },
+  "911": {
+    "letter": "D",
+    "word": "EMPFANG"
+  },
+  "956": {
+    "letter": "A",
+    "word": "HAARBAND"
+  },
+  "1001": {
+    "letter": "C",
+    "word": "ZWEISAMKEIT"
+  },
+  "912": {
+    "letter": "B",
+    "word": "HALTESTELLE"
+  },
+  "957": {
+    "letter": "D",
+    "word": "TERRARIUM"
+  },
+  "1002": {
+    "letter": "B",
+    "word": "DERMATOLOGE"
+  },
+  "913": {
+    "letter": "E",
+    "word": "HOCHSAISON"
+  },
+  "958": {
+    "letter": "C",
+    "word": "METASTASE"
+  },
+  "1003": {
+    "letter": "D",
+    "word": "HEILUNG"
+  },
+  "914": {
+    "letter": "C",
+    "word": "CHRISTKIND"
+  },
+  "959": {
+    "letter": "B",
+    "word": "SCHAUFENSTER"
+  },
+  "1004": {
+    "letter": "E",
+    "word": "VEGETARIER"
+  },
+  "915": {
+    "letter": "B",
+    "word": "DESINFEKTION"
+  },
+  "960": {
+    "letter": "D",
+    "word": "UTENSIL"
+  },
+  "1005": {
+    "letter": "D",
+    "word": "ARISTOKRATIE"
+  },
+  "916": {
+    "letter": "E",
+    "word": "INSTITUT"
+  },
+  "961": {
+    "letter": "A",
+    "word": "SONNENBLUME"
+  },
+  "1006": {
+    "letter": "D",
+    "word": "AUTOFIRMA"
+  },
+  "917": {
+    "letter": "B",
+    "word": "WASSERKOCHER"
+  },
+  "962": {
+    "letter": "E",
+    "word": "KONVOI"
+  },
+  "1007": {
+    "letter": "B",
+    "word": "KATASTROPHE"
+  },
+  "918": {
+    "letter": "A",
+    "word": "SCHLAMMBAD"
+  },
+  "963": {
+    "letter": "C",
+    "word": "FERNSEHER"
+  },
+  "1008": {
+    "letter": "B",
+    "word": "SPRACHGEBRAUCH"
+  },
+  "919": {
+    "letter": "D",
+    "word": "SINGVOGEL"
+  },
+  "964": {
+    "letter": "D",
+    "word": "OBERARZT"
+  },
+  "1009": {
+    "letter": "B",
+    "word": "BRATPFANNE"
+  },
+  "920": {
+    "letter": "D",
+    "word": "KONSUMENT"
+  },
+  "965": {
+    "letter": "E",
+    "word": "EINKAUF"
+  },
+  "1010": {
+    "letter": "B",
+    "word": "RESPEKT"
+  },
+  "921": {
+    "letter": "D",
+    "word": "HALBBRUDER"
+  },
+  "966": {
+    "letter": "C",
+    "word": "BESORGUNG"
+  },
+  "1011": {
+    "letter": "E",
+    "word": "ELLBOGEN"
+  },
+  "922": {
+    "letter": "B",
+    "word": "SCHLAUCHBOOT"
+  },
+  "967": {
+    "letter": "D",
+    "word": "LUFTFAHRZEUG"
+  },
+  "1012": {
+    "letter": "C",
+    "word": "AUFWAND"
+  },
+  "923": {
+    "letter": "A",
+    "word": "NABELSCHNUR"
+  },
+  "968": {
+    "letter": "B",
+    "word": "GEWINN"
+  },
+  "1013": {
+    "letter": "E",
+    "word": "BEFRIEDIGUNG"
+  },
+  "924": {
+    "letter": "E",
+    "word": "HOCHOFEN"
+  },
+  "969": {
+    "letter": "B",
+    "word": "KOMPENDIUM"
+  },
+  "1014": {
+    "letter": "A",
+    "word": "TEPPICH"
+  },
+  "925": {
+    "letter": "B",
+    "word": "KUNDGEBUNG"
+  },
+  "970": {
+    "letter": "A",
+    "word": "BILANZ"
+  },
+  "1015": {
+    "letter": "B",
+    "word": "SONNENAUFGANG"
+  },
+  "926": {
+    "letter": "C",
+    "word": "BAUMBESTAND"
+  },
+  "971": {
+    "letter": "D",
+    "word": "BAUERNSCHAFT"
+  },
+  "1016": {
+    "letter": "C",
+    "word": "LEBENSLAUF"
+  },
+  "927": {
+    "letter": "A",
+    "word": "DUPLIKAT"
+  },
+  "972": {
+    "letter": "C",
+    "word": "SCHLACHTBANK"
+  },
+  "1017": {
+    "letter": "C",
+    "word": "ABGABEN"
+  },
+  "928": {
+    "letter": "D",
+    "word": "STIMMLAGE"
+  },
+  "973": {
+    "letter": "E",
+    "word": "DOKTORARBEIT"
+  },
+  "1018": {
+    "letter": "A",
+    "word": "ABBILD"
+  },
+  "929": {
+    "letter": "E",
+    "word": "PUBLIKUM"
+  },
+  "974": {
+    "letter": "D",
+    "word": "PUPPENHAUS"
+  },
+  "1019": {
+    "letter": "B",
+    "word": "INNENHOF"
+  },
+  "930": {
+    "letter": "C",
+    "word": "ANZEIGE"
+  },
+  "975": {
+    "letter": "E",
+    "word": "UMZUGSFIRMA"
+  },
+  "1020": {
+    "letter": "E",
+    "word": "EPISODE"
+  },
+  "931": {
+    "letter": "E",
+    "word": "AMPELANLAGE"
+  },
+  "976": {
+    "letter": "A",
+    "word": "LACHANFALL"
+  },
+  "1021": {
+    "letter": "B",
+    "word": "KARAMBOLAGE"
+  },
+  "932": {
+    "letter": "D",
+    "word": "EMPATHIE"
+  },
+  "977": {
+    "letter": "A",
+    "word": "BEISITZER"
+  },
+  "1022": {
+    "letter": "D",
+    "word": "TRANSLATION"
+  },
+  "933": {
+    "letter": "E",
+    "word": "STOCKWERK"
+  },
+  "978": {
+    "letter": "E",
+    "word": "MIKROSKOP"
+  },
+  "1023": {
+    "letter": "A",
+    "word": "REAKTIVIERUNG"
+  },
+  "934": {
+    "letter": "C",
+    "word": "EXTRAKT"
+  },
+  "979": {
+    "letter": "D",
+    "word": "TRANSPORT"
+  },
+  "1024": {
+    "letter": "B",
+    "word": "BADEZIMMER"
+  },
+  "935": {
+    "letter": "A",
+    "word": "NACHMITTAG"
+  },
+  "980": {
+    "letter": "C",
+    "word": "ZELLATMUNG"
+  },
+  "1025": {
+    "letter": "D",
+    "word": "WASSERPUMPE"
+  },
+  "936": {
+    "letter": "E",
+    "word": "CHEMIKALIE"
+  },
+  "981": {
+    "letter": "B",
+    "word": "BEISPIEL"
+  },
+  "1026": {
+    "letter": "D",
+    "word": "ZEREMONIE"
+  },
+  "937": {
+    "letter": "B",
+    "word": "MASKERADE"
+  },
+  "982": {
+    "letter": "A",
+    "word": "SCHUTZENGEL"
+  },
+  "1027": {
+    "letter": "C",
+    "word": "TRAININGSPLAN"
+  },
+  "938": {
+    "letter": "D",
+    "word": "HANDWERK"
+  },
+  "983": {
+    "letter": "E",
+    "word": "VORLIEBE"
+  },
+  "1028": {
+    "letter": "B",
+    "word": "SCHLAGZEUG"
+  },
+  "939": {
+    "letter": "C",
+    "word": "SCHURKE"
+  },
+  "984": {
+    "letter": "A",
+    "word": "BUCHSTABE"
+  },
+  "1029": {
+    "letter": "D",
+    "word": "ARCHITEKTUR"
+  },
+  "940": {
+    "letter": "C",
+    "word": "FORMULAR"
+  },
+  "985": {
+    "letter": "B",
+    "word": "AUFZUG"
+  },
+  "1030": {
+    "letter": "E",
+    "word": "OBLIGATION"
+  },
+  "941": {
+    "letter": "C",
+    "word": "GRAUWAL"
+  },
+  "986": {
+    "letter": "C",
+    "word": "JUSTIZ"
+  },
+  "1031": {
+    "letter": "D",
+    "word": "ANKLAGE"
+  },
+  "942": {
+    "letter": "E",
+    "word": "SEUCHENSCHUTZ"
+  },
+  "987": {
+    "letter": "B",
+    "word": "UNTERLEGENHEIT"
+  },
+  "1032": {
+    "letter": "A",
+    "word": "AMPLITUDE"
+  },
+  "943": {
+    "letter": "B",
+    "word": "MITTELSMANN"
+  },
+  "988": {
+    "letter": "B",
+    "word": "VORGABE"
+  },
+  "1033": {
+    "letter": "E",
+    "word": "TRADITION"
+  },
+  "944": {
+    "letter": "B",
+    "word": "WASCHMASCHINE"
+  },
+  "989": {
+    "letter": "D",
+    "word": "WACHSAMKEIT"
+  },
+  "1034": {
+    "letter": "E",
+    "word": "BESTELLER"
+  },
+  "945": {
+    "letter": "C",
+    "word": "JAPANER"
+  },
+  "990": {
+    "letter": "C",
+    "word": "FEUERWERK"
+  },
+  "1035": {
+    "letter": "E",
+    "word": "WINTERSTARRE"
+  },
+  "1036": {
+    "letter": "D",
+    "word": "BESCHLAG"
+  },
+  "1081": {
+    "letter": "D",
+    "word": "AUSSTELLUNG"
+  },
+  "1126": {
+    "letter": "E",
+    "word": "LIEBKOSUNG"
+  },
+  "1037": {
+    "letter": "A",
+    "word": "STERNSCHNUPPE"
+  },
+  "1082": {
+    "letter": "C",
+    "word": "EROBERUNG"
+  },
+  "1127": {
+    "letter": "B",
+    "word": "WANDERHOSE"
+  },
+  "1038": {
+    "letter": "E",
+    "word": "KLEINKRIEG"
+  },
+  "1083": {
+    "letter": "A",
+    "word": "MEDIATHEK"
+  },
+  "1128": {
+    "letter": "A",
+    "word": "TEIGTASCHE"
+  },
+  "1039": {
+    "letter": "E",
+    "word": "ENTWICKLUNG"
+  },
+  "1084": {
+    "letter": "C",
+    "word": "STIMMGABEL"
+  },
+  "1129": {
+    "letter": "D",
+    "word": "CHAMPION"
+  },
+  "1040": {
+    "letter": "D",
+    "word": "DIEBESGUT"
+  },
+  "1085": {
+    "letter": "B",
+    "word": "VORDENKER"
+  },
+  "1130": {
+    "letter": "C",
+    "word": "GLEICHHEIT"
+  },
+  "1041": {
+    "letter": "E",
+    "word": "SPERRHOLZ"
+  },
+  "1086": {
+    "letter": "A",
+    "word": "CHOLESTERIN"
+  },
+  "1131": {
+    "letter": "E",
+    "word": "WARTELISTE"
+  },
+  "1042": {
+    "letter": "A",
+    "word": "ZEICHENSPRACHE"
+  },
+  "1087": {
+    "letter": "E",
+    "word": "SPAZIERGANG"
+  },
+  "1132": {
+    "letter": "B",
+    "word": "MAGNETISMUS"
+  },
+  "1043": {
+    "letter": "B",
+    "word": "LOKALSENDER"
+  },
+  "1088": {
+    "letter": "A",
+    "word": "METEOROLOGIE"
+  },
+  "1133": {
+    "letter": "A",
+    "word": "WELTCUP"
+  },
+  "1044": {
+    "letter": "A",
+    "word": "SYNTHESE"
+  },
+  "1089": {
+    "letter": "B",
+    "word": "QUALIFIKATION"
+  },
+  "1134": {
+    "letter": "B",
+    "word": "KRYPTOGRAPHIE"
+  },
+  "1045": {
+    "letter": "A",
+    "word": "UNKLARHEIT"
+  },
+  "1090": {
+    "letter": "B",
+    "word": "SPARKASSE"
+  },
+  "1135": {
+    "letter": "A",
+    "word": "EHEKRISE"
+  },
+  "1046": {
+    "letter": "E",
+    "word": "OFFIZIERE"
+  },
+  "1091": {
+    "letter": "C",
+    "word": "VORAHNUNG"
+  },
+  "1136": {
+    "letter": "E",
+    "word": "NAHRUNG"
+  },
+  "1047": {
+    "letter": "B",
+    "word": "WASSERFARBE"
+  },
+  "1092": {
+    "letter": "E",
+    "word": "BENENNUNG"
+  },
+  "1137": {
+    "letter": "C",
+    "word": "NACHTRUHE"
+  },
+  "1048": {
+    "letter": "D",
+    "word": "GHOSTWRITER"
+  },
+  "1093": {
+    "letter": "D",
+    "word": "AUSSPRUCH"
+  },
+  "1138": {
+    "letter": "B",
+    "word": "DORFKIRCHE"
+  },
+  "1049": {
+    "letter": "E",
+    "word": "DOPPELSPITZE"
+  },
+  "1094": {
+    "letter": "A",
+    "word": "EHRENPREIS"
+  },
+  "1139": {
+    "letter": "B",
+    "word": "HELIKOPTER"
+  },
+  "1050": {
+    "letter": "B",
+    "word": "STACHELDRAHT"
+  },
+  "1095": {
+    "letter": "E",
+    "word": "SELBSTFINDUNG"
+  },
+  "1140": {
+    "letter": "C",
+    "word": "LEICHTIGKEIT"
+  },
+  "1051": {
+    "letter": "B",
+    "word": "SPIELERWECHSEL"
+  },
+  "1096": {
+    "letter": "D",
+    "word": "HAFTPFLICHT"
+  },
+  "1141": {
+    "letter": "B",
+    "word": "NERVENSYSTEM"
+  },
+  "1052": {
+    "letter": "C",
+    "word": "OPPOSITION"
+  },
+  "1097": {
+    "letter": "A",
+    "word": "ROSENKRANZ"
+  },
+  "1142": {
+    "letter": "E",
+    "word": "EXEKUTION"
+  },
+  "1053": {
+    "letter": "D",
+    "word": "JUNGFER"
+  },
+  "1098": {
+    "letter": "A",
+    "word": "BLUMENVASE"
+  },
+  "1143": {
+    "letter": "E",
+    "word": "GOLDGRUBE"
+  },
+  "1054": {
+    "letter": "A",
+    "word": "VIOLINE"
+  },
+  "1099": {
+    "letter": "D",
+    "word": "KOLIBRI"
+  },
+  "1144": {
+    "letter": "B",
+    "word": "STUDIUM"
+  },
+  "1055": {
+    "letter": "A",
+    "word": "HIERARCHIE"
+  },
+  "1100": {
+    "letter": "D",
+    "word": "DISSONANZ"
+  },
+  "1145": {
+    "letter": "B",
+    "word": "SCHWIEGERVATER"
+  },
+  "1056": {
+    "letter": "B",
+    "word": "TIEFFLUG"
+  },
+  "1101": {
+    "letter": "B",
+    "word": "WUNDVERSORGUNG"
+  },
+  "1146": {
+    "letter": "B",
+    "word": "BACKBLECH"
+  },
+  "1057": {
+    "letter": "D",
+    "word": "ABSTELLKAMMER"
+  },
+  "1102": {
+    "letter": "A",
+    "word": "NARZISSMUS"
+  },
+  "1147": {
+    "letter": "E",
+    "word": "UMWANDLUNG"
+  },
+  "1058": {
+    "letter": "A",
+    "word": "FEHLTRITT"
+  },
+  "1103": {
+    "letter": "C",
+    "word": "LEBERZIRRHOSE"
+  },
+  "1148": {
+    "letter": "A",
+    "word": "CHAUFFEUR"
+  },
+  "1059": {
+    "letter": "B",
+    "word": "POSTBOTE"
+  },
+  "1104": {
+    "letter": "E",
+    "word": "SCHLOSS"
+  },
+  "1149": {
+    "letter": "D",
+    "word": "PEROXISOM"
+  },
+  "1060": {
+    "letter": "C",
+    "word": "ASSOZIATION"
+  },
+  "1105": {
+    "letter": "B",
+    "word": "ZAHLTAG"
+  },
+  "1150": {
+    "letter": "A",
+    "word": "DOPPELSPALT"
+  },
+  "1061": {
+    "letter": "B",
+    "word": "BETRIEB"
+  },
+  "1106": {
+    "letter": "C",
+    "word": "ORGANISATION"
+  },
+  "1151": {
+    "letter": "A",
+    "word": "SATTELZUG"
+  },
+  "1062": {
+    "letter": "A",
+    "word": "PROVISION"
+  },
+  "1107": {
+    "letter": "E",
+    "word": "INTELLIGENZ"
+  },
+  "1152": {
+    "letter": "E",
+    "word": "FORMATIERUNG"
+  },
+  "1063": {
+    "letter": "B",
+    "word": "GELIERMITTEL"
+  },
+  "1108": {
+    "letter": "A",
+    "word": "SCHEINWERFER"
+  },
+  "1153": {
+    "letter": "D",
+    "word": "SYNDIKAT"
+  },
+  "1064": {
+    "letter": "E",
+    "word": "GEOPOLITIK"
+  },
+  "1109": {
+    "letter": "C",
+    "word": "IMPLANTAT"
+  },
+  "1154": {
+    "letter": "A",
+    "word": "GLADIATOR"
+  },
+  "1065": {
+    "letter": "B",
+    "word": "MOTIVATION"
+  },
+  "1110": {
+    "letter": "D",
+    "word": "FOLLIKEL"
+  },
+  "1155": {
+    "letter": "E",
+    "word": "LEIDENSCHAFT"
+  },
+  "1066": {
+    "letter": "D",
+    "word": "HANDELSKRIEG"
+  },
+  "1111": {
+    "letter": "C",
+    "word": "LYMPHKNOTEN"
+  },
+  "1156": {
+    "letter": "D",
+    "word": "VERHANDLUNG"
+  },
+  "1067": {
+    "letter": "C",
+    "word": "PFERDERENNEN"
+  },
+  "1112": {
+    "letter": "E",
+    "word": "ZAUBEREI"
+  },
+  "1157": {
+    "letter": "A",
+    "word": "DRAMATURGIE"
+  },
+  "1068": {
+    "letter": "E",
+    "word": "ERDKUGEL"
+  },
+  "1113": {
+    "letter": "C",
+    "word": "JOURNALISMUS"
+  },
+  "1158": {
+    "letter": "C",
+    "word": "LADENSCHLUSS"
+  },
+  "1069": {
+    "letter": "D",
+    "word": "FUSIONIERUNG"
+  },
+  "1114": {
+    "letter": "B",
+    "word": "WANDERWEG"
+  },
+  "1159": {
+    "letter": "D",
+    "word": "SCHOCKSTARRE"
+  },
+  "1070": {
+    "letter": "B",
+    "word": "UNFALLSTELLE"
+  },
+  "1115": {
+    "letter": "C",
+    "word": "MORPHOLOGIE"
+  },
+  "1160": {
+    "letter": "E",
+    "word": "ALARMANLAGE"
+  },
+  "1071": {
+    "letter": "E",
+    "word": "LUFTROLLE"
+  },
+  "1116": {
+    "letter": "A",
+    "word": "ZELLGEWEBE"
+  },
+  "1161": {
+    "letter": "D",
+    "word": "QUASTENFLOSSER"
+  },
+  "1072": {
+    "letter": "D",
+    "word": "WIRTIN"
+  },
+  "1117": {
+    "letter": "A",
+    "word": "TAGESABLAUF"
+  },
+  "1162": {
+    "letter": "E",
+    "word": "THERMOMETER"
+  },
+  "1073": {
+    "letter": "B",
+    "word": "UNSCHULD"
+  },
+  "1118": {
+    "letter": "B",
+    "word": "KREUZZUG"
+  },
+  "1163": {
+    "letter": "A",
+    "word": "VERBRECHEN"
+  },
+  "1074": {
+    "letter": "E",
+    "word": "BEDENKZEIT"
+  },
+  "1119": {
+    "letter": "A",
+    "word": "KOHLENSTOFF"
+  },
+  "1164": {
+    "letter": "D",
+    "word": "BEWERBUNG"
+  },
+  "1075": {
+    "letter": "E",
+    "word": "EXORZISMUS"
+  },
+  "1120": {
+    "letter": "A",
+    "word": "QUECKSILBER"
+  },
+  "1165": {
+    "letter": "B",
+    "word": "FINALISIERUNG"
+  },
+  "1076": {
+    "letter": "D",
+    "word": "REVOLUTION"
+  },
+  "1121": {
+    "letter": "C",
+    "word": "PROVOKATION"
+  },
+  "1166": {
+    "letter": "B",
+    "word": "SOUVENIR"
+  },
+  "1077": {
+    "letter": "E",
+    "word": "DEGRADATION"
+  },
+  "1122": {
+    "letter": "C",
+    "word": "MITOCHONDRIUM"
+  },
+  "1167": {
+    "letter": "E",
+    "word": "MATRIARCHAT"
+  },
+  "1078": {
+    "letter": "E",
+    "word": "METROPOLE"
+  },
+  "1123": {
+    "letter": "D",
+    "word": "COMPUTERMAUS"
+  },
+  "1168": {
+    "letter": "B",
+    "word": "NEUGIERDE"
+  },
+  "1079": {
+    "letter": "C",
+    "word": "DECKEL"
+  },
+  "1124": {
+    "letter": "E",
+    "word": "BELOHNUNG"
+  },
+  "1169": {
+    "letter": "D",
+    "word": "ZIEGELEI"
+  },
+  "1080": {
+    "letter": "A",
+    "word": "LEINENHOSE"
+  },
+  "1125": {
+    "letter": "C",
+    "word": "RUCKSACK"
+  },
+  "1170": {
+    "letter": "E",
+    "word": "THERAPIE"
+  },
+  "1171": {
+    "letter": "A",
+    "word": "PNEUMONIE"
+  },
+  "1216": {
+    "letter": "A",
+    "word": "STIEFMUTTER"
+  },
+  "1261": {
+    "letter": "E",
+    "word": "OPTIMIERUNG"
+  },
+  "1172": {
+    "letter": "C",
+    "word": "AUFKLEBER"
+  },
+  "1217": {
+    "letter": "A",
+    "word": "TERMINOLOGIE"
+  },
+  "1262": {
+    "letter": "D",
+    "word": "BERGKRISTALL"
+  },
+  "1173": {
+    "letter": "A",
+    "word": "KERNKRAFTWERK"
+  },
+  "1218": {
+    "letter": "E",
+    "word": "SCHICKSAL"
+  },
+  "1263": {
+    "letter": "A",
+    "word": "RENOVIERUNG"
+  },
+  "1174": {
+    "letter": "B",
+    "word": "ZITRONENBAUM"
+  },
+  "1219": {
+    "letter": "C",
+    "word": "REGENWURM"
+  },
+  "1264": {
+    "letter": "C",
+    "word": "UROLOGE"
+  },
+  "1175": {
+    "letter": "C",
+    "word": "NEUMOND"
+  },
+  "1220": {
+    "letter": "A",
+    "word": "MANNSCHAFT"
+  },
+  "1265": {
+    "letter": "A",
+    "word": "FREUNDSCHAFT"
+  },
+  "1176": {
+    "letter": "B",
+    "word": "LEUKOZYT"
+  },
+  "1221": {
+    "letter": "C",
+    "word": "PUBLIKATION"
+  },
+  "1266": {
+    "letter": "A",
+    "word": "INVESTIGATION"
+  },
+  "1177": {
+    "letter": "E",
+    "word": "PRODUZENT"
+  },
+  "1222": {
+    "letter": "C",
+    "word": "KATHEDRALE"
+  },
+  "1267": {
+    "letter": "B",
+    "word": "DIAGNOSTIK"
+  },
+  "1178": {
+    "letter": "E",
+    "word": "PROFESSOR"
+  },
+  "1223": {
+    "letter": "D",
+    "word": "DERMATOLOGIE"
+  },
+  "1268": {
+    "letter": "C",
+    "word": "RADFAHRER"
+  },
+  "1179": {
+    "letter": "D",
+    "word": "PANIKATTACKE"
+  },
+  "1224": {
+    "letter": "B",
+    "word": "LABYRINTH"
+  },
+  "1269": {
+    "letter": "C",
+    "word": "HISTORIKER"
+  },
+  "1180": {
+    "letter": "B",
+    "word": "IMPROVISATION"
+  },
+  "1225": {
+    "letter": "A",
+    "word": "GRAPHITSTIFT"
+  },
+  "1270": {
+    "letter": "A",
+    "word": "KOHLENHYDRAT"
+  },
+  "1181": {
+    "letter": "E",
+    "word": "ZAHNHYGIENE"
+  },
+  "1226": {
+    "letter": "B",
+    "word": "FLUKTUATION"
+  },
+  "1271": {
+    "letter": "A",
+    "word": "SPEKULATION"
+  },
+  "1182": {
+    "letter": "A",
+    "word": "EXPEDITION"
+  },
+  "1227": {
+    "letter": "D",
+    "word": "HOSENTASCHE"
+  },
+  "1272": {
+    "letter": "A",
+    "word": "TATENDRANG"
+  },
+  "1183": {
+    "letter": "E",
+    "word": "BESTIMMUNG"
+  },
+  "1228": {
+    "letter": "E",
+    "word": "BELEIDIGUNG"
+  },
+  "1273": {
+    "letter": "C",
+    "word": "PAARBILDUNG"
+  },
+  "1184": {
+    "letter": "E",
+    "word": "ZAHNSCHMELZ"
+  },
+  "1229": {
+    "letter": "B",
+    "word": "OPERATEUR"
+  },
+  "1274": {
+    "letter": "D",
+    "word": "PROJEKTION"
+  },
+  "1185": {
+    "letter": "C",
+    "word": "BEERDIGUNG"
+  },
+  "1230": {
+    "letter": "E",
+    "word": "STROMVERBRAUCH"
+  },
+  "1275": {
+    "letter": "D",
+    "word": "BRENNSTOFF"
+  },
+  "1186": {
+    "letter": "A",
+    "word": "NOMINATIV"
+  },
+  "1231": {
+    "letter": "A",
+    "word": "VOLKSVERTRETER"
+  },
+  "1276": {
+    "letter": "E",
+    "word": "MECHANISMUS"
+  },
+  "1187": {
+    "letter": "C",
+    "word": "UNTERHALTUNG"
+  },
+  "1232": {
+    "letter": "D",
+    "word": "KEGELSCHNITT"
+  },
+  "1277": {
+    "letter": "C",
+    "word": "MOTORHAUBE"
+  },
+  "1188": {
+    "letter": "E",
+    "word": "SANFTHEIT"
+  },
+  "1233": {
+    "letter": "C",
+    "word": "WIDERWILLE"
+  },
+  "1278": {
+    "letter": "E",
+    "word": "KOMMODE"
+  },
+  "1189": {
+    "letter": "D",
+    "word": "MODESCHAU"
+  },
+  "1234": {
+    "letter": "D",
+    "word": "SCHREIBTISCH"
+  },
+  "1279": {
+    "letter": "D",
+    "word": "SEILSCHAFT"
+  },
+  "1190": {
+    "letter": "E",
+    "word": "AUSZAHLUNG"
+  },
+  "1235": {
+    "letter": "B",
+    "word": "PSYCHOLOGIE"
+  },
+  "1280": {
+    "letter": "C",
+    "word": "WASSERWERK"
+  },
+  "1191": {
+    "letter": "B",
+    "word": "SALZWASSER"
+  },
+  "1236": {
+    "letter": "A",
+    "word": "KARNEVAL"
+  },
+  "1281": {
+    "letter": "E",
+    "word": "STAUBSAUGER"
+  },
+  "1192": {
+    "letter": "C",
+    "word": "BEIGESCHMACK"
+  },
+  "1237": {
+    "letter": "C",
+    "word": "HARNISCH"
+  },
+  "1282": {
+    "letter": "D",
+    "word": "CALLCENTER"
+  },
+  "1193": {
+    "letter": "E",
+    "word": "TASCHENLAMPE"
+  },
+  "1238": {
+    "letter": "E",
+    "word": "AGRARLAND"
+  },
+  "1283": {
+    "letter": "A",
+    "word": "STOFFWECHSEL"
+  },
+  "1194": {
+    "letter": "C",
+    "word": "KILOMETER"
+  },
+  "1239": {
+    "letter": "C",
+    "word": "DIABETES"
+  },
+  "1284": {
+    "letter": "D",
+    "word": "ESSTISCH"
+  },
+  "1195": {
+    "letter": "A",
+    "word": "FLIEGENKLATSCHE"
+  },
+  "1240": {
+    "letter": "C",
+    "word": "ILLUSTRATION"
+  },
+  "1285": {
+    "letter": "A",
+    "word": "MINDERHEIT"
+  },
+  "1196": {
+    "letter": "E",
+    "word": "SACKGASSE"
+  },
+  "1241": {
+    "letter": "B",
+    "word": "SAISONARBEIT"
+  },
+  "1286": {
+    "letter": "C",
+    "word": "RUNDSCHAU"
+  },
+  "1197": {
+    "letter": "E",
+    "word": "ARGUMENTATION"
+  },
+  "1242": {
+    "letter": "D",
+    "word": "MAGERSUCHT"
+  },
+  "1287": {
+    "letter": "B",
+    "word": "PANZERGLAS"
+  },
+  "1198": {
+    "letter": "A",
+    "word": "BUNDESBAHN"
+  },
+  "1243": {
+    "letter": "D",
+    "word": "KLAPPSTUHL"
+  },
+  "1288": {
+    "letter": "D",
+    "word": "NOTIFIKATION"
+  },
+  "1199": {
+    "letter": "B",
+    "word": "VERZWEIFLUNG"
+  },
+  "1244": {
+    "letter": "D",
+    "word": "BRIEFKASTEN"
+  },
+  "1289": {
+    "letter": "C",
+    "word": "PROGRAMMIERER"
+  },
+  "1200": {
+    "letter": "D",
+    "word": "DORFSCHULE"
+  },
+  "1245": {
+    "letter": "E",
+    "word": "TASTATUR"
+  },
+  "1290": {
+    "letter": "D",
+    "word": "TOTENTANZ"
+  },
+  "1201": {
+    "letter": "D",
+    "word": "FERTIGSTELLUNG"
+  },
+  "1246": {
+    "letter": "D",
+    "word": "LAGERHALLE"
+  },
+  "1291": {
+    "letter": "A",
+    "word": "EINWEIHUNG"
+  },
+  "1202": {
+    "letter": "A",
+    "word": "BACKENZAHN"
+  },
+  "1247": {
+    "letter": "D",
+    "word": "ELEKTRIKER"
+  },
+  "1292": {
+    "letter": "E",
+    "word": "SCHLAMM"
+  },
+  "1203": {
+    "letter": "E",
+    "word": "KLAVIERTASTE"
+  },
+  "1248": {
+    "letter": "A",
+    "word": "ENTSCHEIDUNG"
+  },
+  "1293": {
+    "letter": "E",
+    "word": "LEBKUCHEN"
+  },
+  "1204": {
+    "letter": "B",
+    "word": "GEBIRGSKETTE"
+  },
+  "1249": {
+    "letter": "E",
+    "word": "AUSSCHLUSS"
+  },
+  "1294": {
+    "letter": "D",
+    "word": "STERNENHIMMEL"
+  },
+  "1205": {
+    "letter": "A",
+    "word": "SPEICHERSEE"
+  },
+  "1250": {
+    "letter": "D",
+    "word": "FINANZIERUNG"
+  },
+  "1295": {
+    "letter": "D",
+    "word": "DROGENHANDEL"
+  },
+  "1206": {
+    "letter": "E",
+    "word": "POLYNOM"
+  },
+  "1251": {
+    "letter": "E",
+    "word": "KABELSALAT"
+  },
+  "1296": {
+    "letter": "A",
+    "word": "AUSFLUG"
+  },
+  "1207": {
+    "letter": "B",
+    "word": "WILLENSKRAFT"
+  },
+  "1252": {
+    "letter": "C",
+    "word": "KUNDSCHAFTER"
+  },
+  "1297": {
+    "letter": "B",
+    "word": "ZITRUSFRUCHT"
+  },
+  "1208": {
+    "letter": "A",
+    "word": "FEUCHTIGKEIT"
+  },
+  "1253": {
+    "letter": "A",
+    "word": "KERNSPALTUNG"
+  },
+  "1298": {
+    "letter": "B",
+    "word": "THERAPEUTIK"
+  },
+  "1209": {
+    "letter": "E",
+    "word": "NEUANLAGE"
+  },
+  "1254": {
+    "letter": "A",
+    "word": "WIEDERHOLUNG"
+  },
+  "1299": {
+    "letter": "E",
+    "word": "TEMPERATUR"
+  },
+  "1210": {
+    "letter": "B",
+    "word": "KOLONIALISMUS"
+  },
+  "1255": {
+    "letter": "E",
+    "word": "WEITSPRUNG"
+  },
+  "1300": {
+    "letter": "D",
+    "word": "MULTIPLIKATION"
+  },
+  "1211": {
+    "letter": "A",
+    "word": "KARTOFFEL"
+  },
+  "1256": {
+    "letter": "B",
+    "word": "INFORMATION"
+  },
+  "1301": {
+    "letter": "B",
+    "word": "STADTPLANUNG"
+  },
+  "1212": {
+    "letter": "C",
+    "word": "SILIKON"
+  },
+  "1257": {
+    "letter": "A",
+    "word": "RECYCLING"
+  },
+  "1302": {
+    "letter": "C",
+    "word": "THUNFISCH"
+  },
+  "1213": {
+    "letter": "E",
+    "word": "GERECHTIGKEIT"
+  },
+  "1258": {
+    "letter": "B",
+    "word": "OXIDATION"
+  },
+  "1303": {
+    "letter": "E",
+    "word": "NASENBEIN"
+  },
+  "1214": {
+    "letter": "C",
+    "word": "BESITZTUM"
+  },
+  "1259": {
+    "letter": "C",
+    "word": "TAGESLICHT"
+  },
+  "1304": {
+    "letter": "A",
+    "word": "ANSINNEN"
+  },
+  "1215": {
+    "letter": "A",
+    "word": "STRAFBANK"
+  },
+  "1260": {
+    "letter": "D",
+    "word": "ZELLMEMBRAN"
+  },
+  "1305": {
+    "letter": "B",
+    "word": "REISEPASS"
+  },
+  "1306": {
+    "letter": "E",
+    "word": "DURCHSCHUSS"
+  },
+  "1351": {
+    "letter": "B",
+    "word": "VERANSTALTUNG"
+  },
+  "1396": {
+    "letter": "C",
+    "word": "DESTRUKTION"
+  },
+  "1307": {
+    "letter": "A",
+    "word": "LEBENSJAHR"
+  },
+  "1352": {
+    "letter": "B",
+    "word": "VORGESCHMACK"
+  },
+  "1397": {
+    "letter": "B",
+    "word": "ZUSAMMENSPIEL"
+  },
+  "1308": {
+    "letter": "E",
+    "word": "KLEIDERHAKEN"
+  },
+  "1353": {
+    "letter": "C",
+    "word": "SCHACHBRETT"
+  },
+  "1398": {
+    "letter": "C",
+    "word": "KOEFFIZIENT"
+  },
+  "1309": {
+    "letter": "D",
+    "word": "VOGELFUTTER"
+  },
+  "1354": {
+    "letter": "B",
+    "word": "RUNDUMSCHLAG"
+  },
+  "1399": {
+    "letter": "B",
+    "word": "OBERSCHENKEL"
+  },
+  "1310": {
+    "letter": "A",
+    "word": "ILLUSION"
+  },
+  "1355": {
+    "letter": "D",
+    "word": "TRANSPARENZ"
+  },
+  "1400": {
+    "letter": "C",
+    "word": "GASTARBEITER"
+  },
+  "1311": {
+    "letter": "E",
+    "word": "TODESFALL"
+  },
+  "1356": {
+    "letter": "E",
+    "word": "UNTERKUNFT"
+  },
+  "1401": {
+    "letter": "A",
+    "word": "DAMPFMASCHINE"
+  },
+  "1312": {
+    "letter": "E",
+    "word": "WESPENSTICH"
+  },
+  "1357": {
+    "letter": "E",
+    "word": "NEUTRALISIERUNG"
+  },
+  "1402": {
+    "letter": "D",
+    "word": "AUFTEILUNG"
+  },
+  "1313": {
+    "letter": "A",
+    "word": "TRANSFORMATION"
+  },
+  "1358": {
+    "letter": "C",
+    "word": "ZIELGRUPPE"
+  },
+  "1403": {
+    "letter": "A",
+    "word": "MASTURBATION"
+  },
+  "1314": {
+    "letter": "E",
+    "word": "KOOPERATION"
+  },
+  "1359": {
+    "letter": "C",
+    "word": "EINSATZORT"
+  },
+  "1404": {
+    "letter": "D",
+    "word": "ZENTRALRAT"
+  },
+  "1315": {
+    "letter": "C",
+    "word": "REZIPIENT"
+  },
+  "1360": {
+    "letter": "C",
+    "word": "WEIHNACHTSBAUM"
+  },
+  "1405": {
+    "letter": "D",
+    "word": "FUNDGRUBE"
+  },
+  "1316": {
+    "letter": "D",
+    "word": "KANALISATION"
+  },
+  "1361": {
+    "letter": "A",
+    "word": "TITELROLLE"
+  },
+  "1406": {
+    "letter": "C",
+    "word": "RETTUNGSWAGEN"
+  },
+  "1317": {
+    "letter": "A",
+    "word": "OHNMACHT"
+  },
+  "1362": {
+    "letter": "B",
+    "word": "GRUNDSCHULE"
+  },
+  "1407": {
+    "letter": "B",
+    "word": "ALKOHOLKONSUM"
+  },
+  "1318": {
+    "letter": "D",
+    "word": "IMAGINATION"
+  },
+  "1363": {
+    "letter": "C",
+    "word": "KLEIDERSCHRANK"
+  },
+  "1408": {
+    "letter": "D",
+    "word": "VEGANER"
+  },
+  "1319": {
+    "letter": "B",
+    "word": "BRIEFBOMBE"
+  },
+  "1364": {
+    "letter": "B",
+    "word": "RESERVIERUNG"
+  },
+  "1409": {
+    "letter": "D",
+    "word": "MENISKUS"
+  },
+  "1320": {
+    "letter": "E",
+    "word": "TREFFPUNKT"
+  },
+  "1365": {
+    "letter": "C",
+    "word": "VITALISMUS"
+  },
+  "1410": {
+    "letter": "E",
+    "word": "MITTELWERT"
+  },
+  "1321": {
+    "letter": "B",
+    "word": "DIGITALISIERUNG"
+  },
+  "1366": {
+    "letter": "C",
+    "word": "LICHTERKETTE"
+  },
+  "1411": {
+    "letter": "B",
+    "word": "LECKERBISSEN"
+  },
+  "1322": {
+    "letter": "A",
+    "word": "DELIKATESSE"
+  },
+  "1367": {
+    "letter": "E",
+    "word": "BRATKARTOFFEL"
+  },
+  "1412": {
+    "letter": "A",
+    "word": "ELTERNGELD"
+  },
+  "1323": {
+    "letter": "B",
+    "word": "BERUFSGRUPPE"
+  },
+  "1368": {
+    "letter": "A",
+    "word": "GELDTASCHE"
+  },
+  "1413": {
+    "letter": "D",
+    "word": "DICHTKUNST"
+  },
+  "1324": {
+    "letter": "C",
+    "word": "TINNITUS"
+  },
+  "1369": {
+    "letter": "C",
+    "word": "RASIERMESSER"
+  },
+  "1414": {
+    "letter": "E",
+    "word": "SONNENMILCH"
+  },
+  "1325": {
+    "letter": "C",
+    "word": "CHARISMA"
+  },
+  "1370": {
+    "letter": "B",
+    "word": "THROMBOSE"
+  },
+  "1415": {
+    "letter": "D",
+    "word": "GEBURTSHILFE"
+  },
+  "1326": {
+    "letter": "A",
+    "word": "DIEBSTAHL"
+  },
+  "1371": {
+    "letter": "A",
+    "word": "GLATZE"
+  },
+  "1416": {
+    "letter": "B",
+    "word": "STROMSCHLAG"
+  },
+  "1327": {
+    "letter": "E",
+    "word": "KLIMAWANDEL"
+  },
+  "1372": {
+    "letter": "D",
+    "word": "IMPERIALISMUS"
+  },
+  "1417": {
+    "letter": "A",
+    "word": "WINTERJACKE"
+  },
+  "1328": {
+    "letter": "E",
+    "word": "PERSPEKTIVE"
+  },
+  "1373": {
+    "letter": "A",
+    "word": "ERLEICHTERUNG"
+  },
+  "1418": {
+    "letter": "B",
+    "word": "ZWISCHENFALL"
+  },
+  "1329": {
+    "letter": "D",
+    "word": "MENSTRUATION"
+  },
+  "1374": {
+    "letter": "B",
+    "word": "LICHTSCHALTER"
+  },
+  "1419": {
+    "letter": "E",
+    "word": "NAHRUNGSMITTEL"
+  },
+  "1330": {
+    "letter": "E",
+    "word": "EVALUATION"
+  },
+  "1375": {
+    "letter": "A",
+    "word": "CHRONOLOGIE"
+  },
+  "1420": {
+    "letter": "D",
+    "word": "SCHLAGSAHNE"
+  },
+  "1331": {
+    "letter": "D",
+    "word": "VIROLOGIE"
+  },
+  "1376": {
+    "letter": "B",
+    "word": "KRANKENBETT"
+  },
+  "1421": {
+    "letter": "B",
+    "word": "INFOSTAND"
+  },
+  "1332": {
+    "letter": "E",
+    "word": "VIELSEITIGKEIT"
+  },
+  "1377": {
+    "letter": "A",
+    "word": "HUNDEHAUFEN"
+  },
+  "1422": {
+    "letter": "A",
+    "word": "TRANSFORMATOR"
+  },
+  "1333": {
+    "letter": "D",
+    "word": "ADRENALIN"
+  },
+  "1378": {
+    "letter": "E",
+    "word": "SCHLAGZEILE"
+  },
+  "1423": {
+    "letter": "D",
+    "word": "KARDIOLOGE"
+  },
+  "1334": {
+    "letter": "A",
+    "word": "TREPPENSTUFE"
+  },
+  "1379": {
+    "letter": "E",
+    "word": "FILMFESTIVAL"
+  },
+  "1424": {
+    "letter": "C",
+    "word": "PHOTOSYNTHESE"
+  },
+  "1335": {
+    "letter": "B",
+    "word": "PHILOSOPHIE"
+  },
+  "1380": {
+    "letter": "D",
+    "word": "KOLLABORATION"
+  },
+  "1425": {
+    "letter": "A",
+    "word": "WALDMEISTER"
+  },
+  "1336": {
+    "letter": "C",
+    "word": "KLEBESTREIFEN"
+  },
+  "1381": {
+    "letter": "D",
+    "word": "BLUTGRUPPE"
+  },
+  "1426": {
+    "letter": "A",
+    "word": "HYGIENEARTIKEL"
+  },
+  "1337": {
+    "letter": "E",
+    "word": "LABORANT"
+  },
+  "1382": {
+    "letter": "C",
+    "word": "SCHMETTERLING"
+  },
+  "1427": {
+    "letter": "D",
+    "word": "MUTTERTAG"
+  },
+  "1338": {
+    "letter": "D",
+    "word": "STILLSCHWEIGEN"
+  },
+  "1383": {
+    "letter": "A",
+    "word": "TUNNELBLICK"
+  },
+  "1428": {
+    "letter": "A",
+    "word": "ERDNUSSBUTTER"
+  },
+  "1339": {
+    "letter": "C",
+    "word": "GESELLSCHAFT"
+  },
+  "1384": {
+    "letter": "B",
+    "word": "RETTUNGSAKTION"
+  },
+  "1429": {
+    "letter": "E",
+    "word": "LEBERFLECK"
+  },
+  "1340": {
+    "letter": "A",
+    "word": "VOLKSCHOR"
+  },
+  "1385": {
+    "letter": "A",
+    "word": "HINTERGEDANKE"
+  },
+  "1430": {
+    "letter": "D",
+    "word": "EINHALTUNG"
+  },
+  "1341": {
+    "letter": "B",
+    "word": "HANDICAP"
+  },
+  "1386": {
+    "letter": "E",
+    "word": "SCHWEIGEMINUTE"
+  },
+  "1431": {
+    "letter": "A",
+    "word": "STRAHLER"
+  },
+  "1342": {
+    "letter": "D",
+    "word": "EXTRAVAGANZ"
+  },
+  "1387": {
+    "letter": "D",
+    "word": "ADIPOSITAS"
+  },
+  "1432": {
+    "letter": "B",
+    "word": "GEFRIERTRUHE"
+  },
+  "1343": {
+    "letter": "E",
+    "word": "VERTRAUTHEIT"
+  },
+  "1388": {
+    "letter": "C",
+    "word": "BRIEFFREUND"
+  },
+  "1433": {
+    "letter": "C",
+    "word": "MONDFINSTERNIS"
+  },
+  "1344": {
+    "letter": "B",
+    "word": "DISTRIBUTION"
+  },
+  "1389": {
+    "letter": "A",
+    "word": "FOTOLABOR"
+  },
+  "1434": {
+    "letter": "D",
+    "word": "WECHSELWIRKUNG"
+  },
+  "1345": {
+    "letter": "A",
+    "word": "DEMOGRAPHIE"
+  },
+  "1390": {
+    "letter": "D",
+    "word": "STABILISIERUNG"
+  },
+  "1435": {
+    "letter": "B",
+    "word": "BRIEFTASCHE"
+  },
+  "1346": {
+    "letter": "E",
+    "word": "SPATZENHIRN"
+  },
+  "1391": {
+    "letter": "C",
+    "word": "NOTUNTERKUNFT"
+  },
+  "1436": {
+    "letter": "E",
+    "word": "SEELENFRIEDEN"
+  },
+  "1347": {
+    "letter": "B",
+    "word": "SCHALLPLATTE"
+  },
+  "1392": {
+    "letter": "B",
+    "word": "PARTNERSCHAFT"
+  },
+  "1437": {
+    "letter": "B",
+    "word": "OBSERVIERUNG"
+  },
+  "1348": {
+    "letter": "C",
+    "word": "LEBENSFREUDE"
+  },
+  "1393": {
+    "letter": "E",
+    "word": "ARMUTSZEUGNIS"
+  },
+  "1438": {
+    "letter": "D",
+    "word": "WINTERSCHLAF"
+  },
+  "1349": {
+    "letter": "C",
+    "word": "BLINDHEIT"
+  },
+  "1394": {
+    "letter": "E",
+    "word": "MONOGAMIE"
+  },
+  "1439": {
+    "letter": "B",
+    "word": "SKIGEBIET"
+  },
+  "1350": {
+    "letter": "D",
+    "word": "NACHTSCHICHT"
+  },
+  "1395": {
+    "letter": "E",
+    "word": "LIEBESPAAR"
+  },
+  "1440": {
+    "letter": "C",
+    "word": "OPTIMISMUS"
+  },
+  "1441": {
+    "letter": "D",
+    "word": "SCHMERZGRENZE"
+  },
+  "1486": {
+    "letter": "C",
+    "word": "SEHBRILLE"
+  },
+  "1442": {
+    "letter": "E",
+    "word": "AUSZEICHNUNG"
+  },
+  "1487": {
+    "letter": "D",
+    "word": "KLATSCH"
+  },
+  "1443": {
+    "letter": "B",
+    "word": "CAMPINGPLATZ"
+  },
+  "1488": {
+    "letter": "E",
+    "word": "HURRIKAN"
+  },
+  "1444": {
+    "letter": "D",
+    "word": "HAARSCHNITT"
+  },
+  "1489": {
+    "letter": "C",
+    "word": "FOTOMONTAGE"
+  },
+  "1445": {
+    "letter": "B",
+    "word": "ANGRIFFSPUNKT"
+  },
+  "1490": {
+    "letter": "E",
+    "word": "FLUGBEGLEITER"
+  },
+  "1446": {
+    "letter": "E",
+    "word": "RASIERER"
+  },
+  "1491": {
+    "letter": "A",
+    "word": "KERNFUSION"
+  },
+  "1447": {
+    "letter": "B",
+    "word": "GESTIKULATION"
+  },
+  "1492": {
+    "letter": "A",
+    "word": "ROLLENTAUSCH"
+  },
+  "1448": {
+    "letter": "B",
+    "word": "BLUTSPENDE"
+  },
+  "1493": {
+    "letter": "A",
+    "word": "JUBELJAHR"
+  },
+  "1449": {
+    "letter": "B",
+    "word": "AUSVERKAUF"
+  },
+  "1494": {
+    "letter": "A",
+    "word": "MOBILISIERUNG"
+  },
+  "1450": {
+    "letter": "E",
+    "word": "AUTOBUS"
+  },
+  "1495": {
+    "letter": "B",
+    "word": "KUNSTRASEN"
+  },
+  "1451": {
+    "letter": "B",
+    "word": "BADEHAUBE"
+  },
+  "1496": {
+    "letter": "E",
+    "word": "DANKSAGUNG"
+  },
+  "1452": {
+    "letter": "C",
+    "word": "TRANSVESTIT"
+  },
+  "1497": {
+    "letter": "E",
+    "word": "FORSCHUNG"
+  },
+  "1453": {
+    "letter": "C",
+    "word": "TAPFERKEIT"
+  },
+  "1498": {
+    "letter": "D",
+    "word": "HAUSAUFGABE"
+  },
+  "1454": {
+    "letter": "A",
+    "word": "ERPRESSUNG"
+  },
+  "1499": {
+    "letter": "E",
+    "word": "LEUCHTFEUER"
+  },
+  "1455": {
+    "letter": "B",
+    "word": "EINSAMKEIT"
+  },
+  "1500": {
+    "letter": "B",
+    "word": "PESSIMISMUS"
+  },
+  "1456": {
+    "letter": "B",
+    "word": "BELUSTIGUNG"
+  },
+  "1457": {
+    "letter": "C",
+    "word": "FETTLEIBIGKEIT"
+  },
+  "1458": {
+    "letter": "A",
+    "word": "KURZFASSUNG"
+  },
+  "1459": {
+    "letter": "B",
+    "word": "VERWIRRUNG"
+  },
+  "1460": {
+    "letter": "B",
+    "word": "AUSLAUF"
+  },
+  "1461": {
+    "letter": "D",
+    "word": "SPIEGELBILD"
+  },
+  "1462": {
+    "letter": "C",
+    "word": "ALTERNATIVE"
+  },
+  "1463": {
+    "letter": "E",
+    "word": "KREUZZEICHEN"
+  },
+  "1464": {
+    "letter": "D",
+    "word": "DOKUMENTATION"
+  },
+  "1465": {
+    "letter": "E",
+    "word": "ADRESSE"
+  },
+  "1466": {
+    "letter": "B",
+    "word": "EXPERIMENT"
+  },
+  "1467": {
+    "letter": "D",
+    "word": "BRONCHITIS"
+  },
+  "1468": {
+    "letter": "D",
+    "word": "SCHLAGANFALL"
+  },
+  "1469": {
+    "letter": "D",
+    "word": "ZUFLUCHTSORT"
+  },
+  "1470": {
+    "letter": "B",
+    "word": "MANIPULATION"
+  },
+  "1471": {
+    "letter": "A",
+    "word": "FERNSEHSENDUNG"
+  },
+  "1472": {
+    "letter": "B",
+    "word": "KAISERSCHNITT"
+  },
+  "1473": {
+    "letter": "A",
+    "word": "TANZSZENE"
+  },
+  "1474": {
+    "letter": "A",
+    "word": "SCHNELLZUG"
+  },
+  "1475": {
+    "letter": "D",
+    "word": "JAZZMUSIK"
+  },
+  "1476": {
+    "letter": "B",
+    "word": "AKKORD"
+  },
+  "1477": {
+    "letter": "B",
+    "word": "LEICHTATHLETIK"
+  },
+  "1478": {
+    "letter": "D",
+    "word": "ARBEITGEBER"
+  },
+  "1479": {
+    "letter": "C",
+    "word": "RADIOWELLEN"
+  },
+  "1480": {
+    "letter": "A",
+    "word": "SITZGELEGENHEIT"
+  },
+  "1481": {
+    "letter": "E",
+    "word": "ANGSTZUSTAND"
+  },
+  "1482": {
+    "letter": "A",
+    "word": "SORGERECHT"
+  },
+  "1483": {
+    "letter": "E",
+    "word": "RASTSTATION"
+  },
+  "1484": {
+    "letter": "A",
+    "word": "SCHNEEFLOCKE"
+  },
+  "1485": {
+    "letter": "C",
+    "word": "SPORTHALLE"
+  },
+  "1501": {
+    "letter": "B",
+    "word": "AUSSTELLUNG"
+  },
+  "1531": {
+    "letter": "D",
+    "word": "TAGESLICHT"
+  },
+  "1561": {
+    "letter": "D",
+    "word": "TRAUMBERUF"
+  },
+  "1502": {
+    "letter": "A",
+    "word": "ZEBRA"
+  },
+  "1532": {
+    "letter": "E",
+    "word": "NEBENSATZ"
+  },
+  "1562": {
+    "letter": "E",
+    "word": "KLOPAPIER"
+  },
+  "1503": {
+    "letter": "A",
+    "word": "NATIONALISMUS"
+  },
+  "1533": {
+    "letter": "B",
+    "word": "PAARBILDUNG"
+  },
+  "1563": {
+    "letter": "C",
+    "word": "HALLENBAD"
+  },
+  "1504": {
+    "letter": "E",
+    "word": "LEBENSLAUF"
+  },
+  "1534": {
+    "letter": "B",
+    "word": "GERMANISTIK"
+  },
+  "1564": {
+    "letter": "B",
+    "word": "BAUCHNABEL"
+  },
+  "1505": {
+    "letter": "D",
+    "word": "TEXTFELD"
+  },
+  "1535": {
+    "letter": "C",
+    "word": "SCHLACHTBANK"
+  },
+  "1565": {
+    "letter": "A",
+    "word": "PRELLUNG"
+  },
+  "1506": {
+    "letter": "A",
+    "word": "FERNSEHER"
+  },
+  "1536": {
+    "letter": "A",
+    "word": "RAUBTIER"
+  },
+  "1566": {
+    "letter": "C",
+    "word": "ZULAUF"
+  },
+  "1507": {
+    "letter": "D",
+    "word": "DSCHUNGEL"
+  },
+  "1537": {
+    "letter": "E",
+    "word": "OPERATION"
+  },
+  "1567": {
+    "letter": "E",
+    "word": "STRUKTUR"
+  },
+  "1508": {
+    "letter": "E",
+    "word": "KOMPENDIUM"
+  },
+  "1538": {
+    "letter": "C",
+    "word": "BYPASS"
+  },
+  "1568": {
+    "letter": "D",
+    "word": "UNENDLICHKEIT"
+  },
+  "1509": {
+    "letter": "E",
+    "word": "VERKEHR"
+  },
+  "1539": {
+    "letter": "C",
+    "word": "SINGVOGEL"
+  },
+  "1569": {
+    "letter": "E",
+    "word": "DOPPELSPALT"
+  },
+  "1510": {
+    "letter": "A",
+    "word": "PIERCING"
+  },
+  "1540": {
+    "letter": "C",
+    "word": "AUFTEILUNG"
+  },
+  "1570": {
+    "letter": "D",
+    "word": "ERLEICHTERUNG"
+  },
+  "1511": {
+    "letter": "B",
+    "word": "DISKURS"
+  },
+  "1541": {
+    "letter": "B",
+    "word": "SPRITZTOUR"
+  },
+  "1571": {
+    "letter": "C",
+    "word": "GEDICHT"
+  },
+  "1512": {
+    "letter": "A",
+    "word": "PROMILLE"
+  },
+  "1542": {
+    "letter": "E",
+    "word": "BURGMAUER"
+  },
+  "1572": {
+    "letter": "D",
+    "word": "STIRNBAND"
+  },
+  "1513": {
+    "letter": "D",
+    "word": "PARALYSE"
+  },
+  "1543": {
+    "letter": "B",
+    "word": "SYNDIKAT"
+  },
+  "1573": {
+    "letter": "E",
+    "word": "SEHNERV"
+  },
+  "1514": {
+    "letter": "E",
+    "word": "BEZAHLUNG"
+  },
+  "1544": {
+    "letter": "A",
+    "word": "POSTKARTE"
+  },
+  "1574": {
+    "letter": "E",
+    "word": "DISZIPLIN"
+  },
+  "1515": {
+    "letter": "B",
+    "word": "OHRMUSCHEL"
+  },
+  "1545": {
+    "letter": "A",
+    "word": "METROPOLE"
+  },
+  "1575": {
+    "letter": "A",
+    "word": "DEFENSIVE"
+  },
+  "1516": {
+    "letter": "D",
+    "word": "ZIVILISATION"
+  },
+  "1546": {
+    "letter": "A",
+    "word": "WIRKSTOFF"
+  },
+  "1517": {
+    "letter": "E",
+    "word": "FUNDSTELLE"
+  },
+  "1547": {
+    "letter": "A",
+    "word": "DURCHBLUTUNG"
+  },
+  "1518": {
+    "letter": "D",
+    "word": "ZAHNHYGIENE"
+  },
+  "1548": {
+    "letter": "C",
+    "word": "BAUCH"
+  },
+  "1519": {
+    "letter": "C",
+    "word": "STIMULATION"
+  },
+  "1549": {
+    "letter": "A",
+    "word": "WIDDER"
+  },
+  "1520": {
+    "letter": "B",
+    "word": "BLUMENVASE"
+  },
+  "1550": {
+    "letter": "E",
+    "word": "HIRNTUMOR"
+  },
+  "1521": {
+    "letter": "C",
+    "word": "QUATSCH"
+  },
+  "1551": {
+    "letter": "A",
+    "word": "QUARTETT"
+  },
+  "1522": {
+    "letter": "B",
+    "word": "ELEGANZ"
+  },
+  "1552": {
+    "letter": "E",
+    "word": "FEUERWERK"
+  },
+  "1523": {
+    "letter": "B",
+    "word": "RANDBEDINGUNG"
+  },
+  "1553": {
+    "letter": "B",
+    "word": "KLEIDER"
+  },
+  "1524": {
+    "letter": "A",
+    "word": "SCHLITTEN"
+  },
+  "1554": {
+    "letter": "E",
+    "word": "STICHWORT"
+  },
+  "1525": {
+    "letter": "E",
+    "word": "KOFFERRAUM"
+  },
+  "1555": {
+    "letter": "D",
+    "word": "AUTOBAHN"
+  },
+  "1526": {
+    "letter": "C",
+    "word": "ASSOZIATION"
+  },
+  "1556": {
+    "letter": "A",
+    "word": "ABENDESSEN"
+  },
+  "1527": {
+    "letter": "C",
+    "word": "UNKLARHEIT"
+  },
+  "1557": {
+    "letter": "E",
+    "word": "WAHLTAG"
+  },
+  "1528": {
+    "letter": "C",
+    "word": "PARKPLATZ"
+  },
+  "1558": {
+    "letter": "C",
+    "word": "RENOVIERUNG"
+  },
+  "1529": {
+    "letter": "E",
+    "word": "HARPUNE"
+  },
+  "1559": {
+    "letter": "E",
+    "word": "BUCHSEITE"
+  },
+  "1530": {
+    "letter": "E",
+    "word": "GENAUIGKEIT"
+  },
+  "1560": {
+    "letter": "B",
+    "word": "WANDERHOSE"
+  },
+  "1576": {
+    "letter": "A",
+    "word": "BENUTZUNG"
+  },
+  "1606": {
+    "letter": "B",
+    "word": "STIMULATION"
+  },
+  "1636": {
+    "letter": "E",
+    "word": "HAARBAND"
+  },
+  "1577": {
+    "letter": "E",
+    "word": "TRANSLATION"
+  },
+  "1607": {
+    "letter": "D",
+    "word": "MONUMENT"
+  },
+  "1637": {
+    "letter": "E",
+    "word": "EMPATHIE"
+  },
+  "1578": {
+    "letter": "A",
+    "word": "KOPULATION"
+  },
+  "1608": {
+    "letter": "B",
+    "word": "WITZFIGUR"
+  },
+  "1638": {
+    "letter": "E",
+    "word": "ASTROLOGIE"
+  },
+  "1579": {
+    "letter": "E",
+    "word": "WILDNIS"
+  },
+  "1609": {
+    "letter": "D",
+    "word": "WEHRMACHT"
+  },
+  "1639": {
+    "letter": "A",
+    "word": "UMTRUNK"
+  },
+  "1580": {
+    "letter": "A",
+    "word": "BENENNUNG"
+  },
+  "1610": {
+    "letter": "B",
+    "word": "INFORMATIK"
+  },
+  "1640": {
+    "letter": "C",
+    "word": "KEIMUNG"
+  },
+  "1581": {
+    "letter": "E",
+    "word": "GIFTGAS"
+  },
+  "1611": {
+    "letter": "C",
+    "word": "NUANCE"
+  },
+  "1641": {
+    "letter": "E",
+    "word": "ASSOZIATION"
+  },
+  "1582": {
+    "letter": "B",
+    "word": "BAHNSTEIG"
+  },
+  "1612": {
+    "letter": "B",
+    "word": "PRIESTER"
+  },
+  "1642": {
+    "letter": "C",
+    "word": "VOKAL"
+  },
+  "1583": {
+    "letter": "D",
+    "word": "BILDUNG"
+  },
+  "1613": {
+    "letter": "B",
+    "word": "TORMANN"
+  },
+  "1643": {
+    "letter": "E",
+    "word": "MODERATOR"
+  },
+  "1584": {
+    "letter": "A",
+    "word": "SPRACHE"
+  },
+  "1614": {
+    "letter": "E",
+    "word": "BLUTARMUT"
+  },
+  "1644": {
+    "letter": "E",
+    "word": "UNTERKUNFT"
+  },
+  "1585": {
+    "letter": "C",
+    "word": "SPINNER"
+  },
+  "1615": {
+    "letter": "D",
+    "word": "MASSENDEFEKT"
+  },
+  "1645": {
+    "letter": "E",
+    "word": "DYNAMO"
+  },
+  "1586": {
+    "letter": "A",
+    "word": "BADEHOSE"
+  },
+  "1616": {
+    "letter": "A",
+    "word": "SEHNSUCHT"
+  },
+  "1646": {
+    "letter": "E",
+    "word": "ANPFIFF"
+  },
+  "1587": {
+    "letter": "E",
+    "word": "EFFIZIENZ"
+  },
+  "1617": {
+    "letter": "D",
+    "word": "AUFGUSS"
+  },
+  "1647": {
+    "letter": "E",
+    "word": "HANDSCHRIFT"
+  },
+  "1588": {
+    "letter": "B",
+    "word": "KAMPAGNE"
+  },
+  "1618": {
+    "letter": "E",
+    "word": "INDIKATION"
+  },
+  "1648": {
+    "letter": "D",
+    "word": "METROPOLE"
+  },
+  "1589": {
+    "letter": "A",
+    "word": "EINWOHNER"
+  },
+  "1619": {
+    "letter": "A",
+    "word": "BACKENZAHN"
+  },
+  "1649": {
+    "letter": "D",
+    "word": "STERNSCHNUPPE"
+  },
+  "1590": {
+    "letter": "B",
+    "word": "DORFSCHULE"
+  },
+  "1620": {
+    "letter": "E",
+    "word": "ABENTEUER"
+  },
+  "1650": {
+    "letter": "B",
+    "word": "LIEBKOSUNG"
+  },
+  "1591": {
+    "letter": "B",
+    "word": "FUTURISMUS"
+  },
+  "1621": {
+    "letter": "E",
+    "word": "VOGELSPINNE"
+  },
+  "1592": {
+    "letter": "A",
+    "word": "NACHWUCHS"
+  },
+  "1622": {
+    "letter": "A",
+    "word": "ENTWICKLUNG"
+  },
+  "1593": {
+    "letter": "E",
+    "word": "IMPFSTOFF"
+  },
+  "1623": {
+    "letter": "D",
+    "word": "MORPHOLOGIE"
+  },
+  "1594": {
+    "letter": "B",
+    "word": "ZAHNARZT"
+  },
+  "1624": {
+    "letter": "A",
+    "word": "POSITION"
+  },
+  "1595": {
+    "letter": "C",
+    "word": "DEFIZIT"
+  },
+  "1625": {
+    "letter": "B",
+    "word": "TARNUNG"
+  },
+  "1596": {
+    "letter": "E",
+    "word": "DYNAMIK"
+  },
+  "1626": {
+    "letter": "E",
+    "word": "WITWER"
+  },
+  "1597": {
+    "letter": "A",
+    "word": "WEGWEISER"
+  },
+  "1627": {
+    "letter": "D",
+    "word": "KNOSPE"
+  },
+  "1598": {
+    "letter": "E",
+    "word": "MAGAZIN"
+  },
+  "1628": {
+    "letter": "B",
+    "word": "TRUGBILD"
+  },
+  "1599": {
+    "letter": "D",
+    "word": "MYTHOS"
+  },
+  "1629": {
+    "letter": "E",
+    "word": "WENDEPUNKT"
+  },
+  "1600": {
+    "letter": "B",
+    "word": "ISOLIERUNG"
+  },
+  "1630": {
+    "letter": "D",
+    "word": "FINANZIERUNG"
+  },
+  "1601": {
+    "letter": "A",
+    "word": "REPRESSION"
+  },
+  "1631": {
+    "letter": "E",
+    "word": "DOKTORARBEIT"
+  },
+  "1602": {
+    "letter": "B",
+    "word": "SCHAUPLATZ"
+  },
+  "1632": {
+    "letter": "A",
+    "word": "KERNKRAFTWERK"
+  },
+  "1603": {
+    "letter": "B",
+    "word": "RENOVIERUNG"
+  },
+  "1633": {
+    "letter": "C",
+    "word": "ORGANSPENDE"
+  },
+  "1604": {
+    "letter": "B",
+    "word": "HIERARCHIE"
+  },
+  "1634": {
+    "letter": "E",
+    "word": "DEKLARATION"
+  },
+  "1605": {
+    "letter": "A",
+    "word": "DENKWEISE"
+  },
+  "1635": {
+    "letter": "D",
+    "word": "KOFFER"
+  }
+}

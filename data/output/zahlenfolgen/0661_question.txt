@@ -1,0 +1,7 @@
+Zahlenfolge: 1 8 9 17 26 43 ? ?
+
+A) 51/59
+B) 179/291
+C) 181/293
+D) 182/295
+E) Keine der Antworten ist richtig

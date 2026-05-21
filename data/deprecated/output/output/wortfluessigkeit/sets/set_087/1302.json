@@ -1,0 +1,15 @@
+{
+  "id": 1302,
+  "set": 87,
+  "set_index": 12,
+  "answer": "C",
+  "answer_word": "THUNFISCH",
+  "options": {
+    "A": "I",
+    "B": "H",
+    "C": "T",
+    "D": "F",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H U N F T S C I H"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 67,
+  "set": 7,
+  "set_index": 7,
+  "answer": "C",
+  "answer_value": "36/151",
+  "explanation": "ZweiSysteme:[Fibonacci]und[2er-Sprung:+5]",
+  "sequence": "37 21 58 26 84 31 115 ? ?",
+  "options": {
+    "A": "45/163",
+    "B": "151/36",
+    "C": "36/151",
+    "D": "163/45",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

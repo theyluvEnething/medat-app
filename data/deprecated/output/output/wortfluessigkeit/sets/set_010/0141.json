@@ -1,0 +1,15 @@
+{
+  "id": 141,
+  "set": 10,
+  "set_index": 6,
+  "answer": "D",
+  "answer_word": "RICHTUNG",
+  "options": {
+    "A": "H",
+    "B": "I",
+    "C": "T",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H U G I N C R T"
+}

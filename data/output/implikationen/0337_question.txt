@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Sportler sind keine Nashörner.
+- Einige Nashörner sind keine Amseln.
+
+A) Alle Sportler sind Amseln.
+B) Einige Sportler sind keine Amseln.
+C) Alle Sportler sind keine Amseln.
+D) Einige Sportler sind Amseln.
+E) Keine der Schlussfolgerungen ist richtig.

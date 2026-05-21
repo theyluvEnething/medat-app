@@ -1,0 +1,14 @@
+{
+  "id": 154,
+  "set": 7,
+  "set_index": 4,
+  "answer": "B",
+  "text": "WievielePersonensindimSeptember geboren?",
+  "options": {
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "3",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

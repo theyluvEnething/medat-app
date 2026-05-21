@@ -1,0 +1,7 @@
+Zahlenfolge: -4 8 13 30 52 91 152 ? ?
+
+A) 409/274
+B) 252/404
+C) 252/413
+D) 413/252
+E) KeinederAntwortenistrichtig

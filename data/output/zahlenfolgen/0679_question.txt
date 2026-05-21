@@ -1,0 +1,7 @@
+Zahlenfolge: 13 26 39 52 65 78 ? ?
+
+A) 104/117
+B) 91/104
+C) 117/130
+D) 102/118
+E) Keine der Antworten ist richtig

@@ -1,0 +1,15 @@
+{
+  "id": 523,
+  "set": 35,
+  "set_index": 13,
+  "answer": "A",
+  "answer_word": "REGIERUNG",
+  "options": {
+    "A": "R",
+    "B": "E",
+    "C": "N",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R R U E E I G N G"
+}

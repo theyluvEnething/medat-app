@@ -1,0 +1,7 @@
+Zahlenfolge: -17 -26 -35 -44 -53 -62 ? ?
+
+A) -79/-90
+B) -80/-89
+C) -79/-91
+D) -81/-87
+E) Keine der Antworten ist richtig

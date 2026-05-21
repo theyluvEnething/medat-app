@@ -1,0 +1,15 @@
+{
+  "id": 33,
+  "set": 3,
+  "set_index": 3,
+  "answer": "D",
+  "answer_word": "NACHSCHUB",
+  "options": {
+    "A": "U",
+    "B": "C",
+    "C": "S",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U H C A B S N C H"
+}

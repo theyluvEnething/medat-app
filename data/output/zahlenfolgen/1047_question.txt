@@ -1,0 +1,7 @@
+Zahlenfolge: 23 27 33 41 51 63 ? ?
+
+A) 112/130
+B) 112/133
+C) 71/79
+D) 111/131
+E) Keine der Antworten ist richtig

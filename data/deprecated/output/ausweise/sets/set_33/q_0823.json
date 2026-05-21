@@ -1,0 +1,14 @@
+{
+  "id": 823,
+  "set": 33,
+  "set_index": 23,
+  "answer": "A",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitAllergiegegenOrangen?",
+  "options": {
+    "A": "Nordzypern",
+    "B": "Ghana",
+    "C": "Belgien",
+    "D": "Südsudan",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

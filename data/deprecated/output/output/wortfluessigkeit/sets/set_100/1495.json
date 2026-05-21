@@ -1,0 +1,15 @@
+{
+  "id": 1495,
+  "set": 100,
+  "set_index": 10,
+  "answer": "B",
+  "answer_word": "KUNSTRASEN",
+  "options": {
+    "A": "T",
+    "B": "K",
+    "C": "S",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R U K E N S S N T A"
+}

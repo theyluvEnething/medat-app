@@ -1,0 +1,14 @@
+{
+  "id": 119,
+  "set": 5,
+  "set_index": 19,
+  "answer": "C",
+  "text": "WelcheganzenAllergienhatdiePerson mitGeburtstagimJuniundBlutgruppeB?",
+  "options": {
+    "A": "Rindfleisch,Ketoprofen",
+    "B": "Henna,Tintenfische",
+    "C": "Zwiebeln,Nylon",
+    "D": "Fluorid,Sulfite,Levomethadon",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

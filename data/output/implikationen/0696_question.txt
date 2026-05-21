@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Sänger sind keine Vegetarier.
+- Alle Vegetarier sind keine Vasen.
+
+A) Einige Sänger sind Vasen.
+B) Alle Sänger sind keine Vasen.
+C) Alle Sänger sind Vasen.
+D) Einige Sänger sind keine Vasen.
+E) Keine der Schlussfolgerungen ist richtig.

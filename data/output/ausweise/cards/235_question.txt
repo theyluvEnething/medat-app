@@ -1,0 +1,7 @@
+Name: FAPROM
+Geburtstag: 7. März
+Medikamenteneinnahme: Ja
+Blutgruppe: AB
+Bekannte Allergien: Kokosnüsse, Amaranth
+Ausweisnummer: 99678
+Ausstellungsland: Tuvalu

@@ -1,0 +1,14 @@
+{
+  "id": 754,
+  "set": 31,
+  "set_index": 4,
+  "answer": "B",
+  "text": "WievielePersonensindallergischgegen Azorubin?",
+  "options": {
+    "A": "4",
+    "B": "0",
+    "C": "1",
+    "D": "3",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

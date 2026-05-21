@@ -1,0 +1,2 @@
+A — 225/364
+Jedes Glied = Summe der beiden Vorgänger

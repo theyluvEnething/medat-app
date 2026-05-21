@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Statuen sind Wölfe.
+- Alle Wölfe sind Klaviere.
+
+A) Alle Statuen sind Klaviere.
+B) Alle Statuen sind keine Klaviere.
+C) Einige Statuen sind Klaviere.
+D) Einige Statuen sind keine Klaviere.
+E) Keine der Schlussfolgerungen ist richtig.

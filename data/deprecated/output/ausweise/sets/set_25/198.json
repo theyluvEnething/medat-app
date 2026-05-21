@@ -1,0 +1,15 @@
+{
+  "id": 198,
+  "set": 25,
+  "set_index": 6,
+  "image": "198.png",
+  "fields": {
+    "Name": "JIRKOL",
+    "Geburtstag": "3. Oktober",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Paranüsse, Terpentin, Blei",
+    "Ausweisnummer": "48522",
+    "Ausstellungsland": "São Tomé und Príncipe"
+  }
+}

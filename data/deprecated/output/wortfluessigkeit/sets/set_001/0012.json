@@ -1,0 +1,15 @@
+{
+  "id": 12,
+  "set": 1,
+  "set_index": 12,
+  "answer": "E",
+  "answer_word": "BOMMEL",
+  "options": {
+    "A": "O",
+    "B": "E",
+    "C": "M",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "M L E O M B"
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Schriftsteller sind Ärzte.
+- Alle Ärzte sind Sportler.
+
+A) Einige Schriftsteller sind keine Sportler.
+B) Alle Schriftsteller sind keine Sportler.
+C) Alle Schriftsteller sind Sportler.
+D) Einige Schriftsteller sind Sportler.
+E) Keine der Schlussfolgerungen ist richtig.

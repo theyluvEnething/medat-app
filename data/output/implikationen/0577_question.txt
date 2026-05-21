@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Züge sind keine Diamanten.
+- Einige Diamanten sind Metalle.
+
+A) Einige Züge sind Metalle.
+B) Alle Züge sind Metalle.
+C) Alle Züge sind keine Metalle.
+D) Einige Züge sind keine Metalle.
+E) Keine der Schlussfolgerungen ist richtig.

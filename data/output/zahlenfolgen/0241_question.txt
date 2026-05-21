@@ -1,0 +1,7 @@
+Zahlenfolge: 10 11 14 19 26 35 ? ?
+
+A) 74/91
+B) 40/45
+C) 91/74
+D) 76/90
+E) Keine der Antworten ist richtig

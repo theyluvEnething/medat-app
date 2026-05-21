@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Säugetiere sind keine Diamanten.
+- Alle Diamanten sind Gemälde.
+
+A) Einige Säugetiere sind Gemälde.
+B) Alle Säugetiere sind keine Gemälde.
+C) Alle Säugetiere sind Gemälde.
+D) Einige Säugetiere sind keine Gemälde.
+E) Keine der Schlussfolgerungen ist richtig.

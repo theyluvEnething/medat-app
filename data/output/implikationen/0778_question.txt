@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Fische sind Nashörner.
+- Einige Nashörner sind Werkzeuge.
+
+A) Alle Fische sind Werkzeuge.
+B) Einige Fische sind Werkzeuge.
+C) Einige Fische sind keine Werkzeuge.
+D) Alle Fische sind keine Werkzeuge.
+E) Keine der Schlussfolgerungen ist richtig.

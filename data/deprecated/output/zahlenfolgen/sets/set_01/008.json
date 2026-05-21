@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "set": 1,
+  "set_index": 8,
+  "answer": "C",
+  "answer_value": "69/-80",
+  "explanation": "A₁-A₃=A₄,A₂-A₄=A₅,...",
+  "sequence": "7 18 38 -31 49 -11 -20 ? ?",
+  "options": {
+    "A": "69/-103",
+    "B": "58/-72",
+    "C": "69/-80",
+    "D": "69/-73",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

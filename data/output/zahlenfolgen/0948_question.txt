@@ -1,0 +1,7 @@
+Zahlenfolge: -4 9 22 35 48 61 ? ?
+
+A) 89/102
+B) 85/102
+C) 87/100
+D) 100/113
+E) Keine der Antworten ist richtig

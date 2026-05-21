@@ -1,0 +1,15 @@
+{
+  "id": 131,
+  "set": 17,
+  "set_index": 3,
+  "image": "131.png",
+  "fields": {
+    "Name": "TRINSLO",
+    "Geburtstag": "28. April",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Oxaceprol, Esskastanie",
+    "Ausweisnummer": "78348",
+    "Ausstellungsland": "Simbabwe"
+  }
+}

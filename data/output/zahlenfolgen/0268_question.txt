@@ -1,0 +1,7 @@
+Zahlenfolge: 2 6 12 36 72 216 ? ?
+
+A) 2594/7775
+B) 2592/7776
+C) 2593/7774
+D) 2634/7818
+E) Keine der Antworten ist richtig

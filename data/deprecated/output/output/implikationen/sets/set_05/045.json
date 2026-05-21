@@ -1,0 +1,18 @@
+{
+  "id": 45,
+  "set": 5,
+  "set_index": 5,
+  "answer": "B",
+  "premises": [
+    "AlleBlättersindkeineRezepte.",
+    "AlleApothekensindBlätter.",
+    "6"
+  ],
+  "conclusions": {
+    "A": "AlleRezeptesindApotheken.",
+    "B": "AlleRezeptesindkeineApotheken.",
+    "C": "EinigeRezeptesindApotheken.",
+    "D": "EinigeRezeptesindkeineApotheken.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

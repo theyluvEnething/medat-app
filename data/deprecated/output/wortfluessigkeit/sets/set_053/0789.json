@@ -1,0 +1,15 @@
+{
+  "id": 789,
+  "set": 53,
+  "set_index": 9,
+  "answer": "B",
+  "answer_word": "WOLFSRUDEL",
+  "options": {
+    "A": "F",
+    "B": "W",
+    "C": "E",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "F D L W E U L S O R"
+}

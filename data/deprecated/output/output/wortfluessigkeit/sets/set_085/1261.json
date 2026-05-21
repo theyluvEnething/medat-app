@@ -1,0 +1,15 @@
+{
+  "id": 1261,
+  "set": 85,
+  "set_index": 1,
+  "answer": "E",
+  "answer_word": "OPTIMIERUNG",
+  "options": {
+    "A": "M",
+    "B": "N",
+    "C": "E",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "M E P U I G R I O T N"
+}

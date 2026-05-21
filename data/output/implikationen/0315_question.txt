@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Menschen sind keine Amseln.
+- Einige Amseln sind keine Orchideen.
+
+A) Alle Menschen sind keine Orchideen.
+B) Einige Menschen sind Orchideen.
+C) Einige Menschen sind keine Orchideen.
+D) Alle Menschen sind Orchideen.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,15 @@
+{
+  "id": 80,
+  "set": 6,
+  "set_index": 5,
+  "answer": "D",
+  "answer_word": "HOTELKETTE",
+  "options": {
+    "A": "E",
+    "B": "T",
+    "C": "K",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T E K L T E E T O H"
+}

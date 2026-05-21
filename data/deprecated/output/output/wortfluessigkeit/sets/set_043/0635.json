@@ -1,0 +1,15 @@
+{
+  "id": 635,
+  "set": 43,
+  "set_index": 5,
+  "answer": "A",
+  "answer_word": "BRETTSPORT",
+  "options": {
+    "A": "B",
+    "B": "P",
+    "C": "T",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "B P T T S T O R E R"
+}

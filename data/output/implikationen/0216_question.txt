@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Schlangen sind keine Schiffe.
+- Alle Schiffe sind keine Amphibien.
+
+A) Alle Schlangen sind keine Amphibien.
+B) Einige Schlangen sind Amphibien.
+C) Alle Schlangen sind Amphibien.
+D) Einige Schlangen sind keine Amphibien.
+E) Keine der Schlussfolgerungen ist richtig.

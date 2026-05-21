@@ -1,0 +1,15 @@
+{
+  "id": 1416,
+  "set": 95,
+  "set_index": 6,
+  "answer": "B",
+  "answer_word": "STROMSCHLAG",
+  "options": {
+    "A": "T",
+    "B": "S",
+    "C": "R",
+    "D": "M",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C T G L S A O S H R M"
+}

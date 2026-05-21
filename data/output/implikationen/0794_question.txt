@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Sportler sind Dichter.
+- Alle Dichter sind keine Marder.
+
+A) Einige Sportler sind Marder.
+B) Alle Sportler sind Marder.
+C) Alle Sportler sind keine Marder.
+D) Einige Sportler sind keine Marder.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Mathematiker sind Amseln.
+- Alle Amseln sind Hunde.
+
+A) Einige Mathematiker sind Hunde.
+B) Alle Mathematiker sind Hunde.
+C) Einige Mathematiker sind keine Hunde.
+D) Alle Mathematiker sind keine Hunde.
+E) Keine der Schlussfolgerungen ist richtig.

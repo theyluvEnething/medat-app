@@ -1,0 +1,15 @@
+{
+  "id": 1443,
+  "set": 97,
+  "set_index": 3,
+  "answer": "B",
+  "answer_word": "CAMPINGPLATZ",
+  "options": {
+    "A": "L",
+    "B": "C",
+    "C": "P",
+    "D": "M",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "G L P A M Z C T P I A N"
+}

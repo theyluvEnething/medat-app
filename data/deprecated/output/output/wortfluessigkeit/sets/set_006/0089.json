@@ -1,0 +1,15 @@
+{
+  "id": 89,
+  "set": 6,
+  "set_index": 14,
+  "answer": "C",
+  "answer_word": "HAUTKREBS",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "H",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R B U E H S K T A"
+}

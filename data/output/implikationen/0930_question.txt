@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Lehrer sind Tomaten.
+- Einige Tomaten sind keine Kupfer.
+
+A) Einige Lehrer sind Kupfer.
+B) Alle Lehrer sind keine Kupfer.
+C) Alle Lehrer sind Kupfer.
+D) Einige Lehrer sind keine Kupfer.
+E) Keine der Schlussfolgerungen ist richtig.

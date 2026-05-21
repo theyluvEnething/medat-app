@@ -1,0 +1,14 @@
+{
+  "id": 732,
+  "set": 30,
+  "set_index": 7,
+  "answer": "E",
+  "text": "WelcheganzenAllergienhatdiePerson mitdemNamenIRKBIZ?",
+  "options": {
+    "A": "Textilien,Amaranth,Thiomersal",
+    "B": "Erdbeeren,Heringe",
+    "C": "Kiefer,Bananen,Thunfisch",
+    "D": "Kokosnüsse,Amaranth",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

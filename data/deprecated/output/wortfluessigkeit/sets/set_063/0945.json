@@ -1,0 +1,15 @@
+{
+  "id": 945,
+  "set": 63,
+  "set_index": 15,
+  "answer": "C",
+  "answer_word": "JAPANER",
+  "options": {
+    "A": "A",
+    "B": "P",
+    "C": "J",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "J P R A E A N"
+}

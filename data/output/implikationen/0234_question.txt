@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Bücher sind Tiger.
+- Einige Tiger sind Quartette.
+
+A) Einige Bücher sind Quartette.
+B) Alle Bücher sind keine Quartette.
+C) Alle Bücher sind Quartette.
+D) Einige Bücher sind keine Quartette.
+E) Keine der Schlussfolgerungen ist richtig.

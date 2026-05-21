@@ -1,0 +1,17 @@
+{
+  "id": 58,
+  "set": 6,
+  "set_index": 8,
+  "answer": "C",
+  "premises": [
+    "AlleLungensindNieren.",
+    "AlleLungensindHerzen."
+  ],
+  "conclusions": {
+    "A": "AlleHerzensindNieren.",
+    "B": "AlleHerzensindkeineNieren.",
+    "C": "EinigeHerzensindNieren.",
+    "D": "EinigeHerzensindkeineNieren.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

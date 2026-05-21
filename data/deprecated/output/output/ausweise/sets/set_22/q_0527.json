@@ -1,0 +1,14 @@
+{
+  "id": 527,
+  "set": 22,
+  "set_index": 2,
+  "answer": "E",
+  "text": "WannistderGeburtstagderPersonmit AusstellungslandEstlandunddem Geschlechtweiblich?",
+  "options": {
+    "A": "25.Mai",
+    "B": "26.August",
+    "C": "26.Oktober",
+    "D": "10.Juni",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

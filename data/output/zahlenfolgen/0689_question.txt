@@ -1,0 +1,7 @@
+Zahlenfolge: 7 14 21 35 56 91 ? ?
+
+A) 385/623
+B) 107/123
+C) 387/624
+D) 384/625
+E) Keine der Antworten ist richtig

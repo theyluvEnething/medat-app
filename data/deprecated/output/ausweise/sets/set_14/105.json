@@ -1,0 +1,15 @@
+{
+  "id": 105,
+  "set": 14,
+  "set_index": 1,
+  "image": "105.png",
+  "fields": {
+    "Name": "JUMPRAN",
+    "Geburtstag": "12. Mai",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Ovalbumin, Passionsfrucht",
+    "Ausweisnummer": "23393",
+    "Ausstellungsland": "Tansania"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 712,
+  "set": 48,
+  "set_index": 7,
+  "answer": "A",
+  "answer_word": "PROTAGONIST",
+  "options": {
+    "A": "P",
+    "B": "N",
+    "C": "I",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "G P N T T S A R O O I"
+}

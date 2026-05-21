@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Wale sind keine Glühbirnen.
+- Einige Glühbirnen sind keine Maler.
+
+A) Alle Wale sind keine Maler.
+B) Einige Wale sind keine Maler.
+C) Alle Wale sind Maler.
+D) Einige Wale sind Maler.
+E) Keine der Schlussfolgerungen ist richtig.

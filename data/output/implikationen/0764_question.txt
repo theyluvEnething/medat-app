@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Radios sind keine Vögel.
+- Alle Vögel sind Smartphones.
+
+A) Alle Radios sind keine Smartphones.
+B) Alle Radios sind Smartphones.
+C) Einige Radios sind Smartphones.
+D) Einige Radios sind keine Smartphones.
+E) Keine der Schlussfolgerungen ist richtig.

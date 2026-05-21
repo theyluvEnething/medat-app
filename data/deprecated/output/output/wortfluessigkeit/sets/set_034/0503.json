@@ -1,0 +1,15 @@
+{
+  "id": 503,
+  "set": 34,
+  "set_index": 8,
+  "answer": "E",
+  "answer_word": "SAFRAN",
+  "options": {
+    "A": "F",
+    "B": "N",
+    "C": "A",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A N A R S F"
+}

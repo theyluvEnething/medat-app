@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "set": 1,
+  "set_index": 3,
+  "answer": "B",
+  "text": "WelcheBlutgruppehatdiePersonmit Ausweisnummer98185?",
+  "options": {
+    "A": "A",
+    "B": "0",
+    "C": "AB",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 204,
+  "set": 14,
+  "set_index": 9,
+  "answer": "A",
+  "answer_word": "ATTRAKTION",
+  "options": {
+    "A": "A",
+    "B": "O",
+    "C": "R",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A R O K T T N T A I"
+}

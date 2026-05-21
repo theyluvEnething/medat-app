@@ -1,0 +1,15 @@
+{
+  "id": 1268,
+  "set": 85,
+  "set_index": 8,
+  "answer": "C",
+  "answer_word": "RADFAHRER",
+  "options": {
+    "A": "H",
+    "B": "A",
+    "C": "R",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "D A R A R E R H F"
+}

@@ -1,0 +1,7 @@
+Zahlenfolge: 2 0 0 -2 -4 -6 ? ?
+
+A) -8/-10
+B) -26/-28
+C) -29/-31
+D) -28/-30
+E) Keine der Antworten ist richtig

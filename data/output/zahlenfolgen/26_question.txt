@@ -1,0 +1,7 @@
+Zahlenfolge: 43 -23 56 -35 65 -47 70 ? ?
+
+A) -80/77
+B) 61/-79
+C) -59/71
+D) 77/-80
+E) KeinederAntwortenistrichtig

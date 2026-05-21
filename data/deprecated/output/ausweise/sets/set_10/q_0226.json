@@ -1,0 +1,14 @@
+{
+  "id": 226,
+  "set": 10,
+  "set_index": 1,
+  "answer": "A",
+  "text": "WelcheganzenAllergienhatdiePerson mitBlutgruppeABundGeburtstagam 16.desMonats?",
+  "options": {
+    "A": "Pollen",
+    "B": "Katzenhaare",
+    "C": "Nitrit,Katzenhaare,Oregano",
+    "D": "Tomaten,Milben,Oregano",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

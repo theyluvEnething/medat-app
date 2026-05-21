@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Sportler sind Dinosaurier.
+- Einige Dinosaurier sind Ärzte.
+
+A) Alle Sportler sind Ärzte.
+B) Einige Sportler sind keine Ärzte.
+C) Alle Sportler sind keine Ärzte.
+D) Einige Sportler sind Ärzte.
+E) Keine der Schlussfolgerungen ist richtig.

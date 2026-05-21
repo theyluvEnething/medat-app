@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Vögel sind keine Säugetiere.
+- Alle Säugetiere sind keine Bücher.
+
+A) Einige Vögel sind Bücher.
+B) Einige Vögel sind keine Bücher.
+C) Alle Vögel sind Bücher.
+D) Alle Vögel sind keine Bücher.
+E) Keine der Schlussfolgerungen ist richtig.

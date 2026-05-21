@@ -1,0 +1,15 @@
+{
+  "id": 329,
+  "set": 22,
+  "set_index": 14,
+  "answer": "C",
+  "answer_word": "LACHGAS",
+  "options": {
+    "A": "G",
+    "B": "S",
+    "C": "L",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H L G A S C A"
+}

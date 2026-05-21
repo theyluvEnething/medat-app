@@ -1,0 +1,7 @@
+Zahlenfolge: 9 17 18 13 27 9 ? ?
+
+A) 45/1
+B) 44/-1
+C) 44/0
+D) 18/18
+E) Keine der Antworten ist richtig

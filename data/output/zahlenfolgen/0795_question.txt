@@ -1,0 +1,7 @@
+Zahlenfolge: -6 5 -16 13 -26 21 ? ?
+
+A) -41/42
+B) -45/38
+C) -47/39
+D) -46/37
+E) Keine der Antworten ist richtig

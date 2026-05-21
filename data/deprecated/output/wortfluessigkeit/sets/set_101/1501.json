@@ -1,0 +1,15 @@
+{
+  "id": 1501,
+  "set": 101,
+  "set_index": 1,
+  "answer": "B",
+  "answer_word": "AUSSTELLUNG",
+  "options": {
+    "A": "U",
+    "B": "A",
+    "C": "N",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L U N E U S A G S T L"
+}

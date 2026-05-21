@@ -1,0 +1,7 @@
+Zahlenfolge: 8 9 12 17 24 33 ? ?
+
+A) 72/89
+B) 71/91
+C) 73/88
+D) 70/90
+E) Keine der Antworten ist richtig

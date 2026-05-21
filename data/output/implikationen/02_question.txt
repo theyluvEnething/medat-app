@@ -1,0 +1,9 @@
+Prämissen:
+- AlleAbfällesindTonnen.
+- EinigeSäckesindkeineAbfälle.
+
+A) AlleTonnensindSäcke.
+B) AlleTonnensindkeineSäcke.
+C) EinigeTonnensindSäcke.
+D) EinigeTonnensindkeineSäcke.
+E) KeinederSchlussfolgerungenistrichtig.

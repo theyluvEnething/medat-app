@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Wale sind Tabletten.
+- Alle Tabletten sind Smartphones.
+
+A) Einige Wale sind keine Smartphones.
+B) Alle Wale sind Smartphones.
+C) Alle Wale sind keine Smartphones.
+D) Einige Wale sind Smartphones.
+E) Keine der Schlussfolgerungen ist richtig.

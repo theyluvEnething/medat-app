@@ -1,0 +1,9 @@
+Prämissen:
+- AlleArtikelsindMeinungen.
+- AlleNachrichtensindkeineArtikel.
+
+A) AlleMeinungensindNachrichten.
+B) AlleMeinungensindkeineNachrichten.
+C) EinigeMeinungensindNachrichten.
+D) EinigeMeinungensindkeineNachrichten.
+E) KeinederSchlussfolgerungenistrichtig.

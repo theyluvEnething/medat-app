@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Nashörner sind keine Insekten.
+- Einige Insekten sind Dinosaurier.
+
+A) Einige Nashörner sind keine Dinosaurier.
+B) Einige Nashörner sind Dinosaurier.
+C) Alle Nashörner sind keine Dinosaurier.
+D) Alle Nashörner sind Dinosaurier.
+E) Keine der Schlussfolgerungen ist richtig.

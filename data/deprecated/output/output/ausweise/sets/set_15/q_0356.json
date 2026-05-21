@@ -1,0 +1,14 @@
+{
+  "id": 356,
+  "set": 15,
+  "set_index": 6,
+  "answer": "B",
+  "text": "WelcheBlutgruppehatdiePersonmit Ausweisnummer57509?",
+  "options": {
+    "A": "0",
+    "B": "A",
+    "C": "AB",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

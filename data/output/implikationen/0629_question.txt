@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Schriftsteller sind Tiger.
+- Einige Tiger sind Amseln.
+
+A) Einige Schriftsteller sind keine Amseln.
+B) Alle Schriftsteller sind keine Amseln.
+C) Alle Schriftsteller sind Amseln.
+D) Einige Schriftsteller sind Amseln.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "set": 1,
+  "set_index": 1,
+  "answer": "D",
+  "premises": [
+    "EinigeZSsindkeineNZ.",
+    "AlleZLIsindNZ."
+  ],
+  "conclusions": {
+    "A": "AlleZSsindZLI.",
+    "B": "AlleZSsindkeineZLI.",
+    "C": "EinigeZSsindZLI.",
+    "D": "EinigeZSsindkeineZLI.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

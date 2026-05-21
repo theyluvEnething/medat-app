@@ -1,0 +1,7 @@
+Zahlenfolge: 89 97 101 103 107 109 ? ?
+
+A) 135/141
+B) 131/137
+C) 137/131
+D) 130/135
+E) Keine der Antworten ist richtig

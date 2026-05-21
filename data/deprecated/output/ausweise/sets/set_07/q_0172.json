@@ -1,0 +1,14 @@
+{
+  "id": 172,
+  "set": 7,
+  "set_index": 22,
+  "answer": "E",
+  "text": "WannistderGeburtstagderPersonmit Ausweisnummer16443?",
+  "options": {
+    "A": "21.März",
+    "B": "26.Juni",
+    "C": "14.September",
+    "D": "7.September",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

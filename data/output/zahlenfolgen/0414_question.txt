@@ -1,0 +1,7 @@
+Zahlenfolge: -11 1 13 25 37 49 ? ?
+
+A) 75/86
+B) 73/85
+C) 72/83
+D) 75/87
+E) Keine der Antworten ist richtig

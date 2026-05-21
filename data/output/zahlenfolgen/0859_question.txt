@@ -1,0 +1,7 @@
+Zahlenfolge: 13 10 20 17 34 31 ? ?
+
+A) 34/37
+B) 120/114
+C) 118/115
+D) 119/114
+E) Keine der Antworten ist richtig

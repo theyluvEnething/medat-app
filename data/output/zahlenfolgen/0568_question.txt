@@ -1,0 +1,7 @@
+Zahlenfolge: 24 33 42 51 60 69 ? ?
+
+A) 89/94
+B) 87/96
+C) 86/94
+D) 89/98
+E) Keine der Antworten ist richtig

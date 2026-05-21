@@ -1,0 +1,7 @@
+Zahlenfolge: 3 3 6 9 15 24 ? ?
+
+A) 102/165
+B) 165/102
+C) 101/163
+D) 28/32
+E) Keine der Antworten ist richtig

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Pilze sind keine Amphibien.
+- Alle Amphibien sind Gräser.
+
+A) Alle Pilze sind Gräser.
+B) Einige Pilze sind keine Gräser.
+C) Einige Pilze sind Gräser.
+D) Alle Pilze sind keine Gräser.
+E) Keine der Schlussfolgerungen ist richtig.

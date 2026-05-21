@@ -1,0 +1,15 @@
+{
+  "id": 546,
+  "set": 37,
+  "set_index": 6,
+  "answer": "B",
+  "answer_word": "PASSIV",
+  "options": {
+    "A": "V",
+    "B": "P",
+    "C": "A",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S V A P I S"
+}

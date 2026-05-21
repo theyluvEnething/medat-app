@@ -1,0 +1,14 @@
+{
+  "id": 208,
+  "set": 9,
+  "set_index": 8,
+  "answer": "C",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusstellungslandGambia?",
+  "options": {
+    "A": "Zucchini,Anis",
+    "B": "Fruchtzucker",
+    "C": "Sonne,Gelatine,Phosphate",
+    "D": "Knoblauch,Kupfer,Krebstiere",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

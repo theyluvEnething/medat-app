@@ -1,0 +1,7 @@
+Zahlenfolge: 11 16 2 25 -7 34 ? ?
+
+A) -25/52
+B) -27/54
+C) -21/56
+D) -23/50
+E) Keine der Antworten ist richtig

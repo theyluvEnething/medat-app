@@ -1,0 +1,14 @@
+{
+  "id": 621,
+  "set": 25,
+  "set_index": 21,
+  "answer": "A",
+  "text": "WelcheBlutgruppehatdiePersonmit AllergiegegenParanüsse,Terpentinund Blei?",
+  "options": {
+    "A": "B",
+    "B": "A",
+    "C": "0",
+    "D": "AB",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

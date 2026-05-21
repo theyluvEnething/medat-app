@@ -1,0 +1,7 @@
+Zahlenfolge: 17 8 25 33 58 91 ? ?
+
+A) 391/630
+B) 389/629
+C) 182/196
+D) 105/119
+E) Keine der Antworten ist richtig

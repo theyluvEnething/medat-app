@@ -1,0 +1,7 @@
+Zahlenfolge: 5 10 20 40 80 160 ? ?
+
+A) 639/1278
+B) 320/351
+C) 640/1280
+D) 639/1279
+E) Keine der Antworten ist richtig

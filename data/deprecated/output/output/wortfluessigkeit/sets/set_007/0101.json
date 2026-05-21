@@ -1,0 +1,15 @@
+{
+  "id": 101,
+  "set": 7,
+  "set_index": 11,
+  "answer": "C",
+  "answer_word": "KLIMMZUG",
+  "options": {
+    "A": "U",
+    "B": "G",
+    "C": "K",
+    "D": "M",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I G M M U K L Z"
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Stühle sind keine Anwälte.
+- Alle Anwälte sind Vögel.
+
+A) Einige Stühle sind keine Vögel.
+B) Alle Stühle sind keine Vögel.
+C) Alle Stühle sind Vögel.
+D) Einige Stühle sind Vögel.
+E) Keine der Schlussfolgerungen ist richtig.

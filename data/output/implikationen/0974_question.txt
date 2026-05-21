@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Politiker sind Schlangen.
+- Alle Schlangen sind Kätzchen.
+
+A) Alle Politiker sind Kätzchen.
+B) Alle Politiker sind keine Kätzchen.
+C) Einige Politiker sind keine Kätzchen.
+D) Einige Politiker sind Kätzchen.
+E) Keine der Schlussfolgerungen ist richtig.

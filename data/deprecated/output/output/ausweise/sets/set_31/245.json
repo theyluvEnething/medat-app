@@ -1,0 +1,15 @@
+{
+  "id": 245,
+  "set": 31,
+  "set_index": 5,
+  "image": "245.png",
+  "fields": {
+    "Name": "KIDZIFO",
+    "Geburtstag": "31. Dezember",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Spitzwegerich, Phytosterine,",
+    "Ausweisnummer": "89734",
+    "Ausstellungsland": "Arzach"
+  }
+}

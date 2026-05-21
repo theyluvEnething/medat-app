@@ -1,0 +1,14 @@
+{
+  "id": 906,
+  "set": 37,
+  "set_index": 6,
+  "answer": "E",
+  "text": "WieheißtdiePersonmitAllergiegegen Iod?",
+  "options": {
+    "A": "JEWRASD",
+    "B": "BORXINT",
+    "C": "MAUKFOR",
+    "D": "MIKRULD",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

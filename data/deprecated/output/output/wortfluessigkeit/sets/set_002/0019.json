@@ -1,0 +1,15 @@
+{
+  "id": 19,
+  "set": 2,
+  "set_index": 4,
+  "answer": "C",
+  "answer_word": "KODEX",
+  "options": {
+    "A": "X",
+    "B": "D",
+    "C": "K",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O X D K E"
+}

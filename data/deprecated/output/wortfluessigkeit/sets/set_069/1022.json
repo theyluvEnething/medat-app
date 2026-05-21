@@ -1,0 +1,15 @@
+{
+  "id": 1022,
+  "set": 69,
+  "set_index": 2,
+  "answer": "D",
+  "answer_word": "TRANSLATION",
+  "options": {
+    "A": "A",
+    "B": "O",
+    "C": "R",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N R S O I A A T L N T"
+}

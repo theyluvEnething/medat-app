@@ -1,0 +1,15 @@
+{
+  "id": 809,
+  "set": 54,
+  "set_index": 14,
+  "answer": "A",
+  "answer_word": "KONZERT",
+  "options": {
+    "A": "K",
+    "B": "Z",
+    "C": "E",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E N K O R T Z"
+}

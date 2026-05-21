@@ -1,0 +1,15 @@
+{
+  "id": 1143,
+  "set": 77,
+  "set_index": 3,
+  "answer": "E",
+  "answer_word": "GOLDGRUBE",
+  "options": {
+    "A": "B",
+    "B": "E",
+    "C": "D",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L D G B O G E R U"
+}

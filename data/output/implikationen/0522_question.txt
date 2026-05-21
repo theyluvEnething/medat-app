@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Pilze sind Uhren.
+- Alle Uhren sind keine Amphibien.
+
+A) Einige Pilze sind keine Amphibien.
+B) Alle Pilze sind Amphibien.
+C) Einige Pilze sind Amphibien.
+D) Alle Pilze sind keine Amphibien.
+E) Keine der Schlussfolgerungen ist richtig.

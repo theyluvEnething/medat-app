@@ -1,0 +1,15 @@
+{
+  "id": 1459,
+  "set": 98,
+  "set_index": 4,
+  "answer": "B",
+  "answer_word": "VERWIRRUNG",
+  "options": {
+    "A": "I",
+    "B": "V",
+    "C": "U",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I G W R U V R N E R"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 44,
+  "set": 6,
+  "set_index": 4,
+  "image": "044.png",
+  "fields": {
+    "Name": "ULIFALKI",
+    "Geburtstag": "31. Juli",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Litschi, Knollensellerie,",
+    "Ausweisnummer": "92543",
+    "Ausstellungsland": "Palau"
+  }
+}

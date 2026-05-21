@@ -1,0 +1,15 @@
+{
+  "id": 436,
+  "set": 30,
+  "set_index": 1,
+  "answer": "B",
+  "answer_word": "VORLAGE",
+  "options": {
+    "A": "O",
+    "B": "V",
+    "C": "L",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R L V A O E G"
+}

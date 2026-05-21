@@ -1,0 +1,14 @@
+{
+  "id": 285,
+  "set": 12,
+  "set_index": 10,
+  "answer": "C",
+  "text": "WievielePersonensindallergischgegen Retinol?",
+  "options": {
+    "A": "1",
+    "B": "4",
+    "C": "2",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

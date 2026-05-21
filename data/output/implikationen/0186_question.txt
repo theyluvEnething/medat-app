@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Tannen sind Sänger.
+- Einige Sänger sind keine Eichen.
+
+A) Alle Tannen sind keine Eichen.
+B) Alle Tannen sind Eichen.
+C) Einige Tannen sind Eichen.
+D) Einige Tannen sind keine Eichen.
+E) Keine der Schlussfolgerungen ist richtig.

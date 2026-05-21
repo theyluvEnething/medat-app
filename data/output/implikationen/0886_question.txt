@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Elektroautos sind keine Kätzchen.
+- Einige Kätzchen sind keine Mammute.
+
+A) Einige Elektroautos sind Mammute.
+B) Alle Elektroautos sind Mammute.
+C) Einige Elektroautos sind keine Mammute.
+D) Alle Elektroautos sind keine Mammute.
+E) Keine der Schlussfolgerungen ist richtig.

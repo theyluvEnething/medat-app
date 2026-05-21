@@ -1,0 +1,15 @@
+{
+  "id": 831,
+  "set": 56,
+  "set_index": 6,
+  "answer": "B",
+  "answer_word": "EMPFEHLUNG",
+  "options": {
+    "A": "N",
+    "B": "E",
+    "C": "F",
+    "D": "M",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N U P L F M H E E G"
+}

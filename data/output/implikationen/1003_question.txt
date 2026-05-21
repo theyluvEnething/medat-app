@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Hunde sind keine Schauspieler.
+- Einige Schauspieler sind Sänger.
+
+A) Einige Hunde sind Sänger.
+B) Alle Hunde sind Sänger.
+C) Alle Hunde sind keine Sänger.
+D) Einige Hunde sind keine Sänger.
+E) Keine der Schlussfolgerungen ist richtig.

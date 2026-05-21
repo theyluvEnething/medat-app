@@ -1,0 +1,14 @@
+{
+  "id": 222,
+  "set": 9,
+  "set_index": 22,
+  "answer": "B",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitdemNamenOMBRAK?",
+  "options": {
+    "A": "Mikronesien",
+    "B": "Island",
+    "C": "Gambia",
+    "D": "DominikanischeRepublik",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

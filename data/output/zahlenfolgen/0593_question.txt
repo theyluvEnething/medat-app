@@ -1,0 +1,7 @@
+Zahlenfolge: 15 20 40 45 90 95 ? ?
+
+A) 392/393
+B) 388/396
+C) 388/393
+D) 390/395
+E) Keine der Antworten ist richtig

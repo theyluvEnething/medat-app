@@ -1,0 +1,15 @@
+{
+  "id": 111,
+  "set": 8,
+  "set_index": 6,
+  "answer": "A",
+  "answer_word": "ANRUF",
+  "options": {
+    "A": "A",
+    "B": "U",
+    "C": "F",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U N A F R"
+}

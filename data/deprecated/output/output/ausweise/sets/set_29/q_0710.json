@@ -1,0 +1,14 @@
+{
+  "id": 710,
+  "set": 29,
+  "set_index": 10,
+  "answer": "E",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusstellungslandSt.KittsundNevis?",
+  "options": {
+    "A": "Rosen,Kokosnüsse,Chrom",
+    "B": "Phoma,Zwiebeln",
+    "C": "Ethylalkohol",
+    "D": "Rosen,Ketoprofen",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

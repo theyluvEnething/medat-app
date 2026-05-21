@@ -1,0 +1,7 @@
+Zahlenfolge: 5 10 15 20 25 30 ? ?
+
+A) 41/47
+B) 38/44
+C) 41/44
+D) 40/45
+E) Keine der Antworten ist richtig

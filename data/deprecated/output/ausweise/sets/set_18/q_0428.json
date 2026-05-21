@@ -1,0 +1,14 @@
+{
+  "id": 428,
+  "set": 18,
+  "set_index": 3,
+  "answer": "D",
+  "text": "WelcheganzenAllergienhatdiePerson mitdem30.MaialsGeburtstag?",
+  "options": {
+    "A": "Sellerie,Garnelen",
+    "B": "Blei,Ethylalkohol,Kamille",
+    "C": "Aceclofenac,Schwefeldioxid",
+    "D": "Kamut,Karpfen,Plastik",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

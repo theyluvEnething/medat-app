@@ -1,0 +1,9 @@
+Prämissen:
+- AlleStraßensindBrücken.
+- EinigeTunnelsindkeineBrücken.
+
+A) AlleStraßensindTunnel.
+B) AlleStraßensindkeineTunnel.
+C) EinigeStraßensindTunnel.
+D) EinigeStraßensindkeineTunnel.
+E) KeinederSchlussfolgerungenistrichtig.

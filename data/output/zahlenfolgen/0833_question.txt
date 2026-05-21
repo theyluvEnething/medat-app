@@ -1,0 +1,7 @@
+Zahlenfolge: 24 16 8 0 -8 -16 ? ?
+
+A) -33/-39
+B) -40/-32
+C) -34/-39
+D) -32/-40
+E) Keine der Antworten ist richtig

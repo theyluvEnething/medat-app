@@ -1,0 +1,9 @@
+Prämissen:
+- AlleAnfängersindSchüler.
+- AlleSchülersindStudenten.
+
+A) AlleStudentensindAnfänger.
+B) AlleStudentensindkeineAnfänger.
+C) EinigeStudentensindAnfänger.
+D) EinigeStudentensindkeineAnfänger.
+E) KeinederSchlussfolgerungenistrichtig.

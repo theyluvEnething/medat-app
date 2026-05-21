@@ -1,0 +1,7 @@
+Zahlenfolge: 23 26 33 44 59 78 ? ?
+
+A) 159/194
+B) 158/193
+C) 157/193
+D) 160/195
+E) Keine der Antworten ist richtig

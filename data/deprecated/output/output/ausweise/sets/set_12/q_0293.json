@@ -1,0 +1,14 @@
+{
+  "id": 293,
+  "set": 12,
+  "set_index": 18,
+  "answer": "C",
+  "text": "WievielePersonensindallergischgegen Hornissengift?",
+  "options": {
+    "A": "1",
+    "B": "4",
+    "C": "2",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

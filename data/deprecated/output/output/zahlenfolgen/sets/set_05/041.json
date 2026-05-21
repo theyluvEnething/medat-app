@@ -1,0 +1,16 @@
+{
+  "id": 41,
+  "set": 5,
+  "set_index": 1,
+  "answer": "D",
+  "answer_value": "104/221",
+  "explanation": "ZweiSysteme:[-13]und[Fibonacci]",
+  "sequence": "26 13 39 26 65 52 117 ? ?",
+  "options": {
+    "A": "114/213",
+    "B": "104/218",
+    "C": "213/92",
+    "D": "104/221",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

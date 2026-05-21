@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Elektroautos sind Teleskope.
+- Alle Teleskope sind Skulpturen.
+
+A) Alle Elektroautos sind keine Skulpturen.
+B) Alle Elektroautos sind Skulpturen.
+C) Einige Elektroautos sind Skulpturen.
+D) Einige Elektroautos sind keine Skulpturen.
+E) Keine der Schlussfolgerungen ist richtig.

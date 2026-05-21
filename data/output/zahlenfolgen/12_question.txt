@@ -1,0 +1,7 @@
+Zahlenfolge: 46 56 102 105 207 216 423 ? ?
+
+A) 855/432
+B) 432/860
+C) 422/847
+D) 423/855
+E) KeinederAntwortenistrichtig

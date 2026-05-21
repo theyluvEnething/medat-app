@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Giraffen sind keine Werkzeuge.
+- Alle Werkzeuge sind Tabletten.
+
+A) Einige Giraffen sind keine Tabletten.
+B) Einige Giraffen sind Tabletten.
+C) Alle Giraffen sind Tabletten.
+D) Alle Giraffen sind keine Tabletten.
+E) Keine der Schlussfolgerungen ist richtig.

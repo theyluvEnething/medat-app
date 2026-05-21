@@ -1,0 +1,15 @@
+{
+  "id": 3,
+  "set": 1,
+  "set_index": 3,
+  "image": "003.png",
+  "fields": {
+    "Name": "OSOOMO",
+    "Geburtstag": "4. November",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Terpentin, Joghurt,",
+    "Ausweisnummer": "81942",
+    "Ausstellungsland": "Grenada"
+  }
+}

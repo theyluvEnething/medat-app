@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Säugetiere sind keine Tannen.
+- Einige Tannen sind keine Möbel.
+
+A) Einige Säugetiere sind keine Möbel.
+B) Alle Säugetiere sind Möbel.
+C) Einige Säugetiere sind Möbel.
+D) Alle Säugetiere sind keine Möbel.
+E) Keine der Schlussfolgerungen ist richtig.

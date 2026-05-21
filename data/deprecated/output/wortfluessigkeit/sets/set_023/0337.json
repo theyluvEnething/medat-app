@@ -1,0 +1,15 @@
+{
+  "id": 337,
+  "set": 23,
+  "set_index": 7,
+  "answer": "C",
+  "answer_word": "GESTALTUNG",
+  "options": {
+    "A": "L",
+    "B": "E",
+    "C": "G",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "G A G E N L S T U T"
+}

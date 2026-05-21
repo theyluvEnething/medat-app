@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Lilien sind Kupfer.
+- Einige Kupfer sind Statuen.
+
+A) Einige Lilien sind Statuen.
+B) Einige Lilien sind keine Statuen.
+C) Alle Lilien sind keine Statuen.
+D) Alle Lilien sind Statuen.
+E) Keine der Schlussfolgerungen ist richtig.

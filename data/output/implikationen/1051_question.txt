@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Kupfer sind Schiffe.
+- Alle Schiffe sind Vögel.
+
+A) Alle Kupfer sind Vögel.
+B) Einige Kupfer sind Vögel.
+C) Einige Kupfer sind keine Vögel.
+D) Alle Kupfer sind keine Vögel.
+E) Keine der Schlussfolgerungen ist richtig.

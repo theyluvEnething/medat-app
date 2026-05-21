@@ -1,0 +1,14 @@
+{
+  "id": 493,
+  "set": 20,
+  "set_index": 18,
+  "answer": "E",
+  "text": "WelcheganzenAllergienhatdiePerson mitdemNamenFOVICA?",
+  "options": {
+    "A": "Möhren",
+    "B": "Ketoprofen,Vanille,Kirschen",
+    "C": "Ketoprofen,Sardinen",
+    "D": "Radieschen,Insulin,Buche",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

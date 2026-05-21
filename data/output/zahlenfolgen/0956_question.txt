@@ -1,0 +1,7 @@
+Zahlenfolge: 44 43 42 41 40 39 ? ?
+
+A) 39/35
+B) 36/38
+C) 35/37
+D) 37/36
+E) Keine der Antworten ist richtig

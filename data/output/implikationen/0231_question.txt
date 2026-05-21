@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Pandas sind Mathematiker.
+- Alle Mathematiker sind keine Telefone.
+
+A) Einige Pandas sind Telefone.
+B) Einige Pandas sind keine Telefone.
+C) Alle Pandas sind Telefone.
+D) Alle Pandas sind keine Telefone.
+E) Keine der Schlussfolgerungen ist richtig.

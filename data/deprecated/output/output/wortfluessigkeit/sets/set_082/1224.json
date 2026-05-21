@@ -1,0 +1,15 @@
+{
+  "id": 1224,
+  "set": 82,
+  "set_index": 9,
+  "answer": "B",
+  "answer_word": "LABYRINTH",
+  "options": {
+    "A": "I",
+    "B": "L",
+    "C": "T",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "B H I R T Y N A L"
+}

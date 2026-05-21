@@ -1,0 +1,7 @@
+Zahlenfolge: 29 -2 20 58 -4 40 56 ? ?
+
+A) 0/57
+B) -4/51
+C) 5/57
+D) -10/45
+E) KeinederAntwortenistrichtig

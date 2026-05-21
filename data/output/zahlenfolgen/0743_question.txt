@@ -1,0 +1,7 @@
+Zahlenfolge: 12 13 25 38 63 101 ? ?
+
+A) 202/219
+B) 428/696
+C) 429/694
+D) 427/692
+E) Keine der Antworten ist richtig

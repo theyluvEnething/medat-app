@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Schlangen sind Fische.
+- Einige Fische sind keine Vulkane.
+
+A) Alle Schlangen sind keine Vulkane.
+B) Alle Schlangen sind Vulkane.
+C) Einige Schlangen sind keine Vulkane.
+D) Einige Schlangen sind Vulkane.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: 18 7 25 32 57 89 ? ?
+
+A) 616/381
+B) 381/616
+C) 380/617
+D) 383/618
+E) Keine der Antworten ist richtig

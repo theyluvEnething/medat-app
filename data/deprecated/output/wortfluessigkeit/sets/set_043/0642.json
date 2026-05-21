@@ -1,0 +1,15 @@
+{
+  "id": 642,
+  "set": 43,
+  "set_index": 12,
+  "answer": "A",
+  "answer_word": "RAUBTIER",
+  "options": {
+    "A": "R",
+    "B": "U",
+    "C": "B",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "B A R I U T E R"
+}

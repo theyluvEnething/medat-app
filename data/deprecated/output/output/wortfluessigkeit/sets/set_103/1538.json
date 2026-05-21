@@ -1,0 +1,15 @@
+{
+  "id": 1538,
+  "set": 103,
+  "set_index": 8,
+  "answer": "C",
+  "answer_word": "BYPASS",
+  "options": {
+    "A": "P",
+    "B": "A",
+    "C": "B",
+    "D": "Y",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "Y P B A S S"
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Smartphones sind Taucher.
+- Einige Taucher sind Tulpen.
+
+A) Alle Smartphones sind keine Tulpen.
+B) Alle Smartphones sind Tulpen.
+C) Einige Smartphones sind Tulpen.
+D) Einige Smartphones sind keine Tulpen.
+E) Keine der Schlussfolgerungen ist richtig.

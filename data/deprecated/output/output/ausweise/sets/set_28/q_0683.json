@@ -1,0 +1,14 @@
+{
+  "id": 683,
+  "set": 28,
+  "set_index": 8,
+  "answer": "C",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer90811?",
+  "options": {
+    "A": "Cochenillerot,Reis",
+    "B": "Krebstiere",
+    "C": "Osmium,Avocado,Schimmelpilze",
+    "D": "Azorubin,Avocado",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

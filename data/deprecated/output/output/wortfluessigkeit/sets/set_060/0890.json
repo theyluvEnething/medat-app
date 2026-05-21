@@ -1,0 +1,15 @@
+{
+  "id": 890,
+  "set": 60,
+  "set_index": 5,
+  "answer": "D",
+  "answer_word": "BETTTUCH",
+  "options": {
+    "A": "T",
+    "B": "U",
+    "C": "E",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U H T E T B T C"
+}

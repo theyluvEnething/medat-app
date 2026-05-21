@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Bücher sind Gräser.
+- Alle Gräser sind Eidechsen.
+
+A) Alle Bücher sind keine Eidechsen.
+B) Alle Bücher sind Eidechsen.
+C) Einige Bücher sind Eidechsen.
+D) Einige Bücher sind keine Eidechsen.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: 4 9 13 22 35 57 ? ?
+
+A) 240/388
+B) 67/77
+C) 241/390
+D) 242/389
+E) Keine der Antworten ist richtig

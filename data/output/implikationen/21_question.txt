@@ -1,0 +1,9 @@
+Prämissen:
+- AlleZiffernsindNummern.
+- EinigeMittelwertesindZiffern.
+
+A) AlleNummernsindMittelwerte.
+B) AlleNummernsindkeineMittelwerte.
+C) EinigeNummernsindMittelwerte.
+D) EinigeNummernsindkeineMittelwerte.
+E) KeinederSchlussfolgerungenistrichtig.

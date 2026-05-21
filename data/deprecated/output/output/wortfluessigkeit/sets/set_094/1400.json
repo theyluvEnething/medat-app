@@ -1,0 +1,15 @@
+{
+  "id": 1400,
+  "set": 94,
+  "set_index": 5,
+  "answer": "C",
+  "answer_word": "GASTARBEITER",
+  "options": {
+    "A": "T",
+    "B": "S",
+    "C": "G",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I T B E R S A T G A R E"
+}

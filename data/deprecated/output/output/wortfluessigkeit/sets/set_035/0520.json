@@ -1,0 +1,15 @@
+{
+  "id": 520,
+  "set": 35,
+  "set_index": 10,
+  "answer": "D",
+  "answer_word": "STATIK",
+  "options": {
+    "A": "A",
+    "B": "I",
+    "C": "K",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T T S I K A"
+}

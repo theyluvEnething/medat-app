@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Ingenieure sind Zebras.
+- Alle Zebras sind Züge.
+
+A) Alle Ingenieure sind Züge.
+B) Einige Ingenieure sind keine Züge.
+C) Alle Ingenieure sind keine Züge.
+D) Einige Ingenieure sind Züge.
+E) Keine der Schlussfolgerungen ist richtig.

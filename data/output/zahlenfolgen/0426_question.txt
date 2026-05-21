@@ -1,0 +1,7 @@
+Zahlenfolge: 29 -1 39 2 49 5 ? ?
+
+A) 70/10
+B) 69/11
+C) 67/10
+D) 70/9
+E) Keine der Antworten ist richtig

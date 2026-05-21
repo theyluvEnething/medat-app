@@ -1,0 +1,15 @@
+{
+  "id": 214,
+  "set": 15,
+  "set_index": 4,
+  "answer": "B",
+  "answer_word": "SONNTAG",
+  "options": {
+    "A": "G",
+    "B": "S",
+    "C": "A",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A T S G N N O"
+}

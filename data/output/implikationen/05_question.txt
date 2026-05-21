@@ -1,0 +1,10 @@
+Prämissen:
+- AlleYRFsindkeineLGG.
+- EinigeYFsindYRF.
+- 2
+
+A) AlleYFsindLGG.
+B) AlleYFsindkeineLGG.
+C) EinigeYFsindLGG.
+D) EinigeYFsindkeineLGG.
+E) KeinederSchlussfolgerungenistrichtig.

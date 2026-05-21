@@ -1,0 +1,9 @@
+Prämissen:
+- AlleAllergiensindGräser.
+- AlleAllergiensindErdnüsse.
+
+A) AlleGräsersindErdnüsse.
+B) AlleGräsersindkeineErdnüsse.
+C) EinigeGräsersindErdnüsse.
+D) EinigeGräsersindkeineErdnüsse.
+E) KeinederSchlussfolgerungenistrichtig.

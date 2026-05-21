@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "set": 1,
+  "set_index": 2,
+  "image": "002.png",
+  "fields": {
+    "Name": "SPOLTI",
+    "Geburtstag": "19. Januar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Kiwi, Gluten, Edelkastanie",
+    "Ausweisnummer": "23688",
+    "Ausstellungsland": "Serbien"
+  }
+}

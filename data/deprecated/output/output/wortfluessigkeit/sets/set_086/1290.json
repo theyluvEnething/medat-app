@@ -1,0 +1,15 @@
+{
+  "id": 1290,
+  "set": 86,
+  "set_index": 15,
+  "answer": "D",
+  "answer_word": "TOTENTANZ",
+  "options": {
+    "A": "Z",
+    "B": "N",
+    "C": "E",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T T A Z N O T E N"
+}

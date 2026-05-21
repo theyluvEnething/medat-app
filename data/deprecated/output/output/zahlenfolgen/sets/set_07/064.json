@@ -1,0 +1,16 @@
+{
+  "id": 64,
+  "set": 7,
+  "set_index": 4,
+  "answer": "B",
+  "answer_value": "156/237",
+  "explanation": "FibonaccibeiSummanden+2,+5,+7,+12,...",
+  "sequence": "30 32 37 44 56 75 106 ? ?",
+  "options": {
+    "A": "142/231",
+    "B": "156/237",
+    "C": "156/252",
+    "D": "142/247",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

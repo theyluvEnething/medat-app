@@ -1,0 +1,14 @@
+{
+  "id": 932,
+  "set": 38,
+  "set_index": 7,
+  "answer": "B",
+  "text": "WievielePersonenhabeneinenAusweis ausSriLanka?",
+  "options": {
+    "A": "4",
+    "B": "2",
+    "C": "3",
+    "D": "1",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

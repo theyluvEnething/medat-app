@@ -1,0 +1,15 @@
+{
+  "id": 150,
+  "set": 19,
+  "set_index": 6,
+  "image": "150.png",
+  "fields": {
+    "Name": "KLUMSNOK",
+    "Geburtstag": "8. Oktober",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Johannisbeeren, Chinin",
+    "Ausweisnummer": "88189",
+    "Ausstellungsland": "Bangladesch"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 747,
+  "set": 50,
+  "set_index": 12,
+  "answer": "B",
+  "answer_word": "BERGMANN",
+  "options": {
+    "A": "E",
+    "B": "B",
+    "C": "R",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N B A G R E N M"
+}

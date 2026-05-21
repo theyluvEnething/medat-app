@@ -1,0 +1,14 @@
+{
+  "id": 17,
+  "set": 1,
+  "set_index": 17,
+  "answer": "A",
+  "text": "WelcheBlutgruppehatdiePersonmit dem10.OktoberalsGeburtstag?",
+  "options": {
+    "A": "AB",
+    "B": "0",
+    "C": "B",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- AlleWestensindkeineHemden.
+- AlleWestensindPullis.
+
+A) AllePullissindHemden.
+B) AllePullissindkeineHemden.
+C) EinigePullissindHemden.
+D) EinigePullissindkeineHemden.
+E) KeinederSchlussfolgerungenistrichtig.

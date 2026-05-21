@@ -1,0 +1,9 @@
+Prämissen:
+- AlleRötungensindTumoren.
+- AlleRötungensindÖdeme.
+
+A) AlleTumorensindÖdeme.
+B) AlleTumorensindkeineÖdeme.
+C) EinigeTumorensindÖdeme.
+D) EinigeTumorensindkeineÖdeme.
+E) KeinederSchlussfolgerungenistrichtig.

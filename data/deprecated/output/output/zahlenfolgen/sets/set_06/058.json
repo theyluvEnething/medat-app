@@ -1,0 +1,16 @@
+{
+  "id": 58,
+  "set": 6,
+  "set_index": 8,
+  "answer": "A",
+  "answer_value": "11/53",
+  "explanation": "1erSprungmit2Systemen:[-14]und[+12,+(12+10),+(12+20),...]",
+  "sequence": "1 -13 -1 -15 7 -7 25 ? ?",
+  "options": {
+    "A": "11/53",
+    "B": "20/29",
+    "C": "19/29",
+    "D": "0/53",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

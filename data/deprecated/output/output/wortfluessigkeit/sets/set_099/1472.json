@@ -1,0 +1,15 @@
+{
+  "id": 1472,
+  "set": 99,
+  "set_index": 2,
+  "answer": "B",
+  "answer_word": "KAISERSCHNITT",
+  "options": {
+    "A": "H",
+    "B": "K",
+    "C": "S",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "K T C E S N S I A R I H T"
+}

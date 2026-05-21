@@ -1,0 +1,7 @@
+Zahlenfolge: 1 2 6 7 21 22 ? ?
+
+A) 200/200
+B) 202/203
+C) 201/202
+D) 203/204
+E) Keine der Antworten ist richtig

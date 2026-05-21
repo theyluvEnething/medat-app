@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Pandas sind Krokodile.
+- Einige Krokodile sind Schauspieler.
+
+A) Einige Pandas sind Schauspieler.
+B) Alle Pandas sind Schauspieler.
+C) Alle Pandas sind keine Schauspieler.
+D) Einige Pandas sind keine Schauspieler.
+E) Keine der Schlussfolgerungen ist richtig.

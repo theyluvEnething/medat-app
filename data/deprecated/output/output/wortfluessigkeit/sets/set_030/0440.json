@@ -1,0 +1,15 @@
+{
+  "id": 440,
+  "set": 30,
+  "set_index": 5,
+  "answer": "B",
+  "answer_word": "HOLZFIGUR",
+  "options": {
+    "A": "O",
+    "B": "H",
+    "C": "I",
+    "D": "F",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "Z H I F L R O U G"
+}

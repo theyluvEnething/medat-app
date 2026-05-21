@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Wirbeltiere sind Teleskope.
+- Alle Teleskope sind keine Politiker.
+
+A) Alle Wirbeltiere sind Politiker.
+B) Alle Wirbeltiere sind keine Politiker.
+C) Einige Wirbeltiere sind keine Politiker.
+D) Einige Wirbeltiere sind Politiker.
+E) Keine der Schlussfolgerungen ist richtig.

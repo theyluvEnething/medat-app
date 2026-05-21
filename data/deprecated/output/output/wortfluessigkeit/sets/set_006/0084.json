@@ -1,0 +1,15 @@
+{
+  "id": 84,
+  "set": 6,
+  "set_index": 9,
+  "answer": "E",
+  "answer_word": "RISIKO",
+  "options": {
+    "A": "I",
+    "B": "S",
+    "C": "O",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I R I O K S"
+}

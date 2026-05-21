@@ -1,0 +1,7 @@
+Zahlenfolge: 19 23 46 50 100 104 ? ?
+
+A) 424/428
+B) 422/426
+C) 423/426
+D) 426/430
+E) Keine der Antworten ist richtig

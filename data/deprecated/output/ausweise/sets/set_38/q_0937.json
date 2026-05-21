@@ -1,0 +1,14 @@
+{
+  "id": 937,
+  "set": 38,
+  "set_index": 12,
+  "answer": "E",
+  "text": "WievielePersonenhabeneinenAusweis ausRussland?",
+  "options": {
+    "A": "4",
+    "B": "2",
+    "C": "0",
+    "D": "3",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

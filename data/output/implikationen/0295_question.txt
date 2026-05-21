@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Mathematiker sind Tomaten.
+- Einige Tomaten sind keine Wirbeltiere.
+
+A) Einige Mathematiker sind Wirbeltiere.
+B) Alle Mathematiker sind keine Wirbeltiere.
+C) Alle Mathematiker sind Wirbeltiere.
+D) Einige Mathematiker sind keine Wirbeltiere.
+E) Keine der Schlussfolgerungen ist richtig.

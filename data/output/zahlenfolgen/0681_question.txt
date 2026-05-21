@@ -1,0 +1,7 @@
+Zahlenfolge: 13 30 5 37 -3 44 ? ?
+
+A) 58/-19
+B) 50/56
+C) -19/58
+D) 88/94
+E) Keine der Antworten ist richtig

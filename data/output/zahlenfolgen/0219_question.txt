@@ -1,0 +1,7 @@
+Zahlenfolge: 31 13 16 61 64 46 ? ?
+
+A) 99/78
+B) 99/80
+C) 96/81
+D) 97/79
+E) Keine der Antworten ist richtig

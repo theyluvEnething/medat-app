@@ -1,0 +1,7 @@
+Zahlenfolge: 2 2 4 6 10 16 ? ?
+
+A) 69/108
+B) 68/110
+C) 66/109
+D) 70/108
+E) Keine der Antworten ist richtig

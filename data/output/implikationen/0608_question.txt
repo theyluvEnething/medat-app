@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Schriftsteller sind keine Wölfe.
+- Alle Wölfe sind keine Türen.
+
+A) Alle Schriftsteller sind Türen.
+B) Alle Schriftsteller sind keine Türen.
+C) Einige Schriftsteller sind Türen.
+D) Einige Schriftsteller sind keine Türen.
+E) Keine der Schlussfolgerungen ist richtig.

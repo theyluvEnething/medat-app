@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Lehrer sind Pandas.
+- Alle Pandas sind Bücher.
+
+A) Alle Lehrer sind keine Bücher.
+B) Einige Lehrer sind keine Bücher.
+C) Alle Lehrer sind Bücher.
+D) Einige Lehrer sind Bücher.
+E) Keine der Schlussfolgerungen ist richtig.

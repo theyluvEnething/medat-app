@@ -1,0 +1,15 @@
+{
+  "id": 1138,
+  "set": 76,
+  "set_index": 13,
+  "answer": "B",
+  "answer_word": "DORFKIRCHE",
+  "options": {
+    "A": "E",
+    "B": "D",
+    "C": "R",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R D K E R I C H O F"
+}

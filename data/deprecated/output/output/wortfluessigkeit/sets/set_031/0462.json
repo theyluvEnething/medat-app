@@ -1,0 +1,15 @@
+{
+  "id": 462,
+  "set": 31,
+  "set_index": 12,
+  "answer": "A",
+  "answer_word": "RESTAURANT",
+  "options": {
+    "A": "R",
+    "B": "A",
+    "C": "E",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N T R E A S A T R U"
+}

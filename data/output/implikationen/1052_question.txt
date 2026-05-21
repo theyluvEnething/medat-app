@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Mathematiker sind keine Fische.
+- Alle Fische sind Schriftsteller.
+
+A) Einige Mathematiker sind Schriftsteller.
+B) Alle Mathematiker sind keine Schriftsteller.
+C) Alle Mathematiker sind Schriftsteller.
+D) Einige Mathematiker sind keine Schriftsteller.
+E) Keine der Schlussfolgerungen ist richtig.

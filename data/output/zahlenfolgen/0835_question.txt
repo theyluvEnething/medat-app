@@ -1,0 +1,7 @@
+Zahlenfolge: 43 47 53 59 61 67 ? ?
+
+A) 78/82
+B) 78/81
+C) 78/84
+D) 79/83
+E) Keine der Antworten ist richtig

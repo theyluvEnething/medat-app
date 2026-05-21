@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Giraffen sind Chemiker.
+- Alle Chemiker sind Orchideen.
+
+A) Einige Giraffen sind keine Orchideen.
+B) Alle Giraffen sind keine Orchideen.
+C) Alle Giraffen sind Orchideen.
+D) Einige Giraffen sind Orchideen.
+E) Keine der Schlussfolgerungen ist richtig.

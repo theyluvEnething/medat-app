@@ -1,0 +1,7 @@
+Zahlenfolge: 9 24 14 47 85 146 278 ? ?
+
+A) 522/938
+B) 509/927
+C) 509/933
+D) 495/928
+E) KeinederAntwortenistrichtig

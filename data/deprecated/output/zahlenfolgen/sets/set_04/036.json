@@ -1,0 +1,16 @@
+{
+  "id": 36,
+  "set": 4,
+  "set_index": 6,
+  "answer": "A",
+  "answer_value": "412/588",
+  "explanation": "1er-Sprung:Summand+8steigtum+6,+12,+18,...",
+  "sequence": "20 28 42 68 112 180 278 ? ?",
+  "options": {
+    "A": "412/588",
+    "B": "401/591",
+    "C": "423/586",
+    "D": "401/587",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

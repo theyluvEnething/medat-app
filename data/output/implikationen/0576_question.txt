@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Ärzte sind keine Tomaten.
+- Alle Tomaten sind keine Metalle.
+
+A) Alle Ärzte sind keine Metalle.
+B) Alle Ärzte sind Metalle.
+C) Einige Ärzte sind Metalle.
+D) Einige Ärzte sind keine Metalle.
+E) Keine der Schlussfolgerungen ist richtig.

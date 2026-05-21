@@ -1,0 +1,15 @@
+{
+  "id": 154,
+  "set": 11,
+  "set_index": 4,
+  "answer": "C",
+  "answer_word": "KUNSTSZENE",
+  "options": {
+    "A": "N",
+    "B": "T",
+    "C": "K",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E S S K N Z E U N T"
+}

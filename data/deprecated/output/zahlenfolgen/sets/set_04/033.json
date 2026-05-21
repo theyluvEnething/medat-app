@@ -1,0 +1,16 @@
+{
+  "id": 33,
+  "set": 4,
+  "set_index": 3,
+  "answer": "B",
+  "answer_value": "19/7",
+  "explanation": "A₃=A₂-A₁,A₄=A₃-A₂,A₅=A₄-A₃,...",
+  "sequence": "12 19 7 -12 -19 -7 12 ? ?",
+  "options": {
+    "A": "21/15",
+    "B": "19/7",
+    "C": "21/-8",
+    "D": "25/7",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 90,
+  "set": 6,
+  "set_index": 15,
+  "answer": "C",
+  "answer_word": "CHROMOSOM",
+  "options": {
+    "A": "H",
+    "B": "S",
+    "C": "C",
+    "D": "M",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O M C R S H O O M"
+}

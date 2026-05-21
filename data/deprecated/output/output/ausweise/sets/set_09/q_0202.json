@@ -1,0 +1,14 @@
+{
+  "id": 202,
+  "set": 9,
+  "set_index": 2,
+  "answer": "B",
+  "text": "WievielePersonensindallergischgegen Paprika?",
+  "options": {
+    "A": "4",
+    "B": "1",
+    "C": "0",
+    "D": "3",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

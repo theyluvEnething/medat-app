@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Werkzeuge sind Teleskope.
+- Einige Teleskope sind Schriftsteller.
+
+A) Alle Werkzeuge sind Schriftsteller.
+B) Einige Werkzeuge sind keine Schriftsteller.
+C) Alle Werkzeuge sind keine Schriftsteller.
+D) Einige Werkzeuge sind Schriftsteller.
+E) Keine der Schlussfolgerungen ist richtig.

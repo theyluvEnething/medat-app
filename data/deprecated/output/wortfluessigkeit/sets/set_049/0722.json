@@ -1,0 +1,15 @@
+{
+  "id": 722,
+  "set": 49,
+  "set_index": 2,
+  "answer": "A",
+  "answer_word": "FILIUS",
+  "options": {
+    "A": "F",
+    "B": "L",
+    "C": "U",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I I F U L S"
+}

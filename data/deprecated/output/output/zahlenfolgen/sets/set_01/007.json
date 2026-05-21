@@ -1,0 +1,16 @@
+{
+  "id": 7,
+  "set": 1,
+  "set_index": 7,
+  "answer": "D",
+  "answer_value": "10/1133",
+  "explanation": "2erSprungmit2Systemen:[+7,+7×5,+7×5²,...]und[-10]",
+  "sequence": "41 40 48 30 83 20 258 ? ?",
+  "options": {
+    "A": "1105/13",
+    "B": "-10/1121",
+    "C": "24/1133",
+    "D": "10/1133",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Eichen sind Eidechsen.
+- Einige Eidechsen sind keine Tannen.
+
+A) Einige Eichen sind keine Tannen.
+B) Alle Eichen sind Tannen.
+C) Einige Eichen sind Tannen.
+D) Alle Eichen sind keine Tannen.
+E) Keine der Schlussfolgerungen ist richtig.

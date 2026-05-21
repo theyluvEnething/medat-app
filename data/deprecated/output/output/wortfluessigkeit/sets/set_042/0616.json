@@ -1,0 +1,15 @@
+{
+  "id": 616,
+  "set": 42,
+  "set_index": 1,
+  "answer": "C",
+  "answer_word": "KREUZBEIN",
+  "options": {
+    "A": "N",
+    "B": "I",
+    "C": "K",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U I Z E R E K B N"
+}

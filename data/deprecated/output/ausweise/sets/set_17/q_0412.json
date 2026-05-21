@@ -1,0 +1,14 @@
+{
+  "id": 412,
+  "set": 17,
+  "set_index": 12,
+  "answer": "B",
+  "text": "WieheißtdiePersonmitGeburtstagim AugustundKEINENMedikamenten?",
+  "options": {
+    "A": "TRINSLO",
+    "B": "RISKALT",
+    "C": "MUNKRAS",
+    "D": "FRISMAN",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

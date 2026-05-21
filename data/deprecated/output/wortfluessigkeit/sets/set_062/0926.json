@@ -1,0 +1,15 @@
+{
+  "id": 926,
+  "set": 62,
+  "set_index": 11,
+  "answer": "C",
+  "answer_word": "BAUMBESTAND",
+  "options": {
+    "A": "M",
+    "B": "D",
+    "C": "B",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N M D S B E U A B T A"
+}

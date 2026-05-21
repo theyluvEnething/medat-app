@@ -1,0 +1,15 @@
+{
+  "id": 486,
+  "set": 33,
+  "set_index": 6,
+  "answer": "E",
+  "answer_word": "GEHSTEIG",
+  "options": {
+    "A": "T",
+    "B": "S",
+    "C": "H",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E G S E G I H T"
+}

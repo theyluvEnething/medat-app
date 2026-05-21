@@ -1,0 +1,15 @@
+{
+  "id": 403,
+  "set": 27,
+  "set_index": 13,
+  "answer": "B",
+  "answer_word": "SITTICH",
+  "options": {
+    "A": "T",
+    "B": "S",
+    "C": "I",
+    "D": "C",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I S T H I C T"
+}

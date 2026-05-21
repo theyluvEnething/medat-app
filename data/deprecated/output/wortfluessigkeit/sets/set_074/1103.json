@@ -1,0 +1,15 @@
+{
+  "id": 1103,
+  "set": 74,
+  "set_index": 8,
+  "answer": "C",
+  "answer_word": "LEBERZIRRHOSE",
+  "options": {
+    "A": "O",
+    "B": "Z",
+    "C": "L",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R B S E Z I E L O R H E R"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 152,
+  "set": 19,
+  "set_index": 8,
+  "image": "152.png",
+  "fields": {
+    "Name": "UNRIMIT",
+    "Geburtstag": "20. Februar",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Ovotransferrin, Phytosterine",
+    "Ausweisnummer": "26648",
+    "Ausstellungsland": "Nepal"
+  }
+}

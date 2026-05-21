@@ -1,0 +1,14 @@
+{
+  "id": 728,
+  "set": 30,
+  "set_index": 3,
+  "answer": "A",
+  "text": "WelcheganzenAllergienhatdiePerson mitdemNamenTILBOMI?",
+  "options": {
+    "A": "Kiefer,Bananen,Thunfisch",
+    "B": "Hausstaub",
+    "C": "Rosen",
+    "D": "Casein,Kiefer",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -343,9 +343,9 @@ export const useAppStore = create<AppState>()(
         })
       },
 
-      recordWrongAnswer: (sectionKey, questionId) => {
+      recordWrongAnswer: (sectionKey: SectionKey, questionId: number) => {
         const key = `${sectionKey}-${questionId}`
-        set((s) => ({
+        set((s: AppState) => ({
           gamification: {
             ...s.gamification,
             wrongCounts: {
@@ -359,7 +359,7 @@ export const useAppStore = create<AppState>()(
     {
       name: 'medat-app-store',
       version: 1,
-      partialize: (state) => {
+      partialize: (state: AppState) => {
         const { session, ...rest } = state
         return {
           ...rest,
@@ -374,7 +374,7 @@ export const useAppStore = create<AppState>()(
           },
         }
       },
-      migrate: (persisted, version) => {
+      migrate: (persisted: unknown, version: number) => {
         if (version === 0) {
           const legacy = migrateFromLegacy()
           return { ...(persisted as object), ...legacy }

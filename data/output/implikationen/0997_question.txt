@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Mammute sind keine Lehrer.
+- Einige Lehrer sind keine Giraffen.
+
+A) Einige Mammute sind keine Giraffen.
+B) Alle Mammute sind keine Giraffen.
+C) Alle Mammute sind Giraffen.
+D) Einige Mammute sind Giraffen.
+E) Keine der Schlussfolgerungen ist richtig.

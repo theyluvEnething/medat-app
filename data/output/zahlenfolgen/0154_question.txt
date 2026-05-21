@@ -1,0 +1,7 @@
+Zahlenfolge: 13 15 45 47 141 143 ? ?
+
+A) 1291/1294
+B) 1291/1293
+C) 1293/1295
+D) 1291/1296
+E) Keine der Antworten ist richtig

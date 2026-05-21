@@ -1,0 +1,7 @@
+Zahlenfolge: 9 24 17 22 25 20 ? ?
+
+A) 39/18
+B) 16/41
+C) 41/16
+D) 40/42
+E) Keine der Antworten ist richtig

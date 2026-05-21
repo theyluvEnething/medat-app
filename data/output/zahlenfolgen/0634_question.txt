@@ -1,0 +1,7 @@
+Zahlenfolge: 7 11 13 17 19 23 ? ?
+
+A) 36/40
+B) 39/43
+C) 38/42
+D) 37/41
+E) Keine der Antworten ist richtig

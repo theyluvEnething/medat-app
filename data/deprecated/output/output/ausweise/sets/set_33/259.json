@@ -1,0 +1,15 @@
+{
+  "id": 259,
+  "set": 33,
+  "set_index": 3,
+  "image": "259.png",
+  "fields": {
+    "Name": "HEISRAD",
+    "Geburtstag": "13. Oktober",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Henna, Oliven",
+    "Ausweisnummer": "45539",
+    "Ausstellungsland": "Nordzypern"
+  }
+}

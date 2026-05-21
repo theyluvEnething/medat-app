@@ -1,0 +1,15 @@
+{
+  "id": 1552,
+  "set": 104,
+  "set_index": 7,
+  "answer": "E",
+  "answer_word": "FEUERWERK",
+  "options": {
+    "A": "K",
+    "B": "E",
+    "C": "W",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "F E K R R E U E W"
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Elektroautos sind keine Wissenschaftler.
+- Einige Wissenschaftler sind Vegetarier.
+
+A) Alle Elektroautos sind Vegetarier.
+B) Alle Elektroautos sind keine Vegetarier.
+C) Einige Elektroautos sind keine Vegetarier.
+D) Einige Elektroautos sind Vegetarier.
+E) Keine der Schlussfolgerungen ist richtig.

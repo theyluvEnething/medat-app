@@ -1,0 +1,15 @@
+{
+  "id": 5,
+  "set": 1,
+  "set_index": 5,
+  "image": "005.png",
+  "fields": {
+    "Name": "UMSHAU",
+    "Geburtstag": "23. Februar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Schalenfrüchte",
+    "Ausweisnummer": "30716",
+    "Ausstellungsland": "Libyen"
+  }
+}

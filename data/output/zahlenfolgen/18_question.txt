@@ -1,0 +1,7 @@
+Zahlenfolge: 21 29 45 24 -5 -50 -74 ? ?
+
+A) -79/-48
+B) -69/-19
+C) -82/0
+D) 0/-79
+E) KeinederAntwortenistrichtig

@@ -1,0 +1,14 @@
+{
+  "id": 586,
+  "set": 24,
+  "set_index": 11,
+  "answer": "A",
+  "text": "WelcheBlutgruppehatdiePersonmit GeburtstagimAprilundKEINEN Medikamenten?",
+  "options": {
+    "A": "AB",
+    "B": "0",
+    "C": "A",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

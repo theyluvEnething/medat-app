@@ -1,0 +1,15 @@
+{
+  "id": 1491,
+  "set": 100,
+  "set_index": 6,
+  "answer": "A",
+  "answer_word": "KERNFUSION",
+  "options": {
+    "A": "K",
+    "B": "I",
+    "C": "O",
+    "D": "F",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N O F E I K S N U R"
+}

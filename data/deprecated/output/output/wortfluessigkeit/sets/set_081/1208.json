@@ -1,0 +1,15 @@
+{
+  "id": 1208,
+  "set": 81,
+  "set_index": 8,
+  "answer": "A",
+  "answer_word": "FEUCHTIGKEIT",
+  "options": {
+    "A": "F",
+    "B": "T",
+    "C": "U",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E K C U G I T H T I F E"
+}

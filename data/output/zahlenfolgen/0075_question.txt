@@ -1,0 +1,7 @@
+Zahlenfolge: 21 -3 15 5 9 13 ? ?
+
+A) -3/29
+B) -5/27
+C) -1/27
+D) -1/28
+E) Keine der Antworten ist richtig

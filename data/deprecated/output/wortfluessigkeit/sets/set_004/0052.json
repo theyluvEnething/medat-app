@@ -1,0 +1,15 @@
+{
+  "id": 52,
+  "set": 4,
+  "set_index": 7,
+  "answer": "A",
+  "answer_word": "DISTANZ",
+  "options": {
+    "A": "D",
+    "B": "N",
+    "C": "S",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N T Z S I A D"
+}

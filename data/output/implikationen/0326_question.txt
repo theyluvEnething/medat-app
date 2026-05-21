@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Marder sind Bäume.
+- Einige Bäume sind keine Schauspieler.
+
+A) Alle Marder sind keine Schauspieler.
+B) Einige Marder sind Schauspieler.
+C) Alle Marder sind Schauspieler.
+D) Einige Marder sind keine Schauspieler.
+E) Keine der Schlussfolgerungen ist richtig.

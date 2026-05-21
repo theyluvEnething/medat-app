@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Quartette sind Uhren.
+- Einige Uhren sind Hunde.
+
+A) Einige Quartette sind Hunde.
+B) Alle Quartette sind keine Hunde.
+C) Alle Quartette sind Hunde.
+D) Einige Quartette sind keine Hunde.
+E) Keine der Schlussfolgerungen ist richtig.

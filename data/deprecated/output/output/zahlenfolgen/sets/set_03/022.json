@@ -1,0 +1,16 @@
+{
+  "id": 22,
+  "set": 3,
+  "set_index": 2,
+  "answer": "E",
+  "answer_value": "28/24",
+  "explanation": "A₃=A₂-A₁,A₄=A₃-A₂,A₅=A₄-A₃,...",
+  "sequence": "4 28 24 -4 -28 -24 4 ? ?",
+  "options": {
+    "A": "25/25",
+    "B": "34/33",
+    "C": "39/25",
+    "D": "25/14",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

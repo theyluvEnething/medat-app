@@ -1,0 +1,7 @@
+Zahlenfolge: 37 21 58 26 84 31 115 ? ?
+
+A) 45/163
+B) 151/36
+C) 36/151
+D) 163/45
+E) KeinederAntwortenistrichtig

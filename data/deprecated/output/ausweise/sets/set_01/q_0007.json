@@ -1,0 +1,14 @@
+{
+  "id": 7,
+  "set": 1,
+  "set_index": 7,
+  "answer": "D",
+  "text": "MitwelchenZiffernbeginntdie AusweisnummerderPersonmitGeburtstag am9.desMonats?",
+  "options": {
+    "A": "73",
+    "B": "23",
+    "C": "50",
+    "D": "68",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

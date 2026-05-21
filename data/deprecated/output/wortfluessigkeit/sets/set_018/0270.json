@@ -1,0 +1,15 @@
+{
+  "id": 270,
+  "set": 18,
+  "set_index": 15,
+  "answer": "C",
+  "answer_word": "LAVENDEL",
+  "options": {
+    "A": "N",
+    "B": "A",
+    "C": "L",
+    "D": "V",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N V L L A E E D"
+}

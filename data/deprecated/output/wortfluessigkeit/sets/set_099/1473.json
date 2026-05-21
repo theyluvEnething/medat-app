@@ -1,0 +1,15 @@
+{
+  "id": 1473,
+  "set": 99,
+  "set_index": 3,
+  "answer": "A",
+  "answer_word": "TANZSZENE",
+  "options": {
+    "A": "T",
+    "B": "E",
+    "C": "N",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E Z E N Z A T S N"
+}

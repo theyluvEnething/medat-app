@@ -1,0 +1,7 @@
+Zahlenfolge: 14 -9 22 -2 30 5 ? ?
+
+A) 47/17
+B) 48/21
+C) 45/21
+D) 46/19
+E) Keine der Antworten ist richtig

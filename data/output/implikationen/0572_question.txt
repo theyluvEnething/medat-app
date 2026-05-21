@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Klaviere sind keine Lehrer.
+- Einige Lehrer sind keine Uhren.
+
+A) Alle Klaviere sind Uhren.
+B) Alle Klaviere sind keine Uhren.
+C) Einige Klaviere sind keine Uhren.
+D) Einige Klaviere sind Uhren.
+E) Keine der Schlussfolgerungen ist richtig.

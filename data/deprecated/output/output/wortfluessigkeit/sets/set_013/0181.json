@@ -1,0 +1,15 @@
+{
+  "id": 181,
+  "set": 13,
+  "set_index": 1,
+  "answer": "A",
+  "answer_word": "POSTKARTE",
+  "options": {
+    "A": "P",
+    "B": "O",
+    "C": "T",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T E P R O T S K A"
+}

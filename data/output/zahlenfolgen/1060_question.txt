@@ -1,0 +1,7 @@
+Zahlenfolge: -8 -5 -2 1 4 7 ? ?
+
+A) 14/14
+B) 11/17
+C) 13/16
+D) 12/14
+E) Keine der Antworten ist richtig

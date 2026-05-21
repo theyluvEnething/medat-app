@@ -1,0 +1,14 @@
+{
+  "id": 687,
+  "set": 28,
+  "set_index": 12,
+  "answer": "C",
+  "text": "WannistderGeburtstagderPersonmit AusstellungslandTschechien?",
+  "options": {
+    "A": "3.August",
+    "B": "9.Mai",
+    "C": "10.Januar",
+    "D": "4.November",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

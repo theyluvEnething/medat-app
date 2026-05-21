@@ -1,0 +1,15 @@
+{
+  "id": 991,
+  "set": 67,
+  "set_index": 1,
+  "answer": "D",
+  "answer_word": "ANPASSUNG",
+  "options": {
+    "A": "U",
+    "B": "N",
+    "C": "S",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N U G S A S A N P"
+}

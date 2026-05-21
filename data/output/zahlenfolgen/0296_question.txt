@@ -1,0 +1,7 @@
+Zahlenfolge: 8 13 20 29 40 53 ? ?
+
+A) 105/123
+B) 106/126
+C) 105/126
+D) 104/125
+E) Keine der Antworten ist richtig

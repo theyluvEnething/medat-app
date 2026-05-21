@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Teleskope sind Gemälde.
+- Einige Gemälde sind Eichen.
+
+A) Alle Teleskope sind Eichen.
+B) Einige Teleskope sind Eichen.
+C) Alle Teleskope sind keine Eichen.
+D) Einige Teleskope sind keine Eichen.
+E) Keine der Schlussfolgerungen ist richtig.

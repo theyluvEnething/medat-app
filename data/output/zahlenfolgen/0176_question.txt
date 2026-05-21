@@ -1,0 +1,7 @@
+Zahlenfolge: 10 15 25 40 65 105 ? ?
+
+A) 210/229
+B) 444/722
+C) 445/720
+D) 447/722
+E) Keine der Antworten ist richtig

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Taucher sind Spatzen.
+- Alle Spatzen sind keine Elektroautos.
+
+A) Alle Taucher sind Elektroautos.
+B) Alle Taucher sind keine Elektroautos.
+C) Einige Taucher sind keine Elektroautos.
+D) Einige Taucher sind Elektroautos.
+E) Keine der Schlussfolgerungen ist richtig.

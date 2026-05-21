@@ -1,0 +1,14 @@
+{
+  "id": 74,
+  "set": 3,
+  "set_index": 24,
+  "answer": "B",
+  "text": "WelcheBlutgruppehatdiePersonmit AusstellungslandKatar?",
+  "options": {
+    "A": "AB",
+    "B": "0",
+    "C": "A",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

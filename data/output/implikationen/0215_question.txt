@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Dinosaurier sind Lilien.
+- Einige Lilien sind Ingenieure.
+
+A) Alle Dinosaurier sind keine Ingenieure.
+B) Einige Dinosaurier sind keine Ingenieure.
+C) Einige Dinosaurier sind Ingenieure.
+D) Alle Dinosaurier sind Ingenieure.
+E) Keine der Schlussfolgerungen ist richtig.

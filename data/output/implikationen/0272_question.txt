@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Chemiker sind keine Wale.
+- Einige Wale sind Skulpturen.
+
+A) Alle Chemiker sind Skulpturen.
+B) Einige Chemiker sind keine Skulpturen.
+C) Alle Chemiker sind keine Skulpturen.
+D) Einige Chemiker sind Skulpturen.
+E) Keine der Schlussfolgerungen ist richtig.

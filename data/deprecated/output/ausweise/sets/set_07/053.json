@@ -1,0 +1,15 @@
+{
+  "id": 53,
+  "set": 7,
+  "set_index": 5,
+  "image": "053.png",
+  "fields": {
+    "Name": "TUPLINO",
+    "Geburtstag": "30. Mai",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Weichtiere, Alkohol,",
+    "Ausweisnummer": "36452",
+    "Ausstellungsland": "Guyana"
+  }
+}

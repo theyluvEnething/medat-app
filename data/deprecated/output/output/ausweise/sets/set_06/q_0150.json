@@ -1,0 +1,14 @@
+{
+  "id": 150,
+  "set": 6,
+  "set_index": 25,
+  "answer": "B",
+  "text": "MitwelchenZiffernendetdie AusweisnummerderPersonmitdem NamenZUBONS?",
+  "options": {
+    "A": "50",
+    "B": "81",
+    "C": "76",
+    "D": "82",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

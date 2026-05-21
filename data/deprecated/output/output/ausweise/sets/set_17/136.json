@@ -1,0 +1,15 @@
+{
+  "id": 136,
+  "set": 17,
+  "set_index": 8,
+  "image": "136.png",
+  "fields": {
+    "Name": "NUXCOM",
+    "Geburtstag": "12. Dezember",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Birke, Rosen, Brokkoli",
+    "Ausweisnummer": "24499",
+    "Ausstellungsland": "Algerien"
+  }
+}

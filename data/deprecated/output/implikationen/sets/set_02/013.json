@@ -1,0 +1,17 @@
+{
+  "id": 13,
+  "set": 2,
+  "set_index": 3,
+  "answer": "B",
+  "premises": [
+    "AlleBAZsindAXB.",
+    "AlleXFPsindkeineAXB."
+  ],
+  "conclusions": {
+    "A": "AlleXFPsindBAZ.",
+    "B": "AlleXFPsindkeineBAZ.",
+    "C": "EinigeXFPsindBAZ.",
+    "D": "EinigeXFPsindkeineBAZ.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

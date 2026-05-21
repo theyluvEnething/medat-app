@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Säugetiere sind Schiffe.
+- Einige Schiffe sind keine Eidechsen.
+
+A) Einige Säugetiere sind Eidechsen.
+B) Alle Säugetiere sind keine Eidechsen.
+C) Alle Säugetiere sind Eidechsen.
+D) Einige Säugetiere sind keine Eidechsen.
+E) Keine der Schlussfolgerungen ist richtig.

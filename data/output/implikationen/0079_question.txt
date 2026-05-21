@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Möbel sind keine Tulpen.
+- Einige Tulpen sind keine Gedichte.
+
+A) Einige Möbel sind Gedichte.
+B) Einige Möbel sind keine Gedichte.
+C) Alle Möbel sind Gedichte.
+D) Alle Möbel sind keine Gedichte.
+E) Keine der Schlussfolgerungen ist richtig.

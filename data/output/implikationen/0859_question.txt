@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Diamanten sind keine Vögel.
+- Alle Vögel sind Vasen.
+
+A) Einige Diamanten sind Vasen.
+B) Einige Diamanten sind keine Vasen.
+C) Alle Diamanten sind keine Vasen.
+D) Alle Diamanten sind Vasen.
+E) Keine der Schlussfolgerungen ist richtig.

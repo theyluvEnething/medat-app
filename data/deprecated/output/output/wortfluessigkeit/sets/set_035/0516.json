@@ -1,0 +1,15 @@
+{
+  "id": 516,
+  "set": 35,
+  "set_index": 6,
+  "answer": "C",
+  "answer_word": "PARAGRAPH",
+  "options": {
+    "A": "G",
+    "B": "R",
+    "C": "P",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A P R G P R H A A"
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Stühle sind Schlangen.
+- Einige Schlangen sind Vasen.
+
+A) Einige Stühle sind Vasen.
+B) Alle Stühle sind keine Vasen.
+C) Einige Stühle sind keine Vasen.
+D) Alle Stühle sind Vasen.
+E) Keine der Schlussfolgerungen ist richtig.

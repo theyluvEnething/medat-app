@@ -1,0 +1,15 @@
+{
+  "id": 1511,
+  "set": 101,
+  "set_index": 11,
+  "answer": "B",
+  "answer_word": "DISKURS",
+  "options": {
+    "A": "S",
+    "B": "D",
+    "C": "K",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U K I R S D S"
+}

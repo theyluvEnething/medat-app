@@ -1,0 +1,15 @@
+{
+  "id": 1047,
+  "set": 70,
+  "set_index": 12,
+  "answer": "B",
+  "answer_word": "WASSERFARBE",
+  "options": {
+    "A": "S",
+    "B": "W",
+    "C": "E",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R B E R S A F A S W E"
+}

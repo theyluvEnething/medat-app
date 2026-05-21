@@ -1,0 +1,15 @@
+{
+  "id": 725,
+  "set": 49,
+  "set_index": 5,
+  "answer": "D",
+  "answer_word": "KEHRWERT",
+  "options": {
+    "A": "H",
+    "B": "W",
+    "C": "T",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E R R W T E H K"
+}

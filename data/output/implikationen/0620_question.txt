@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Smartphones sind keine Schiffe.
+- Einige Schiffe sind keine Türen.
+
+A) Einige Smartphones sind keine Türen.
+B) Alle Smartphones sind keine Türen.
+C) Einige Smartphones sind Türen.
+D) Alle Smartphones sind Türen.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,15 @@
+{
+  "id": 1089,
+  "set": 73,
+  "set_index": 9,
+  "answer": "B",
+  "answer_word": "QUALIFIKATION",
+  "options": {
+    "A": "L",
+    "B": "Q",
+    "C": "A",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N O A F K Q I T U L I I A"
+}

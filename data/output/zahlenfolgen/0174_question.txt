@@ -1,0 +1,7 @@
+Zahlenfolge: 17 10 3 -4 -11 -18 ? ?
+
+A) -32/-39
+B) -34/-40
+C) -36/-43
+D) -34/-37
+E) Keine der Antworten ist richtig

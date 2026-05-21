@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Reptilien sind keine Amseln.
+- Einige Amseln sind keine Mäuse.
+
+A) Einige Reptilien sind keine Mäuse.
+B) Einige Reptilien sind Mäuse.
+C) Alle Reptilien sind keine Mäuse.
+D) Alle Reptilien sind Mäuse.
+E) Keine der Schlussfolgerungen ist richtig.

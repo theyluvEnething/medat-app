@@ -1,0 +1,15 @@
+{
+  "id": 62,
+  "set": 5,
+  "set_index": 2,
+  "answer": "E",
+  "answer_word": "KORTISON",
+  "options": {
+    "A": "R",
+    "B": "T",
+    "C": "O",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O R O T N S I K"
+}

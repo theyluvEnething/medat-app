@@ -1,0 +1,15 @@
+{
+  "id": 1008,
+  "set": 68,
+  "set_index": 3,
+  "answer": "B",
+  "answer_word": "SPRACHGEBRAUCH",
+  "options": {
+    "A": "H",
+    "B": "S",
+    "C": "A",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A E P C B U R S H R C H G A"
+}

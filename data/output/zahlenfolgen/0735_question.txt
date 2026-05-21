@@ -1,0 +1,7 @@
+Zahlenfolge: 20 5 22 -3 24 -11 ? ?
+
+A) 26/-25
+B) 29/-26
+C) 30/-25
+D) 28/-27
+E) Keine der Antworten ist richtig

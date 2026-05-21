@@ -1,0 +1,7 @@
+Zahlenfolge: 6 -2 9 6 12 14 ? ?
+
+A) 18/30
+B) 17/32
+C) 30/18
+D) 20/28
+E) Keine der Antworten ist richtig

@@ -1,0 +1,15 @@
+{
+  "id": 154,
+  "set": 20,
+  "set_index": 2,
+  "image": "154.png",
+  "fields": {
+    "Name": "FOVICA",
+    "Geburtstag": "11. April",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Thiomersal",
+    "Ausweisnummer": "39288",
+    "Ausstellungsland": "Tschechien"
+  }
+}

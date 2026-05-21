@@ -1,0 +1,17 @@
+{
+  "id": 70,
+  "set": 7,
+  "set_index": 10,
+  "answer": "D",
+  "premises": [
+    "AlleTräumesindRealitäten.",
+    "EinigeTräumesindkeineSymbole."
+  ],
+  "conclusions": {
+    "A": "AlleRealitätensindSymbole.",
+    "B": "AlleRealitätensindkeineSymbole.",
+    "C": "EinigeRealitätensindSymbole.",
+    "D": "EinigeRealitätensindkeineSymbole.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

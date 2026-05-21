@@ -1,0 +1,7 @@
+Zahlenfolge: 21 22 24 27 31 36 ? ?
+
+A) 56/65
+B) 55/67
+C) 57/66
+D) 55/64
+E) Keine der Antworten ist richtig

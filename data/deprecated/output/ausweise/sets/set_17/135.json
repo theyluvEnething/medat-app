@@ -1,0 +1,15 @@
+{
+  "id": 135,
+  "set": 17,
+  "set_index": 7,
+  "image": "135.png",
+  "fields": {
+    "Name": "FRISMAN",
+    "Geburtstag": "9. August",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Johannisbeeren",
+    "Ausweisnummer": "96358",
+    "Ausstellungsland": "Uruguay"
+  }
+}

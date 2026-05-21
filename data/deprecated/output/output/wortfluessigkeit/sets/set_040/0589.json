@@ -1,0 +1,15 @@
+{
+  "id": 589,
+  "set": 40,
+  "set_index": 4,
+  "answer": "E",
+  "answer_word": "HINTERHOF",
+  "options": {
+    "A": "I",
+    "B": "T",
+    "C": "R",
+    "D": "F",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H T N O R F E H I"
+}

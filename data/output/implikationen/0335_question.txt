@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Sänger sind keine Stühle.
+- Alle Stühle sind Quartette.
+
+A) Alle Sänger sind keine Quartette.
+B) Einige Sänger sind keine Quartette.
+C) Einige Sänger sind Quartette.
+D) Alle Sänger sind Quartette.
+E) Keine der Schlussfolgerungen ist richtig.

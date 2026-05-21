@@ -1,0 +1,15 @@
+{
+  "id": 1556,
+  "set": 104,
+  "set_index": 11,
+  "answer": "A",
+  "answer_word": "ABENDESSEN",
+  "options": {
+    "A": "A",
+    "B": "S",
+    "C": "E",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S B S E D N E A E N"
+}

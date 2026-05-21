@@ -1,0 +1,14 @@
+{
+  "id": 287,
+  "set": 12,
+  "set_index": 12,
+  "answer": "C",
+  "text": "WieheißtdiePersonmitGeburtstagam 20.desMonatsunddemGeschlecht männlich?",
+  "options": {
+    "A": "DREISTOR",
+    "B": "BEKRAN",
+    "C": "CNOXIZ",
+    "D": "ABUQAN",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Musikinstrumente sind Pilze.
+- Alle Pilze sind keine Klaviere.
+
+A) Alle Musikinstrumente sind Klaviere.
+B) Alle Musikinstrumente sind keine Klaviere.
+C) Einige Musikinstrumente sind Klaviere.
+D) Einige Musikinstrumente sind keine Klaviere.
+E) Keine der Schlussfolgerungen ist richtig.

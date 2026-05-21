@@ -1,0 +1,14 @@
+{
+  "id": 42,
+  "set": 2,
+  "set_index": 17,
+  "answer": "E",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitdem28.Dezemberals Geburtstag?",
+  "options": {
+    "A": "Monaco",
+    "B": "TrinidadundTobago",
+    "C": "Nigeria",
+    "D": "Kongo",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

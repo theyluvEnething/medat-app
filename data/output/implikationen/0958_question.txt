@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Insekten sind Roboter.
+- Einige Roboter sind keine Pandas.
+
+A) Alle Insekten sind keine Pandas.
+B) Einige Insekten sind Pandas.
+C) Alle Insekten sind Pandas.
+D) Einige Insekten sind keine Pandas.
+E) Keine der Schlussfolgerungen ist richtig.

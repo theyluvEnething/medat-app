@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Statuen sind keine Gräser.
+- Einige Gräser sind Dichter.
+
+A) Einige Statuen sind keine Dichter.
+B) Alle Statuen sind keine Dichter.
+C) Alle Statuen sind Dichter.
+D) Einige Statuen sind Dichter.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Kupfer sind Pilze.
+- Einige Pilze sind keine Zebras.
+
+A) Einige Kupfer sind keine Zebras.
+B) Alle Kupfer sind keine Zebras.
+C) Alle Kupfer sind Zebras.
+D) Einige Kupfer sind Zebras.
+E) Keine der Schlussfolgerungen ist richtig.

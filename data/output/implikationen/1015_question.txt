@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Schriftsteller sind Statuen.
+- Einige Statuen sind Wissenschaftler.
+
+A) Alle Schriftsteller sind Wissenschaftler.
+B) Einige Schriftsteller sind Wissenschaftler.
+C) Alle Schriftsteller sind keine Wissenschaftler.
+D) Einige Schriftsteller sind keine Wissenschaftler.
+E) Keine der Schlussfolgerungen ist richtig.

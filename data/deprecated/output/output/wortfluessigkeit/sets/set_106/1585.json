@@ -1,0 +1,15 @@
+{
+  "id": 1585,
+  "set": 106,
+  "set_index": 10,
+  "answer": "C",
+  "answer_word": "SPINNER",
+  "options": {
+    "A": "E",
+    "B": "R",
+    "C": "S",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R N N I S E P"
+}

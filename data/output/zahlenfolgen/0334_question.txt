@@ -1,0 +1,7 @@
+Zahlenfolge: -2 4 -8 16 -32 64 ? ?
+
+A) 256/-512
+B) 269/-499
+C) 128/141
+D) 258/-514
+E) Keine der Antworten ist richtig

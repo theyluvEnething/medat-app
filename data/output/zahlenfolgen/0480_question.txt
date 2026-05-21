@@ -1,0 +1,7 @@
+Zahlenfolge: 48 49 50 51 52 53 ? ?
+
+A) 56/55
+B) 55/56
+C) 57/57
+D) 54/55
+E) Keine der Antworten ist richtig

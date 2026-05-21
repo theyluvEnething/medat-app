@@ -1,0 +1,17 @@
+{
+  "id": 69,
+  "set": 7,
+  "set_index": 9,
+  "answer": "D",
+  "premises": [
+    "AlleNotizensindBlöcke.",
+    "AlleNotizensindkeineTexte."
+  ],
+  "conclusions": {
+    "A": "AlleBlöckesindTexte.",
+    "B": "AlleBlöckesindkeineTexte.",
+    "C": "EinigeBlöckesindTexte.",
+    "D": "EinigeBlöckesindkeineTexte.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

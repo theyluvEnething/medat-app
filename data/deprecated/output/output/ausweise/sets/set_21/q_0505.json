@@ -1,0 +1,14 @@
+{
+  "id": 505,
+  "set": 21,
+  "set_index": 5,
+  "answer": "D",
+  "text": "WelcheBlutgruppehatdiePersonmit AllergiegegenBrombeerenund Hausstaub?",
+  "options": {
+    "A": "AB",
+    "B": "B",
+    "C": "0",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

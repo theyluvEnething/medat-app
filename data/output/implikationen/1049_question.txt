@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Ingenieure sind keine Schlangen.
+- Alle Schlangen sind Menschen.
+
+A) Alle Ingenieure sind keine Menschen.
+B) Alle Ingenieure sind Menschen.
+C) Einige Ingenieure sind keine Menschen.
+D) Einige Ingenieure sind Menschen.
+E) Keine der Schlussfolgerungen ist richtig.

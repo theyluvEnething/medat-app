@@ -1,0 +1,17 @@
+{
+  "id": 51,
+  "set": 6,
+  "set_index": 1,
+  "answer": "D",
+  "premises": [
+    "AlleKindersindkeineMädchen.",
+    "EinigeKindersindBuben."
+  ],
+  "conclusions": {
+    "A": "AlleBubensindMädchen.",
+    "B": "AlleBubensindkeineMädchen.",
+    "C": "EinigeBubensindMädchen.",
+    "D": "EinigeBubensindkeineMädchen.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": 142,
+  "set": 6,
+  "set_index": 17,
+  "answer": "A",
+  "text": "WievielePersonensindallergischgegen Alternaria?",
+  "options": {
+    "A": "2",
+    "B": "1",
+    "C": "3",
+    "D": "4",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

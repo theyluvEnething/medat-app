@@ -1,0 +1,17 @@
+{
+  "id": 28,
+  "set": 3,
+  "set_index": 8,
+  "answer": "C",
+  "premises": [
+    "AlleRötungensindTumoren.",
+    "AlleRötungensindÖdeme."
+  ],
+  "conclusions": {
+    "A": "AlleTumorensindÖdeme.",
+    "B": "AlleTumorensindkeineÖdeme.",
+    "C": "EinigeTumorensindÖdeme.",
+    "D": "EinigeTumorensindkeineÖdeme.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

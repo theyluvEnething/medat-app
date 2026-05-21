@@ -1,0 +1,7 @@
+Zahlenfolge: 1 6 6 8 11 10 ? ?
+
+A) 20/16
+B) 23/15
+C) 19/15
+D) 21/14
+E) Keine der Antworten ist richtig

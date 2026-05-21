@@ -1,0 +1,15 @@
+{
+  "id": 1582,
+  "set": 106,
+  "set_index": 7,
+  "answer": "B",
+  "answer_word": "BAHNSTEIG",
+  "options": {
+    "A": "T",
+    "B": "B",
+    "C": "G",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A N H G B T E I S"
+}

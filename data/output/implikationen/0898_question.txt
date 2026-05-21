@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Diamanten sind keine Mathematiker.
+- Alle Mathematiker sind keine Anwälte.
+
+A) Alle Diamanten sind keine Anwälte.
+B) Einige Diamanten sind Anwälte.
+C) Alle Diamanten sind Anwälte.
+D) Einige Diamanten sind keine Anwälte.
+E) Keine der Schlussfolgerungen ist richtig.

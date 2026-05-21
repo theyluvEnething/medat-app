@@ -1,0 +1,7 @@
+Zahlenfolge: 2 3 5 7 11 13 ? ?
+
+A) 21/27
+B) 23/29
+C) 22/30
+D) 21/30
+E) Keine der Antworten ist richtig

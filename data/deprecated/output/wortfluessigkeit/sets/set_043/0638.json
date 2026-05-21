@@ -1,0 +1,15 @@
+{
+  "id": 638,
+  "set": 43,
+  "set_index": 8,
+  "answer": "D",
+  "answer_word": "DISKUSSION",
+  "options": {
+    "A": "O",
+    "B": "I",
+    "C": "K",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U S I D S N S I O K"
+}

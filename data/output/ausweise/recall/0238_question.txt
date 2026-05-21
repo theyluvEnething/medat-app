@@ -1,0 +1,7 @@
+WievielePersonensindimJuligeboren?
+
+A) 2
+B) 3
+C) 0
+D) 4
+E) KeinederAntwortenistrichtig

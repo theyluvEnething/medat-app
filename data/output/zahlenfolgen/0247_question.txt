@@ -1,0 +1,7 @@
+Zahlenfolge: 1 2 6 12 36 72 ? ?
+
+A) 1298/2593
+B) 1297/2591
+C) 1296/2592
+D) 1297/2594
+E) Keine der Antworten ist richtig

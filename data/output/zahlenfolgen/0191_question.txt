@@ -1,0 +1,7 @@
+Zahlenfolge: 16 18 54 56 168 170 ? ?
+
+A) 1566/1568
+B) 1536/1538
+C) 1537/1540
+D) 1538/1539
+E) Keine der Antworten ist richtig

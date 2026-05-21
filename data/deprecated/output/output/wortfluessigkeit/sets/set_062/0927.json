@@ -1,0 +1,15 @@
+{
+  "id": 927,
+  "set": 62,
+  "set_index": 12,
+  "answer": "A",
+  "answer_word": "DUPLIKAT",
+  "options": {
+    "A": "D",
+    "B": "P",
+    "C": "A",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T P A U I L K D"
+}

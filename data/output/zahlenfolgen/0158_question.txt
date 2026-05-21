@@ -1,0 +1,7 @@
+Zahlenfolge: 50 61 72 83 94 105 ? ?
+
+A) 210/221
+B) 127/138
+C) 126/137
+D) 138/149
+E) Keine der Antworten ist richtig

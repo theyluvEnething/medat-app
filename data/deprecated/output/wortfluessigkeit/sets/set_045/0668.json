@@ -1,0 +1,15 @@
+{
+  "id": 668,
+  "set": 45,
+  "set_index": 8,
+  "answer": "B",
+  "answer_word": "BRUNCH",
+  "options": {
+    "A": "R",
+    "B": "B",
+    "C": "C",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N U B C H R"
+}

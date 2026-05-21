@@ -1,0 +1,7 @@
+Zahlenfolge: 29 16 3 -10 -23 -36 ? ?
+
+A) -63/-77
+B) -63/-74
+C) -60/-74
+D) -62/-75
+E) Keine der Antworten ist richtig

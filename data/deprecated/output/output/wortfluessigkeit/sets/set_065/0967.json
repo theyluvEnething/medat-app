@@ -1,0 +1,15 @@
+{
+  "id": 967,
+  "set": 65,
+  "set_index": 7,
+  "answer": "D",
+  "answer_word": "LUFTFAHRZEUG",
+  "options": {
+    "A": "Z",
+    "B": "A",
+    "C": "E",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A G U R T Z F U H E L F"
+}

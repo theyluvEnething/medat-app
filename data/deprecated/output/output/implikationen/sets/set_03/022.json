@@ -1,0 +1,17 @@
+{
+  "id": 22,
+  "set": 3,
+  "set_index": 2,
+  "answer": "C",
+  "premises": [
+    "AlleWellensindTeilchen.",
+    "EinigeWellensindPhotonen."
+  ],
+  "conclusions": {
+    "A": "AlleTeilchensindPhotonen.",
+    "B": "AlleTeilchensindkeinePhotonen.",
+    "C": "EinigeTeilchensindPhotonen.",
+    "D": "EinigeTeilchensindkeinePhotonen.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

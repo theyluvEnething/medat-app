@@ -1,0 +1,9 @@
+Prämissen:
+- AlleUUUsindGUS.
+- AlleKFUsindkeineGUS.
+
+A) AlleUUUsindKFU.
+B) AlleUUUsindkeineKFU.
+C) EinigeUUUsindKFU.
+D) EinigeUUUsindkeineKFU.
+E) KeinederSchlussfolgerungenistrichtig.

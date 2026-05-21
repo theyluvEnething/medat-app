@@ -1,0 +1,15 @@
+{
+  "id": 17,
+  "set": 3,
+  "set_index": 1,
+  "image": "017.png",
+  "fields": {
+    "Name": "PROCMAS",
+    "Geburtstag": "5. Dezember",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Grapefruit, Kaninchen",
+    "Ausweisnummer": "83472",
+    "Ausstellungsland": "Deutschland"
+  }
+}

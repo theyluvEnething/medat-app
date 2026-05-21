@@ -1,0 +1,15 @@
+{
+  "id": 550,
+  "set": 37,
+  "set_index": 10,
+  "answer": "A",
+  "answer_word": "ALLERGIE",
+  "options": {
+    "A": "A",
+    "B": "L",
+    "C": "E",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I E R A L G L E"
+}

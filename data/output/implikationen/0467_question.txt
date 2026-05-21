@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Quallen sind Delfine.
+- Einige Delfine sind keine Anwälte.
+
+A) Einige Quallen sind Anwälte.
+B) Alle Quallen sind keine Anwälte.
+C) Alle Quallen sind Anwälte.
+D) Einige Quallen sind keine Anwälte.
+E) Keine der Schlussfolgerungen ist richtig.

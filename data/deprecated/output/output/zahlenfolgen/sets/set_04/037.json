@@ -1,0 +1,16 @@
+{
+  "id": 37,
+  "set": 4,
+  "set_index": 7,
+  "answer": "D",
+  "answer_value": "24/-71",
+  "explanation": "2erSprungmit2Systemen:[-10,-(10+13),-(10+26),...]und[+9]",
+  "sequence": "47 -3 37 6 14 15 -22 ? ?",
+  "options": {
+    "A": "27/-56",
+    "B": "-64/45",
+    "C": "24/-92",
+    "D": "24/-71",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

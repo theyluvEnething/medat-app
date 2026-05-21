@@ -1,0 +1,15 @@
+{
+  "id": 922,
+  "set": 62,
+  "set_index": 7,
+  "answer": "B",
+  "answer_word": "SCHLAUCHBOOT",
+  "options": {
+    "A": "L",
+    "B": "S",
+    "C": "O",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O L A C S B H T C O H U"
+}

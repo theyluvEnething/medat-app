@@ -1,0 +1,15 @@
+{
+  "id": 612,
+  "set": 41,
+  "set_index": 12,
+  "answer": "A",
+  "answer_word": "ROHKOST",
+  "options": {
+    "A": "R",
+    "B": "K",
+    "C": "O",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S O R K H O T"
+}

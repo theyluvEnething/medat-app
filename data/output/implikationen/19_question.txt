@@ -1,0 +1,9 @@
+Prämissen:
+- EinigeNüssesindBeeren.
+- EinigeSträuchersindBeeren.
+
+A) AlleNüssesindSträucher.
+B) AlleNüssesindkeineSträucher.
+C) EinigeNüssesindSträucher.
+D) EinigeNüssesindkeineSträucher.
+E) KeinederSchlussfolgerungenistrichtig.

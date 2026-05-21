@@ -1,0 +1,15 @@
+{
+  "id": 218,
+  "set": 15,
+  "set_index": 8,
+  "answer": "A",
+  "answer_word": "KONSENS",
+  "options": {
+    "A": "K",
+    "B": "S",
+    "C": "O",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O S N S K N E"
+}

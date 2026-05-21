@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Smartphones sind keine Maler.
+- Einige Maler sind keine Giraffen.
+
+A) Alle Smartphones sind Giraffen.
+B) Einige Smartphones sind keine Giraffen.
+C) Einige Smartphones sind Giraffen.
+D) Alle Smartphones sind keine Giraffen.
+E) Keine der Schlussfolgerungen ist richtig.

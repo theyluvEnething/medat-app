@@ -1,0 +1,15 @@
+{
+  "id": 318,
+  "set": 22,
+  "set_index": 3,
+  "answer": "E",
+  "answer_word": "CHAOS",
+  "options": {
+    "A": "A",
+    "B": "O",
+    "C": "S",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A O H S C"
+}

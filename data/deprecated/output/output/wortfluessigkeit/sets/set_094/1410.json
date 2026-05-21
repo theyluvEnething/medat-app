@@ -1,0 +1,15 @@
+{
+  "id": 1410,
+  "set": 94,
+  "set_index": 15,
+  "answer": "E",
+  "answer_word": "MITTELWERT",
+  "options": {
+    "A": "W",
+    "B": "E",
+    "C": "I",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L T R E E T T I M W"
+}

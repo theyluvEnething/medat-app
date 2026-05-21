@@ -1,0 +1,15 @@
+{
+  "id": 870,
+  "set": 58,
+  "set_index": 15,
+  "answer": "D",
+  "answer_word": "BRANDSATZ",
+  "options": {
+    "A": "T",
+    "B": "A",
+    "C": "S",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "D A Z B N R S T A"
+}

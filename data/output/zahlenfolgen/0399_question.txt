@@ -1,0 +1,7 @@
+Zahlenfolge: 15 16 18 21 25 30 ? ?
+
+A) 51/60
+B) 49/58
+C) 53/62
+D) 60/63
+E) Keine der Antworten ist richtig

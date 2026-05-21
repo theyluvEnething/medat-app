@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Eichen sind keine Granite.
+- Alle Granite sind Mammute.
+
+A) Einige Eichen sind Mammute.
+B) Alle Eichen sind Mammute.
+C) Alle Eichen sind keine Mammute.
+D) Einige Eichen sind keine Mammute.
+E) Keine der Schlussfolgerungen ist richtig.

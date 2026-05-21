@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Tulpen sind Vegetarier.
+- Einige Vegetarier sind Uhren.
+
+A) Alle Tulpen sind keine Uhren.
+B) Alle Tulpen sind Uhren.
+C) Einige Tulpen sind Uhren.
+D) Einige Tulpen sind keine Uhren.
+E) Keine der Schlussfolgerungen ist richtig.

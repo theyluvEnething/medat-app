@@ -1,0 +1,15 @@
+{
+  "id": 1088,
+  "set": 73,
+  "set_index": 8,
+  "answer": "A",
+  "answer_word": "METEOROLOGIE",
+  "options": {
+    "A": "M",
+    "B": "G",
+    "C": "T",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E L I O G M O E R O E T"
+}

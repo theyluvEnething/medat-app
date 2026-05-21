@@ -1,0 +1,14 @@
+{
+  "id": 423,
+  "set": 17,
+  "set_index": 23,
+  "answer": "E",
+  "text": "WieheißtdiePersonmitder Ausweisnummerbeginnendmit95?",
+  "options": {
+    "A": "EMILOKA",
+    "B": "ZEIDNARM",
+    "C": "LUVRONK",
+    "D": "FRISMAN",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

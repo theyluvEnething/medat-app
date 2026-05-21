@@ -1,0 +1,15 @@
+{
+  "id": 73,
+  "set": 5,
+  "set_index": 13,
+  "answer": "B",
+  "answer_word": "PROZESS",
+  "options": {
+    "A": "S",
+    "B": "P",
+    "C": "R",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E O P S R Z S"
+}

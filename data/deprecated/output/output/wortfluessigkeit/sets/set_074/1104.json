@@ -1,0 +1,15 @@
+{
+  "id": 1104,
+  "set": 74,
+  "set_index": 9,
+  "answer": "E",
+  "answer_word": "SCHLOSS",
+  "options": {
+    "A": "H",
+    "B": "L",
+    "C": "O",
+    "D": "C",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H S C S O S L"
+}

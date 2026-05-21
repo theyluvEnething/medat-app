@@ -1,0 +1,16 @@
+{
+  "id": 27,
+  "set": 3,
+  "set_index": 7,
+  "answer": "A",
+  "answer_value": "68/77",
+  "explanation": "1erSprungmit2Systemen:[+7,-7,+7,...]und[+9]",
+  "sequence": "41 48 57 50 59 66 75 ? ?",
+  "options": {
+    "A": "68/77",
+    "B": "77/68",
+    "C": "70/73",
+    "D": "65/72",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

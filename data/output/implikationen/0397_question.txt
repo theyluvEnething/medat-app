@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Politiker sind Säugetiere.
+- Alle Säugetiere sind Ärzte.
+
+A) Alle Politiker sind keine Ärzte.
+B) Alle Politiker sind Ärzte.
+C) Einige Politiker sind keine Ärzte.
+D) Einige Politiker sind Ärzte.
+E) Keine der Schlussfolgerungen ist richtig.

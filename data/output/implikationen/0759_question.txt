@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Mathematiker sind Gräser.
+- Alle Gräser sind Sänger.
+
+A) Einige Mathematiker sind Sänger.
+B) Einige Mathematiker sind keine Sänger.
+C) Alle Mathematiker sind keine Sänger.
+D) Alle Mathematiker sind Sänger.
+E) Keine der Schlussfolgerungen ist richtig.

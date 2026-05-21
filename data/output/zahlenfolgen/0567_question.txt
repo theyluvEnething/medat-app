@@ -1,0 +1,7 @@
+Zahlenfolge: 1 2 4 8 16 32 ? ?
+
+A) 126/258
+B) 128/256
+C) 126/255
+D) 134/262
+E) Keine der Antworten ist richtig

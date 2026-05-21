@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Roboter sind keine Nashörner.
+- Einige Nashörner sind Pandas.
+
+A) Einige Roboter sind keine Pandas.
+B) Einige Roboter sind Pandas.
+C) Alle Roboter sind keine Pandas.
+D) Alle Roboter sind Pandas.
+E) Keine der Schlussfolgerungen ist richtig.

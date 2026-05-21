@@ -1,0 +1,9 @@
+Prämissen:
+- EinigeHotelssindTheater.
+- AlleHotelssindKinos.
+
+A) AlleKinossindTheater.
+B) AlleKinossindkeineTheater.
+C) EinigeKinossindTheater.
+D) EinigeKinossindkeineTheater.
+E) KeinederSchlussfolgerungenistrichtig.

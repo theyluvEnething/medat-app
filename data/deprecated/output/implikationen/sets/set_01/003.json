@@ -1,0 +1,17 @@
+{
+  "id": 3,
+  "set": 1,
+  "set_index": 3,
+  "answer": "C",
+  "premises": [
+    "AlleDDNsindFH.",
+    "EinigeDDNsindNA."
+  ],
+  "conclusions": {
+    "A": "AlleFHsindNA.",
+    "B": "AlleFHsindkeineNA.",
+    "C": "EinigeFHsindNA.",
+    "D": "EinigeFHsindkeineNA.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

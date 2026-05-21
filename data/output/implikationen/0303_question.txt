@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Granite sind Dichter.
+- Alle Dichter sind keine Telefone.
+
+A) Alle Granite sind Telefone.
+B) Alle Granite sind keine Telefone.
+C) Einige Granite sind keine Telefone.
+D) Einige Granite sind Telefone.
+E) Keine der Schlussfolgerungen ist richtig.

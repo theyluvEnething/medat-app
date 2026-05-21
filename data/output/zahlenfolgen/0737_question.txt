@@ -1,0 +1,7 @@
+Zahlenfolge: 19 16 35 51 86 137 ? ?
+
+A) 585/944
+B) 584/944
+C) 583/943
+D) 582/942
+E) Keine der Antworten ist richtig

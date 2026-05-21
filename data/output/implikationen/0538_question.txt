@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Blumen sind Quallen.
+- Einige Quallen sind Bäume.
+
+A) Alle Blumen sind Bäume.
+B) Einige Blumen sind Bäume.
+C) Einige Blumen sind keine Bäume.
+D) Alle Blumen sind keine Bäume.
+E) Keine der Schlussfolgerungen ist richtig.

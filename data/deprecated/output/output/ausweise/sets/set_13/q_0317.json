@@ -1,0 +1,14 @@
+{
+  "id": 317,
+  "set": 13,
+  "set_index": 17,
+  "answer": "A",
+  "text": "WelcheBlutgruppehatdiePersonmit unteranderemAllergiegegen Schimmelpilze?",
+  "options": {
+    "A": "B",
+    "B": "0",
+    "C": "A",
+    "D": "AB",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

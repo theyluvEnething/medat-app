@@ -1,0 +1,15 @@
+{
+  "id": 968,
+  "set": 65,
+  "set_index": 8,
+  "answer": "B",
+  "answer_word": "GEWINN",
+  "options": {
+    "A": "E",
+    "B": "G",
+    "C": "I",
+    "D": "W",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I N N W G E"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1351,
+  "set": 91,
+  "set_index": 1,
+  "answer": "B",
+  "answer_word": "VERANSTALTUNG",
+  "options": {
+    "A": "N",
+    "B": "V",
+    "C": "G",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A L N R E T A T S U G N V"
+}

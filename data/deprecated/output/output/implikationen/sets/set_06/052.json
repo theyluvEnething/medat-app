@@ -1,0 +1,17 @@
+{
+  "id": 52,
+  "set": 6,
+  "set_index": 2,
+  "answer": "C",
+  "premises": [
+    "AlleArchitektensindDesigner.",
+    "AlleDesignersindIngenieure."
+  ],
+  "conclusions": {
+    "A": "AlleIngenieuresindArchitekten.",
+    "B": "AlleIngenieuresindkeineArchitekten.",
+    "C": "EinigeIngenieuresindArchitekten.",
+    "D": "EinigeIngenieuresindkeineArchitekten.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

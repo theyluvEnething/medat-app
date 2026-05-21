@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Granite sind keine Pilze.
+- Alle Pilze sind keine Elektroautos.
+
+A) Einige Granite sind Elektroautos.
+B) Alle Granite sind Elektroautos.
+C) Einige Granite sind keine Elektroautos.
+D) Alle Granite sind keine Elektroautos.
+E) Keine der Schlussfolgerungen ist richtig.

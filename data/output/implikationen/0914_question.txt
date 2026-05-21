@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Delfine sind Telefone.
+- Einige Telefone sind Giraffen.
+
+A) Alle Delfine sind keine Giraffen.
+B) Einige Delfine sind keine Giraffen.
+C) Alle Delfine sind Giraffen.
+D) Einige Delfine sind Giraffen.
+E) Keine der Schlussfolgerungen ist richtig.

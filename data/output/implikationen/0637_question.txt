@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Kupfer sind keine Flüsse.
+- Alle Flüsse sind keine Blumen.
+
+A) Einige Kupfer sind Blumen.
+B) Alle Kupfer sind Blumen.
+C) Alle Kupfer sind keine Blumen.
+D) Einige Kupfer sind keine Blumen.
+E) Keine der Schlussfolgerungen ist richtig.

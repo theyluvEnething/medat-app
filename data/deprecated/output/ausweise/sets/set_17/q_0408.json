@@ -1,0 +1,14 @@
+{
+  "id": 408,
+  "set": 17,
+  "set_index": 8,
+  "answer": "D",
+  "text": "WelcheganzenAllergienhatdiePerson mitBlutgruppe0?",
+  "options": {
+    "A": "Kobalt,Senf",
+    "B": "Oxaceprol,Esskastanie",
+    "C": "Tartrazin,Esskastanie",
+    "D": "Austern,Johannisbeeren",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

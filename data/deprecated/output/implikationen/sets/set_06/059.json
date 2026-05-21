@@ -1,0 +1,17 @@
+{
+  "id": 59,
+  "set": 6,
+  "set_index": 9,
+  "answer": "E",
+  "premises": [
+    "EinigeEnergiensindkeineFelder.",
+    "AlleKräftesindEnergien."
+  ],
+  "conclusions": {
+    "A": "AlleKräftesindFelder.",
+    "B": "AlleKräftesindkeineFelder.",
+    "C": "EinigeKräftesindFelder.",
+    "D": "EinigeKräftesindkeineFelder.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

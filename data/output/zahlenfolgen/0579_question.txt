@@ -1,0 +1,7 @@
+Zahlenfolge: 28 31 38 49 64 83 ? ?
+
+A) 164/199
+B) 166/201
+C) 166/197
+D) 162/198
+E) Keine der Antworten ist richtig

@@ -1,0 +1,9 @@
+Prämissen:
+- EinigeStiefelsindkeineSchuhe.
+- AlleSandalensindkeineStiefel.
+
+A) AlleSandalensindSchuhe.
+B) AlleSandalensindkeineSchuhe.
+C) EinigeSandalensindSchuhe.
+D) EinigeSandalensindkeineSchuhe.
+E) KeinederSchlussfolgerungenistrichtig.

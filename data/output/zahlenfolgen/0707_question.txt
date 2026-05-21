@@ -1,0 +1,7 @@
+Zahlenfolge: 18 19 37 56 93 149 ? ?
+
+A) 631/1025
+B) 1024/633
+C) 631/1026
+D) 633/1024
+E) Keine der Antworten ist richtig

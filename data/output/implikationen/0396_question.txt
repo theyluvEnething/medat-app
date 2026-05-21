@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Wale sind Krokodile.
+- Einige Krokodile sind Taucher.
+
+A) Alle Wale sind Taucher.
+B) Einige Wale sind Taucher.
+C) Einige Wale sind keine Taucher.
+D) Alle Wale sind keine Taucher.
+E) Keine der Schlussfolgerungen ist richtig.

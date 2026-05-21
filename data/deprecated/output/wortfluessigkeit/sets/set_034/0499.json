@@ -1,0 +1,15 @@
+{
+  "id": 499,
+  "set": 34,
+  "set_index": 4,
+  "answer": "D",
+  "answer_word": "UNTERHALT",
+  "options": {
+    "A": "E",
+    "B": "A",
+    "C": "T",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R N U E H A T L T"
+}

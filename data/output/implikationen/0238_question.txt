@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Roboter sind Vögel.
+- Alle Vögel sind Chemiker.
+
+A) Alle Roboter sind keine Chemiker.
+B) Einige Roboter sind Chemiker.
+C) Einige Roboter sind keine Chemiker.
+D) Alle Roboter sind Chemiker.
+E) Keine der Schlussfolgerungen ist richtig.

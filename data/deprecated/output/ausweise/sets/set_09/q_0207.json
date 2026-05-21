@@ -1,0 +1,14 @@
+{
+  "id": 207,
+  "set": 9,
+  "set_index": 7,
+  "answer": "E",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer32314?",
+  "options": {
+    "A": "Pilze,Mango",
+    "B": "Sonne,Gelatine,Phosphate",
+    "C": "Ananas",
+    "D": "Ketoprofen,Phosphate",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

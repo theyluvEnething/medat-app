@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Vulkane sind Telefone.
+- Einige Telefone sind keine Lilien.
+
+A) Alle Vulkane sind keine Lilien.
+B) Einige Vulkane sind Lilien.
+C) Einige Vulkane sind keine Lilien.
+D) Alle Vulkane sind Lilien.
+E) Keine der Schlussfolgerungen ist richtig.

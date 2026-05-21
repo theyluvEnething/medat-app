@@ -1,0 +1,7 @@
+Name: SZINTRO
+Geburtstag: 3. August
+Medikamenteneinnahme: Nein
+Blutgruppe: AB
+Bekannte Allergien: Amalgam
+Ausweisnummer: 60846
+Ausstellungsland: Argentinien

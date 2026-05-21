@@ -1,0 +1,15 @@
+{
+  "id": 79,
+  "set": 6,
+  "set_index": 4,
+  "answer": "C",
+  "answer_word": "ZWEIG",
+  "options": {
+    "A": "W",
+    "B": "E",
+    "C": "Z",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I W Z E G"
+}

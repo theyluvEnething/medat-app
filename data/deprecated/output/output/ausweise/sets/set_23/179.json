@@ -1,0 +1,15 @@
+{
+  "id": 179,
+  "set": 23,
+  "set_index": 3,
+  "image": "179.png",
+  "fields": {
+    "Name": "GUZMAKO",
+    "Geburtstag": "10. Oktober",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Parvalbumin",
+    "Ausweisnummer": "58367",
+    "Ausstellungsland": "Afghanistan"
+  }
+}

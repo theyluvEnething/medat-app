@@ -1,0 +1,7 @@
+Zahlenfolge: 18 19 23 30 40 53 ? ?
+
+A) 112/136
+B) 109/133
+C) 110/135
+D) 108/134
+E) Keine der Antworten ist richtig

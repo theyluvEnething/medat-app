@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Eidechsen sind keine Schiffe.
+- Einige Schiffe sind keine Ärzte.
+
+A) Alle Eidechsen sind Ärzte.
+B) Alle Eidechsen sind keine Ärzte.
+C) Einige Eidechsen sind Ärzte.
+D) Einige Eidechsen sind keine Ärzte.
+E) Keine der Schlussfolgerungen ist richtig.

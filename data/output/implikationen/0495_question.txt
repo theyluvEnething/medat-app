@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Stühle sind keine Dinosaurier.
+- Alle Dinosaurier sind keine Teleskope.
+
+A) Alle Stühle sind Teleskope.
+B) Einige Stühle sind keine Teleskope.
+C) Einige Stühle sind Teleskope.
+D) Alle Stühle sind keine Teleskope.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,15 @@
+{
+  "id": 1362,
+  "set": 91,
+  "set_index": 12,
+  "answer": "B",
+  "answer_word": "GRUNDSCHULE",
+  "options": {
+    "A": "L",
+    "B": "G",
+    "C": "R",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S L E U D U R N G H C"
+}

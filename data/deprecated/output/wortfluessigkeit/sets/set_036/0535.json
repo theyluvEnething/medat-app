@@ -1,0 +1,15 @@
+{
+  "id": 535,
+  "set": 36,
+  "set_index": 10,
+  "answer": "D",
+  "answer_word": "ZERFALL",
+  "options": {
+    "A": "E",
+    "B": "A",
+    "C": "L",
+    "D": "Z",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "Z A R F L E L"
+}

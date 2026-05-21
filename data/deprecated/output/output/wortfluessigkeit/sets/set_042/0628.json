@@ -1,0 +1,15 @@
+{
+  "id": 628,
+  "set": 42,
+  "set_index": 13,
+  "answer": "D",
+  "answer_word": "NACHFRAGE",
+  "options": {
+    "A": "E",
+    "B": "G",
+    "C": "F",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R E F G H A N C A"
+}

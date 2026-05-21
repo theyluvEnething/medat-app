@@ -1,0 +1,17 @@
+{
+  "id": 39,
+  "set": 4,
+  "set_index": 9,
+  "answer": "A",
+  "premises": [
+    "AllePilzesindViren.",
+    "AlleVirensindKeime."
+  ],
+  "conclusions": {
+    "A": "AllePilzesindKeime.",
+    "B": "AllePilzesindkeineKeime.",
+    "C": "EinigePilzesindKeime.",
+    "D": "EinigePilzesindkeineKeime.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

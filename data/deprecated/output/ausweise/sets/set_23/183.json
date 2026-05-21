@@ -1,0 +1,15 @@
+{
+  "id": 183,
+  "set": 23,
+  "set_index": 7,
+  "image": "183.png",
+  "fields": {
+    "Name": "RIKZIFK",
+    "Geburtstag": "6. Februar",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Tapentadol, Iod",
+    "Ausweisnummer": "19321",
+    "Ausstellungsland": "Weißrussland"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1190,
+  "set": 80,
+  "set_index": 5,
+  "answer": "E",
+  "answer_word": "AUSZAHLUNG",
+  "options": {
+    "A": "S",
+    "B": "U",
+    "C": "H",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N A U A L G S Z H U"
+}

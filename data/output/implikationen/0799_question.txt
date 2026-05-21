@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Schiffe sind keine Ärzte.
+- Einige Ärzte sind keine Wirbeltiere.
+
+A) Einige Schiffe sind Wirbeltiere.
+B) Alle Schiffe sind Wirbeltiere.
+C) Einige Schiffe sind keine Wirbeltiere.
+D) Alle Schiffe sind keine Wirbeltiere.
+E) Keine der Schlussfolgerungen ist richtig.

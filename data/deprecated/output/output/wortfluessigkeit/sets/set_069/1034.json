@@ -1,0 +1,15 @@
+{
+  "id": 1034,
+  "set": 69,
+  "set_index": 14,
+  "answer": "E",
+  "answer_word": "BESTELLER",
+  "options": {
+    "A": "T",
+    "B": "E",
+    "C": "L",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L E S T R L B E E"
+}

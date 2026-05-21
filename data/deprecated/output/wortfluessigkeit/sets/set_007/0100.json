@@ -1,0 +1,15 @@
+{
+  "id": 100,
+  "set": 7,
+  "set_index": 10,
+  "answer": "D",
+  "answer_word": "LAUCH",
+  "options": {
+    "A": "H",
+    "B": "A",
+    "C": "U",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H U L C A"
+}

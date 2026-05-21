@@ -1,0 +1,14 @@
+{
+  "id": 882,
+  "set": 36,
+  "set_index": 7,
+  "answer": "A",
+  "text": "WieheißtdiePersonmitunteranderem AllergiegegenBrombeeren?",
+  "options": {
+    "A": "SPRANCO",
+    "B": "AUSWRIT",
+    "C": "ESTRIMO",
+    "D": "NYKLONMA",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,2 @@
+C — 599/969
+Jedes Glied = Summe der beiden Vorgänger

@@ -1,0 +1,14 @@
+{
+  "id": 192,
+  "set": 8,
+  "set_index": 17,
+  "answer": "D",
+  "text": "WelcheBlutgruppehatdiePersonmit GeburtstagimFebruar?",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "AB",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Flugzeuge sind Ingenieure.
+- Einige Ingenieure sind keine Schauspieler.
+
+A) Alle Flugzeuge sind keine Schauspieler.
+B) Einige Flugzeuge sind Schauspieler.
+C) Einige Flugzeuge sind keine Schauspieler.
+D) Alle Flugzeuge sind Schauspieler.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: -6 4 14 24 34 44 ? ?
+
+A) 66/75
+B) 65/76
+C) 65/73
+D) 64/74
+E) Keine der Antworten ist richtig

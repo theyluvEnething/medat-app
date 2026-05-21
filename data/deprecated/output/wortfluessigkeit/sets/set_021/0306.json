@@ -1,0 +1,15 @@
+{
+  "id": 306,
+  "set": 21,
+  "set_index": 6,
+  "answer": "B",
+  "answer_word": "AIRBAG",
+  "options": {
+    "A": "R",
+    "B": "A",
+    "C": "I",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "B A A G R I"
+}

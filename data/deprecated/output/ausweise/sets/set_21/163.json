@@ -1,0 +1,15 @@
+{
+  "id": 163,
+  "set": 21,
+  "set_index": 3,
+  "image": "163.png",
+  "fields": {
+    "Name": "JUHTRUH",
+    "Geburtstag": "18. November",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Laktose",
+    "Ausweisnummer": "63969",
+    "Ausstellungsland": "Slowakei"
+  }
+}

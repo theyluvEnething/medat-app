@@ -1,0 +1,15 @@
+{
+  "id": 92,
+  "set": 12,
+  "set_index": 4,
+  "image": "092.png",
+  "fields": {
+    "Name": "BEKRAN",
+    "Geburtstag": "18. Februar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Esche, Hunde",
+    "Ausweisnummer": "93048",
+    "Ausstellungsland": "Mexiko"
+  }
+}

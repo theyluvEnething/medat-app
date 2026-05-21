@@ -1,0 +1,15 @@
+{
+  "id": 1492,
+  "set": 100,
+  "set_index": 7,
+  "answer": "A",
+  "answer_word": "ROLLENTAUSCH",
+  "options": {
+    "A": "R",
+    "B": "E",
+    "C": "O",
+    "D": "C",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R C U O N L E H T L A S"
+}

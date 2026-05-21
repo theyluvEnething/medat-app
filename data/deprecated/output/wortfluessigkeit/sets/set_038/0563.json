@@ -1,0 +1,15 @@
+{
+  "id": 563,
+  "set": 38,
+  "set_index": 8,
+  "answer": "D",
+  "answer_word": "BLUTBAD",
+  "options": {
+    "A": "U",
+    "B": "L",
+    "C": "D",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U T A D B B L"
+}

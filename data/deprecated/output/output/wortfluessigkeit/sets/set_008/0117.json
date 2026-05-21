@@ -1,0 +1,15 @@
+{
+  "id": 117,
+  "set": 8,
+  "set_index": 12,
+  "answer": "D",
+  "answer_word": "LOCKUNG",
+  "options": {
+    "A": "N",
+    "B": "K",
+    "C": "O",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "K C G U N L O"
+}

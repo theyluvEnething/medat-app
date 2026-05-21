@@ -1,0 +1,7 @@
+Zahlenfolge: 5 28 -4 27 -13 26 ? ?
+
+A) -32/26
+B) -32/25
+C) -31/24
+D) -33/22
+E) Keine der Antworten ist richtig

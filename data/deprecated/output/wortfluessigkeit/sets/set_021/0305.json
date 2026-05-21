@@ -1,0 +1,15 @@
+{
+  "id": 305,
+  "set": 21,
+  "set_index": 5,
+  "answer": "B",
+  "answer_word": "BLOGGER",
+  "options": {
+    "A": "O",
+    "B": "B",
+    "C": "G",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R G E B G O L"
+}

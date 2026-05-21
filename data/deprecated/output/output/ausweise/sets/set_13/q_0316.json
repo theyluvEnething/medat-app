@@ -1,0 +1,14 @@
+{
+  "id": 316,
+  "set": 13,
+  "set_index": 16,
+  "answer": "D",
+  "text": "WelcheBlutgruppehatdiePersonmit Ausweisnummer30248?",
+  "options": {
+    "A": "0",
+    "B": "A",
+    "C": "AB",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

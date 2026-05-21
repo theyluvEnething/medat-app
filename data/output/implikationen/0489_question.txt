@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Smartphones sind keine Chemiker.
+- Einige Chemiker sind keine Vasen.
+
+A) Alle Smartphones sind keine Vasen.
+B) Einige Smartphones sind Vasen.
+C) Alle Smartphones sind Vasen.
+D) Einige Smartphones sind keine Vasen.
+E) Keine der Schlussfolgerungen ist richtig.

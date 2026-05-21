@@ -1,0 +1,15 @@
+{
+  "id": 285,
+  "set": 36,
+  "set_index": 5,
+  "image": "285.png",
+  "fields": {
+    "Name": "WIKRISO",
+    "Geburtstag": "11. Juni",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Alternaria, Camembert,",
+    "Ausweisnummer": "23709",
+    "Ausstellungsland": "Brunei"
+  }
+}

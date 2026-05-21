@@ -1,0 +1,7 @@
+Zahlenfolge: 19 23 29 31 37 41 ? ?
+
+A) 54/57
+B) 53/59
+C) 59/53
+D) 82/86
+E) Keine der Antworten ist richtig

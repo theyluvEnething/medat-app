@@ -1,0 +1,15 @@
+{
+  "id": 316,
+  "set": 40,
+  "set_index": 4,
+  "image": "316.png",
+  "fields": {
+    "Name": "UNERAM",
+    "Geburtstag": "9. Juni",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Rispengras, Beifuß",
+    "Ausweisnummer": "22314",
+    "Ausstellungsland": "Dänemark"
+  }
+}

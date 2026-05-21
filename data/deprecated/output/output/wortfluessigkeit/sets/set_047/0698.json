@@ -1,0 +1,15 @@
+{
+  "id": 698,
+  "set": 47,
+  "set_index": 8,
+  "answer": "D",
+  "answer_word": "HABGIER",
+  "options": {
+    "A": "B",
+    "B": "I",
+    "C": "A",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R G E A I H B"
+}

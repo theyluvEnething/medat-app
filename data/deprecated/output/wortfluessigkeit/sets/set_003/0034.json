@@ -1,0 +1,15 @@
+{
+  "id": 34,
+  "set": 3,
+  "set_index": 4,
+  "answer": "E",
+  "answer_word": "WOCHE",
+  "options": {
+    "A": "H",
+    "B": "O",
+    "C": "E",
+    "D": "C",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C O H W E"
+}

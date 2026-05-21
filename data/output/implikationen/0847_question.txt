@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Glühbirnen sind keine Tannen.
+- Einige Tannen sind keine Teleskope.
+
+A) Alle Glühbirnen sind keine Teleskope.
+B) Einige Glühbirnen sind keine Teleskope.
+C) Alle Glühbirnen sind Teleskope.
+D) Einige Glühbirnen sind Teleskope.
+E) Keine der Schlussfolgerungen ist richtig.

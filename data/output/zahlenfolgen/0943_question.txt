@@ -1,0 +1,7 @@
+Zahlenfolge: 18 26 34 42 50 58 ? ?
+
+A) 74/82
+B) 75/81
+C) 72/84
+D) 76/81
+E) Keine der Antworten ist richtig

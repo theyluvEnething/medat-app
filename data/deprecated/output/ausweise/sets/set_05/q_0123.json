@@ -1,0 +1,14 @@
+{
+  "id": 123,
+  "set": 5,
+  "set_index": 23,
+  "answer": "C",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer25464?",
+  "options": {
+    "A": "Zwiebeln,Nylon",
+    "B": "Fluorid,Sulfite,Levomethadon",
+    "C": "Zement,Fluorid",
+    "D": "Teebaumöl,Paraben,Rindfleisch",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

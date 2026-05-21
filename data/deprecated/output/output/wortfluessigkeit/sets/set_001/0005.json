@@ -1,0 +1,15 @@
+{
+  "id": 5,
+  "set": 1,
+  "set_index": 5,
+  "answer": "B",
+  "answer_word": "RHYTHMUS",
+  "options": {
+    "A": "Y",
+    "B": "R",
+    "C": "T",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S U H H M Y T R"
+}

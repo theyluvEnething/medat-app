@@ -1,0 +1,15 @@
+{
+  "id": 270,
+  "set": 34,
+  "set_index": 6,
+  "image": "270.png",
+  "fields": {
+    "Name": "XIDKLIN",
+    "Geburtstag": "17. August",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Paraben, Petersilie, Ananas",
+    "Ausweisnummer": "80112",
+    "Ausstellungsland": "Malaysia"
+  }
+}

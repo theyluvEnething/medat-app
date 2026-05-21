@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Fotografen sind Schlangen.
+- Einige Schlangen sind Wale.
+
+A) Einige Fotografen sind Wale.
+B) Alle Fotografen sind Wale.
+C) Einige Fotografen sind keine Wale.
+D) Alle Fotografen sind keine Wale.
+E) Keine der Schlussfolgerungen ist richtig.

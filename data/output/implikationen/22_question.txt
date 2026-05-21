@@ -1,0 +1,9 @@
+Prämissen:
+- AlleWellensindTeilchen.
+- EinigeWellensindPhotonen.
+
+A) AlleTeilchensindPhotonen.
+B) AlleTeilchensindkeinePhotonen.
+C) EinigeTeilchensindPhotonen.
+D) EinigeTeilchensindkeinePhotonen.
+E) KeinederSchlussfolgerungenistrichtig.

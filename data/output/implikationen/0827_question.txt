@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Schriftsteller sind Uhren.
+- Einige Uhren sind Bäume.
+
+A) Einige Schriftsteller sind Bäume.
+B) Alle Schriftsteller sind Bäume.
+C) Alle Schriftsteller sind keine Bäume.
+D) Einige Schriftsteller sind keine Bäume.
+E) Keine der Schlussfolgerungen ist richtig.

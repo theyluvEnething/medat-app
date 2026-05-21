@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Gedichte sind keine Anwälte.
+- Einige Anwälte sind Quartette.
+
+A) Alle Gedichte sind Quartette.
+B) Einige Gedichte sind Quartette.
+C) Alle Gedichte sind keine Quartette.
+D) Einige Gedichte sind keine Quartette.
+E) Keine der Schlussfolgerungen ist richtig.

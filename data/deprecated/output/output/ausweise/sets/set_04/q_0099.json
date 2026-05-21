@@ -1,0 +1,14 @@
+{
+  "id": 99,
+  "set": 4,
+  "set_index": 24,
+  "answer": "A",
+  "text": "WannistderGeburtstagderPersonmit demNamenFLIXRANK?",
+  "options": {
+    "A": "17.Mai",
+    "B": "25.Mai",
+    "C": "28.März",
+    "D": "10.Juli",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

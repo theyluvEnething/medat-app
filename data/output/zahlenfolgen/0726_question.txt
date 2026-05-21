@@ -1,0 +1,7 @@
+Zahlenfolge: 18 16 32 30 60 58 ? ?
+
+A) 229/227
+B) 230/228
+C) 227/225
+D) 228/226
+E) Keine der Antworten ist richtig

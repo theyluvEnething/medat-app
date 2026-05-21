@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Glühbirnen sind keine Flugzeuge.
+- Alle Flugzeuge sind keine Roboter.
+
+A) Einige Glühbirnen sind Roboter.
+B) Alle Glühbirnen sind Roboter.
+C) Einige Glühbirnen sind keine Roboter.
+D) Alle Glühbirnen sind keine Roboter.
+E) Keine der Schlussfolgerungen ist richtig.

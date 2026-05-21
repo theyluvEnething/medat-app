@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Vasen sind Lilien.
+- Alle Lilien sind Tiger.
+
+A) Alle Vasen sind keine Tiger.
+B) Einige Vasen sind Tiger.
+C) Alle Vasen sind Tiger.
+D) Einige Vasen sind keine Tiger.
+E) Keine der Schlussfolgerungen ist richtig.

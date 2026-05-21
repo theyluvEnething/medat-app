@@ -1,0 +1,7 @@
+Zahlenfolge: 16 17 34 35 70 71 ? ?
+
+A) 284/288
+B) 288/289
+C) 285/285
+D) 286/287
+E) Keine der Antworten ist richtig

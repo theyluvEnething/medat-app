@@ -1,0 +1,15 @@
+{
+  "id": 311,
+  "set": 21,
+  "set_index": 11,
+  "answer": "D",
+  "answer_word": "KONFERENZ",
+  "options": {
+    "A": "N",
+    "B": "E",
+    "C": "O",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "K E Z O N N F R E"
+}

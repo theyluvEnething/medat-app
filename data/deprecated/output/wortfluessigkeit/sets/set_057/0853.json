@@ -1,0 +1,15 @@
+{
+  "id": 853,
+  "set": 57,
+  "set_index": 13,
+  "answer": "B",
+  "answer_word": "STADTPLATZ",
+  "options": {
+    "A": "L",
+    "B": "S",
+    "C": "P",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "P L S T T Z D T A A"
+}

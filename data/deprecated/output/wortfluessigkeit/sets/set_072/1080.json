@@ -1,0 +1,15 @@
+{
+  "id": 1080,
+  "set": 72,
+  "set_index": 15,
+  "answer": "A",
+  "answer_word": "LEINENHOSE",
+  "options": {
+    "A": "L",
+    "B": "I",
+    "C": "E",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E S H I E N L N O E"
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Politiker sind keine Zebras.
+- Einige Zebras sind keine Tomaten.
+
+A) Alle Politiker sind keine Tomaten.
+B) Einige Politiker sind Tomaten.
+C) Alle Politiker sind Tomaten.
+D) Einige Politiker sind keine Tomaten.
+E) Keine der Schlussfolgerungen ist richtig.

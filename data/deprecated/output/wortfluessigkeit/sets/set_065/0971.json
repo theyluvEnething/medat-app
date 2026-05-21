@@ -1,0 +1,15 @@
+{
+  "id": 971,
+  "set": 65,
+  "set_index": 11,
+  "answer": "D",
+  "answer_word": "BAUERNSCHAFT",
+  "options": {
+    "A": "C",
+    "B": "N",
+    "C": "A",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "F C N A E T B R H A U S"
+}

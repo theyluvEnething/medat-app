@@ -1,0 +1,15 @@
+{
+  "id": 178,
+  "set": 12,
+  "set_index": 13,
+  "answer": "B",
+  "answer_word": "ABTEI",
+  "options": {
+    "A": "I",
+    "B": "A",
+    "C": "E",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E I A B T"
+}

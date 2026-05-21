@@ -1,0 +1,14 @@
+{
+  "id": 933,
+  "set": 38,
+  "set_index": 8,
+  "answer": "B",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusstellungslandMexiko?",
+  "options": {
+    "A": "Schwarzerle",
+    "B": "Ratten,Pfeffer,Kunstharz",
+    "C": "Alkohol,Brauereihefe",
+    "D": "Batate,Retinol",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

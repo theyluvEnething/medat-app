@@ -1,0 +1,15 @@
+{
+  "id": 264,
+  "set": 33,
+  "set_index": 8,
+  "image": "264.png",
+  "fields": {
+    "Name": "OPRANZID",
+    "Geburtstag": "20. September",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Bananen",
+    "Ausweisnummer": "19989",
+    "Ausstellungsland": "Australien"
+  }
+}

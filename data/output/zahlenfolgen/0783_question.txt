@@ -1,0 +1,7 @@
+Zahlenfolge: 15 6 -3 -12 -21 -30 ? ?
+
+A) -39/-48
+B) -47/-56
+C) -50/-58
+D) -48/-57
+E) Keine der Antworten ist richtig

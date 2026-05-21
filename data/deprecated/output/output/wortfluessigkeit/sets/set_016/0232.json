@@ -1,0 +1,15 @@
+{
+  "id": 232,
+  "set": 16,
+  "set_index": 7,
+  "answer": "C",
+  "answer_word": "APOTHEKE",
+  "options": {
+    "A": "O",
+    "B": "T",
+    "C": "A",
+    "D": "P",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O P E A H E T K"
+}

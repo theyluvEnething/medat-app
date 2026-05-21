@@ -1,0 +1,14 @@
+{
+  "id": 420,
+  "set": 17,
+  "set_index": 20,
+  "answer": "E",
+  "text": "WielautetdieAusweisnummerder PersonmitGeburtstagimFebruar?",
+  "options": {
+    "A": "24499",
+    "B": "95554",
+    "C": "71081",
+    "D": "96364",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

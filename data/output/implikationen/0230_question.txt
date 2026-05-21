@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Wissenschaftler sind keine Stühle.
+- Einige Stühle sind Amphibien.
+
+A) Einige Wissenschaftler sind Amphibien.
+B) Alle Wissenschaftler sind keine Amphibien.
+C) Alle Wissenschaftler sind Amphibien.
+D) Einige Wissenschaftler sind keine Amphibien.
+E) Keine der Schlussfolgerungen ist richtig.

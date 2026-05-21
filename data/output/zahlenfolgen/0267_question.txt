@@ -1,0 +1,7 @@
+Zahlenfolge: 1 -4 -9 -14 -19 -24 ? ?
+
+A) -34/-39
+B) -35/-37
+C) -36/-38
+D) -32/-38
+E) Keine der Antworten ist richtig

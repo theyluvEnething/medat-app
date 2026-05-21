@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Autos sind Eidechsen.
+- Alle Eidechsen sind keine Zebras.
+
+A) Einige Autos sind keine Zebras.
+B) Einige Autos sind Zebras.
+C) Alle Autos sind Zebras.
+D) Alle Autos sind keine Zebras.
+E) Keine der Schlussfolgerungen ist richtig.

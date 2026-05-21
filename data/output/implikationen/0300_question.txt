@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Ärzte sind Schriftsteller.
+- Einige Schriftsteller sind Möbel.
+
+A) Alle Ärzte sind keine Möbel.
+B) Alle Ärzte sind Möbel.
+C) Einige Ärzte sind Möbel.
+D) Einige Ärzte sind keine Möbel.
+E) Keine der Schlussfolgerungen ist richtig.

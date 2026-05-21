@@ -1,0 +1,15 @@
+{
+  "id": 254,
+  "set": 32,
+  "set_index": 6,
+  "image": "254.png",
+  "fields": {
+    "Name": "HEHUCRI",
+    "Geburtstag": "25. Februar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Pfeffer, Feigen",
+    "Ausweisnummer": "15212",
+    "Ausstellungsland": "Tuvalu"
+  }
+}

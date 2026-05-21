@@ -1,0 +1,15 @@
+{
+  "id": 224,
+  "set": 15,
+  "set_index": 14,
+  "answer": "B",
+  "answer_word": "ABITUR",
+  "options": {
+    "A": "R",
+    "B": "A",
+    "C": "I",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A R T B I U"
+}

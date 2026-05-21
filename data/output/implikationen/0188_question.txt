@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Ärzte sind keine Ingenieure.
+- Einige Ingenieure sind Delfine.
+
+A) Alle Ärzte sind Delfine.
+B) Einige Ärzte sind keine Delfine.
+C) Alle Ärzte sind keine Delfine.
+D) Einige Ärzte sind Delfine.
+E) Keine der Schlussfolgerungen ist richtig.

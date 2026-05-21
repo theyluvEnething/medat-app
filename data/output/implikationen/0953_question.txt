@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Pilze sind Züge.
+- Alle Züge sind keine Klaviere.
+
+A) Alle Pilze sind keine Klaviere.
+B) Einige Pilze sind Klaviere.
+C) Alle Pilze sind Klaviere.
+D) Einige Pilze sind keine Klaviere.
+E) Keine der Schlussfolgerungen ist richtig.

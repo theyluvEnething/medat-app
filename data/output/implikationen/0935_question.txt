@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Blumen sind keine Menschen.
+- Einige Menschen sind keine Giraffen.
+
+A) Alle Blumen sind Giraffen.
+B) Einige Blumen sind keine Giraffen.
+C) Alle Blumen sind keine Giraffen.
+D) Einige Blumen sind Giraffen.
+E) Keine der Schlussfolgerungen ist richtig.

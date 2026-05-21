@@ -1,0 +1,15 @@
+{
+  "id": 727,
+  "set": 49,
+  "set_index": 7,
+  "answer": "A",
+  "answer_word": "SCHLAFZIMMER",
+  "options": {
+    "A": "S",
+    "B": "M",
+    "C": "H",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H M R F E C M L Z I A S"
+}

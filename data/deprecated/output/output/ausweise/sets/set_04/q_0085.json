@@ -1,0 +1,14 @@
+{
+  "id": 85,
+  "set": 4,
+  "set_index": 10,
+  "answer": "A",
+  "text": "WelcheganzenAllergienhat diePersonmitdiesemBild?",
+  "options": {
+    "A": "Mandarinen",
+    "B": "Thiomersal,Mango,Champignons",
+    "C": "Forellen,Gurken",
+    "D": "Himbeeren",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

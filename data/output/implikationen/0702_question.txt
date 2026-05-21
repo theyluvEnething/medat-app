@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Anwälte sind Kupfer.
+- Alle Kupfer sind keine Gräser.
+
+A) Alle Anwälte sind Gräser.
+B) Einige Anwälte sind keine Gräser.
+C) Alle Anwälte sind keine Gräser.
+D) Einige Anwälte sind Gräser.
+E) Keine der Schlussfolgerungen ist richtig.

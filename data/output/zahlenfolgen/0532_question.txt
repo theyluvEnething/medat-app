@@ -1,0 +1,7 @@
+Zahlenfolge: 23 28 33 38 43 48 ? ?
+
+A) 60/61
+B) 53/58
+C) 58/63
+D) 63/58
+E) Keine der Antworten ist richtig

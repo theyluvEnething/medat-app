@@ -1,0 +1,15 @@
+{
+  "id": 447,
+  "set": 30,
+  "set_index": 12,
+  "answer": "A",
+  "answer_word": "KRIEGER",
+  "options": {
+    "A": "K",
+    "B": "E",
+    "C": "R",
+    "D": "I",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E E R K G R I"
+}

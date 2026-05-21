@@ -1,0 +1,15 @@
+{
+  "id": 1113,
+  "set": 75,
+  "set_index": 3,
+  "answer": "C",
+  "answer_word": "JOURNALISMUS",
+  "options": {
+    "A": "N",
+    "B": "S",
+    "C": "J",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R I S O N A U L U S M J"
+}

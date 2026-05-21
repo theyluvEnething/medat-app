@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Vasen sind keine Menschen.
+- Alle Menschen sind keine Chemiker.
+
+A) Alle Vasen sind Chemiker.
+B) Einige Vasen sind keine Chemiker.
+C) Einige Vasen sind Chemiker.
+D) Alle Vasen sind keine Chemiker.
+E) Keine der Schlussfolgerungen ist richtig.

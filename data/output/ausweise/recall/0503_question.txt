@@ -1,0 +1,7 @@
+WievielePersonenhabeneinenAusweis ausTürkei?
+
+A) 4
+B) 1
+C) 3
+D) 0
+E) KeinederAntwortenistrichtig

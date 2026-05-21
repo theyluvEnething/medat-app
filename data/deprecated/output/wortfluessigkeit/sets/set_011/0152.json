@@ -1,0 +1,15 @@
+{
+  "id": 152,
+  "set": 11,
+  "set_index": 2,
+  "answer": "A",
+  "answer_word": "FAHRT",
+  "options": {
+    "A": "F",
+    "B": "H",
+    "C": "T",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T A F R H"
+}

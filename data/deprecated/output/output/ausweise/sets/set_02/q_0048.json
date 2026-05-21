@@ -1,0 +1,14 @@
+{
+  "id": 48,
+  "set": 2,
+  "set_index": 23,
+  "answer": "D",
+  "text": "WelcheganzenAllergienhatdiePerson mitderAusweisnummerendendmit50?",
+  "options": {
+    "A": "Edelkastanie,Nitrit,Liebstöckel",
+    "B": "Porree,Lysozyme",
+    "C": "Milchzucker",
+    "D": "Pollen",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Diamanten sind keine Eichen.
+- Einige Eichen sind Blumen.
+
+A) Einige Diamanten sind keine Blumen.
+B) Alle Diamanten sind Blumen.
+C) Einige Diamanten sind Blumen.
+D) Alle Diamanten sind keine Blumen.
+E) Keine der Schlussfolgerungen ist richtig.

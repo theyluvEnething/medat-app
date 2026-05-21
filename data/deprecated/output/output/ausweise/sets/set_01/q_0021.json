@@ -1,0 +1,11 @@
+{
+  "id": 21,
+  "set": 1,
+  "set_index": 21,
+  "answer": "B",
+  "text": "WelchesFotogehörtzuderPersonmit GeburtstagimFebruarundGeburtstagam 23.desMonats?",
+  "options": {
+    "A": "B. C. D.",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

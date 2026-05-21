@@ -1,0 +1,15 @@
+{
+  "id": 1017,
+  "set": 68,
+  "set_index": 12,
+  "answer": "C",
+  "answer_word": "ABGABEN",
+  "options": {
+    "A": "E",
+    "B": "G",
+    "C": "A",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "B A A N B G E"
+}

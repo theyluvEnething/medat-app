@@ -1,0 +1,7 @@
+Buchstabenreihe: N D T K I S O
+
+A) O
+B) T
+C) I
+D) N
+E) KeinederAntwortenistrichtig

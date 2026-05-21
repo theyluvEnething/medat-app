@@ -1,0 +1,14 @@
+{
+  "id": 100,
+  "set": 4,
+  "set_index": 25,
+  "answer": "E",
+  "text": "WieheißtdiePersonmit AusstellungslandKolumbien?",
+  "options": {
+    "A": "FOFFLOF",
+    "B": "RIUKLIX",
+    "C": "KUZRMAN",
+    "D": "PREDRAC",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

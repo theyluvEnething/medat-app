@@ -1,0 +1,7 @@
+Zahlenfolge: 1 -1 9 -11 17 -21 ? ?
+
+A) 31/-40
+B) 33/-41
+C) 34/-43
+D) 35/-40
+E) Keine der Antworten ist richtig

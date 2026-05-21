@@ -1,0 +1,15 @@
+{
+  "id": 271,
+  "set": 34,
+  "set_index": 7,
+  "image": "271.png",
+  "fields": {
+    "Name": "WRONZOD",
+    "Geburtstag": "22. März",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Ananas, Porree",
+    "Ausweisnummer": "45313",
+    "Ausstellungsland": "Jamaika"
+  }
+}

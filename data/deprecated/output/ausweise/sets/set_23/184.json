@@ -1,0 +1,15 @@
+{
+  "id": 184,
+  "set": 23,
+  "set_index": 8,
+  "image": "184.png",
+  "fields": {
+    "Name": "INTERHUL",
+    "Geburtstag": "1. Februar",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Bienenstich, Fructose",
+    "Ausweisnummer": "35776",
+    "Ausstellungsland": "Dominica"
+  }
+}

@@ -1,0 +1,7 @@
+Zahlenfolge: 7 8 15 34 71 132 ? ?
+
+A) 350/519
+B) 352/518
+C) 348/520
+D) 348/518
+E) Keine der Antworten ist richtig

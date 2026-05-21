@@ -1,0 +1,15 @@
+{
+  "id": 301,
+  "set": 21,
+  "set_index": 1,
+  "answer": "D",
+  "answer_word": "GURKE",
+  "options": {
+    "A": "E",
+    "B": "R",
+    "C": "K",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E G K U R"
+}

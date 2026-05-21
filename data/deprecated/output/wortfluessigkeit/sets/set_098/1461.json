@@ -1,0 +1,15 @@
+{
+  "id": 1461,
+  "set": 98,
+  "set_index": 6,
+  "answer": "D",
+  "answer_word": "SPIEGELBILD",
+  "options": {
+    "A": "B",
+    "B": "E",
+    "C": "G",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "G L S I E E I D B P L"
+}

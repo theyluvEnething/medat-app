@@ -1,0 +1,15 @@
+{
+  "id": 782,
+  "set": 53,
+  "set_index": 2,
+  "answer": "B",
+  "answer_word": "BADMINTON",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "I",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O T M A B N N I D"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 259,
+  "set": 11,
+  "set_index": 9,
+  "answer": "D",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer33316?",
+  "options": {
+    "A": "Gurken,Petersilie",
+    "B": "Weichtiere,Eier",
+    "C": "Kobalt,Pferdehaare",
+    "D": "Weichtiere,Tocopherol,Petersilie",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

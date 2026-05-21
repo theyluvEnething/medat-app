@@ -1,0 +1,15 @@
+{
+  "id": 1158,
+  "set": 78,
+  "set_index": 3,
+  "answer": "C",
+  "answer_word": "LADENSCHLUSS",
+  "options": {
+    "A": "U",
+    "B": "C",
+    "C": "L",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "D S L A U S L H N C S E"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 258,
+  "set": 11,
+  "set_index": 8,
+  "answer": "E",
+  "text": "WelcheganzenAllergienhatdiePerson mitBlutgruppeAunddemGeschlecht weiblich?",
+  "options": {
+    "A": "Pollen",
+    "B": "Weichtiere,Eier",
+    "C": "Sorbinsäure",
+    "D": "Gurken,Sonne",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

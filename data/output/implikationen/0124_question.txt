@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Giraffen sind Bücher.
+- Alle Bücher sind Radios.
+
+A) Einige Giraffen sind keine Radios.
+B) Alle Giraffen sind Radios.
+C) Alle Giraffen sind keine Radios.
+D) Einige Giraffen sind Radios.
+E) Keine der Schlussfolgerungen ist richtig.

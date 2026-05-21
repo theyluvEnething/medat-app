@@ -1,0 +1,7 @@
+Zahlenfolge: 3 -6 12 -24 48 -96 ? ?
+
+A) -384/768
+B) -385/766
+C) -382/769
+D) -385/770
+E) Keine der Antworten ist richtig

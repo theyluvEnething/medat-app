@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Glühbirnen sind keine Möbel.
+- Einige Möbel sind keine Schlangen.
+
+A) Alle Glühbirnen sind Schlangen.
+B) Alle Glühbirnen sind keine Schlangen.
+C) Einige Glühbirnen sind Schlangen.
+D) Einige Glühbirnen sind keine Schlangen.
+E) Keine der Schlussfolgerungen ist richtig.

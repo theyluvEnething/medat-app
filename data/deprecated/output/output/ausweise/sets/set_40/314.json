@@ -1,0 +1,15 @@
+{
+  "id": 314,
+  "set": 40,
+  "set_index": 2,
+  "image": "314.png",
+  "fields": {
+    "Name": "GRUDBAND",
+    "Geburtstag": "27. Dezember",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Mückenstiche",
+    "Ausweisnummer": "06835",
+    "Ausstellungsland": "Togo"
+  }
+}

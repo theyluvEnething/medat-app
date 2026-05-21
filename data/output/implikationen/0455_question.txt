@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Telefone sind Vegetarier.
+- Einige Vegetarier sind keine Wale.
+
+A) Einige Telefone sind keine Wale.
+B) Alle Telefone sind Wale.
+C) Einige Telefone sind Wale.
+D) Alle Telefone sind keine Wale.
+E) Keine der Schlussfolgerungen ist richtig.

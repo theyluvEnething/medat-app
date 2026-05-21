@@ -1,0 +1,14 @@
+{
+  "id": 820,
+  "set": 33,
+  "set_index": 20,
+  "answer": "E",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitAusweisnummer85878?",
+  "options": {
+    "A": "Andorra",
+    "B": "Südsudan",
+    "C": "Australien",
+    "D": "Uganda",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

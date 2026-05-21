@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Orchideen sind Eichen.
+- Einige Eichen sind Säugetiere.
+
+A) Alle Orchideen sind keine Säugetiere.
+B) Alle Orchideen sind Säugetiere.
+C) Einige Orchideen sind keine Säugetiere.
+D) Einige Orchideen sind Säugetiere.
+E) Keine der Schlussfolgerungen ist richtig.

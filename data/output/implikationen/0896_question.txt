@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Gemälde sind keine Mäuse.
+- Alle Mäuse sind Vegetarier.
+
+A) Einige Gemälde sind Vegetarier.
+B) Alle Gemälde sind keine Vegetarier.
+C) Alle Gemälde sind Vegetarier.
+D) Einige Gemälde sind keine Vegetarier.
+E) Keine der Schlussfolgerungen ist richtig.

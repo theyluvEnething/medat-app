@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Vasen sind keine Giraffen.
+- Alle Giraffen sind keine Mathematiker.
+
+A) Alle Vasen sind Mathematiker.
+B) Einige Vasen sind Mathematiker.
+C) Alle Vasen sind keine Mathematiker.
+D) Einige Vasen sind keine Mathematiker.
+E) Keine der Schlussfolgerungen ist richtig.

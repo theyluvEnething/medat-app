@@ -1,0 +1,14 @@
+{
+  "id": 398,
+  "set": 16,
+  "set_index": 23,
+  "answer": "A",
+  "text": "WelcheBlutgruppehatdiePersonmit AusstellungslandCostaRica?",
+  "options": {
+    "A": "B",
+    "B": "A",
+    "C": "AB",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

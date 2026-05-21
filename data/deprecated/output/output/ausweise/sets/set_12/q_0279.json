@@ -1,0 +1,14 @@
+{
+  "id": 279,
+  "set": 12,
+  "set_index": 4,
+  "answer": "B",
+  "text": "WieheißtdiePersonmit Ausweisnummer12927?",
+  "options": {
+    "A": "CNOXIZ",
+    "B": "ABUQAN",
+    "C": "GOMCUV",
+    "D": "DREISTOR",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

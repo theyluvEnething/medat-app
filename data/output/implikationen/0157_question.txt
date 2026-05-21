@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Gedichte sind keine Amphibien.
+- Alle Amphibien sind keine Anwälte.
+
+A) Einige Gedichte sind keine Anwälte.
+B) Alle Gedichte sind Anwälte.
+C) Alle Gedichte sind keine Anwälte.
+D) Einige Gedichte sind Anwälte.
+E) Keine der Schlussfolgerungen ist richtig.

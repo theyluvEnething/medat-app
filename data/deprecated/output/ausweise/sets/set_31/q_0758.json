@@ -1,0 +1,14 @@
+{
+  "id": 758,
+  "set": 31,
+  "set_index": 8,
+  "answer": "A",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer52300?",
+  "options": {
+    "A": "Knoblauch,Penicillin",
+    "B": "Spitzwegerich,Scampi",
+    "C": "Ketoprofen",
+    "D": "Edelkastanie,Nüsse",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

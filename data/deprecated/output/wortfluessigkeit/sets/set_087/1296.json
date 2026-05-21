@@ -1,0 +1,15 @@
+{
+  "id": 1296,
+  "set": 87,
+  "set_index": 6,
+  "answer": "A",
+  "answer_word": "AUSFLUG",
+  "options": {
+    "A": "A",
+    "B": "F",
+    "C": "G",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "G S F A U U L"
+}

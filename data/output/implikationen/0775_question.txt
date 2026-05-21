@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Gedichte sind keine Vögel.
+- Alle Vögel sind Roboter.
+
+A) Alle Gedichte sind keine Roboter.
+B) Einige Gedichte sind Roboter.
+C) Alle Gedichte sind Roboter.
+D) Einige Gedichte sind keine Roboter.
+E) Keine der Schlussfolgerungen ist richtig.

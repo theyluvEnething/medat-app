@@ -1,0 +1,7 @@
+Zahlenfolge: 13 15 30 32 64 66 ? ?
+
+A) 132/142
+B) 270/272
+C) 268/270
+D) 76/86
+E) Keine der Antworten ist richtig

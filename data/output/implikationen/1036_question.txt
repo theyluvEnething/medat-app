@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Chemiker sind keine Autos.
+- Alle Autos sind Delfine.
+
+A) Einige Chemiker sind keine Delfine.
+B) Alle Chemiker sind Delfine.
+C) Alle Chemiker sind keine Delfine.
+D) Einige Chemiker sind Delfine.
+E) Keine der Schlussfolgerungen ist richtig.

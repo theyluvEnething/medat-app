@@ -1,0 +1,14 @@
+{
+  "id": 892,
+  "set": 36,
+  "set_index": 17,
+  "answer": "E",
+  "text": "WelcheganzenAllergienhatdiePerson mitdem21.MaialsGeburtstag?",
+  "options": {
+    "A": "Retinol",
+    "B": "Paranüsse,Retinol",
+    "C": "Seezunge,Kamille",
+    "D": "Asbest,Batate,Kamille",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

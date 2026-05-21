@@ -1,0 +1,15 @@
+{
+  "id": 87,
+  "set": 6,
+  "set_index": 12,
+  "answer": "A",
+  "answer_word": "VERLAG",
+  "options": {
+    "A": "V",
+    "B": "R",
+    "C": "L",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A E V R G L"
+}

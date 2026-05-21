@@ -1,0 +1,14 @@
+{
+  "id": 128,
+  "set": 6,
+  "set_index": 3,
+  "answer": "D",
+  "text": "MitwelchenZiffernbeginnt dieAusweisnummerder PersonmitdiesemBild?",
+  "options": {
+    "A": "75",
+    "B": "83",
+    "C": "62",
+    "D": "48",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

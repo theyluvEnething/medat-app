@@ -1,0 +1,15 @@
+{
+  "id": 52,
+  "set": 7,
+  "set_index": 4,
+  "image": "052.png",
+  "fields": {
+    "Name": "SLIXMO",
+    "Geburtstag": "7. Februar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Mango",
+    "Ausweisnummer": "84358",
+    "Ausstellungsland": "Palau"
+  }
+}

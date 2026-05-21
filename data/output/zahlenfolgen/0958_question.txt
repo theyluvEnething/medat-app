@@ -1,0 +1,7 @@
+Zahlenfolge: 27 32 39 48 59 72 ? ?
+
+A) 125/143
+B) 123/144
+C) 121/142
+D) 122/142
+E) Keine der Antworten ist richtig

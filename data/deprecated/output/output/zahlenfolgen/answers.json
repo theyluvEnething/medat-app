@@ -1,0 +1,352 @@
+{
+  "1": {
+    "letter": "C",
+    "value": "71/90",
+    "explanation": "A₄=A₂+A₁,A₅=A₃+A₂,A₆=A₄+A₃,..."
+  },
+  "2": {
+    "letter": "C",
+    "value": "607/1189",
+    "explanation": "1er-Sprung:+6,+(6+9),+(6+9×2),+(6+9×4),+(6+9×8)..."
+  },
+  "3": {
+    "letter": "D",
+    "value": "11/408",
+    "explanation": "2erSprungmit2Systemen:[×4,×3,×2,...]und[-10]"
+  },
+  "4": {
+    "letter": "A",
+    "value": "108/924",
+    "explanation": "3er-Sprung:×2,×3,×4,..."
+  },
+  "5": {
+    "letter": "D",
+    "value": "6/27",
+    "explanation": "1er-Sprungmit-8,+19,÷2,-7,+20,÷3,..."
+  },
+  "6": {
+    "letter": "B",
+    "value": "114/120",
+    "explanation": "A₂=A₁+QuersummeA₁"
+  },
+  "7": {
+    "letter": "D",
+    "value": "10/1133",
+    "explanation": "2erSprungmit2Systemen:[+7,+7×5,+7×5²,...]und[-10]"
+  },
+  "8": {
+    "letter": "C",
+    "value": "69/-80",
+    "explanation": "A₁-A₃=A₄,A₂-A₄=A₅,..."
+  },
+  "9": {
+    "letter": "C",
+    "value": "667/984",
+    "explanation": "1er-Sprung:Summand+9steigtum+11,+22,+33,..."
+  },
+  "10": {
+    "letter": "B",
+    "value": "1386/1380",
+    "explanation": "1er-Sprungmit×6,-6,÷2,..."
+  },
+  "11": {
+    "letter": "A",
+    "value": "118/171",
+    "explanation": "FibonaccibeiSummanden+5,+1,+6,+7,..."
+  },
+  "12": {
+    "letter": "E",
+    "value": "432/855",
+    "explanation": "ZweiSysteme:[+Quersumme]und[Fibonacci]"
+  },
+  "13": {
+    "letter": "E",
+    "value": "186/224",
+    "explanation": "1er-Sprung:+10,+(10+4),+(10+8),+(10+12),..."
+  },
+  "14": {
+    "letter": "C",
+    "value": "-28/0",
+    "explanation": "3er-Sprung:×5,×4,×3,..."
+  },
+  "15": {
+    "letter": "C",
+    "value": "500/650",
+    "explanation": "ZweiSysteme:[Fibonacci]und[2er-Sprung:×5]"
+  },
+  "16": {
+    "letter": "C",
+    "value": "-41/47",
+    "explanation": "2erSprungmit2Systemen:[+15]und[-13]"
+  },
+  "17": {
+    "letter": "B",
+    "value": "-24/-12",
+    "explanation": "1er-Sprungmit-16,÷2,×4,..."
+  },
+  "18": {
+    "letter": "B",
+    "value": "-69/-19",
+    "explanation": "A₃-A₁=A₄,A₄-A₂=A₅,..."
+  },
+  "19": {
+    "letter": "B",
+    "value": "280/158",
+    "explanation": "2erSprungmit2Systemen:[+7,+(7+14),+(7+28),...]und[×2]"
+  },
+  "20": {
+    "letter": "B",
+    "value": "636/1276",
+    "explanation": "1er-Sprung:×2+4"
+  },
+  "21": {
+    "letter": "D",
+    "value": "54/45",
+    "explanation": "A₂=A₁-QuersummeA₁"
+  },
+  "22": {
+    "letter": "E",
+    "value": "28/24",
+    "explanation": "A₃=A₂-A₁,A₄=A₃-A₂,A₅=A₄-A₃,..."
+  },
+  "23": {
+    "letter": "D",
+    "value": "27/21",
+    "explanation": "1er-Sprungmit+19,-8,÷3,+20,-7,÷4,..."
+  },
+  "24": {
+    "letter": "E",
+    "value": "130/258",
+    "explanation": "1er-Sprung:×2-2"
+  },
+  "25": {
+    "letter": "D",
+    "value": "418/677",
+    "explanation": "Fibonacci:A₁+A₂=A₃,A₂+A₃=A₄,..."
+  },
+  "26": {
+    "letter": "C",
+    "value": "-59/71",
+    "explanation": "2erSprungmit2Systemen:[+13,+(13-4),+(13-8),...]und[-12]"
+  },
+  "27": {
+    "letter": "A",
+    "value": "68/77",
+    "explanation": "1erSprungmit2Systemen:[+7,-7,+7,...]und[+9]"
+  },
+  "28": {
+    "letter": "B",
+    "value": "17/114",
+    "explanation": "2erSprungmit2Systemen:[+10,+(10+15),+(10+30),...]und[-5]"
+  },
+  "29": {
+    "letter": "D",
+    "value": "185/234",
+    "explanation": "+0²,+1²,+2²,+3²,..."
+  },
+  "30": {
+    "letter": "B",
+    "value": "1/132",
+    "explanation": "2erSprungmit2Systemen:[+12,+24,+36,...]und[-11]"
+  },
+  "31": {
+    "letter": "D",
+    "value": "12/-96",
+    "explanation": "3er-Sprung:×6,-6,×6,-6,..."
+  },
+  "32": {
+    "letter": "B",
+    "value": "45/31",
+    "explanation": "A₃=A₂-A₁,A₄=A₃+A₂,A₅=A₄-A₃,..."
+  },
+  "33": {
+    "letter": "B",
+    "value": "19/7",
+    "explanation": "A₃=A₂-A₁,A₄=A₃-A₂,A₅=A₄-A₃,..."
+  },
+  "34": {
+    "letter": "C",
+    "value": "122/169",
+    "explanation": "FibonaccibeiSummanden+1,+3,+4,+7,..."
+  },
+  "35": {
+    "letter": "E",
+    "value": "74/-33",
+    "explanation": "A₁+A₂-A₃=A₄,A₂+A₃-A₄=A₅,..."
+  },
+  "36": {
+    "letter": "A",
+    "value": "412/588",
+    "explanation": "1er-Sprung:Summand+8steigtum+6,+12,+18,..."
+  },
+  "37": {
+    "letter": "D",
+    "value": "24/-71",
+    "explanation": "2erSprungmit2Systemen:[-10,-(10+13),-(10+26),...]und[+9]"
+  },
+  "38": {
+    "letter": "C",
+    "value": "649/1289",
+    "explanation": "1er-Sprung:×2-9"
+  },
+  "39": {
+    "letter": "D",
+    "value": "-84/0",
+    "explanation": "3er-Sprung:×5,×4,×3,..."
+  },
+  "40": {
+    "letter": "E",
+    "value": "-274/-395",
+    "explanation": "-4²,-5²,-6²,-7²,..."
+  },
+  "41": {
+    "letter": "D",
+    "value": "104/221",
+    "explanation": "ZweiSysteme:[-13]und[Fibonacci]"
+  },
+  "42": {
+    "letter": "C",
+    "value": "-14/167",
+    "explanation": "2erSprungmit2Systemen:[+12,+24,+36,...]und[-4]"
+  },
+  "43": {
+    "letter": "D",
+    "value": "192/63",
+    "explanation": "2erSprungmit2Systemen:[+9]und[×2,×3,×4,...]"
+  },
+  "44": {
+    "letter": "B",
+    "value": "-5/-54",
+    "explanation": "-0²,-1²,-2²,-3²,..."
+  },
+  "45": {
+    "letter": "E",
+    "value": "138/266",
+    "explanation": "1er-Sprung:×2-10"
+  },
+  "46": {
+    "letter": "E",
+    "value": "373/563",
+    "explanation": "1er-Sprung:Summand+8steigtum+2,+10,+18,..."
+  },
+  "47": {
+    "letter": "D",
+    "value": "94/149",
+    "explanation": "FibonaccibeiSummanden+2,+3,+5,+8,..."
+  },
+  "48": {
+    "letter": "B",
+    "value": "54/45",
+    "explanation": "A₂=A₁-QuersummeA₁"
+  },
+  "49": {
+    "letter": "D",
+    "value": "34/54",
+    "explanation": "1erSprungmit2Systemen:[-7]und[+20]"
+  },
+  "50": {
+    "letter": "D",
+    "value": "52/140",
+    "explanation": "ZweiSysteme:[Fibonacci]und[2er-Sprung:+11]"
+  },
+  "51": {
+    "letter": "D",
+    "value": "287/203",
+    "explanation": "3er-Sprung:×7,-7,×7,-7,..."
+  },
+  "52": {
+    "letter": "A",
+    "value": "92/156",
+    "explanation": "+1²,+2²,+3²,+4²,..."
+  },
+  "53": {
+    "letter": "D",
+    "value": "63/54",
+    "explanation": "A₂=A₁-QuersummeA₁"
+  },
+  "54": {
+    "letter": "D",
+    "value": "169/218",
+    "explanation": "+0²,+1²,+2²,+3²,..."
+  },
+  "55": {
+    "letter": "A",
+    "value": "28/-36",
+    "explanation": "+1²,-2²,+3²,-4²,..."
+  },
+  "56": {
+    "letter": "E",
+    "value": "-8/38",
+    "explanation": "3er-Sprung:×2,-2,×2,-2,..."
+  },
+  "57": {
+    "letter": "D",
+    "value": "248/207",
+    "explanation": "2erSprungmit2Systemen:[+14,+14×2,+14×2²,...]und[×2]"
+  },
+  "58": {
+    "letter": "A",
+    "value": "11/53",
+    "explanation": "1erSprungmit2Systemen:[-14]und[+12,+(12+10),+(12+20),...]"
+  },
+  "59": {
+    "letter": "A",
+    "value": "38/38",
+    "explanation": "1erSprungmit2Systemen:[+4]und[×1]"
+  },
+  "60": {
+    "letter": "C",
+    "value": "509/933",
+    "explanation": "A₁+A₂+A₃=A₄,A₂+A₃+A₄=A₅,..."
+  },
+  "61": {
+    "letter": "D",
+    "value": "576/8",
+    "explanation": "2erSprungmit2Systemen:[+1,+2,+3,...]und[×4,×3,×2,...]"
+  },
+  "62": {
+    "letter": "E",
+    "value": "169/268",
+    "explanation": "FibonaccibeiSummanden+1,+7,+8,+15,..."
+  },
+  "63": {
+    "letter": "C",
+    "value": "-312/49",
+    "explanation": "2erSprungmit2Systemen:[+2,+(2+6),+(2+12),...]und[×2,×3,×4,...]"
+  },
+  "64": {
+    "letter": "B",
+    "value": "156/237",
+    "explanation": "FibonaccibeiSummanden+2,+5,+7,+12,..."
+  },
+  "65": {
+    "letter": "A",
+    "value": "649/1289",
+    "explanation": "1er-Sprung:×2-9"
+  },
+  "66": {
+    "letter": "E",
+    "value": "288/582",
+    "explanation": "ZweiSysteme:[-6]und[Fibonacci]"
+  },
+  "67": {
+    "letter": "C",
+    "value": "36/151",
+    "explanation": "ZweiSysteme:[Fibonacci]und[2er-Sprung:+5]"
+  },
+  "68": {
+    "letter": "E",
+    "value": "455/1365",
+    "explanation": "1erSprungmit2Systemen:[-1]und[×6,×5,×4,...]"
+  },
+  "69": {
+    "letter": "C",
+    "value": "252/413",
+    "explanation": "FibonaccibeiSummanden+12,+5,+17,+22,..."
+  },
+  "70": {
+    "letter": "E",
+    "value": "3/-23",
+    "explanation": "A₃=A₂-A₁,A₄=A₃-A₂,A₅=A₄-A₃,..."
+  }
+}

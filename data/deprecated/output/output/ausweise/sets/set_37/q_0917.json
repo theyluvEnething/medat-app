@@ -1,0 +1,14 @@
+{
+  "id": 917,
+  "set": 37,
+  "set_index": 17,
+  "answer": "B",
+  "text": "WelcheBlutgruppehatdiePersonmit GeburtstagimSeptember?",
+  "options": {
+    "A": "0",
+    "B": "AB",
+    "C": "A",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

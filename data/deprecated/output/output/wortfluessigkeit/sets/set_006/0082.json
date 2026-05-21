@@ -1,0 +1,15 @@
+{
+  "id": 82,
+  "set": 6,
+  "set_index": 7,
+  "answer": "A",
+  "answer_word": "SPARSTIFT",
+  "options": {
+    "A": "S",
+    "B": "P",
+    "C": "A",
+    "D": "F",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S P I R T S A T F"
+}

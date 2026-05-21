@@ -1,0 +1,7 @@
+Zahlenfolge: 12 17 51 56 168 173 ? ?
+
+A) 1572/1577
+B) 1570/1578
+C) 1570/1576
+D) 1604/1609
+E) Keine der Antworten ist richtig

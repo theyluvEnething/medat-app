@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Skulpturen sind Statuen.
+- Alle Statuen sind Vasen.
+
+A) Alle Skulpturen sind keine Vasen.
+B) Alle Skulpturen sind Vasen.
+C) Einige Skulpturen sind Vasen.
+D) Einige Skulpturen sind keine Vasen.
+E) Keine der Schlussfolgerungen ist richtig.

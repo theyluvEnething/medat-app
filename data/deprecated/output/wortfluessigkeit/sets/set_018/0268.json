@@ -1,0 +1,15 @@
+{
+  "id": 268,
+  "set": 18,
+  "set_index": 13,
+  "answer": "A",
+  "answer_word": "LAUFWEG",
+  "options": {
+    "A": "L",
+    "B": "F",
+    "C": "E",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U A F W G L E"
+}

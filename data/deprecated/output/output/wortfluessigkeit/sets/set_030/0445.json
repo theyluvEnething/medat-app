@@ -1,0 +1,15 @@
+{
+  "id": 445,
+  "set": 30,
+  "set_index": 10,
+  "answer": "C",
+  "answer_word": "SIEGESZUG",
+  "options": {
+    "A": "I",
+    "B": "Z",
+    "C": "S",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "G E G I S E U Z S"
+}

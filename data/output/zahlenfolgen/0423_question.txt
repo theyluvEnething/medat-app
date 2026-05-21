@@ -1,0 +1,7 @@
+Zahlenfolge: 7 7 3 11 -1 15 ? ?
+
+A) -9/23
+B) -8/25
+C) -7/22
+D) 16/17
+E) Keine der Antworten ist richtig

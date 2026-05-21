@@ -1,0 +1,7 @@
+Zahlenfolge: 3 5 8 12 17 23 ? ?
+
+A) 51/61
+B) 47/57
+C) 49/59
+D) 27/31
+E) Keine der Antworten ist richtig

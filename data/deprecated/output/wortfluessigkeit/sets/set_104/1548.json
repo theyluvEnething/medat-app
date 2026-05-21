@@ -1,0 +1,15 @@
+{
+  "id": 1548,
+  "set": 104,
+  "set_index": 3,
+  "answer": "C",
+  "answer_word": "BAUCH",
+  "options": {
+    "A": "U",
+    "B": "C",
+    "C": "B",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C A B U H"
+}

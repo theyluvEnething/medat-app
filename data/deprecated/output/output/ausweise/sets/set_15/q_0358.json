@@ -1,0 +1,14 @@
+{
+  "id": 358,
+  "set": 15,
+  "set_index": 8,
+  "answer": "A",
+  "text": "WievielePersonensindallergischgegen Silber?",
+  "options": {
+    "A": "2",
+    "B": "1",
+    "C": "4",
+    "D": "3",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

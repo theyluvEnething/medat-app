@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Teleskope sind Wissenschaftler.
+- Einige Wissenschaftler sind Dinosaurier.
+
+A) Einige Teleskope sind Dinosaurier.
+B) Alle Teleskope sind Dinosaurier.
+C) Einige Teleskope sind keine Dinosaurier.
+D) Alle Teleskope sind keine Dinosaurier.
+E) Keine der Schlussfolgerungen ist richtig.

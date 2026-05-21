@@ -1,0 +1,15 @@
+{
+  "id": 1036,
+  "set": 70,
+  "set_index": 1,
+  "answer": "D",
+  "answer_word": "BESCHLAG",
+  "options": {
+    "A": "E",
+    "B": "H",
+    "C": "A",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H E L S A C B G"
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Flugzeuge sind Diamanten.
+- Einige Diamanten sind keine Uhren.
+
+A) Einige Flugzeuge sind keine Uhren.
+B) Alle Flugzeuge sind Uhren.
+C) Alle Flugzeuge sind keine Uhren.
+D) Einige Flugzeuge sind Uhren.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: 9 5 14 19 33 52 ? ?
+
+A) 221/357
+B) 220/361
+C) 104/112
+D) 222/359
+E) Keine der Antworten ist richtig

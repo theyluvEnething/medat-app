@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Giraffen sind Telefone.
+- Einige Telefone sind keine Diamanten.
+
+A) Alle Giraffen sind keine Diamanten.
+B) Alle Giraffen sind Diamanten.
+C) Einige Giraffen sind keine Diamanten.
+D) Einige Giraffen sind Diamanten.
+E) Keine der Schlussfolgerungen ist richtig.

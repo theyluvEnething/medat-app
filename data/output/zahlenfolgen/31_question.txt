@@ -1,0 +1,7 @@
+Zahlenfolge: 46 8 -15 276 2 -90 270 ? ?
+
+A) 24/-88
+B) -88/24
+C) 24/-89
+D) 12/-96
+E) KeinederAntwortenistrichtig

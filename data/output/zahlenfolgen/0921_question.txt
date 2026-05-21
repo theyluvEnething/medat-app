@@ -1,0 +1,7 @@
+Zahlenfolge: 2 3 6 11 18 27 ? ?
+
+A) 65/82
+B) 71/88
+C) 66/83
+D) 65/81
+E) Keine der Antworten ist richtig

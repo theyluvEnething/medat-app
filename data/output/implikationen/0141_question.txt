@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Giraffen sind Teleskope.
+- Einige Teleskope sind keine Züge.
+
+A) Einige Giraffen sind Züge.
+B) Alle Giraffen sind keine Züge.
+C) Alle Giraffen sind Züge.
+D) Einige Giraffen sind keine Züge.
+E) Keine der Schlussfolgerungen ist richtig.

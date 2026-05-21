@@ -1,0 +1,15 @@
+{
+  "id": 1283,
+  "set": 86,
+  "set_index": 8,
+  "answer": "A",
+  "answer_word": "STOFFWECHSEL",
+  "options": {
+    "A": "S",
+    "B": "T",
+    "C": "W",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "W S O S E E H F C F T L"
+}

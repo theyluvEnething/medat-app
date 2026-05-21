@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Stühle sind Roboter.
+- Alle Roboter sind keine Gräser.
+
+A) Einige Stühle sind keine Gräser.
+B) Alle Stühle sind Gräser.
+C) Einige Stühle sind Gräser.
+D) Alle Stühle sind keine Gräser.
+E) Keine der Schlussfolgerungen ist richtig.

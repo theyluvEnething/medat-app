@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Teleskope sind Vögel.
+- Einige Vögel sind Bücher.
+
+A) Alle Teleskope sind Bücher.
+B) Einige Teleskope sind keine Bücher.
+C) Einige Teleskope sind Bücher.
+D) Alle Teleskope sind keine Bücher.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Gräser sind Haie.
+- Einige Haie sind keine Chemiker.
+
+A) Alle Gräser sind Chemiker.
+B) Einige Gräser sind Chemiker.
+C) Einige Gräser sind keine Chemiker.
+D) Alle Gräser sind keine Chemiker.
+E) Keine der Schlussfolgerungen ist richtig.

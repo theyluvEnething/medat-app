@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Möbel sind Werkzeuge.
+- Einige Werkzeuge sind Diamanten.
+
+A) Alle Möbel sind Diamanten.
+B) Alle Möbel sind keine Diamanten.
+C) Einige Möbel sind Diamanten.
+D) Einige Möbel sind keine Diamanten.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,7 @@
+Zahlenfolge: 16 24 32 40 48 56 ? ?
+
+A) 71/78
+B) 72/80
+C) 70/81
+D) 70/78
+E) Keine der Antworten ist richtig

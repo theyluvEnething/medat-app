@@ -1,0 +1,14 @@
+{
+  "id": 989,
+  "set": 40,
+  "set_index": 14,
+  "answer": "D",
+  "text": "WievielePersonennehmen Medikamenteein?",
+  "options": {
+    "A": "6",
+    "B": "1",
+    "C": "3",
+    "D": "2",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

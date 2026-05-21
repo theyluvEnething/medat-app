@@ -1,0 +1,15 @@
+{
+  "id": 55,
+  "set": 4,
+  "set_index": 10,
+  "answer": "D",
+  "answer_word": "GOURMET",
+  "options": {
+    "A": "U",
+    "B": "M",
+    "C": "O",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R G T M O E U"
+}

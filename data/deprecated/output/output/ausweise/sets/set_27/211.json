@@ -1,0 +1,15 @@
+{
+  "id": 211,
+  "set": 27,
+  "set_index": 3,
+  "image": "211.png",
+  "fields": {
+    "Name": "ZULUNDE",
+    "Geburtstag": "9. Juni",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Silber, Maracuja",
+    "Ausweisnummer": "76239",
+    "Ausstellungsland": "Uruguay"
+  }
+}

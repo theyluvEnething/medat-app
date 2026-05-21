@@ -1,0 +1,15 @@
+{
+  "id": 72,
+  "set": 5,
+  "set_index": 12,
+  "answer": "B",
+  "answer_word": "WELTALL",
+  "options": {
+    "A": "T",
+    "B": "W",
+    "C": "E",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T L L E L A W"
+}

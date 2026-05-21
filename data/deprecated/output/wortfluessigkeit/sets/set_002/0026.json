@@ -1,0 +1,15 @@
+{
+  "id": 26,
+  "set": 2,
+  "set_index": 11,
+  "answer": "C",
+  "answer_word": "VULKAN",
+  "options": {
+    "A": "A",
+    "B": "U",
+    "C": "V",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N L K A V U"
+}

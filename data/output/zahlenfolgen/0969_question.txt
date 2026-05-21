@@ -1,0 +1,7 @@
+Zahlenfolge: 31 33 35 37 39 41 ? ?
+
+A) 45/47
+B) 43/46
+C) 46/49
+D) 43/45
+E) Keine der Antworten ist richtig

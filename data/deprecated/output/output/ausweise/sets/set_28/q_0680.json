@@ -1,0 +1,14 @@
+{
+  "id": 680,
+  "set": 28,
+  "set_index": 5,
+  "answer": "B",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer80664?",
+  "options": {
+    "A": "Osmium,Avocado,Schimmelpilze",
+    "B": "Kaninchen",
+    "C": "Cochenillerot,Dinkel",
+    "D": "Scampi",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

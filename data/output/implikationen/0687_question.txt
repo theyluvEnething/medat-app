@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Uhren sind keine Schlangen.
+- Alle Schlangen sind keine Vegetarier.
+
+A) Alle Uhren sind keine Vegetarier.
+B) Einige Uhren sind Vegetarier.
+C) Einige Uhren sind keine Vegetarier.
+D) Alle Uhren sind Vegetarier.
+E) Keine der Schlussfolgerungen ist richtig.

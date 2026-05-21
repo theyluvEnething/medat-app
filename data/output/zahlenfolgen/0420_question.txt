@@ -1,0 +1,7 @@
+Zahlenfolge: -3 -2 5 24 61 122 ? ?
+
+A) 509/340
+B) 340/509
+C) 339/510
+D) 341/507
+E) Keine der Antworten ist richtig

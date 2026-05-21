@@ -1,0 +1,17 @@
+{
+  "id": 55,
+  "set": 6,
+  "set_index": 5,
+  "answer": "E",
+  "premises": [
+    "EinigeStiefelsindkeineSchuhe.",
+    "AlleSandalensindkeineStiefel."
+  ],
+  "conclusions": {
+    "A": "AlleSandalensindSchuhe.",
+    "B": "AlleSandalensindkeineSchuhe.",
+    "C": "EinigeSandalensindSchuhe.",
+    "D": "EinigeSandalensindkeineSchuhe.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

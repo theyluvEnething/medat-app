@@ -1,0 +1,7 @@
+WievielePersonennehmen Medikamenteein?
+
+A) 5
+B) 6
+C) 2
+D) 4
+E) KeinederAntwortenistrichtig

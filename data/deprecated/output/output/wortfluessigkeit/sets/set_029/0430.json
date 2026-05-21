@@ -1,0 +1,15 @@
+{
+  "id": 430,
+  "set": 29,
+  "set_index": 10,
+  "answer": "C",
+  "answer_word": "KAMPAGNE",
+  "options": {
+    "A": "G",
+    "B": "M",
+    "C": "K",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "M A G E N P K A"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 23,
+  "set": 3,
+  "set_index": 3,
+  "answer": "C",
+  "premises": [
+    "EinigeHotelssindTheater.",
+    "AlleHotelssindKinos."
+  ],
+  "conclusions": {
+    "A": "AlleKinossindTheater.",
+    "B": "AlleKinossindkeineTheater.",
+    "C": "EinigeKinossindTheater.",
+    "D": "EinigeKinossindkeineTheater.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

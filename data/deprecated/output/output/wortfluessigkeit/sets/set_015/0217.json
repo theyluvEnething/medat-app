@@ -1,0 +1,15 @@
+{
+  "id": 217,
+  "set": 15,
+  "set_index": 7,
+  "answer": "C",
+  "answer_word": "WELTKARTE",
+  "options": {
+    "A": "R",
+    "B": "A",
+    "C": "W",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "T R L K E T E W A"
+}

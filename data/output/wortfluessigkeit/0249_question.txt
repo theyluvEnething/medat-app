@@ -1,0 +1,7 @@
+Buchstabenreihe: K I O E P
+
+A) K
+B) E
+C) I
+D) P
+E) KeinederAntwortenistrichtig

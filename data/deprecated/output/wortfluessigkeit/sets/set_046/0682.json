@@ -1,0 +1,15 @@
+{
+  "id": 682,
+  "set": 46,
+  "set_index": 7,
+  "answer": "C",
+  "answer_word": "KLAUSUR",
+  "options": {
+    "A": "S",
+    "B": "L",
+    "C": "K",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L R U S K A U"
+}

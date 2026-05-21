@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Politiker sind Dichter.
+- Einige Dichter sind Wale.
+
+A) Einige Politiker sind keine Wale.
+B) Alle Politiker sind keine Wale.
+C) Alle Politiker sind Wale.
+D) Einige Politiker sind Wale.
+E) Keine der Schlussfolgerungen ist richtig.

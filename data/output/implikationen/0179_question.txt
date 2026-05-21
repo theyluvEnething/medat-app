@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Chemiker sind keine Bücher.
+- Alle Bücher sind Sportler.
+
+A) Einige Chemiker sind keine Sportler.
+B) Alle Chemiker sind Sportler.
+C) Alle Chemiker sind keine Sportler.
+D) Einige Chemiker sind Sportler.
+E) Keine der Schlussfolgerungen ist richtig.

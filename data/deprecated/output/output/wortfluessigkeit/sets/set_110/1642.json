@@ -1,0 +1,15 @@
+{
+  "id": 1642,
+  "set": 110,
+  "set_index": 7,
+  "answer": "C",
+  "answer_word": "VOKAL",
+  "options": {
+    "A": "K",
+    "B": "A",
+    "C": "V",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O V A K L"
+}

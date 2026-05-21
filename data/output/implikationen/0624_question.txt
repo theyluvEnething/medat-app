@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Kätzchen sind keine Häuser.
+- Alle Häuser sind Maler.
+
+A) Alle Kätzchen sind Maler.
+B) Einige Kätzchen sind keine Maler.
+C) Alle Kätzchen sind keine Maler.
+D) Einige Kätzchen sind Maler.
+E) Keine der Schlussfolgerungen ist richtig.

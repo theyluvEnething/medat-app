@@ -1,0 +1,15 @@
+{
+  "id": 241,
+  "set": 31,
+  "set_index": 1,
+  "image": "241.png",
+  "fields": {
+    "Name": "JEWRASD",
+    "Geburtstag": "18. Mai",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Tartrazin, Rosen",
+    "Ausweisnummer": "78970",
+    "Ausstellungsland": "Somalia"
+  }
+}

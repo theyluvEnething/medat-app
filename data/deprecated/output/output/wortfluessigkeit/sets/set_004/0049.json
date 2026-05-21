@@ -1,0 +1,15 @@
+{
+  "id": 49,
+  "set": 4,
+  "set_index": 4,
+  "answer": "E",
+  "answer_word": "WIRKUNG",
+  "options": {
+    "A": "R",
+    "B": "I",
+    "C": "N",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R K W G N U I"
+}

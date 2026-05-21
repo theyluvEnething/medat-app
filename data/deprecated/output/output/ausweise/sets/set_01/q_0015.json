@@ -1,0 +1,14 @@
+{
+  "id": 15,
+  "set": 1,
+  "set_index": 15,
+  "answer": "B",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitBlutgruppeA?",
+  "options": {
+    "A": "Philippinen",
+    "B": "Sambia",
+    "C": "Serbien",
+    "D": "Grenada",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

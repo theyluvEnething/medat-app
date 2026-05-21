@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Wissenschaftler sind keine Blumen.
+- Einige Blumen sind keine Amphibien.
+
+A) Einige Wissenschaftler sind Amphibien.
+B) Einige Wissenschaftler sind keine Amphibien.
+C) Alle Wissenschaftler sind Amphibien.
+D) Alle Wissenschaftler sind keine Amphibien.
+E) Keine der Schlussfolgerungen ist richtig.

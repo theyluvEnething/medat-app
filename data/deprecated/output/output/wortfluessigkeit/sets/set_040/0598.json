@@ -1,0 +1,15 @@
+{
+  "id": 598,
+  "set": 40,
+  "set_index": 13,
+  "answer": "A",
+  "answer_word": "GIGANT",
+  "options": {
+    "A": "G",
+    "B": "I",
+    "C": "A",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "G N G A T I"
+}

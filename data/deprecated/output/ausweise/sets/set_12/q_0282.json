@@ -1,0 +1,14 @@
+{
+  "id": 282,
+  "set": 12,
+  "set_index": 7,
+  "answer": "B",
+  "text": "WannistderGeburtstagderPersonmit demNamenTUHRUH?",
+  "options": {
+    "A": "24.September",
+    "B": "3.November",
+    "C": "18.Februar",
+    "D": "13.Mai",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

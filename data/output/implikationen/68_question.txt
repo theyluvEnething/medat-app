@@ -1,0 +1,9 @@
+Prämissen:
+- AlleKommodensindkeineKästen.
+- AlleRegalesindKommoden.
+
+A) AlleRegalesindKästen.
+B) AlleRegalesindkeineKästen.
+C) EinigeRegalesindKästen.
+D) EinigeRegalesindkeineKästen.
+E) KeinederSchlussfolgerungenistrichtig.

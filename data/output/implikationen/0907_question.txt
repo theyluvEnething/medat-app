@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Fotografen sind keine Maler.
+- Alle Maler sind Lilien.
+
+A) Alle Fotografen sind keine Lilien.
+B) Einige Fotografen sind Lilien.
+C) Alle Fotografen sind Lilien.
+D) Einige Fotografen sind keine Lilien.
+E) Keine der Schlussfolgerungen ist richtig.

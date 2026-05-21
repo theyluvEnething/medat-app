@@ -1,0 +1,15 @@
+{
+  "id": 749,
+  "set": 50,
+  "set_index": 14,
+  "answer": "A",
+  "answer_word": "HIRNTUMOR",
+  "options": {
+    "A": "H",
+    "B": "R",
+    "C": "O",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H R U R O M N T I"
+}

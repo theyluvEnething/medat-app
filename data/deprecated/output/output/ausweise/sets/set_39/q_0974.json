@@ -1,0 +1,14 @@
+{
+  "id": 974,
+  "set": 39,
+  "set_index": 24,
+  "answer": "D",
+  "text": "WelcheBlutgruppehatdiePersonmit derAusweisnummerbeginnendmit60?",
+  "options": {
+    "A": "AB",
+    "B": "A",
+    "C": "B",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

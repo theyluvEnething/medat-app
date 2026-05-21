@@ -1,0 +1,15 @@
+{
+  "id": 1597,
+  "set": 107,
+  "set_index": 7,
+  "answer": "A",
+  "answer_word": "WEGWEISER",
+  "options": {
+    "A": "W",
+    "B": "S",
+    "C": "E",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "W I G S E E R E W"
+}

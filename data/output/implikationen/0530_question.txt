@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Taucher sind Hunde.
+- Alle Hunde sind Türen.
+
+A) Einige Taucher sind Türen.
+B) Alle Taucher sind keine Türen.
+C) Alle Taucher sind Türen.
+D) Einige Taucher sind keine Türen.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Sänger sind keine Autos.
+- Alle Autos sind keine Smartphones.
+
+A) Einige Sänger sind keine Smartphones.
+B) Alle Sänger sind keine Smartphones.
+C) Einige Sänger sind Smartphones.
+D) Alle Sänger sind Smartphones.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Sportler sind keine Wirbeltiere.
+- Einige Wirbeltiere sind Säugetiere.
+
+A) Alle Sportler sind Säugetiere.
+B) Einige Sportler sind keine Säugetiere.
+C) Einige Sportler sind Säugetiere.
+D) Alle Sportler sind keine Säugetiere.
+E) Keine der Schlussfolgerungen ist richtig.

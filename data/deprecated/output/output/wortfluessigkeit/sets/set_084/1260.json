@@ -1,0 +1,15 @@
+{
+  "id": 1260,
+  "set": 84,
+  "set_index": 15,
+  "answer": "D",
+  "answer_word": "ZELLMEMBRAN",
+  "options": {
+    "A": "B",
+    "B": "E",
+    "C": "A",
+    "D": "Z",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "B L M Z A E L M N R E"
+}

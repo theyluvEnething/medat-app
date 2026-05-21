@@ -1,0 +1,14 @@
+{
+  "id": 952,
+  "set": 39,
+  "set_index": 2,
+  "answer": "C",
+  "text": "WelcheBlutgruppehatdie PersonmitdiesemBild?",
+  "options": {
+    "A": "B",
+    "B": "A",
+    "C": "0",
+    "D": "AB",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

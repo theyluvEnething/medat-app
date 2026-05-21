@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Vegetarier sind Rosen.
+- Einige Rosen sind Fotografen.
+
+A) Einige Vegetarier sind keine Fotografen.
+B) Einige Vegetarier sind Fotografen.
+C) Alle Vegetarier sind keine Fotografen.
+D) Alle Vegetarier sind Fotografen.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Lilien sind keine Nashörner.
+- Alle Nashörner sind keine Sportler.
+
+A) Alle Lilien sind keine Sportler.
+B) Einige Lilien sind keine Sportler.
+C) Einige Lilien sind Sportler.
+D) Alle Lilien sind Sportler.
+E) Keine der Schlussfolgerungen ist richtig.

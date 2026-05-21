@@ -1,0 +1,15 @@
+{
+  "id": 188,
+  "set": 24,
+  "set_index": 4,
+  "image": "188.png",
+  "fields": {
+    "Name": "MIKRULD",
+    "Geburtstag": "24. April",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Pappel, Ratten, Eiweiß",
+    "Ausweisnummer": "95562",
+    "Ausstellungsland": "Syrien"
+  }
+}

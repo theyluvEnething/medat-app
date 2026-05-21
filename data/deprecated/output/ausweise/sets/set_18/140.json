@@ -1,0 +1,15 @@
+{
+  "id": 140,
+  "set": 18,
+  "set_index": 4,
+  "image": "140.png",
+  "fields": {
+    "Name": "XLUFRAK",
+    "Geburtstag": "14. September",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Aceclofenac, Schwefeldioxid",
+    "Ausweisnummer": "32402",
+    "Ausstellungsland": "Panama"
+  }
+}

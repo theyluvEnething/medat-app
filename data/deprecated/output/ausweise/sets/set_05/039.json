@@ -1,0 +1,15 @@
+{
+  "id": 39,
+  "set": 5,
+  "set_index": 7,
+  "image": "039.png",
+  "fields": {
+    "Name": "EMPROSI",
+    "Geburtstag": "14. April",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Kupfer",
+    "Ausweisnummer": "18758",
+    "Ausstellungsland": "Laos"
+  }
+}

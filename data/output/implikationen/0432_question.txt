@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Pilze sind keine Schiffe.
+- Alle Schiffe sind Glühbirnen.
+
+A) Einige Pilze sind keine Glühbirnen.
+B) Alle Pilze sind Glühbirnen.
+C) Einige Pilze sind Glühbirnen.
+D) Alle Pilze sind keine Glühbirnen.
+E) Keine der Schlussfolgerungen ist richtig.

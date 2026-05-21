@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Menschen sind Gräser.
+- Alle Gräser sind keine Lilien.
+
+A) Einige Menschen sind keine Lilien.
+B) Alle Menschen sind Lilien.
+C) Einige Menschen sind Lilien.
+D) Alle Menschen sind keine Lilien.
+E) Keine der Schlussfolgerungen ist richtig.

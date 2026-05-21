@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Stühle sind Schriftsteller.
+- Alle Schriftsteller sind Züge.
+
+A) Einige Stühle sind keine Züge.
+B) Alle Stühle sind Züge.
+C) Alle Stühle sind keine Züge.
+D) Einige Stühle sind Züge.
+E) Keine der Schlussfolgerungen ist richtig.

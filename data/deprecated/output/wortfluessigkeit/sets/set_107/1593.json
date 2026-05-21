@@ -1,0 +1,15 @@
+{
+  "id": 1593,
+  "set": 107,
+  "set_index": 3,
+  "answer": "E",
+  "answer_word": "IMPFSTOFF",
+  "options": {
+    "A": "T",
+    "B": "F",
+    "C": "O",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "F F O F S P M I T"
+}

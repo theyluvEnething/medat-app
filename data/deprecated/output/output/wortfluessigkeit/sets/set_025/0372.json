@@ -1,0 +1,15 @@
+{
+  "id": 372,
+  "set": 25,
+  "set_index": 12,
+  "answer": "C",
+  "answer_word": "ANGEBOT",
+  "options": {
+    "A": "N",
+    "B": "O",
+    "C": "A",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E A T B O G N"
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Sänger sind Kupfer.
+- Alle Kupfer sind Lilien.
+
+A) Alle Sänger sind keine Lilien.
+B) Alle Sänger sind Lilien.
+C) Einige Sänger sind Lilien.
+D) Einige Sänger sind keine Lilien.
+E) Keine der Schlussfolgerungen ist richtig.

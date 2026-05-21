@@ -1,0 +1,7 @@
+Zahlenfolge: 49 48 30 343 41 210 336 ? ?
+
+A) 207/272
+B) 203/287
+C) 280/203
+D) 287/203
+E) KeinederAntwortenistrichtig

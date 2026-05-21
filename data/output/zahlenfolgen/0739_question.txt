@@ -1,0 +1,7 @@
+Zahlenfolge: 2 -7 -16 -25 -34 -43 ? ?
+
+A) -60/-72
+B) -60/-71
+C) -61/-70
+D) -52/-61
+E) Keine der Antworten ist richtig

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Schiffe sind keine Diamanten.
+- Einige Diamanten sind Tiger.
+
+A) Alle Schiffe sind Tiger.
+B) Einige Schiffe sind keine Tiger.
+C) Alle Schiffe sind keine Tiger.
+D) Einige Schiffe sind Tiger.
+E) Keine der Schlussfolgerungen ist richtig.

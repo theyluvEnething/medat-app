@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Schlangen sind Roboter.
+- Alle Roboter sind keine Fische.
+
+A) Alle Schlangen sind Fische.
+B) Alle Schlangen sind keine Fische.
+C) Einige Schlangen sind Fische.
+D) Einige Schlangen sind keine Fische.
+E) Keine der Schlussfolgerungen ist richtig.

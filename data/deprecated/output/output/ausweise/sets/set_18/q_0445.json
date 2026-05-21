@@ -1,0 +1,14 @@
+{
+  "id": 445,
+  "set": 18,
+  "set_index": 20,
+  "answer": "A",
+  "text": "InwelchemMonatistderGeburtstagder PersonmitAusweisnummer23830?",
+  "options": {
+    "A": "Mai",
+    "B": "Januar",
+    "C": "September",
+    "D": "Dezember",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

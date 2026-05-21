@@ -1,0 +1,14 @@
+{
+  "id": 579,
+  "set": 24,
+  "set_index": 4,
+  "answer": "C",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitGeburtstagam18.des Monats?",
+  "options": {
+    "A": "Slowakei",
+    "B": "Burundi",
+    "C": "Äquatorialguinea",
+    "D": "Syrien",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

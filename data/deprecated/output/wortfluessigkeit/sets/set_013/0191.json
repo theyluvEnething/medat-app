@@ -1,0 +1,15 @@
+{
+  "id": 191,
+  "set": 13,
+  "set_index": 11,
+  "answer": "D",
+  "answer_word": "SCHWERT",
+  "options": {
+    "A": "T",
+    "B": "W",
+    "C": "E",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S C R T E H W"
+}

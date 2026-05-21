@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Blumen sind Maler.
+- Einige Maler sind keine Reptilien.
+
+A) Einige Blumen sind Reptilien.
+B) Einige Blumen sind keine Reptilien.
+C) Alle Blumen sind keine Reptilien.
+D) Alle Blumen sind Reptilien.
+E) Keine der Schlussfolgerungen ist richtig.

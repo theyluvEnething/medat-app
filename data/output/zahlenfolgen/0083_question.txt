@@ -1,0 +1,7 @@
+Zahlenfolge: 5 9 14 23 37 60 ? ?
+
+A) 253/410
+B) 254/411
+C) 255/412
+D) 71/82
+E) Keine der Antworten ist richtig

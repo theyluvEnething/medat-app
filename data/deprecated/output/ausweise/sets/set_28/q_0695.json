@@ -1,0 +1,14 @@
+{
+  "id": 695,
+  "set": 28,
+  "set_index": 20,
+  "answer": "A",
+  "text": "WannistderGeburtstagderPersonmit Ausweisnummer80664?",
+  "options": {
+    "A": "15.Juli",
+    "B": "10.Januar",
+    "C": "31.Januar",
+    "D": "29.März",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

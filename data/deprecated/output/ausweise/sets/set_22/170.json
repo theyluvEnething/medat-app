@@ -1,0 +1,15 @@
+{
+  "id": 170,
+  "set": 22,
+  "set_index": 2,
+  "image": "170.png",
+  "fields": {
+    "Name": "ACINKLO",
+    "Geburtstag": "25. Mai",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Laktose, Gräser, Ketoprofen",
+    "Ausweisnummer": "43562",
+    "Ausstellungsland": "Indonesien"
+  }
+}

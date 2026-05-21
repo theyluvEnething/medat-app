@@ -1,0 +1,15 @@
+{
+  "id": 135,
+  "set": 9,
+  "set_index": 15,
+  "answer": "D",
+  "answer_word": "WERDEGANG",
+  "options": {
+    "A": "A",
+    "B": "D",
+    "C": "E",
+    "D": "W",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N D A E G R G W E"
+}

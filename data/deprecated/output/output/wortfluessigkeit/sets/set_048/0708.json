@@ -1,0 +1,15 @@
+{
+  "id": 708,
+  "set": 48,
+  "set_index": 3,
+  "answer": "B",
+  "answer_word": "STRUKTUR",
+  "options": {
+    "A": "K",
+    "B": "S",
+    "C": "R",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R K R T S U U T"
+}

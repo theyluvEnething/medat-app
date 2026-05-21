@@ -1,0 +1,14 @@
+{
+  "id": 50,
+  "set": 2,
+  "set_index": 25,
+  "answer": "A",
+  "text": "WelcheBlutgruppehatdiePersonmit AusstellungslandKongound Medikamenten?",
+  "options": {
+    "A": "AB",
+    "B": "A",
+    "C": "B",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

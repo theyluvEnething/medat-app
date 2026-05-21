@@ -1,0 +1,15 @@
+{
+  "id": 224,
+  "set": 28,
+  "set_index": 8,
+  "image": "224.png",
+  "fields": {
+    "Name": "FELTZOR",
+    "Geburtstag": "10. Januar",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Scampi, Schnurbaum",
+    "Ausweisnummer": "87045",
+    "Ausstellungsland": "Tschechien"
+  }
+}

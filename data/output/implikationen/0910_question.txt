@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Uhren sind keine Werkzeuge.
+- Alle Werkzeuge sind Kupfer.
+
+A) Einige Uhren sind keine Kupfer.
+B) Alle Uhren sind keine Kupfer.
+C) Alle Uhren sind Kupfer.
+D) Einige Uhren sind Kupfer.
+E) Keine der Schlussfolgerungen ist richtig.

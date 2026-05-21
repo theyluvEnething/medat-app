@@ -1,0 +1,15 @@
+{
+  "id": 61,
+  "set": 8,
+  "set_index": 5,
+  "image": "061.png",
+  "fields": {
+    "Name": "WOPPEKL",
+    "Geburtstag": "21. Dezember",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Sardinen, Hühnereiweiß",
+    "Ausweisnummer": "41354",
+    "Ausstellungsland": "Sri Lanka"
+  }
+}

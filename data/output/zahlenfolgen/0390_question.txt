@@ -1,0 +1,7 @@
+Zahlenfolge: -15 -4 7 18 29 40 ? ?
+
+A) 63/74
+B) 60/71
+C) 62/73
+D) 61/74
+E) Keine der Antworten ist richtig

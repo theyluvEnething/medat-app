@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Wölfe sind Wissenschaftler.
+- Alle Wissenschaftler sind keine Gedichte.
+
+A) Alle Wölfe sind Gedichte.
+B) Einige Wölfe sind Gedichte.
+C) Alle Wölfe sind keine Gedichte.
+D) Einige Wölfe sind keine Gedichte.
+E) Keine der Schlussfolgerungen ist richtig.

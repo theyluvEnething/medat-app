@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Chemiker sind Zebras.
+- Einige Zebras sind keine Quallen.
+
+A) Alle Chemiker sind keine Quallen.
+B) Alle Chemiker sind Quallen.
+C) Einige Chemiker sind keine Quallen.
+D) Einige Chemiker sind Quallen.
+E) Keine der Schlussfolgerungen ist richtig.

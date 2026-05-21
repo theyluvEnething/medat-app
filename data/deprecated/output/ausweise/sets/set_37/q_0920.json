@@ -1,0 +1,14 @@
+{
+  "id": 920,
+  "set": 37,
+  "set_index": 20,
+  "answer": "A",
+  "text": "WelcheganzenAllergienhatdiePerson mitdemGeschlechtweiblichund Blutgruppe0?",
+  "options": {
+    "A": "Bienenstich",
+    "B": "Milchzucker,Mango,Hamster",
+    "C": "Hamster,Himbeeren",
+    "D": "Bienenstich,Hamsterhaare",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,7 @@
+Zahlenfolge: 30 17 4 -9 -22 -35 ? ?
+
+A) -62/-72
+B) -61/-74
+C) -63/-72
+D) -63/-73
+E) Keine der Antworten ist richtig

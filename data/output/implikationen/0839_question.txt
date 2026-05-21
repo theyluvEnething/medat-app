@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Vögel sind Häuser.
+- Einige Häuser sind Insekten.
+
+A) Alle Vögel sind keine Insekten.
+B) Einige Vögel sind Insekten.
+C) Alle Vögel sind Insekten.
+D) Einige Vögel sind keine Insekten.
+E) Keine der Schlussfolgerungen ist richtig.

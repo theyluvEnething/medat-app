@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Mammute sind keine Lehrer.
+- Einige Lehrer sind Metalle.
+
+A) Alle Mammute sind Metalle.
+B) Einige Mammute sind Metalle.
+C) Alle Mammute sind keine Metalle.
+D) Einige Mammute sind keine Metalle.
+E) Keine der Schlussfolgerungen ist richtig.

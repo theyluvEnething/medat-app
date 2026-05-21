@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Granite sind keine Autos.
+- Einige Autos sind keine Pandas.
+
+A) Einige Granite sind Pandas.
+B) Alle Granite sind keine Pandas.
+C) Alle Granite sind Pandas.
+D) Einige Granite sind keine Pandas.
+E) Keine der Schlussfolgerungen ist richtig.

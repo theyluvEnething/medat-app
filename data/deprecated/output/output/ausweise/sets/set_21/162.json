@@ -1,0 +1,15 @@
+{
+  "id": 162,
+  "set": 21,
+  "set_index": 2,
+  "image": "162.png",
+  "fields": {
+    "Name": "CRYZITA",
+    "Geburtstag": "4. Januar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Tocopherol",
+    "Ausweisnummer": "15993",
+    "Ausstellungsland": "Türkei"
+  }
+}

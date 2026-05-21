@@ -1,0 +1,15 @@
+{
+  "id": 418,
+  "set": 28,
+  "set_index": 13,
+  "answer": "A",
+  "answer_word": "EXPERTE",
+  "options": {
+    "A": "E",
+    "B": "X",
+    "C": "R",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E E T P R X E"
+}

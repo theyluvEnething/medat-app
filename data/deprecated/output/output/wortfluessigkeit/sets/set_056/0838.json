@@ -1,0 +1,15 @@
+{
+  "id": 838,
+  "set": 56,
+  "set_index": 13,
+  "answer": "C",
+  "answer_word": "TARNKAPPE",
+  "options": {
+    "A": "E",
+    "B": "K",
+    "C": "T",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A P A E K T N P R"
+}

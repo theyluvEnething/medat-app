@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Gedichte sind keine Säugetiere.
+- Einige Säugetiere sind keine Teleskope.
+
+A) Einige Gedichte sind keine Teleskope.
+B) Alle Gedichte sind keine Teleskope.
+C) Einige Gedichte sind Teleskope.
+D) Alle Gedichte sind Teleskope.
+E) Keine der Schlussfolgerungen ist richtig.

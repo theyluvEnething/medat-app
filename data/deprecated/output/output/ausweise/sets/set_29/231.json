@@ -1,0 +1,15 @@
+{
+  "id": 231,
+  "set": 29,
+  "set_index": 7,
+  "image": "231.png",
+  "fields": {
+    "Name": "VAMSPOR",
+    "Geburtstag": "7. September",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Paprika, Spinat",
+    "Ausweisnummer": "27213",
+    "Ausstellungsland": "Bolivien"
+  }
+}

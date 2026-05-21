@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Ärzte sind Menschen.
+- Einige Menschen sind Gemälde.
+
+A) Alle Ärzte sind keine Gemälde.
+B) Alle Ärzte sind Gemälde.
+C) Einige Ärzte sind Gemälde.
+D) Einige Ärzte sind keine Gemälde.
+E) Keine der Schlussfolgerungen ist richtig.

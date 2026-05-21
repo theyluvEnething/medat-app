@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Amseln sind Chemiker.
+- Einige Chemiker sind Smartphones.
+
+A) Alle Amseln sind Smartphones.
+B) Alle Amseln sind keine Smartphones.
+C) Einige Amseln sind keine Smartphones.
+D) Einige Amseln sind Smartphones.
+E) Keine der Schlussfolgerungen ist richtig.

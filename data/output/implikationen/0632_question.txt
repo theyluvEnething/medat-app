@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Stühle sind Autos.
+- Alle Autos sind keine Ärzte.
+
+A) Alle Stühle sind keine Ärzte.
+B) Alle Stühle sind Ärzte.
+C) Einige Stühle sind keine Ärzte.
+D) Einige Stühle sind Ärzte.
+E) Keine der Schlussfolgerungen ist richtig.

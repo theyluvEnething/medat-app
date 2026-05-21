@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Sänger sind keine Züge.
+- Einige Züge sind keine Mammute.
+
+A) Alle Sänger sind Mammute.
+B) Einige Sänger sind keine Mammute.
+C) Einige Sänger sind Mammute.
+D) Alle Sänger sind keine Mammute.
+E) Keine der Schlussfolgerungen ist richtig.

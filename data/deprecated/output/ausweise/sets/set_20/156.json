@@ -1,0 +1,15 @@
+{
+  "id": 156,
+  "set": 20,
+  "set_index": 4,
+  "image": "156.png",
+  "fields": {
+    "Name": "ZROPMOS",
+    "Geburtstag": "12. März",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Radieschen, Insulin, Buche",
+    "Ausweisnummer": "97175",
+    "Ausstellungsland": "Mauretanien"
+  }
+}

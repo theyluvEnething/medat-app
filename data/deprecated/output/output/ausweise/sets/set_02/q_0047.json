@@ -1,0 +1,14 @@
+{
+  "id": 47,
+  "set": 2,
+  "set_index": 22,
+  "answer": "A",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitAusweisnummer20391?",
+  "options": {
+    "A": "SãoToméundPríncipe",
+    "B": "Kenia",
+    "C": "Iran",
+    "D": "Nigeria",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

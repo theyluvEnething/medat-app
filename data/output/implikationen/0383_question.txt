@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Insekten sind keine Schlangen.
+- Alle Schlangen sind keine Eichen.
+
+A) Einige Insekten sind keine Eichen.
+B) Alle Insekten sind Eichen.
+C) Alle Insekten sind keine Eichen.
+D) Einige Insekten sind Eichen.
+E) Keine der Schlussfolgerungen ist richtig.

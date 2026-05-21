@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Quallen sind Züge.
+- Einige Züge sind Säugetiere.
+
+A) Alle Quallen sind Säugetiere.
+B) Einige Quallen sind keine Säugetiere.
+C) Einige Quallen sind Säugetiere.
+D) Alle Quallen sind keine Säugetiere.
+E) Keine der Schlussfolgerungen ist richtig.

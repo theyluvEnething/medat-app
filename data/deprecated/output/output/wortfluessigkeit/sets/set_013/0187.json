@@ -1,0 +1,15 @@
+{
+  "id": 187,
+  "set": 13,
+  "set_index": 7,
+  "answer": "E",
+  "answer_word": "JAGDHUND",
+  "options": {
+    "A": "A",
+    "B": "H",
+    "C": "N",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "D D H G U J A N"
+}

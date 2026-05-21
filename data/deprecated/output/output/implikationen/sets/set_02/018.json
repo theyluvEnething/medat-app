@@ -1,0 +1,17 @@
+{
+  "id": 18,
+  "set": 2,
+  "set_index": 8,
+  "answer": "D",
+  "premises": [
+    "EinigeBildersindkeineGemälde.",
+    "AllePorträtssindGemälde."
+  ],
+  "conclusions": {
+    "A": "AlleBildersindPorträts.",
+    "B": "AlleBildersindkeinePorträts.",
+    "C": "EinigeBildersindPorträts.",
+    "D": "EinigeBildersindkeinePorträts.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

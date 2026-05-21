@@ -1,0 +1,14 @@
+{
+  "id": 215,
+  "set": 9,
+  "set_index": 15,
+  "answer": "C",
+  "text": "WelcheBlutgruppehatdiePersonmit Geburtstagam12.desMonatsund AusstellungslandIsland?",
+  "options": {
+    "A": "B",
+    "B": "A",
+    "C": "AB",
+    "D": "0",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

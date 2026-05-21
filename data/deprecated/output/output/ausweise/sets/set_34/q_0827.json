@@ -1,0 +1,14 @@
+{
+  "id": 827,
+  "set": 34,
+  "set_index": 2,
+  "answer": "D",
+  "text": "WieheißtdiePersonmit diesemBild?",
+  "options": {
+    "A": "DALIURK",
+    "B": "KROMPAS",
+    "C": "WRONZOD",
+    "D": "VRORMAN",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Autos sind keine Krokodile.
+- Alle Krokodile sind Radios.
+
+A) Einige Autos sind keine Radios.
+B) Alle Autos sind Radios.
+C) Alle Autos sind keine Radios.
+D) Einige Autos sind Radios.
+E) Keine der Schlussfolgerungen ist richtig.

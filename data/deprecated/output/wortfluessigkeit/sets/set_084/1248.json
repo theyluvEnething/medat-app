@@ -1,0 +1,15 @@
+{
+  "id": 1248,
+  "set": 84,
+  "set_index": 3,
+  "answer": "A",
+  "answer_word": "ENTSCHEIDUNG",
+  "options": {
+    "A": "E",
+    "B": "T",
+    "C": "N",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U C S E H T I D N N E G"
+}

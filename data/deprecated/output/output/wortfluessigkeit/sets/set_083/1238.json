@@ -1,0 +1,15 @@
+{
+  "id": 1238,
+  "set": 83,
+  "set_index": 8,
+  "answer": "E",
+  "answer_word": "AGRARLAND",
+  "options": {
+    "A": "R",
+    "B": "D",
+    "C": "N",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "G D N L R R A A A"
+}

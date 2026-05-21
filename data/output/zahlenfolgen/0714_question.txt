@@ -1,0 +1,7 @@
+Zahlenfolge: 7 -7 -21 -35 -49 -63 ? ?
+
+A) -105/-119
+B) -90/-104
+C) -91/-105
+D) -93/-104
+E) Keine der Antworten ist richtig

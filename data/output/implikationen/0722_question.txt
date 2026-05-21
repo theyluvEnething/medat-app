@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Mammute sind keine Stühle.
+- Alle Stühle sind keine Roboter.
+
+A) Einige Mammute sind keine Roboter.
+B) Alle Mammute sind keine Roboter.
+C) Alle Mammute sind Roboter.
+D) Einige Mammute sind Roboter.
+E) Keine der Schlussfolgerungen ist richtig.

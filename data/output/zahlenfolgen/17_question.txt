@@ -1,0 +1,7 @@
+Zahlenfolge: 22 6 3 12 -4 -2 -8 ? ?
+
+A) -26/-12
+B) -24/-12
+C) -37/14
+D) -34/-20
+E) KeinederAntwortenistrichtig

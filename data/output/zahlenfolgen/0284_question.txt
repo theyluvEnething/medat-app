@@ -1,0 +1,7 @@
+Zahlenfolge: -4 -3 4 23 60 121 ? ?
+
+A) 508/339
+B) 340/506
+C) 338/509
+D) 339/508
+E) Keine der Antworten ist richtig

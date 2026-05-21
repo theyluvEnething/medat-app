@@ -1,0 +1,15 @@
+{
+  "id": 423,
+  "set": 29,
+  "set_index": 3,
+  "answer": "B",
+  "answer_word": "JAHRGANG",
+  "options": {
+    "A": "R",
+    "B": "J",
+    "C": "H",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "G A N G H J R A"
+}

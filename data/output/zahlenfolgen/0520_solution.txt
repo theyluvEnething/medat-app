@@ -1,0 +1,2 @@
+A — -6561/-19683
+Konstanter Faktor ×3

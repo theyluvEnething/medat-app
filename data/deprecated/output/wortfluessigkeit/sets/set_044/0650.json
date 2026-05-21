@@ -1,0 +1,15 @@
+{
+  "id": 650,
+  "set": 44,
+  "set_index": 5,
+  "answer": "D",
+  "answer_word": "SAATGUT",
+  "options": {
+    "A": "A",
+    "B": "G",
+    "C": "U",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A T U G A S T"
+}

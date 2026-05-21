@@ -1,0 +1,7 @@
+Zahlenfolge: 41 40 48 30 83 20 258 ? ?
+
+A) 1105/13
+B) -10/1121
+C) 24/1133
+D) 10/1133
+E) KeinederAntwortenistrichtig

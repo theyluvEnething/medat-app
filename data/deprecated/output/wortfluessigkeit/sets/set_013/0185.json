@@ -1,0 +1,15 @@
+{
+  "id": 185,
+  "set": 13,
+  "set_index": 5,
+  "answer": "D",
+  "answer_word": "HOHEIT",
+  "options": {
+    "A": "E",
+    "B": "O",
+    "C": "I",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H H T O I E"
+}

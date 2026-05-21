@@ -1,0 +1,15 @@
+{
+  "id": 292,
+  "set": 37,
+  "set_index": 4,
+  "image": "292.png",
+  "fields": {
+    "Name": "DUBRAK",
+    "Geburtstag": "15. September",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Himbeeren",
+    "Ausweisnummer": "21101",
+    "Ausstellungsland": "Vatikanstadt"
+  }
+}

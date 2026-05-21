@@ -1,0 +1,7 @@
+Zahlenfolge: 41 48 57 50 59 66 75 ? ?
+
+A) 68/77
+B) 77/68
+C) 70/73
+D) 65/72
+E) KeinederAntwortenistrichtig

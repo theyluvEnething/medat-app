@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Möbel sind keine Haie.
+- Einige Haie sind keine Tulpen.
+
+A) Einige Möbel sind keine Tulpen.
+B) Alle Möbel sind Tulpen.
+C) Alle Möbel sind keine Tulpen.
+D) Einige Möbel sind Tulpen.
+E) Keine der Schlussfolgerungen ist richtig.

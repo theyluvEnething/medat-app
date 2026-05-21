@@ -1,0 +1,7 @@
+Zahlenfolge: 127 131 137 139 149 151 ? ?
+
+A) 167/173
+B) 173/167
+C) 168/175
+D) 155/159
+E) Keine der Antworten ist richtig

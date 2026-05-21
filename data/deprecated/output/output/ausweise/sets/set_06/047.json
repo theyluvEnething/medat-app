@@ -1,0 +1,15 @@
+{
+  "id": 47,
+  "set": 6,
+  "set_index": 7,
+  "image": "047.png",
+  "fields": {
+    "Name": "EVTRAZ",
+    "Geburtstag": "27. Juli",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Ramipril, Fluorid",
+    "Ausweisnummer": "35332",
+    "Ausstellungsland": "Litauen"
+  }
+}

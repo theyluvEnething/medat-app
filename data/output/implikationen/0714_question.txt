@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Mäuse sind Elektroautos.
+- Alle Elektroautos sind Mammute.
+
+A) Alle Mäuse sind keine Mammute.
+B) Alle Mäuse sind Mammute.
+C) Einige Mäuse sind Mammute.
+D) Einige Mäuse sind keine Mammute.
+E) Keine der Schlussfolgerungen ist richtig.

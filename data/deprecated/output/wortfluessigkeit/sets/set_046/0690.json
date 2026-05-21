@@ -1,0 +1,15 @@
+{
+  "id": 690,
+  "set": 46,
+  "set_index": 15,
+  "answer": "C",
+  "answer_word": "HAUPTTHEMA",
+  "options": {
+    "A": "E",
+    "B": "M",
+    "C": "H",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "P T A T H U A H E M"
+}

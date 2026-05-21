@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Blumen sind Ärzte.
+- Einige Ärzte sind keine Tannen.
+
+A) Alle Blumen sind keine Tannen.
+B) Alle Blumen sind Tannen.
+C) Einige Blumen sind keine Tannen.
+D) Einige Blumen sind Tannen.
+E) Keine der Schlussfolgerungen ist richtig.

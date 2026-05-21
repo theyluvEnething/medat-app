@@ -1,0 +1,7 @@
+Zahlenfolge: 5 7 12 20 31 45 ? ?
+
+A) 131/105
+B) 106/129
+C) 107/132
+D) 105/131
+E) Keine der Antworten ist richtig

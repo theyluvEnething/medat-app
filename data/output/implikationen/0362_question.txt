@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Smartphones sind Wale.
+- Alle Wale sind keine Musikinstrumente.
+
+A) Alle Smartphones sind Musikinstrumente.
+B) Einige Smartphones sind keine Musikinstrumente.
+C) Alle Smartphones sind keine Musikinstrumente.
+D) Einige Smartphones sind Musikinstrumente.
+E) Keine der Schlussfolgerungen ist richtig.

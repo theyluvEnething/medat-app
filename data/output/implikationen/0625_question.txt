@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Tulpen sind keine Türen.
+- Einige Türen sind Dichter.
+
+A) Alle Tulpen sind Dichter.
+B) Einige Tulpen sind keine Dichter.
+C) Alle Tulpen sind keine Dichter.
+D) Einige Tulpen sind Dichter.
+E) Keine der Schlussfolgerungen ist richtig.

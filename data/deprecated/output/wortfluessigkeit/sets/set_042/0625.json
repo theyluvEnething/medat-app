@@ -1,0 +1,15 @@
+{
+  "id": 625,
+  "set": 42,
+  "set_index": 10,
+  "answer": "D",
+  "answer_word": "AUTORENNEN",
+  "options": {
+    "A": "E",
+    "B": "N",
+    "C": "O",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "O E A U R N E T N N"
+}

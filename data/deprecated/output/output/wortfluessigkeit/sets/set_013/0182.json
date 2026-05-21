@@ -1,0 +1,15 @@
+{
+  "id": 182,
+  "set": 13,
+  "set_index": 2,
+  "answer": "D",
+  "answer_word": "ABSTURZ",
+  "options": {
+    "A": "Z",
+    "B": "B",
+    "C": "R",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "B S T A Z U R"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 63,
+  "set": 5,
+  "set_index": 3,
+  "answer": "E",
+  "answer_word": "GENDEFEKT",
+  "options": {
+    "A": "E",
+    "B": "K",
+    "C": "F",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "D E N K E E G F T"
+}

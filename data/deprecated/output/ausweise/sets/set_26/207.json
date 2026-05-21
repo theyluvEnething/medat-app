@@ -1,0 +1,15 @@
+{
+  "id": 207,
+  "set": 26,
+  "set_index": 7,
+  "image": "207.png",
+  "fields": {
+    "Name": "KUNDFARC",
+    "Geburtstag": "26. Oktober",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Fruchtzucker, Kolophonium,",
+    "Ausweisnummer": "39114",
+    "Ausstellungsland": "Nordmazedonien"
+  }
+}

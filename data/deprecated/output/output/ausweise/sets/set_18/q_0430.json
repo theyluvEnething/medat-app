@@ -1,0 +1,14 @@
+{
+  "id": 430,
+  "set": 18,
+  "set_index": 5,
+  "answer": "A",
+  "text": "WelcheganzenAllergienhatdiePerson mitdem28.JulialsGeburtstag?",
+  "options": {
+    "A": "Hafer,Gluten",
+    "B": "Katzenhaare,Kurkumin",
+    "C": "Pflaster",
+    "D": "Kamut,Karpfen,Plastik",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

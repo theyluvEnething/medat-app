@@ -1,0 +1,7 @@
+Zahlenfolge: 17 21 29 41 57 77 ? ?
+
+A) 163/196
+B) 162/199
+C) 160/198
+D) 161/197
+E) Keine der Antworten ist richtig

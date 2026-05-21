@@ -1,0 +1,9 @@
+Prämissen:
+- EinigeSchauspielersindMaler.
+- AlleSchauspielersindMusiker.
+
+A) AlleMusikersindMaler.
+B) AlleMusikersindkeineMaler.
+C) EinigeMusikersindMaler.
+D) EinigeMusikersindkeineMaler.
+E) KeinederSchlussfolgerungenistrichtig.

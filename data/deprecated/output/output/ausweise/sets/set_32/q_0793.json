@@ -1,0 +1,14 @@
+{
+  "id": 793,
+  "set": 32,
+  "set_index": 18,
+  "answer": "A",
+  "text": "WelcheBlutgruppehatdiePersonmit unteranderemAllergiegegen Milchzucker?",
+  "options": {
+    "A": "0",
+    "B": "A",
+    "C": "B",
+    "D": "AB",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

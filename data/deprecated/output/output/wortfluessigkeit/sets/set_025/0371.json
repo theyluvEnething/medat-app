@@ -1,0 +1,15 @@
+{
+  "id": 371,
+  "set": 25,
+  "set_index": 11,
+  "answer": "E",
+  "answer_word": "KAVIAR",
+  "options": {
+    "A": "R",
+    "B": "A",
+    "C": "I",
+    "D": "V",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A I K A V R"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 392,
+  "set": 27,
+  "set_index": 2,
+  "answer": "E",
+  "answer_word": "VERBAND",
+  "options": {
+    "A": "B",
+    "B": "R",
+    "C": "A",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "B A E D R V N"
+}

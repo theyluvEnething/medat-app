@@ -1,0 +1,15 @@
+{
+  "id": 1015,
+  "set": 68,
+  "set_index": 10,
+  "answer": "B",
+  "answer_word": "SONNENAUFGANG",
+  "options": {
+    "A": "A",
+    "B": "S",
+    "C": "O",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S N U O E N F N N G A G A"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 65,
+  "set": 9,
+  "set_index": 1,
+  "image": "065.png",
+  "fields": {
+    "Name": "WRIMKLO",
+    "Geburtstag": "8. Februar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Phosphate, Ketoprofen",
+    "Ausweisnummer": "55392",
+    "Ausstellungsland": "Sudan"
+  }
+}

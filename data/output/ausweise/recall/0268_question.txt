@@ -1,0 +1,7 @@
+WelcheganzenAllergienhatdiePerson mitBlutgruppe0?
+
+A) Amalgam,Latex
+B) Gurken,Sonne
+C) Gurken,Petersilie
+D) Passionsfrucht,Knoblauch
+E) KeinederAntwortenistrichtig

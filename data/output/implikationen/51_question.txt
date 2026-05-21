@@ -1,0 +1,9 @@
+Prämissen:
+- AlleKindersindkeineMädchen.
+- EinigeKindersindBuben.
+
+A) AlleBubensindMädchen.
+B) AlleBubensindkeineMädchen.
+C) EinigeBubensindMädchen.
+D) EinigeBubensindkeineMädchen.
+E) KeinederSchlussfolgerungenistrichtig.

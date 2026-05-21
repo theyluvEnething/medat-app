@@ -1,0 +1,2 @@
+C — 83/95
+Differenz wächst um +1 je Schritt

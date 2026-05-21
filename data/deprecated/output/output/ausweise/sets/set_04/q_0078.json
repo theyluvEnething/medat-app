@@ -1,0 +1,14 @@
+{
+  "id": 78,
+  "set": 4,
+  "set_index": 3,
+  "answer": "B",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer76770?",
+  "options": {
+    "A": "Gräser",
+    "B": "Mandarinen,Hydromorphon",
+    "C": "Forellen,Gurken",
+    "D": "Mandarinen",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

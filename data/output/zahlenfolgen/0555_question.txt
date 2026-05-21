@@ -1,0 +1,7 @@
+Zahlenfolge: -14 -15 -16 -17 -18 -19 ? ?
+
+A) -23/-23
+B) -20/-20
+C) -21/-22
+D) -19/-23
+E) Keine der Antworten ist richtig

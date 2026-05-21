@@ -1,0 +1,15 @@
+{
+  "id": 634,
+  "set": 43,
+  "set_index": 4,
+  "answer": "D",
+  "answer_word": "KASSETTE",
+  "options": {
+    "A": "E",
+    "B": "T",
+    "C": "A",
+    "D": "K",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A S E T S K E T"
+}

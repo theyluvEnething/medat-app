@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Anwälte sind Flüsse.
+- Alle Flüsse sind keine Vasen.
+
+A) Einige Anwälte sind keine Vasen.
+B) Alle Anwälte sind keine Vasen.
+C) Alle Anwälte sind Vasen.
+D) Einige Anwälte sind Vasen.
+E) Keine der Schlussfolgerungen ist richtig.

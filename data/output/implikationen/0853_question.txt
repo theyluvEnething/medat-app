@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Maler sind keine Möbel.
+- Einige Möbel sind Metalle.
+
+A) Alle Maler sind keine Metalle.
+B) Einige Maler sind Metalle.
+C) Einige Maler sind keine Metalle.
+D) Alle Maler sind Metalle.
+E) Keine der Schlussfolgerungen ist richtig.

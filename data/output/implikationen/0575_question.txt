@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Pilze sind Eidechsen.
+- Alle Eidechsen sind Quartette.
+
+A) Alle Pilze sind Quartette.
+B) Einige Pilze sind Quartette.
+C) Alle Pilze sind keine Quartette.
+D) Einige Pilze sind keine Quartette.
+E) Keine der Schlussfolgerungen ist richtig.

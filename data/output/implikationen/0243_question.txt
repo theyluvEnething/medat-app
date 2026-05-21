@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Blumen sind Sänger.
+- Einige Sänger sind keine Telefone.
+
+A) Einige Blumen sind keine Telefone.
+B) Alle Blumen sind keine Telefone.
+C) Alle Blumen sind Telefone.
+D) Einige Blumen sind Telefone.
+E) Keine der Schlussfolgerungen ist richtig.

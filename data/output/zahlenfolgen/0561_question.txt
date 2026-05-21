@@ -1,0 +1,7 @@
+Zahlenfolge: -1 14 -8 5 -15 -4 ? ?
+
+A) -31/-23
+B) -31/-20
+C) -29/-22
+D) -8/-9
+E) Keine der Antworten ist richtig

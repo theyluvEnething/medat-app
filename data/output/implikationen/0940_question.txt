@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Ärzte sind Elektroautos.
+- Einige Elektroautos sind Werkzeuge.
+
+A) Alle Ärzte sind keine Werkzeuge.
+B) Alle Ärzte sind Werkzeuge.
+C) Einige Ärzte sind keine Werkzeuge.
+D) Einige Ärzte sind Werkzeuge.
+E) Keine der Schlussfolgerungen ist richtig.

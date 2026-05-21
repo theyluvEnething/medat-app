@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Krokodile sind Fotografen.
+- Alle Fotografen sind Gräser.
+
+A) Alle Krokodile sind keine Gräser.
+B) Einige Krokodile sind keine Gräser.
+C) Alle Krokodile sind Gräser.
+D) Einige Krokodile sind Gräser.
+E) Keine der Schlussfolgerungen ist richtig.

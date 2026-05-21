@@ -1,0 +1,15 @@
+{
+  "id": 704,
+  "set": 47,
+  "set_index": 14,
+  "answer": "B",
+  "answer_word": "SKELETT",
+  "options": {
+    "A": "K",
+    "B": "S",
+    "C": "T",
+    "D": "L",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E T L K T S E"
+}

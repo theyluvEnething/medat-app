@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Quartette sind Eichen.
+- Einige Eichen sind keine Delfine.
+
+A) Alle Quartette sind Delfine.
+B) Einige Quartette sind keine Delfine.
+C) Einige Quartette sind Delfine.
+D) Alle Quartette sind keine Delfine.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Gräser sind Mathematiker.
+- Alle Mathematiker sind Kupfer.
+
+A) Einige Gräser sind keine Kupfer.
+B) Alle Gräser sind keine Kupfer.
+C) Alle Gräser sind Kupfer.
+D) Einige Gräser sind Kupfer.
+E) Keine der Schlussfolgerungen ist richtig.

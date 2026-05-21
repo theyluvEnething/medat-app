@@ -1,0 +1,14 @@
+{
+  "id": 495,
+  "set": 20,
+  "set_index": 20,
+  "answer": "C",
+  "text": "WieheißtdiePersonmit AusstellungslandMalaysia?",
+  "options": {
+    "A": "ZLEINKON",
+    "B": "REDMOS",
+    "C": "UMBRANO",
+    "D": "PIXZIV",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

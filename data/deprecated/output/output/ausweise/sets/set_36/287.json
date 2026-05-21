@@ -1,0 +1,15 @@
+{
+  "id": 287,
+  "set": 36,
+  "set_index": 7,
+  "image": "287.png",
+  "fields": {
+    "Name": "AUSWRIT",
+    "Geburtstag": "17. November",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Paranüsse, Retinol",
+    "Ausweisnummer": "59107",
+    "Ausstellungsland": "Armenien"
+  }
+}

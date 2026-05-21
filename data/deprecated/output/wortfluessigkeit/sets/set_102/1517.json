@@ -1,0 +1,15 @@
+{
+  "id": 1517,
+  "set": 102,
+  "set_index": 2,
+  "answer": "E",
+  "answer_word": "FUNDSTELLE",
+  "options": {
+    "A": "D",
+    "B": "S",
+    "C": "E",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S U E L L N T E D F"
+}

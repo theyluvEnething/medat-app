@@ -1,0 +1,15 @@
+{
+  "id": 1408,
+  "set": 94,
+  "set_index": 13,
+  "answer": "D",
+  "answer_word": "VEGANER",
+  "options": {
+    "A": "E",
+    "B": "N",
+    "C": "R",
+    "D": "V",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N E R A V E G"
+}

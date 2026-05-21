@@ -1,0 +1,15 @@
+{
+  "id": 347,
+  "set": 24,
+  "set_index": 2,
+  "answer": "E",
+  "answer_word": "KADAVER",
+  "options": {
+    "A": "A",
+    "B": "V",
+    "C": "E",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R E A A D V K"
+}

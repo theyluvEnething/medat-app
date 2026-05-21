@@ -1,0 +1,7 @@
+Zahlenfolge: -12 -22 -32 -42 -52 -62 ? ?
+
+A) -80/-93
+B) -83/-93
+C) -124/-134
+D) -82/-92
+E) Keine der Antworten ist richtig

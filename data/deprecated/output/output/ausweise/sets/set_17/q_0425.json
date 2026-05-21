@@ -1,0 +1,14 @@
+{
+  "id": 425,
+  "set": 17,
+  "set_index": 25,
+  "answer": "D",
+  "text": "WieheißtdiePersonmitGeburtstagam 24.desMonats?",
+  "options": {
+    "A": "NUXCOM",
+    "B": "EMILOKA",
+    "C": "SRINCMOS",
+    "D": "RISKALT",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

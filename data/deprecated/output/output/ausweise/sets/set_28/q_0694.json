@@ -1,0 +1,14 @@
+{
+  "id": 694,
+  "set": 28,
+  "set_index": 19,
+  "answer": "C",
+  "text": "WieheißtdiePersonmit Ausweisnummer79659?",
+  "options": {
+    "A": "FIYNOM",
+    "B": "INWEQU",
+    "C": "SHOXINO",
+    "D": "STRIKMOL",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

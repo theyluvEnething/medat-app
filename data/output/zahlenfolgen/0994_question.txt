@@ -1,0 +1,7 @@
+Zahlenfolge: 8 13 26 31 62 67 ? ?
+
+A) 279/281
+B) 278/283
+C) 276/285
+D) 134/145
+E) Keine der Antworten ist richtig

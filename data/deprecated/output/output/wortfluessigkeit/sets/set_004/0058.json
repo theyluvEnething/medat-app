@@ -1,0 +1,15 @@
+{
+  "id": 58,
+  "set": 4,
+  "set_index": 13,
+  "answer": "C",
+  "answer_word": "SCHLUSS",
+  "options": {
+    "A": "C",
+    "B": "H",
+    "C": "S",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S S U S C H L"
+}

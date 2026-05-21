@@ -1,0 +1,14 @@
+{
+  "id": 324,
+  "set": 13,
+  "set_index": 24,
+  "answer": "C",
+  "text": "WelcheBlutgruppehatdiePersonmit AllergiegegenSchafmilch,Sardinenund Schimmelpilze?",
+  "options": {
+    "A": "0",
+    "B": "A",
+    "C": "B",
+    "D": "AB",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

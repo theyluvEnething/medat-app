@@ -1,0 +1,14 @@
+{
+  "id": 795,
+  "set": 32,
+  "set_index": 20,
+  "answer": "D",
+  "text": "AuswelchemLandkommtderAusweis derPersonmitdemNamenEPONOR?",
+  "options": {
+    "A": "Spanien",
+    "B": "Afghanistan",
+    "C": "Abchasien",
+    "D": "Transnistrien",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

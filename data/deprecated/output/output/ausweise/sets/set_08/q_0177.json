@@ -1,0 +1,14 @@
+{
+  "id": 177,
+  "set": 8,
+  "set_index": 2,
+  "answer": "C",
+  "text": "WieheißtdiePersonmitGeburtstagim Januar?",
+  "options": {
+    "A": "ARTILITO",
+    "B": "KSARYKO",
+    "C": "ZIRKRIND",
+    "D": "GIXRALD",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

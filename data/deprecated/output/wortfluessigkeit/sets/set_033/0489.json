@@ -1,0 +1,15 @@
+{
+  "id": 489,
+  "set": 33,
+  "set_index": 9,
+  "answer": "D",
+  "answer_word": "HAUSFRAU",
+  "options": {
+    "A": "S",
+    "B": "A",
+    "C": "F",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U S A A R U H F"
+}

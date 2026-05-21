@@ -1,0 +1,15 @@
+{
+  "id": 355,
+  "set": 24,
+  "set_index": 10,
+  "answer": "C",
+  "answer_word": "HEBAMME",
+  "options": {
+    "A": "M",
+    "B": "E",
+    "C": "H",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "H M E A E M B"
+}

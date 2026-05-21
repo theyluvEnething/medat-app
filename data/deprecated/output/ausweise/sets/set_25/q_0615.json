@@ -1,0 +1,14 @@
+{
+  "id": 615,
+  "set": 25,
+  "set_index": 15,
+  "answer": "C",
+  "text": "WelcheBlutgruppehatdiePersonmit AusstellungslandJamaika?",
+  "options": {
+    "A": "0",
+    "B": "A",
+    "C": "AB",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Tannen sind keine Türen.
+- Alle Türen sind keine Tomaten.
+
+A) Einige Tannen sind Tomaten.
+B) Einige Tannen sind keine Tomaten.
+C) Alle Tannen sind Tomaten.
+D) Alle Tannen sind keine Tomaten.
+E) Keine der Schlussfolgerungen ist richtig.

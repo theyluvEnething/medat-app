@@ -1,0 +1,15 @@
+{
+  "id": 194,
+  "set": 13,
+  "set_index": 14,
+  "answer": "D",
+  "answer_word": "HIMMEL",
+  "options": {
+    "A": "I",
+    "B": "L",
+    "C": "M",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I H L M E M"
+}

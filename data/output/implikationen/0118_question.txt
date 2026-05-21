@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Dinosaurier sind keine Züge.
+- Einige Züge sind Nashörner.
+
+A) Einige Dinosaurier sind keine Nashörner.
+B) Alle Dinosaurier sind keine Nashörner.
+C) Alle Dinosaurier sind Nashörner.
+D) Einige Dinosaurier sind Nashörner.
+E) Keine der Schlussfolgerungen ist richtig.

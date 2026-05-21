@@ -1,0 +1,15 @@
+{
+  "id": 119,
+  "set": 8,
+  "set_index": 14,
+  "answer": "D",
+  "answer_word": "WACHMANN",
+  "options": {
+    "A": "M",
+    "B": "N",
+    "C": "H",
+    "D": "W",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "M C N W N A A H"
+}

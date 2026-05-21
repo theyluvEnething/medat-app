@@ -1,0 +1,7 @@
+Zahlenfolge: 49 50 53 57 64 75 93 ? ?
+
+A) 126/169
+B) 122/172
+C) 122/169
+D) 148/171
+E) KeinederAntwortenistrichtig

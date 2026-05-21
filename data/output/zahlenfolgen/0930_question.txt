@@ -1,0 +1,7 @@
+Zahlenfolge: 12 13 16 21 28 37 ? ?
+
+A) 76/93
+B) 74/94
+C) 74/79
+D) 74/91
+E) Keine der Antworten ist richtig

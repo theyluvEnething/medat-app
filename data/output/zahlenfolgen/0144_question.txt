@@ -1,0 +1,7 @@
+Zahlenfolge: 15 10 25 35 60 95 ? ?
+
+A) 404/657
+B) 403/657
+C) 404/656
+D) 405/655
+E) Keine der Antworten ist richtig

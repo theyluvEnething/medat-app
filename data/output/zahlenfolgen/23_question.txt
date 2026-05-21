@@ -1,0 +1,7 @@
+Zahlenfolge: 22 41 33 11 31 24 6 ? ?
+
+A) 31/46
+B) 28/25
+C) 56/46
+D) 27/21
+E) KeinederAntwortenistrichtig

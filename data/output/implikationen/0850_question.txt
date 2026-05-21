@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Dichter sind keine Sportler.
+- Einige Sportler sind keine Wale.
+
+A) Einige Dichter sind Wale.
+B) Alle Dichter sind keine Wale.
+C) Alle Dichter sind Wale.
+D) Einige Dichter sind keine Wale.
+E) Keine der Schlussfolgerungen ist richtig.

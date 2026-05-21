@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Diamanten sind keine Tulpen.
+- Einige Tulpen sind Mammute.
+
+A) Alle Diamanten sind keine Mammute.
+B) Einige Diamanten sind keine Mammute.
+C) Einige Diamanten sind Mammute.
+D) Alle Diamanten sind Mammute.
+E) Keine der Schlussfolgerungen ist richtig.

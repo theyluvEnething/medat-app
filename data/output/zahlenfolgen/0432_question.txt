@@ -1,0 +1,7 @@
+Zahlenfolge: 1 4 7 10 13 16 ? ?
+
+A) 24/27
+B) 21/23
+C) 22/25
+D) 23/27
+E) Keine der Antworten ist richtig

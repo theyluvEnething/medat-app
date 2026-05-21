@@ -1,0 +1,15 @@
+{
+  "id": 763,
+  "set": 51,
+  "set_index": 13,
+  "answer": "E",
+  "answer_word": "FETTFLECK",
+  "options": {
+    "A": "L",
+    "B": "T",
+    "C": "C",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C E F L T F E K T"
+}

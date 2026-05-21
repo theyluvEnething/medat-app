@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Pandas sind Dichter.
+- Alle Dichter sind Tulpen.
+
+A) Einige Pandas sind Tulpen.
+B) Alle Pandas sind Tulpen.
+C) Alle Pandas sind keine Tulpen.
+D) Einige Pandas sind keine Tulpen.
+E) Keine der Schlussfolgerungen ist richtig.

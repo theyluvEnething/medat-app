@@ -1,0 +1,14 @@
+{
+  "id": 155,
+  "set": 7,
+  "set_index": 5,
+  "answer": "E",
+  "text": "MitwelchenZiffernendetdie AusweisnummerderPersonmit GeburtstagimFebruar?",
+  "options": {
+    "A": "43",
+    "B": "91",
+    "C": "93",
+    "D": "97",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

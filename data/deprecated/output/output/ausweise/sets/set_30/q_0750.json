@@ -1,0 +1,14 @@
+{
+  "id": 750,
+  "set": 30,
+  "set_index": 25,
+  "answer": "C",
+  "text": "WelcheBlutgruppehatdiePersonmit AusstellungslandBrasilien?",
+  "options": {
+    "A": "A",
+    "B": "0",
+    "C": "AB",
+    "D": "B",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

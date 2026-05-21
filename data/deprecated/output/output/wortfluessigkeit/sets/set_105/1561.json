@@ -1,0 +1,15 @@
+{
+  "id": 1561,
+  "set": 105,
+  "set_index": 1,
+  "answer": "D",
+  "answer_word": "TRAUMBERUF",
+  "options": {
+    "A": "F",
+    "B": "B",
+    "C": "R",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A U B R E M R U F T"
+}

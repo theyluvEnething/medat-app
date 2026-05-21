@@ -1,0 +1,15 @@
+{
+  "id": 58,
+  "set": 8,
+  "set_index": 2,
+  "image": "058.png",
+  "fields": {
+    "Name": "UZIQUAK",
+    "Geburtstag": "13. September",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Farbstoffe",
+    "Ausweisnummer": "70367",
+    "Ausstellungsland": "Namibia"
+  }
+}

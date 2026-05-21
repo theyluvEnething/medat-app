@@ -1,0 +1,15 @@
+{
+  "id": 959,
+  "set": 64,
+  "set_index": 14,
+  "answer": "B",
+  "answer_word": "SCHAUFENSTER",
+  "options": {
+    "A": "H",
+    "B": "S",
+    "C": "F",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C A F E R U S E T S H N"
+}

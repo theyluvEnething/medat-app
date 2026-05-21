@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Möbel sind keine Züge.
+- Alle Züge sind keine Häuser.
+
+A) Einige Möbel sind Häuser.
+B) Alle Möbel sind keine Häuser.
+C) Alle Möbel sind Häuser.
+D) Einige Möbel sind keine Häuser.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Vasen sind keine Orchideen.
+- Alle Orchideen sind keine Glühbirnen.
+
+A) Alle Vasen sind keine Glühbirnen.
+B) Einige Vasen sind keine Glühbirnen.
+C) Einige Vasen sind Glühbirnen.
+D) Alle Vasen sind Glühbirnen.
+E) Keine der Schlussfolgerungen ist richtig.

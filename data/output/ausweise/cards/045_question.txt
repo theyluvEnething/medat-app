@@ -1,0 +1,7 @@
+Name: BLYNCI
+Geburtstag: 17. Januar
+Medikamenteneinnahme: Ja
+Blutgruppe: A
+Bekannte Allergien: Litschi, Iod
+Ausweisnummer: 02013
+Ausstellungsland: Chile

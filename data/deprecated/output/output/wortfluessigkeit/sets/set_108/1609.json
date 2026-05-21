@@ -1,0 +1,15 @@
+{
+  "id": 1609,
+  "set": 108,
+  "set_index": 4,
+  "answer": "D",
+  "answer_word": "WEHRMACHT",
+  "options": {
+    "A": "A",
+    "B": "T",
+    "C": "H",
+    "D": "W",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R C M T H W H A E"
+}

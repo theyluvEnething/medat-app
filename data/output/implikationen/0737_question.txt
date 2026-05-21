@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Ärzte sind Granite.
+- Alle Granite sind keine Metalle.
+
+A) Alle Ärzte sind Metalle.
+B) Alle Ärzte sind keine Metalle.
+C) Einige Ärzte sind keine Metalle.
+D) Einige Ärzte sind Metalle.
+E) Keine der Schlussfolgerungen ist richtig.

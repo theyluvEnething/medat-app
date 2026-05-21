@@ -1,0 +1,15 @@
+{
+  "id": 365,
+  "set": 25,
+  "set_index": 5,
+  "answer": "C",
+  "answer_word": "ERDLOCH",
+  "options": {
+    "A": "R",
+    "B": "C",
+    "C": "E",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L C O H D E R"
+}

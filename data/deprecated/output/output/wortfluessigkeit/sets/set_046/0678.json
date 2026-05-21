@@ -1,0 +1,15 @@
+{
+  "id": 678,
+  "set": 46,
+  "set_index": 3,
+  "answer": "A",
+  "answer_word": "KRAMPF",
+  "options": {
+    "A": "K",
+    "B": "A",
+    "C": "P",
+    "D": "F",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "M F K A R P"
+}

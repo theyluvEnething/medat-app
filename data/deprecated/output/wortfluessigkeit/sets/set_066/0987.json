@@ -1,0 +1,15 @@
+{
+  "id": 987,
+  "set": 66,
+  "set_index": 12,
+  "answer": "B",
+  "answer_word": "UNTERLEGENHEIT",
+  "options": {
+    "A": "L",
+    "B": "U",
+    "C": "N",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L N H R E E T I T U N E E G"
+}

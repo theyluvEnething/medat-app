@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Diamanten sind keine Insekten.
+- Alle Insekten sind keine Teleskope.
+
+A) Alle Diamanten sind Teleskope.
+B) Einige Diamanten sind keine Teleskope.
+C) Einige Diamanten sind Teleskope.
+D) Alle Diamanten sind keine Teleskope.
+E) Keine der Schlussfolgerungen ist richtig.

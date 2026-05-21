@@ -1,0 +1,15 @@
+{
+  "id": 1118,
+  "set": 75,
+  "set_index": 8,
+  "answer": "B",
+  "answer_word": "KREUZZUG",
+  "options": {
+    "A": "G",
+    "B": "K",
+    "C": "E",
+    "D": "Z",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "G U K Z Z R U E"
+}

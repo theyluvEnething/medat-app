@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Gemälde sind Quartette.
+- Alle Quartette sind Eichen.
+
+A) Einige Gemälde sind Eichen.
+B) Alle Gemälde sind Eichen.
+C) Einige Gemälde sind keine Eichen.
+D) Alle Gemälde sind keine Eichen.
+E) Keine der Schlussfolgerungen ist richtig.

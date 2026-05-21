@@ -1,0 +1,15 @@
+{
+  "id": 161,
+  "set": 21,
+  "set_index": 1,
+  "image": "161.png",
+  "fields": {
+    "Name": "RETIWIF",
+    "Geburtstag": "1. März",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Brombeeren, Hausstaub",
+    "Ausweisnummer": "87978",
+    "Ausstellungsland": "Kirgisistan"
+  }
+}

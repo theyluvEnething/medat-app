@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Türen sind Orchideen.
+- Alle Orchideen sind Delfine.
+
+A) Alle Türen sind keine Delfine.
+B) Einige Türen sind Delfine.
+C) Alle Türen sind Delfine.
+D) Einige Türen sind keine Delfine.
+E) Keine der Schlussfolgerungen ist richtig.

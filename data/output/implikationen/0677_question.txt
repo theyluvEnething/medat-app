@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Wissenschaftler sind Fische.
+- Alle Fische sind Schiffe.
+
+A) Einige Wissenschaftler sind Schiffe.
+B) Alle Wissenschaftler sind keine Schiffe.
+C) Alle Wissenschaftler sind Schiffe.
+D) Einige Wissenschaftler sind keine Schiffe.
+E) Keine der Schlussfolgerungen ist richtig.

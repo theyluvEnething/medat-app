@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Sänger sind Granite.
+- Alle Granite sind Tannen.
+
+A) Einige Sänger sind Tannen.
+B) Alle Sänger sind Tannen.
+C) Alle Sänger sind keine Tannen.
+D) Einige Sänger sind keine Tannen.
+E) Keine der Schlussfolgerungen ist richtig.

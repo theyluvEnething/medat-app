@@ -1,0 +1,15 @@
+{
+  "id": 171,
+  "set": 12,
+  "set_index": 6,
+  "answer": "B",
+  "answer_word": "KAKTUS",
+  "options": {
+    "A": "A",
+    "B": "K",
+    "C": "S",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "K U T A S K"
+}

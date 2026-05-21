@@ -1,0 +1,15 @@
+{
+  "id": 247,
+  "set": 17,
+  "set_index": 7,
+  "answer": "C",
+  "answer_word": "BALLAST",
+  "options": {
+    "A": "A",
+    "B": "S",
+    "C": "B",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S L A L A T B"
+}

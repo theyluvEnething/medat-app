@@ -1,0 +1,15 @@
+{
+  "id": 208,
+  "set": 14,
+  "set_index": 13,
+  "answer": "D",
+  "answer_word": "WOLKE",
+  "options": {
+    "A": "K",
+    "B": "O",
+    "C": "L",
+    "D": "W",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "K O E L W"
+}

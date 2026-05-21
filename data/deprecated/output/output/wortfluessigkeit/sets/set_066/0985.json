@@ -1,0 +1,15 @@
+{
+  "id": 985,
+  "set": 66,
+  "set_index": 10,
+  "answer": "B",
+  "answer_word": "AUFZUG",
+  "options": {
+    "A": "U",
+    "B": "A",
+    "C": "G",
+    "D": "F",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "A U U F Z G"
+}

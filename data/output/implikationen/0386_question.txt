@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Stühle sind Rosen.
+- Einige Rosen sind keine Radios.
+
+A) Alle Stühle sind keine Radios.
+B) Einige Stühle sind keine Radios.
+C) Einige Stühle sind Radios.
+D) Alle Stühle sind Radios.
+E) Keine der Schlussfolgerungen ist richtig.

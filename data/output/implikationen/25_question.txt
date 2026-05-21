@@ -1,0 +1,10 @@
+Prämissen:
+- EinigeRucksäckesindTaschen.
+- AlleTaschensindBehälter.
+- 4
+
+A) AlleRucksäckesindBehälter.
+B) AlleRucksäckesindkeineBehälter.
+C) EinigeRucksäckesindBehälter.
+D) EinigeRucksäckesindkeineBehälter.
+E) KeinederSchlussfolgerungenistrichtig.

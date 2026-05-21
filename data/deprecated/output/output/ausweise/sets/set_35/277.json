@@ -1,0 +1,15 @@
+{
+  "id": 277,
+  "set": 35,
+  "set_index": 5,
+  "image": "277.png",
+  "fields": {
+    "Name": "REXMATR",
+    "Geburtstag": "26. November",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Gräser",
+    "Ausweisnummer": "99828",
+    "Ausstellungsland": "Bangladesch"
+  }
+}

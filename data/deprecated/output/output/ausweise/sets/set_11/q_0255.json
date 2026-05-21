@@ -1,0 +1,14 @@
+{
+  "id": 255,
+  "set": 11,
+  "set_index": 5,
+  "answer": "B",
+  "text": "WieheißtdiePersonmit Ausweisnummer32122?",
+  "options": {
+    "A": "DEWPOR",
+    "B": "OKLUMAR",
+    "C": "DREISTOR",
+    "D": "PROTLANS",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

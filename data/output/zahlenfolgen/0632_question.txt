@@ -1,0 +1,7 @@
+Zahlenfolge: 59 61 67 71 73 79 ? ?
+
+A) 97/101
+B) 99/103
+C) 98/102
+D) 96/102
+E) Keine der Antworten ist richtig

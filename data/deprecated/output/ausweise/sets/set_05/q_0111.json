@@ -1,0 +1,14 @@
+{
+  "id": 111,
+  "set": 5,
+  "set_index": 11,
+  "answer": "A",
+  "text": "AmwievieltenMontatstagist derGeburtstagderPersonmit diesemBild?",
+  "options": {
+    "A": "23.",
+    "B": "22.",
+    "C": "26.",
+    "D": "25.",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

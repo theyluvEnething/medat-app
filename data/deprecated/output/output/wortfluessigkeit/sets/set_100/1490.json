@@ -1,0 +1,15 @@
+{
+  "id": 1490,
+  "set": 100,
+  "set_index": 5,
+  "answer": "E",
+  "answer_word": "FLUGBEGLEITER",
+  "options": {
+    "A": "B",
+    "B": "U",
+    "C": "E",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U I L E G R E B F G L T E"
+}

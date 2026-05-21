@@ -1,0 +1,15 @@
+{
+  "id": 123,
+  "set": 16,
+  "set_index": 3,
+  "image": "123.png",
+  "fields": {
+    "Name": "HUNDROM",
+    "Geburtstag": "16. Februar",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Chinin, Schweinefleisch",
+    "Ausweisnummer": "14897",
+    "Ausstellungsland": "Lettland"
+  }
+}

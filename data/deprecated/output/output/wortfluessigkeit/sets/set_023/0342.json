@@ -1,0 +1,15 @@
+{
+  "id": 342,
+  "set": 23,
+  "set_index": 12,
+  "answer": "C",
+  "answer_word": "RICHTLINIE",
+  "options": {
+    "A": "L",
+    "B": "H",
+    "C": "R",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I H L I C E N I T R"
+}

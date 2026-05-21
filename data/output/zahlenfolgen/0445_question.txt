@@ -1,0 +1,7 @@
+Zahlenfolge: 19 20 23 28 35 44 ? ?
+
+A) 82/99
+B) 83/100
+C) 88/105
+D) 85/99
+E) Keine der Antworten ist richtig

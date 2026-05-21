@@ -1,0 +1,9 @@
+Prämissen:
+- EinigeVerletzungensindInfarkte.
+- EinigeVerletzungensindAnfälle.
+
+A) AlleAnfällesindInfarkte.
+B) AlleAnfällesindkeineInfarkte.
+C) EinigeAnfällesindInfarkte.
+D) EinigeAnfällesindkeineInfarkte.
+E) KeinederSchlussfolgerungenistrichtig.

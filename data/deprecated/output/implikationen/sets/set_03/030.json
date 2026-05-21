@@ -1,0 +1,17 @@
+{
+  "id": 30,
+  "set": 3,
+  "set_index": 10,
+  "answer": "B",
+  "premises": [
+    "AlleZähnesindKiefer.",
+    "AlleKronensindkeineKiefer."
+  ],
+  "conclusions": {
+    "A": "AlleKronensindZähne.",
+    "B": "AlleKronensindkeineZähne.",
+    "C": "EinigeKronensindZähne.",
+    "D": "EinigeKronensindkeineZähne.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

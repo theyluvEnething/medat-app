@@ -1,0 +1,17 @@
+{
+  "id": 53,
+  "set": 6,
+  "set_index": 3,
+  "answer": "A",
+  "premises": [
+    "AlleWasserfällesindSpritzer.",
+    "AlleDuschensindWasserfälle."
+  ],
+  "conclusions": {
+    "A": "AlleDuschensindSpritzer.",
+    "B": "AlleDuschensindkeineSpritzer.",
+    "C": "EinigeDuschensindSpritzer.",
+    "D": "EinigeDuschensindkeineSpritzer.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

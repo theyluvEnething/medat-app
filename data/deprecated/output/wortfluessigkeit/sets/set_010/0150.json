@@ -1,0 +1,15 @@
+{
+  "id": 150,
+  "set": 10,
+  "set_index": 15,
+  "answer": "A",
+  "answer_word": "SYSTEM",
+  "options": {
+    "A": "S",
+    "B": "Y",
+    "C": "E",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S M E Y T S"
+}

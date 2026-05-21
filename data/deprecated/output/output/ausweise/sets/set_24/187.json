@@ -1,0 +1,15 @@
+{
+  "id": 187,
+  "set": 24,
+  "set_index": 3,
+  "image": "187.png",
+  "fields": {
+    "Name": "OXYRON",
+    "Geburtstag": "23. April",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "AB",
+    "Bekannte Allergien": "Vanille",
+    "Ausweisnummer": "72311",
+    "Ausstellungsland": "Syrien"
+  }
+}

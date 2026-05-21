@@ -1,0 +1,14 @@
+{
+  "id": 13,
+  "set": 1,
+  "set_index": 13,
+  "answer": "A",
+  "text": "MitwelchenZiffernbeginntdie AusweisnummerderPersonmitdem GeschlechtweiblichundKEINEN Medikamenten?",
+  "options": {
+    "A": "68",
+    "B": "23",
+    "C": "81",
+    "D": "40",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": 65,
+  "set": 3,
+  "set_index": 15,
+  "answer": "E",
+  "text": "WieheißtdiePersonmitAusstellungsland Katar?",
+  "options": {
+    "A": "UWASOLD",
+    "B": "PROCMAS",
+    "C": "SREXMIK",
+    "D": "DEWPOR",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

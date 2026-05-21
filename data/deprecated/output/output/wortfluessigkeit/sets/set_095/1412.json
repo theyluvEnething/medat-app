@@ -1,0 +1,15 @@
+{
+  "id": 1412,
+  "set": 95,
+  "set_index": 2,
+  "answer": "A",
+  "answer_word": "ELTERNGELD",
+  "options": {
+    "A": "E",
+    "B": "N",
+    "C": "G",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E N E D L T R E G L"
+}

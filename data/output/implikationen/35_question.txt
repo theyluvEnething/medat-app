@@ -1,0 +1,9 @@
+Prämissen:
+- AlleTJPsindkeineTG.
+- AlleTJPsindBYU.
+
+A) AlleTGsindBYU.
+B) AlleTGsindkeineBYU.
+C) EinigeTGsindBYU.
+D) EinigeTGsindkeineBYU.
+E) KeinederSchlussfolgerungenistrichtig.

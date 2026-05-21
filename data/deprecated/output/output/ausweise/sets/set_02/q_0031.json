@@ -1,0 +1,14 @@
+{
+  "id": 31,
+  "set": 2,
+  "set_index": 6,
+  "answer": "E",
+  "text": "WelcheganzenAllergienhatdiePerson mitBlutgruppeBundKEINEN Medikamenten?",
+  "options": {
+    "A": "Sulfite,Zitronen",
+    "B": "Brombeeren,Pollen",
+    "C": "Hamster,Pferdehaare",
+    "D": "Aspergillus",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

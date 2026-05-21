@@ -1,0 +1,15 @@
+{
+  "id": 1146,
+  "set": 77,
+  "set_index": 6,
+  "answer": "B",
+  "answer_word": "BACKBLECH",
+  "options": {
+    "A": "C",
+    "B": "B",
+    "C": "K",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "B E B C K A H L C"
+}

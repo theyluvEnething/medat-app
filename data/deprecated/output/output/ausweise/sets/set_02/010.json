@@ -1,0 +1,15 @@
+{
+  "id": 10,
+  "set": 2,
+  "set_index": 2,
+  "image": "010.png",
+  "fields": {
+    "Name": "BAUEFK",
+    "Geburtstag": "30. Oktober",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Hamster, Pferdehaare",
+    "Ausweisnummer": "61804",
+    "Ausstellungsland": "Nigeria"
+  }
+}

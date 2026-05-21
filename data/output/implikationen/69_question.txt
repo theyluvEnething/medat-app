@@ -1,0 +1,9 @@
+Prämissen:
+- AlleNotizensindBlöcke.
+- AlleNotizensindkeineTexte.
+
+A) AlleBlöckesindTexte.
+B) AlleBlöckesindkeineTexte.
+C) EinigeBlöckesindTexte.
+D) EinigeBlöckesindkeineTexte.
+E) KeinederSchlussfolgerungenistrichtig.

@@ -1,0 +1,17 @@
+{
+  "id": 64,
+  "set": 7,
+  "set_index": 4,
+  "answer": "D",
+  "premises": [
+    "AlleWMsindZBN.",
+    "EinigeNWBsindkeineZBN."
+  ],
+  "conclusions": {
+    "A": "AlleNWBsindWM.",
+    "B": "AlleNWBsindkeineWM.",
+    "C": "EinigeNWBsindWM.",
+    "D": "EinigeNWBsindkeineWM.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

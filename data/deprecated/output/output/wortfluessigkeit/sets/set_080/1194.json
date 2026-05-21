@@ -1,0 +1,15 @@
+{
+  "id": 1194,
+  "set": 80,
+  "set_index": 9,
+  "answer": "C",
+  "answer_word": "KILOMETER",
+  "options": {
+    "A": "R",
+    "B": "E",
+    "C": "K",
+    "D": "O",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R K E L M E T I O"
+}

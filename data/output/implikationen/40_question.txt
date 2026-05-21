@@ -1,0 +1,10 @@
+Prämissen:
+- AlleRohstoffesindSteine.
+- EinigeRohstoffesindMineralien.
+- 5
+
+A) AlleMineraliensindSteine.
+B) AlleMineraliensindkeineSteine.
+C) EinigeMineraliensindSteine.
+D) EinigeMineraliensindkeineSteine.
+E) KeinederSchlussfolgerungenistrichtig.

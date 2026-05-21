@@ -1,0 +1,15 @@
+{
+  "id": 213,
+  "set": 27,
+  "set_index": 5,
+  "image": "213.png",
+  "fields": {
+    "Name": "VURDER",
+    "Geburtstag": "3. Dezember",
+    "Medikamenteneinnahme": "Nein",
+    "Blutgruppe": "A",
+    "Bekannte Allergien": "Narkotika",
+    "Ausweisnummer": "68116",
+    "Ausstellungsland": "Guatemala"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 363,
+  "set": 25,
+  "set_index": 3,
+  "answer": "B",
+  "answer_word": "ROLLTREPPE",
+  "options": {
+    "A": "T",
+    "B": "R",
+    "C": "L",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "P E L R T L R O E P"
+}

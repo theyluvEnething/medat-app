@@ -1,0 +1,7 @@
+Zahlenfolge: 0 23 4 32 8 41 ? ?
+
+A) 16/59
+B) 14/60
+C) 18/60
+D) 15/58
+E) Keine der Antworten ist richtig

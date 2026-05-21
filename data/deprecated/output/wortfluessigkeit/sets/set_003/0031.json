@@ -1,0 +1,15 @@
+{
+  "id": 31,
+  "set": 3,
+  "set_index": 1,
+  "answer": "B",
+  "answer_word": "HINTERHALT",
+  "options": {
+    "A": "A",
+    "B": "H",
+    "C": "I",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I H N T H T E L A R"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 530,
+  "set": 36,
+  "set_index": 5,
+  "answer": "A",
+  "answer_word": "LEGENDE",
+  "options": {
+    "A": "L",
+    "B": "N",
+    "C": "G",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "D N G E E E L"
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Eidechsen sind Mammute.
+- Einige Mammute sind Flüsse.
+
+A) Alle Eidechsen sind keine Flüsse.
+B) Alle Eidechsen sind Flüsse.
+C) Einige Eidechsen sind keine Flüsse.
+D) Einige Eidechsen sind Flüsse.
+E) Keine der Schlussfolgerungen ist richtig.

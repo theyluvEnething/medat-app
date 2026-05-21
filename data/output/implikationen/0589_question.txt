@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Vulkane sind Hunde.
+- Einige Hunde sind Maler.
+
+A) Alle Vulkane sind keine Maler.
+B) Einige Vulkane sind Maler.
+C) Alle Vulkane sind Maler.
+D) Einige Vulkane sind keine Maler.
+E) Keine der Schlussfolgerungen ist richtig.

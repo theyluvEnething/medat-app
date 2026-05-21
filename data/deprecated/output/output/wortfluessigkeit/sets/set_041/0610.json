@@ -1,0 +1,15 @@
+{
+  "id": 610,
+  "set": 41,
+  "set_index": 10,
+  "answer": "B",
+  "answer_word": "AUSSPRACHE",
+  "options": {
+    "A": "H",
+    "B": "A",
+    "C": "S",
+    "D": "P",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "C A R U H A S P S E"
+}

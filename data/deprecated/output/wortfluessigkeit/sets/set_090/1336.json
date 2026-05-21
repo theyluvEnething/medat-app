@@ -1,0 +1,15 @@
+{
+  "id": 1336,
+  "set": 90,
+  "set_index": 1,
+  "answer": "C",
+  "answer_word": "KLEBESTREIFEN",
+  "options": {
+    "A": "E",
+    "B": "I",
+    "C": "K",
+    "D": "R",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I E E B F K E L E T R S N"
+}

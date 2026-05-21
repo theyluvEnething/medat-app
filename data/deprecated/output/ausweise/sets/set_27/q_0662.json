@@ -1,0 +1,14 @@
+{
+  "id": 662,
+  "set": 27,
+  "set_index": 12,
+  "answer": "A",
+  "text": "WieheißtdiePersonmitGeburtstagam 2.desMonats?",
+  "options": {
+    "A": "CTRONAT",
+    "B": "DEWPOR",
+    "C": "VURDER",
+    "D": "ZULUNDE",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

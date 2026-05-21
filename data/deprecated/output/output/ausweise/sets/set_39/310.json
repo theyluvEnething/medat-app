@@ -1,0 +1,15 @@
+{
+  "id": 310,
+  "set": 39,
+  "set_index": 6,
+  "image": "310.png",
+  "fields": {
+    "Name": "KASEMOS",
+    "Geburtstag": "5. September",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "0",
+    "Bekannte Allergien": "Kaninchen, Mückenstiche,",
+    "Ausweisnummer": "60984",
+    "Ausstellungsland": "Brunei"
+  }
+}

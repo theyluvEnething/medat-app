@@ -1,0 +1,15 @@
+{
+  "id": 1083,
+  "set": 73,
+  "set_index": 3,
+  "answer": "A",
+  "answer_word": "MEDIATHEK",
+  "options": {
+    "A": "M",
+    "B": "T",
+    "C": "A",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I A M D T E K H E"
+}

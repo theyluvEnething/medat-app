@@ -1,0 +1,15 @@
+{
+  "id": 700,
+  "set": 47,
+  "set_index": 10,
+  "answer": "E",
+  "answer_word": "SPRACHKURS",
+  "options": {
+    "A": "K",
+    "B": "R",
+    "C": "U",
+    "D": "H",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S R C U R A P K H S"
+}

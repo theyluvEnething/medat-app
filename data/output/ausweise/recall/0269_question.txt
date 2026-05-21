@@ -1,0 +1,7 @@
+WievielePersonensindimNovember geboren?
+
+A) 2
+B) 3
+C) 0
+D) 1
+E) KeinederAntwortenistrichtig

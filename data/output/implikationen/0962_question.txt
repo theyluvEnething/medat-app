@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Menschen sind Fische.
+- Einige Fische sind keine Quallen.
+
+A) Alle Menschen sind Quallen.
+B) Einige Menschen sind Quallen.
+C) Einige Menschen sind keine Quallen.
+D) Alle Menschen sind keine Quallen.
+E) Keine der Schlussfolgerungen ist richtig.

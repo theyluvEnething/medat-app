@@ -1,0 +1,17 @@
+{
+  "id": 48,
+  "set": 5,
+  "set_index": 8,
+  "answer": "C",
+  "premises": [
+    "EinigeGipsesindSchmerzen.",
+    "AlleSchmerzensindFrakturen."
+  ],
+  "conclusions": {
+    "A": "AlleFrakturensindGipse.",
+    "B": "AlleFrakturensindkeineGipse.",
+    "C": "EinigeFrakturensindGipse.",
+    "D": "EinigeFrakturensindkeineGipse.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1509,
+  "set": 101,
+  "set_index": 9,
+  "answer": "E",
+  "answer_word": "VERKEHR",
+  "options": {
+    "A": "K",
+    "B": "R",
+    "C": "H",
+    "D": "E",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E R E R K H V"
+}

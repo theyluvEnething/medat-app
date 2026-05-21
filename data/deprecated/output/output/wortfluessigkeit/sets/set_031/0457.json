@@ -1,0 +1,15 @@
+{
+  "id": 457,
+  "set": 31,
+  "set_index": 7,
+  "answer": "C",
+  "answer_word": "BEGEGNUNG",
+  "options": {
+    "A": "N",
+    "B": "U",
+    "C": "B",
+    "D": "G",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E E N B G U G G N"
+}

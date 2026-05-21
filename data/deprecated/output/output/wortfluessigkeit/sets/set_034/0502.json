@@ -1,0 +1,15 @@
+{
+  "id": 502,
+  "set": 34,
+  "set_index": 7,
+  "answer": "E",
+  "answer_word": "AUGENBRAUE",
+  "options": {
+    "A": "N",
+    "B": "B",
+    "C": "G",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E A R U U B N A G E"
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Politiker sind Quallen.
+- Alle Quallen sind Flugzeuge.
+
+A) Alle Politiker sind Flugzeuge.
+B) Einige Politiker sind Flugzeuge.
+C) Alle Politiker sind keine Flugzeuge.
+D) Einige Politiker sind keine Flugzeuge.
+E) Keine der Schlussfolgerungen ist richtig.

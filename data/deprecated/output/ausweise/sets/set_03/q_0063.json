@@ -1,0 +1,14 @@
+{
+  "id": 63,
+  "set": 3,
+  "set_index": 13,
+  "answer": "A",
+  "text": "WelcheganzenAllergienhatdiePerson mitdemNamenSREXMIK?",
+  "options": {
+    "A": "Schwarzerle",
+    "B": "Rispengras",
+    "C": "Rapsöl,Kaninchen,Schwarzerle",
+    "D": "Milchzucker,Hummer",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Sportler sind keine Schriftsteller.
+- Einige Schriftsteller sind Elektroautos.
+
+A) Einige Sportler sind Elektroautos.
+B) Einige Sportler sind keine Elektroautos.
+C) Alle Sportler sind Elektroautos.
+D) Alle Sportler sind keine Elektroautos.
+E) Keine der Schlussfolgerungen ist richtig.

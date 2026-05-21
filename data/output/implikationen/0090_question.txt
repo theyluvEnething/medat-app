@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Schlangen sind keine Werkzeuge.
+- Alle Werkzeuge sind Teleskope.
+
+A) Alle Schlangen sind Teleskope.
+B) Alle Schlangen sind keine Teleskope.
+C) Einige Schlangen sind keine Teleskope.
+D) Einige Schlangen sind Teleskope.
+E) Keine der Schlussfolgerungen ist richtig.

@@ -1,0 +1,15 @@
+{
+  "id": 1148,
+  "set": 77,
+  "set_index": 8,
+  "answer": "A",
+  "answer_word": "CHAUFFEUR",
+  "options": {
+    "A": "C",
+    "B": "H",
+    "C": "E",
+    "D": "U",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "U A R H U F F C E"
+}

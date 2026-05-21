@@ -1,0 +1,7 @@
+Zahlenfolge: 8 10 18 28 46 74 ? ?
+
+A) 312/510
+B) 314/508
+C) 148/161
+D) 316/510
+E) Keine der Antworten ist richtig

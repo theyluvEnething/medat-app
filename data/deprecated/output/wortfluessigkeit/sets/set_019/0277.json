@@ -1,0 +1,15 @@
+{
+  "id": 277,
+  "set": 19,
+  "set_index": 7,
+  "answer": "B",
+  "answer_word": "ANSEHEN",
+  "options": {
+    "A": "S",
+    "B": "A",
+    "C": "H",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E E S N N H A"
+}

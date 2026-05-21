@@ -1,0 +1,17 @@
+{
+  "id": 33,
+  "set": 4,
+  "set_index": 3,
+  "answer": "A",
+  "premises": [
+    "AlleBlütensindKnospen.",
+    "AlleKnospensindSamen."
+  ],
+  "conclusions": {
+    "A": "AlleBlütensindSamen.",
+    "B": "AlleBlütensindkeineSamen.",
+    "C": "EinigeBlütensindSamen.",
+    "D": "EinigeBlütensindkeineSamen.",
+    "E": "KeinederSchlussfolgerungenistrichtig."
+  }
+}

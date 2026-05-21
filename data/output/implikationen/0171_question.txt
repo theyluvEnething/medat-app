@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Elektroautos sind keine Tomaten.
+- Einige Tomaten sind keine Schauspieler.
+
+A) Alle Elektroautos sind Schauspieler.
+B) Einige Elektroautos sind Schauspieler.
+C) Einige Elektroautos sind keine Schauspieler.
+D) Alle Elektroautos sind keine Schauspieler.
+E) Keine der Schlussfolgerungen ist richtig.

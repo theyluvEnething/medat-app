@@ -1,0 +1,15 @@
+{
+  "id": 633,
+  "set": 43,
+  "set_index": 3,
+  "answer": "A",
+  "answer_word": "GRABUNG",
+  "options": {
+    "A": "G",
+    "B": "B",
+    "C": "R",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "B R G N A U G"
+}

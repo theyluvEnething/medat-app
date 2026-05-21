@@ -1,0 +1,16 @@
+{
+  "id": 30,
+  "set": 3,
+  "set_index": 10,
+  "answer": "B",
+  "answer_value": "1/132",
+  "explanation": "2erSprungmit2Systemen:[+12,+24,+36,...]und[-11]",
+  "sequence": "12 34 24 23 48 12 84 ? ?",
+  "options": {
+    "A": "137/15",
+    "B": "1/132",
+    "C": "15/125",
+    "D": "-3/132",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

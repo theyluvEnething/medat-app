@@ -1,0 +1,7 @@
+Zahlenfolge: 9 7 21 19 57 55 ? ?
+
+A) 489/487
+B) 490/488
+C) 491/489
+D) 498/496
+E) Keine der Antworten ist richtig

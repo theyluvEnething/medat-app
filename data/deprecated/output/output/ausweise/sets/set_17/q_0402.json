@@ -1,0 +1,14 @@
+{
+  "id": 402,
+  "set": 17,
+  "set_index": 2,
+  "answer": "C",
+  "text": "WieheißtdiePersonmitGeburtstagam 10.desMonats?",
+  "options": {
+    "A": "LEBRANOS",
+    "B": "RIDEXO",
+    "C": "LUVRONK",
+    "D": "RISKALT",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

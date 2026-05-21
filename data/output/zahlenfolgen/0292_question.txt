@@ -1,0 +1,7 @@
+Zahlenfolge: 5 8 16 19 38 41 ? ?
+
+A) 172/172
+B) 168/175
+C) 170/173
+D) 172/171
+E) Keine der Antworten ist richtig

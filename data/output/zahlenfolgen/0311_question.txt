@@ -1,0 +1,7 @@
+Zahlenfolge: 5 15 45 135 405 1215 ? ?
+
+A) 10933/32804
+B) 10937/32806
+C) 10934/32804
+D) 10935/32805
+E) Keine der Antworten ist richtig

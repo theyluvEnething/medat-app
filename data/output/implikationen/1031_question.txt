@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Mathematiker sind Bäume.
+- Alle Bäume sind Orchideen.
+
+A) Alle Mathematiker sind Orchideen.
+B) Einige Mathematiker sind keine Orchideen.
+C) Alle Mathematiker sind keine Orchideen.
+D) Einige Mathematiker sind Orchideen.
+E) Keine der Schlussfolgerungen ist richtig.

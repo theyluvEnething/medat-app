@@ -1,0 +1,14 @@
+{
+  "id": 375,
+  "set": 15,
+  "set_index": 25,
+  "answer": "A",
+  "text": "WelcheBlutgruppehatdiePersonmit demNamenZUWASN?",
+  "options": {
+    "A": "B",
+    "B": "0",
+    "C": "AB",
+    "D": "A",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

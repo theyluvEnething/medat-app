@@ -1,0 +1,15 @@
+{
+  "id": 413,
+  "set": 28,
+  "set_index": 8,
+  "answer": "C",
+  "answer_word": "ANSAGE",
+  "options": {
+    "A": "G",
+    "B": "N",
+    "C": "A",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "N G S E A A"
+}

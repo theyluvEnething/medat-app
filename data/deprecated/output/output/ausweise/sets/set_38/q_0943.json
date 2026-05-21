@@ -1,0 +1,14 @@
+{
+  "id": 943,
+  "set": 38,
+  "set_index": 18,
+  "answer": "B",
+  "text": "WelcheganzenAllergienhatdiePerson mitAusweisnummer42424?",
+  "options": {
+    "A": "Thiomersal",
+    "B": "Ratten,Pfeffer,Kunstharz",
+    "C": "Alkohol,Aspergillus,Minze",
+    "D": "Sulfite,Minze",
+    "E": "KeinederAntwortenistrichtig"
+  }
+}

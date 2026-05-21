@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Krokodile sind keine Gedichte.
+- Alle Gedichte sind keine Delfine.
+
+A) Einige Krokodile sind Delfine.
+B) Einige Krokodile sind keine Delfine.
+C) Alle Krokodile sind keine Delfine.
+D) Alle Krokodile sind Delfine.
+E) Keine der Schlussfolgerungen ist richtig.

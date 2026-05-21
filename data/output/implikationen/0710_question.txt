@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Zebras sind keine Häuser.
+- Einige Häuser sind keine Rosen.
+
+A) Alle Zebras sind keine Rosen.
+B) Alle Zebras sind Rosen.
+C) Einige Zebras sind keine Rosen.
+D) Einige Zebras sind Rosen.
+E) Keine der Schlussfolgerungen ist richtig.

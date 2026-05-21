@@ -1,0 +1,15 @@
+{
+  "id": 482,
+  "set": 33,
+  "set_index": 2,
+  "answer": "D",
+  "answer_word": "SCHRANK",
+  "options": {
+    "A": "N",
+    "B": "K",
+    "C": "A",
+    "D": "S",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S H A K R N C"
+}

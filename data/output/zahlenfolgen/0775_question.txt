@@ -1,0 +1,7 @@
+Zahlenfolge: 18 2 20 22 42 64 ? ?
+
+A) 128/137
+B) 278/444
+C) 276/446
+D) 278/445
+E) Keine der Antworten ist richtig

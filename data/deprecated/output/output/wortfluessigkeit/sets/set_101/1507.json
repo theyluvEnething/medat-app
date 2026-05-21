@@ -1,0 +1,15 @@
+{
+  "id": 1507,
+  "set": 101,
+  "set_index": 7,
+  "answer": "D",
+  "answer_word": "DSCHUNGEL",
+  "options": {
+    "A": "L",
+    "B": "G",
+    "C": "C",
+    "D": "D",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "S N G U C E D H L"
+}

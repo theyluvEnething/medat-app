@@ -1,0 +1,7 @@
+Zahlenfolge: -3 21 0 20 3 19 ? ?
+
+A) 8/18
+B) 17/9
+C) 11/19
+D) 9/17
+E) Keine der Antworten ist richtig

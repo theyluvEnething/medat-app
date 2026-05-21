@@ -1,0 +1,15 @@
+{
+  "id": 664,
+  "set": 45,
+  "set_index": 4,
+  "answer": "E",
+  "answer_word": "AUSRUF",
+  "options": {
+    "A": "S",
+    "B": "R",
+    "C": "U",
+    "D": "F",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "R U U A S F"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 160,
+  "set": 11,
+  "set_index": 10,
+  "answer": "E",
+  "answer_word": "FIKTION",
+  "options": {
+    "A": "N",
+    "B": "I",
+    "C": "K",
+    "D": "T",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "I N T F K O I"
+}

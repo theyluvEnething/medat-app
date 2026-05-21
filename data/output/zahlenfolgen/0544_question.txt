@@ -1,0 +1,7 @@
+Zahlenfolge: -5 -2 2 7 13 20 ? ?
+
+A) 45/57
+B) 40/45
+C) 47/58
+D) 48/56
+E) Keine der Antworten ist richtig

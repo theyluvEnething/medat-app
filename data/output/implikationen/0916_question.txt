@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Taucher sind keine Stühle.
+- Alle Stühle sind Vasen.
+
+A) Einige Taucher sind keine Vasen.
+B) Alle Taucher sind keine Vasen.
+C) Alle Taucher sind Vasen.
+D) Einige Taucher sind Vasen.
+E) Keine der Schlussfolgerungen ist richtig.

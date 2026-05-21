@@ -1,0 +1,15 @@
+{
+  "id": 1514,
+  "set": 101,
+  "set_index": 14,
+  "answer": "E",
+  "answer_word": "BEZAHLUNG",
+  "options": {
+    "A": "H",
+    "B": "U",
+    "C": "E",
+    "D": "Z",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "L H N B G U E Z A"
+}

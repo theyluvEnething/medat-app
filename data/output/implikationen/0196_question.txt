@@ -1,0 +1,9 @@
+Prämissen:
+- Alle Reptilien sind Werkzeuge.
+- Alle Werkzeuge sind keine Vulkane.
+
+A) Einige Reptilien sind keine Vulkane.
+B) Alle Reptilien sind keine Vulkane.
+C) Alle Reptilien sind Vulkane.
+D) Einige Reptilien sind Vulkane.
+E) Keine der Schlussfolgerungen ist richtig.

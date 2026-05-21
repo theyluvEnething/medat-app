@@ -1,0 +1,15 @@
+{
+  "id": 54,
+  "set": 7,
+  "set_index": 6,
+  "image": "054.png",
+  "fields": {
+    "Name": "HOASFL",
+    "Geburtstag": "14. September",
+    "Medikamenteneinnahme": "Ja",
+    "Blutgruppe": "B",
+    "Bekannte Allergien": "Baumpollen",
+    "Ausweisnummer": "01817",
+    "Ausstellungsland": "Palau"
+  }
+}

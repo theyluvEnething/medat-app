@@ -1,0 +1,7 @@
+Zahlenfolge: 2 3 4 5 6 7 ? ?
+
+A) 9/10
+B) 8/12
+C) 7/9
+D) 14/15
+E) Keine der Antworten ist richtig

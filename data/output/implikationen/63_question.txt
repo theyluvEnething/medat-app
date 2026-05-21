@@ -1,0 +1,9 @@
+Prämissen:
+- AlleSesselsindBänke.
+- AlleBänkesindkeineHocker.
+
+A) AlleSesselsindHocker.
+B) AlleSesselsindkeineHocker.
+C) EinigeSesselsindHocker.
+D) EinigeSesselsindkeineHocker.
+E) KeinederSchlussfolgerungenistrichtig.

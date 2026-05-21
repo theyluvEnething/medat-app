@@ -1,0 +1,7 @@
+Zahlenfolge: 14 3 17 20 37 57 ? ?
+
+A) 245/396
+B) 243/395
+C) 114/122
+D) 243/394
+E) Keine der Antworten ist richtig

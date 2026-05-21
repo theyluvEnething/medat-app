@@ -1,0 +1,9 @@
+Prämissen:
+- Einige Rosen sind keine Fische.
+- Alle Fische sind Diamanten.
+
+A) Einige Rosen sind Diamanten.
+B) Alle Rosen sind Diamanten.
+C) Einige Rosen sind keine Diamanten.
+D) Alle Rosen sind keine Diamanten.
+E) Keine der Schlussfolgerungen ist richtig.

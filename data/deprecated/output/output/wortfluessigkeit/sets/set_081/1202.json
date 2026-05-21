@@ -1,0 +1,15 @@
+{
+  "id": 1202,
+  "set": 81,
+  "set_index": 2,
+  "answer": "A",
+  "answer_word": "BACKENZAHN",
+  "options": {
+    "A": "B",
+    "B": "Z",
+    "C": "E",
+    "D": "N",
+    "E": "KeinederAntwortenistrichtig"
+  },
+  "sequence": "E A K N N H Z B C A"
+}
