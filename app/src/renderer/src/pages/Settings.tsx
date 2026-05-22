@@ -4,8 +4,7 @@ import type { SectionKey } from '../types'
 import { SECTION_ORDER } from '../types'
 import { useAppStore } from '../store/useAppStore'
 
-import questionsData from '../assets/questions.json'
-const questions = questionsData as Record<string, { id: number }[]>
+import { questions } from '../data/questions'
 
 const SECTION_EMOJI: Record<SectionKey, string> = {
   figuren: '\u{1F9E9}',

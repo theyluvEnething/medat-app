@@ -3,8 +3,7 @@ import { useAppStore } from '../store/useAppStore'
 import { SECTION_ORDER } from '../types'
 import type { SessionRecord, SectionKey } from '../types'
 
-import questionsData from '../assets/questions.json'
-const questions = questionsData as Record<string, { id: number; content: string; section: string; answer: string }[]>
+import { questions } from '../data/questions'
 
 function scoreColor(pct: number): string {
   if (pct >= 70) return 'text-emerald-400'

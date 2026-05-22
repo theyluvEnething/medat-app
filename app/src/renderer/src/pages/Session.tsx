@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import type { Question, SectionProgress, SectionKey } from '../types'
 import { SECTION_ORDER } from '../types'
@@ -8,8 +8,7 @@ import { HintBanner } from '../components/HintBanner'
 import { useTimer } from '../hooks/useTimer'
 import { useAppStore } from '../store/useAppStore'
 
-import questionsData from '../assets/questions.json'
-const questions = questionsData as Record<string, Question[]>
+import { questions } from '../data/questions'
 
 function emptyProgress(): SectionProgress {
   return { currentSetIndex: 0, completed: [], wrongIds: [] }
@@ -38,9 +37,18 @@ function selectQuestions(
 
   if (remaining.length < count) {
     const wrongInSet = setQuestions.filter(
-      (q) => wrongSet.has(q.id) && !completedSet.has(q.id),
+      (q) =>
+        wrongSet.has(q.id) &&
+        !completedSet.has(q.id) &&
+        !remaining.some((r) => r.id === q.id),
     )
-    return { questions: [...remaining, ...wrongInSet.slice(0, count - remaining.length)] }
+    const filled = [...remaining, ...wrongInSet.slice(0, count - remaining.length)]
+    if (filled.length === 0 && allPool.length > 0) {
+      const nextSet = safeSet + 1
+      const wrappedSet = nextSet >= totalSets ? 0 : nextSet
+      return { questions: allPool.slice(wrappedSet * count, wrappedSet * count + count) }
+    }
+    return { questions: filled }
   }
 
   return { questions: remaining.slice(0, count) }
@@ -59,7 +67,6 @@ export function Session() {
   const recordWrongAnswer = useAppStore((s) => s.recordWrongAnswer)
   const recalculateMastery = useAppStore((s) => s.recalculateMastery)
   const updateDailyStreak = useAppStore((s) => s.updateDailyStreak)
-  const sessionAnswers = useAppStore((s) => s.session.answers)
 
   // Determine sections to run
   const sectionsToRun = useMemo(() => {
@@ -110,11 +117,11 @@ export function Session() {
 
   const currentQuestion = displayedQuestions[questionIndex]
 
-  const handleExpire = useCallback(() => {
-    setStep('section-done')
-  }, [])
-
   const timerSeconds = section.timeMin * 60
+  const handleExpire = () => {
+    persistSectionProgress()
+    setStep('section-done')
+  }
   const { remaining, isRunning, start, pause } = useTimer(timerSeconds, handleExpire)
 
   // Initialize session on first mount
@@ -238,7 +245,7 @@ export function Session() {
     } else {
       // Session complete
       recalculateMastery(questions)
-      completeSession()
+      completeSession(questions)
       navigate('/results')
     }
   }

@@ -2,6 +2,7 @@ import { create } from 'zustand'
 import { persist } from 'zustand/middleware'
 import type { SectionKey, SectionProgress, Question } from '../types'
 import { SECTION_ORDER } from '../types'
+import { upsertUserScore } from '../services/supabase'
 
 // ── Session-record types (appended to types.ts later) ──
 
@@ -54,7 +55,7 @@ interface AppState {
   prevQuestion: () => void
   setQuestionIndex: (index: number) => void
   setSectionIndex: (index: number) => void
-  completeSession: () => void
+  completeSession: (questions?: Record<string, Question[]>) => void
   resetSession: () => void
 
   // ── Progress actions ──
@@ -232,17 +233,69 @@ export const useAppStore = create<AppState>()(
         }))
       },
 
-      completeSession: () => {
-        const { session, sessionHistory, progress } = get()
+      completeSession: (questions) => {
+        const { session, sessionHistory, progress, user } = get()
         if (!session.type) return
+
+        const duration = Math.round(((Date.now() - (session.startTime ?? Date.now())) / 1000))
+
+        // Compute per-section breakdown from session answers
+        const sectionBreakdown: SectionResult[] = []
+        let sessionCorrect = 0
+        let sessionTotal = 0
+
+        if (questions) {
+          const sectionKeys = session.type === 'full'
+            ? SECTION_ORDER.map((s) => s.key)
+            : [session.type]
+
+          for (const sectionKey of sectionKeys) {
+            const pool = questions[sectionKey] ?? []
+            let correct = 0
+            let total = 0
+            for (const q of pool) {
+              const key = `${sectionKey}-${q.id}`
+              const choice = session.answers[key]
+              if (choice === undefined) continue
+              total++
+              if (choice === q.answer) correct++
+            }
+            sessionCorrect += correct
+            sessionTotal += total
+            sectionBreakdown.push({
+              sectionKey,
+              correct,
+              total,
+              timeSpent: 0,
+            })
+          }
+        }
 
         const record: SessionRecord = {
           date: new Date().toISOString(),
           type: session.type,
-          score: { correct: 0, total: 0 },
-          sectionBreakdown: [],
+          score: { correct: sessionCorrect, total: sessionTotal },
+          sectionBreakdown,
           answers: session.answers,
-          duration: Math.round(((Date.now() - (session.startTime ?? Date.now())) / 1000)),
+          duration,
+        }
+
+        // Compute cumulative stats from progress for leaderboard
+        let cumulativeCorrect = 0
+        let cumulativeSolved = 0
+        for (const sec of SECTION_ORDER) {
+          const sp = progress[sec.key]
+          if (sp) {
+            cumulativeCorrect += sp.completed.length
+            cumulativeSolved += sp.completed.length + sp.wrongIds.length
+          }
+        }
+
+        // Post to leaderboard (fire-and-forget)
+        if (user.username) {
+          upsertUserScore(user.username, cumulativeCorrect, cumulativeSolved, cumulativeCorrect).catch(() => {
+            // leaderboard posting is non-critical
+          })
         }
 
         set({

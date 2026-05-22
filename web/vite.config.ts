@@ -6,13 +6,20 @@ import tailwindcss from '@tailwindcss/vite'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const appSrc = resolve(__dirname, '../app/src/renderer/src')
+const dataDir = resolve(__dirname, '../data')
 
 export default defineConfig({
   resolve: {
     alias: {
       '@app': appSrc,
+      '@data': dataDir,
     },
     dedupe: ['react', 'react-dom', 'react-router', 'react-router-dom'],
+  },
+  server: {
+    fs: {
+      allow: [resolve(__dirname, '..'), dataDir],
+    },
   },
   plugins: [react(), tailwindcss()],
   base: '/medat-app/',

@@ -13,8 +13,10 @@
     "skipLibCheck": true,
     "resolveJsonModule": true,
     "noEmit": true,
+    "baseUrl": ".",
     "paths": {
-      "@app/*": ["../app/src/renderer/src/*"]
+      "@app/*": ["../app/src/renderer/src/*"],
+      "@data/*": ["../data/*"]
     }
   },
   "include": [

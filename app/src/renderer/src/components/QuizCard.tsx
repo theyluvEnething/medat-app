@@ -2,17 +2,17 @@ import type { SectionKey } from '../types'
 import { ProgressTracker } from './ProgressTracker'
 
 const figurenImages = import.meta.glob<{ default: string }>(
-  '../assets/figuren/*.png',
+  '../../../../../data/output/figuren/*.png',
   { eager: true },
 )
 
 const ausweiseImages = import.meta.glob<{ default: string }>(
-  '../assets/ausweise/*.png',
+  '../../../../../data/output/ausweise/cards/*.png',
   { eager: true },
 )
 
 const recallImages = import.meta.glob<{ default: string }>(
-  '../assets/ausweise/recall/*.png',
+  '../../../../../data/output/ausweise/recall/*.png',
   { eager: true },
 )
 
@@ -47,7 +47,9 @@ function getImageSrc(
   glob: Record<string, { default: string }>,
   filename: string,
 ): string | null {
-  const key = Object.keys(glob).find((k) => k.endsWith(filename))
+  const key = Object.keys(glob).find(
+    (k) => k.endsWith('/' + filename) || k.endsWith('/' + filename.replace('.png', '_question.png')),
+  )
   return key ? glob[key]!.default : null
 }
 

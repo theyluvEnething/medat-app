@@ -3,8 +3,7 @@ import { useEffect } from 'react'
 import { useAppStore } from '../store/useAppStore'
 import { SECTION_ORDER } from '../types'
 
-import questionsData from '../assets/questions.json'
-const questions = questionsData as Record<string, { id: number }[]>
+import { questions } from '../data/questions'
 
 function computeStats() {
   const state = useAppStore.getState()

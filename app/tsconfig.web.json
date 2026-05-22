@@ -14,7 +14,11 @@
     "resolveJsonModule": true,
     "noEmit": false,
     "outDir": "./out/renderer",
-    "rootDir": "./src/renderer"
+    "rootDir": "./src/renderer",
+    "baseUrl": ".",
+    "paths": {
+      "@data/*": ["../data/*"]
+    }
   },
   "include": ["src/renderer/src/**/*.ts", "src/renderer/src/**/*.tsx", "src/renderer/src/**/*.json", "src/preload/**/*.d.ts"]
 }
