@@ -55,7 +55,7 @@ interface AppState {
   prevQuestion: () => void
   setQuestionIndex: (index: number) => void
   setSectionIndex: (index: number) => void
-  completeSession: (questions?: Record<string, Question[]>) => void
+  completeSession: (questions?: Record<string, Question[]>, answers?: Record<string, string>) => void
   resetSession: () => void
 
   // ── Progress actions ──
@@ -233,11 +233,12 @@ export const useAppStore = create<AppState>()(
         }))
       },
 
-      completeSession: (questions) => {
+      completeSession: (questions, answers) => {
         const { session, sessionHistory, progress, user } = get()
         if (!session.type) return
 
         const duration = Math.round(((Date.now() - (session.startTime ?? Date.now())) / 1000))
+        const resolvedAnswers = answers ?? session.answers
 
         // Compute per-section breakdown from session answers
         const sectionBreakdown: SectionResult[] = []
@@ -255,7 +256,7 @@ export const useAppStore = create<AppState>()(
             let total = 0
             for (const q of pool) {
               const key = `${sectionKey}-${q.id}`
-              const choice = session.answers[key]
+              const choice = resolvedAnswers[key]
               if (choice === undefined) continue
               total++
               if (choice === q.answer) correct++
@@ -276,7 +277,7 @@ export const useAppStore = create<AppState>()(
           type: session.type,
           score: { correct: sessionCorrect, total: sessionTotal },
           sectionBreakdown,
-          answers: session.answers,
+          answers: resolvedAnswers,
           duration,
         }
 

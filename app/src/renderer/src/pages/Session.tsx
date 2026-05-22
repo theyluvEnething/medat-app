@@ -245,7 +245,7 @@ export function Session() {
     } else {
       // Session complete
       recalculateMastery(questions)
-      completeSession(questions)
+      completeSession(questions, answers)
       navigate('/results')
     }
   }
