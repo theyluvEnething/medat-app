@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Dichter sind Telefone.
-- Einige Telefone sind Schriftsteller.
+- Alle NSJ sind keine ON.
+- Alle ON sind IC.
 
-A) Alle Dichter sind Schriftsteller.
-B) Einige Dichter sind Schriftsteller.
-C) Alle Dichter sind keine Schriftsteller.
-D) Einige Dichter sind keine Schriftsteller.
+A) Einige NSJ sind IC.
+B) Alle NSJ sind keine IC.
+C) Alle NSJ sind IC.
+D) Einige NSJ sind keine IC.
 E) Keine der Schlussfolgerungen ist richtig.

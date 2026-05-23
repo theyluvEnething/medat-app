@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schlangen sind Fische.
-- Einige Fische sind keine Vulkane.
+- Einige CT sind KV.
+- Alle KV sind keine PPV.
 
-A) Alle Schlangen sind keine Vulkane.
-B) Alle Schlangen sind Vulkane.
-C) Einige Schlangen sind keine Vulkane.
-D) Einige Schlangen sind Vulkane.
+A) Alle CT sind keine PPV.
+B) Einige CT sind keine PPV.
+C) Einige CT sind PPV.
+D) Alle CT sind PPV.
 E) Keine der Schlussfolgerungen ist richtig.

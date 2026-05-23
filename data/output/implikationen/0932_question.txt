@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Fotografen sind Elektroautos.
-- Einige Elektroautos sind keine Amphibien.
+- Einige RNA sind FAR.
+- Alle FAR sind DW.
 
-A) Einige Fotografen sind keine Amphibien.
-B) Einige Fotografen sind Amphibien.
-C) Alle Fotografen sind Amphibien.
-D) Alle Fotografen sind keine Amphibien.
+A) Einige RNA sind DW.
+B) Alle RNA sind keine DW.
+C) Einige RNA sind keine DW.
+D) Alle RNA sind DW.
 E) Keine der Schlussfolgerungen ist richtig.

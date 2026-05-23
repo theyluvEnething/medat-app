@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Eidechsen sind keine Giraffen.
-- Einige Giraffen sind keine Ärzte.
+- Alle DFV sind JH.
+- Alle JH sind MS.
 
-A) Einige Eidechsen sind keine Ärzte.
-B) Alle Eidechsen sind keine Ärzte.
-C) Alle Eidechsen sind Ärzte.
-D) Einige Eidechsen sind Ärzte.
+A) Alle DFV sind keine MS.
+B) Einige DFV sind keine MS.
+C) Einige DFV sind MS.
+D) Alle DFV sind MS.
 E) Keine der Schlussfolgerungen ist richtig.

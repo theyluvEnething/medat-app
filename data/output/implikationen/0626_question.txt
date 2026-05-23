@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Hunde sind Amphibien.
-- Alle Amphibien sind Wirbeltiere.
+- Alle VK sind keine MGP.
+- Alle MGP sind DHE.
 
-A) Alle Hunde sind Wirbeltiere.
-B) Einige Hunde sind keine Wirbeltiere.
-C) Einige Hunde sind Wirbeltiere.
-D) Alle Hunde sind keine Wirbeltiere.
+A) Alle VK sind DHE.
+B) Einige VK sind keine DHE.
+C) Einige VK sind DHE.
+D) Alle VK sind keine DHE.
 E) Keine der Schlussfolgerungen ist richtig.

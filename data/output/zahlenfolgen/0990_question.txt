@@ -1,7 +1,0 @@
-Zahlenfolge: 16 9 25 34 59 93 ? ?
-
-A) 396/644
-B) 396/641
-C) 399/641
-D) 397/642
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schriftsteller sind keine Wölfe.
-- Alle Wölfe sind keine Türen.
+- Alle WU sind GZ.
+- Alle GZ sind SL.
 
-A) Alle Schriftsteller sind Türen.
-B) Alle Schriftsteller sind keine Türen.
-C) Einige Schriftsteller sind Türen.
-D) Einige Schriftsteller sind keine Türen.
+A) Einige WU sind SL.
+B) Alle WU sind SL.
+C) Einige WU sind keine SL.
+D) Alle WU sind keine SL.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Politiker sind Schlangen.
-- Alle Schlangen sind Kätzchen.
+- Einige KR sind UT.
+- Einige UT sind keine AM.
 
-A) Alle Politiker sind Kätzchen.
-B) Alle Politiker sind keine Kätzchen.
-C) Einige Politiker sind keine Kätzchen.
-D) Einige Politiker sind Kätzchen.
+A) Alle KR sind AM.
+B) Einige KR sind AM.
+C) Einige KR sind keine AM.
+D) Alle KR sind keine AM.
 E) Keine der Schlussfolgerungen ist richtig.

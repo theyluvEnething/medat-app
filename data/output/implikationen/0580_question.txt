@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wölfe sind Vulkane.
-- Alle Vulkane sind Maler.
+- Einige VJ sind NJG.
+- Alle NJG sind JC.
 
-A) Alle Wölfe sind Maler.
-B) Einige Wölfe sind Maler.
-C) Einige Wölfe sind keine Maler.
-D) Alle Wölfe sind keine Maler.
+A) Alle VJ sind JC.
+B) Einige VJ sind JC.
+C) Einige VJ sind keine JC.
+D) Alle VJ sind keine JC.
 E) Keine der Schlussfolgerungen ist richtig.

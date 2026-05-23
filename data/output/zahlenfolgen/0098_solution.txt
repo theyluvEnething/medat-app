@@ -1,2 +1,2 @@
-B — 23/29
-Primzahlen ab der 1. Primzahl
+A — 25/10
+Zwei Folgen verschränkt: +5 und +3

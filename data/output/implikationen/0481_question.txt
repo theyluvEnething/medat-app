@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Werkzeuge sind keine Flugzeuge.
-- Einige Flugzeuge sind keine Schauspieler.
+- Einige PN sind OV.
+- Alle OV sind keine UG.
 
-A) Einige Werkzeuge sind keine Schauspieler.
-B) Alle Werkzeuge sind Schauspieler.
-C) Alle Werkzeuge sind keine Schauspieler.
-D) Einige Werkzeuge sind Schauspieler.
+A) Einige PN sind keine UG.
+B) Alle PN sind UG.
+C) Alle PN sind keine UG.
+D) Einige PN sind UG.
 E) Keine der Schlussfolgerungen ist richtig.

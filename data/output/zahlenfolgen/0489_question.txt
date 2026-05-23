@@ -1,7 +1,0 @@
-Zahlenfolge: 34 22 10 -2 -14 -26 ? ?
-
-A) -52/-64
-B) -52/-60
-C) -62/-50
-D) -50/-62
-E) Keine der Antworten ist richtig

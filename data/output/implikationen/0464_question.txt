@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tannen sind Vasen.
-- Alle Vasen sind keine Ingenieure.
+- Alle SF sind SUI.
+- Alle SUI sind keine RD.
 
-A) Einige Tannen sind Ingenieure.
-B) Alle Tannen sind Ingenieure.
-C) Einige Tannen sind keine Ingenieure.
-D) Alle Tannen sind keine Ingenieure.
+A) Alle SF sind RD.
+B) Alle SF sind keine RD.
+C) Einige SF sind RD.
+D) Einige SF sind keine RD.
 E) Keine der Schlussfolgerungen ist richtig.

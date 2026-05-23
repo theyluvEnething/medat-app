@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Statuen sind Wölfe.
-- Alle Wölfe sind Klaviere.
+- Alle RWP sind keine AN.
+- Alle AN sind WS.
 
-A) Alle Statuen sind Klaviere.
-B) Alle Statuen sind keine Klaviere.
-C) Einige Statuen sind Klaviere.
-D) Einige Statuen sind keine Klaviere.
+A) Einige RWP sind WS.
+B) Alle RWP sind WS.
+C) Einige RWP sind keine WS.
+D) Alle RWP sind keine WS.
 E) Keine der Schlussfolgerungen ist richtig.

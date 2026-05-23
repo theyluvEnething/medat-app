@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Glühbirnen sind Fische.
-- Einige Fische sind Sportler.
+- Alle MB sind LFV.
+- Alle LFV sind PZM.
 
-A) Alle Glühbirnen sind keine Sportler.
-B) Alle Glühbirnen sind Sportler.
-C) Einige Glühbirnen sind Sportler.
-D) Einige Glühbirnen sind keine Sportler.
+A) Alle MB sind PZM.
+B) Alle MB sind keine PZM.
+C) Einige MB sind keine PZM.
+D) Einige MB sind PZM.
 E) Keine der Schlussfolgerungen ist richtig.

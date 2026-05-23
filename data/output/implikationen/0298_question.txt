@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vasen sind keine Giraffen.
-- Alle Giraffen sind keine Mathematiker.
+- Alle OU sind KO.
+- Alle KO sind keine VRF.
 
-A) Alle Vasen sind Mathematiker.
-B) Einige Vasen sind Mathematiker.
-C) Alle Vasen sind keine Mathematiker.
-D) Einige Vasen sind keine Mathematiker.
+A) Einige OU sind keine VRF.
+B) Einige OU sind VRF.
+C) Alle OU sind keine VRF.
+D) Alle OU sind VRF.
 E) Keine der Schlussfolgerungen ist richtig.

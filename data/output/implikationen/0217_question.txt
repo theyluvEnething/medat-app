@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Glühbirnen sind Klaviere.
-- Alle Klaviere sind keine Züge.
+- Einige WN sind keine DKK.
+- Einige DKK sind HFH.
 
-A) Einige Glühbirnen sind Züge.
-B) Einige Glühbirnen sind keine Züge.
-C) Alle Glühbirnen sind Züge.
-D) Alle Glühbirnen sind keine Züge.
+A) Einige WN sind keine HFH.
+B) Einige WN sind HFH.
+C) Alle WN sind HFH.
+D) Alle WN sind keine HFH.
 E) Keine der Schlussfolgerungen ist richtig.

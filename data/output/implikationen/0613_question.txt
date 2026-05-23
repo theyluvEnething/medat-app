@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Elektroautos sind Statuen.
-- Alle Statuen sind keine Säugetiere.
+- Alle DR sind OP.
+- Alle OP sind keine DT.
 
-A) Einige Elektroautos sind Säugetiere.
-B) Alle Elektroautos sind Säugetiere.
-C) Alle Elektroautos sind keine Säugetiere.
-D) Einige Elektroautos sind keine Säugetiere.
+A) Alle DR sind DT.
+B) Einige DR sind DT.
+C) Alle DR sind keine DT.
+D) Einige DR sind keine DT.
 E) Keine der Schlussfolgerungen ist richtig.

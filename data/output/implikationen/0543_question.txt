@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schauspieler sind keine Wölfe.
-- Alle Wölfe sind Tulpen.
+- Alle WU sind keine FIC.
+- Einige FIC sind EC.
 
-A) Einige Schauspieler sind Tulpen.
-B) Alle Schauspieler sind Tulpen.
-C) Einige Schauspieler sind keine Tulpen.
-D) Alle Schauspieler sind keine Tulpen.
+A) Alle WU sind EC.
+B) Alle WU sind keine EC.
+C) Einige WU sind EC.
+D) Einige WU sind keine EC.
 E) Keine der Schlussfolgerungen ist richtig.

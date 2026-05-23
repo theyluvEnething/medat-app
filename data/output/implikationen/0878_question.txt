@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Politiker sind Radios.
-- Einige Radios sind Dichter.
+- Alle CS sind TJ.
+- Einige TJ sind keine KM.
 
-A) Einige Politiker sind Dichter.
-B) Einige Politiker sind keine Dichter.
-C) Alle Politiker sind Dichter.
-D) Alle Politiker sind keine Dichter.
+A) Einige CS sind KM.
+B) Einige CS sind keine KM.
+C) Alle CS sind KM.
+D) Alle CS sind keine KM.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Spatzen sind Stühle.
-- Einige Stühle sind Nashörner.
+- Alle RS sind LM.
+- Alle LM sind TB.
 
-A) Einige Spatzen sind keine Nashörner.
-B) Einige Spatzen sind Nashörner.
-C) Alle Spatzen sind keine Nashörner.
-D) Alle Spatzen sind Nashörner.
+A) Einige RS sind keine TB.
+B) Alle RS sind TB.
+C) Alle RS sind keine TB.
+D) Einige RS sind TB.
 E) Keine der Schlussfolgerungen ist richtig.

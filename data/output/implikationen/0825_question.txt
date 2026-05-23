@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Teleskope sind Eidechsen.
-- Einige Eidechsen sind Vögel.
+- Alle DV sind JT.
+- Alle JT sind keine GUB.
 
-A) Einige Teleskope sind keine Vögel.
-B) Alle Teleskope sind Vögel.
-C) Einige Teleskope sind Vögel.
-D) Alle Teleskope sind keine Vögel.
+A) Einige DV sind keine GUB.
+B) Alle DV sind keine GUB.
+C) Einige DV sind GUB.
+D) Alle DV sind GUB.
 E) Keine der Schlussfolgerungen ist richtig.

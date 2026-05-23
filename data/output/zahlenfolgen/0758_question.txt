@@ -1,7 +1,0 @@
-Zahlenfolge: 14 -6 9 -13 4 -20 ? ?
-
-A) -6/-34
-B) -13/-41
-C) -8/-33
-D) -27/-34
-E) Keine der Antworten ist richtig

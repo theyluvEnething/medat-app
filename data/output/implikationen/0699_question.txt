@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Vulkane sind Blumen.
-- Alle Blumen sind keine Tabletten.
+- Alle NBW sind keine EA.
+- Alle EA sind VB.
 
-A) Alle Vulkane sind keine Tabletten.
-B) Einige Vulkane sind Tabletten.
-C) Einige Vulkane sind keine Tabletten.
-D) Alle Vulkane sind Tabletten.
+A) Alle NBW sind keine VB.
+B) Einige NBW sind VB.
+C) Alle NBW sind VB.
+D) Einige NBW sind keine VB.
 E) Keine der Schlussfolgerungen ist richtig.

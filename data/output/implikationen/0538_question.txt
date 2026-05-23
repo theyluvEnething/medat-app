@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Blumen sind Quallen.
-- Einige Quallen sind Bäume.
+- Alle FV sind BMI.
+- Alle BMI sind keine KS.
 
-A) Alle Blumen sind Bäume.
-B) Einige Blumen sind Bäume.
-C) Einige Blumen sind keine Bäume.
-D) Alle Blumen sind keine Bäume.
+A) Alle FV sind keine KS.
+B) Alle FV sind KS.
+C) Einige FV sind KS.
+D) Einige FV sind keine KS.
 E) Keine der Schlussfolgerungen ist richtig.

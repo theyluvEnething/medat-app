@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Skulpturen sind Amseln.
-- Alle Amseln sind Anwälte.
+- Einige AF sind ER.
+- Alle ER sind keine CP.
 
-A) Einige Skulpturen sind Anwälte.
-B) Alle Skulpturen sind Anwälte.
-C) Einige Skulpturen sind keine Anwälte.
-D) Alle Skulpturen sind keine Anwälte.
+A) Einige AF sind keine CP.
+B) Alle AF sind CP.
+C) Einige AF sind CP.
+D) Alle AF sind keine CP.
 E) Keine der Schlussfolgerungen ist richtig.

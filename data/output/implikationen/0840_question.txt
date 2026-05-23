@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Säugetiere sind keine Tannen.
-- Einige Tannen sind keine Möbel.
+- Alle NO sind ZD.
+- Alle ZD sind keine OO.
 
-A) Einige Säugetiere sind keine Möbel.
-B) Alle Säugetiere sind Möbel.
-C) Einige Säugetiere sind Möbel.
-D) Alle Säugetiere sind keine Möbel.
+A) Alle NO sind OO.
+B) Einige NO sind OO.
+C) Alle NO sind keine OO.
+D) Einige NO sind keine OO.
 E) Keine der Schlussfolgerungen ist richtig.

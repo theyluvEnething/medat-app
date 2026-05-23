@@ -1,2 +1,0 @@
-C — 81/131
-Jedes Glied = Summe der beiden Vorgänger

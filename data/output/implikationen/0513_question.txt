@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Fische sind Vasen.
-- Alle Vasen sind keine Glühbirnen.
+- Alle NAJ sind TJ.
+- Alle TJ sind EUN.
 
-A) Alle Fische sind Glühbirnen.
-B) Alle Fische sind keine Glühbirnen.
-C) Einige Fische sind Glühbirnen.
-D) Einige Fische sind keine Glühbirnen.
+A) Alle NAJ sind keine EUN.
+B) Einige NAJ sind EUN.
+C) Alle NAJ sind EUN.
+D) Einige NAJ sind keine EUN.
 E) Keine der Schlussfolgerungen ist richtig.

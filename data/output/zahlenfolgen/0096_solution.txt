@@ -1,2 +1,2 @@
-B — 1617/1619
-+2, ×3 im Wechsel
+B — 61/100
+Ab 3. Glied: Summe der beiden Vorgänger + 2

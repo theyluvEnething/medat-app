@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Maler sind keine Dichter.
-- Alle Dichter sind Wölfe.
+- Alle WSJ sind keine HS.
+- Alle HS sind CW.
 
-A) Alle Maler sind keine Wölfe.
-B) Einige Maler sind Wölfe.
-C) Alle Maler sind Wölfe.
-D) Einige Maler sind keine Wölfe.
+A) Alle WSJ sind keine CW.
+B) Alle WSJ sind CW.
+C) Einige WSJ sind CW.
+D) Einige WSJ sind keine CW.
 E) Keine der Schlussfolgerungen ist richtig.

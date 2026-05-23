@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Quallen sind Taucher.
-- Alle Taucher sind Amphibien.
+- Einige UC sind keine MSU.
+- Alle MSU sind keine RK.
 
-A) Alle Quallen sind Amphibien.
-B) Alle Quallen sind keine Amphibien.
-C) Einige Quallen sind keine Amphibien.
-D) Einige Quallen sind Amphibien.
+A) Einige UC sind keine RK.
+B) Einige UC sind RK.
+C) Alle UC sind RK.
+D) Alle UC sind keine RK.
 E) Keine der Schlussfolgerungen ist richtig.

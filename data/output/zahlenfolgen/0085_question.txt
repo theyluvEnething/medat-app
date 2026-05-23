@@ -1,7 +1,7 @@
-Zahlenfolge: 30 29 37 39 44 49 ? ?
+Zahlenfolge: 3 9 6 18 15 45 ? ?
 
-A) 60/70
-B) 58/69
-C) 57/70
-D) 57/68
+A) 43/126
+B) 53/61
+C) 42/126
+D) 42/125
 E) Keine der Antworten ist richtig

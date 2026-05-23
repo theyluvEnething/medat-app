@@ -1,7 +1,7 @@
-Zahlenfolge: 8 9 16 35 72 133 ? ?
+Zahlenfolge: 2 5 9 16 27 45 ? ?
 
-A) 352/521
-B) 351/520
-C) 353/521
-D) 352/518
+A) 72/121
+B) 74/121
+C) 73/121
+D) 74/122
 E) Keine der Antworten ist richtig

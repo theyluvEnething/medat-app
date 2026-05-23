@@ -1,2 +1,2 @@
-B — 53/59
-Primzahlen ab der 8. Primzahl
+C — 54/70
+Zwei Folgen verschränkt: ×3 und +-10

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Fotografen sind Mammute.
-- Alle Mammute sind keine Tomaten.
+- Einige DET sind PP.
+- Einige PP sind keine FA.
 
-A) Alle Fotografen sind Tomaten.
-B) Einige Fotografen sind Tomaten.
-C) Alle Fotografen sind keine Tomaten.
-D) Einige Fotografen sind keine Tomaten.
+A) Alle DET sind FA.
+B) Einige DET sind keine FA.
+C) Einige DET sind FA.
+D) Alle DET sind keine FA.
 E) Keine der Schlussfolgerungen ist richtig.

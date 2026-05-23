@@ -1,7 +1,0 @@
-Zahlenfolge: 5 6 12 13 26 27 ? ?
-
-A) 111/112
-B) 31/35
-C) 110/111
-D) 112/112
-E) Keine der Antworten ist richtig

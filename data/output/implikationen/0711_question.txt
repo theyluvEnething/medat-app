@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Züge sind keine Reptilien.
-- Einige Reptilien sind keine Musikinstrumente.
+- Einige HN sind HI.
+- Alle HI sind keine MZ.
 
-A) Einige Züge sind Musikinstrumente.
-B) Alle Züge sind Musikinstrumente.
-C) Einige Züge sind keine Musikinstrumente.
-D) Alle Züge sind keine Musikinstrumente.
+A) Alle HN sind keine MZ.
+B) Einige HN sind keine MZ.
+C) Alle HN sind MZ.
+D) Einige HN sind MZ.
 E) Keine der Schlussfolgerungen ist richtig.

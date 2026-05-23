@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Musikinstrumente sind Radios.
-- Alle Radios sind Bücher.
+- Alle PJ sind keine WSP.
+- Alle WSP sind BL.
 
-A) Einige Musikinstrumente sind Bücher.
-B) Alle Musikinstrumente sind Bücher.
-C) Alle Musikinstrumente sind keine Bücher.
-D) Einige Musikinstrumente sind keine Bücher.
+A) Einige PJ sind BL.
+B) Alle PJ sind BL.
+C) Einige PJ sind keine BL.
+D) Alle PJ sind keine BL.
 E) Keine der Schlussfolgerungen ist richtig.

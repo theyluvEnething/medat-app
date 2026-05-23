@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Diamanten sind Tabletten.
-- Alle Tabletten sind Schriftsteller.
+- Alle CS sind ZN.
+- Alle ZN sind PHU.
 
-A) Einige Diamanten sind Schriftsteller.
-B) Einige Diamanten sind keine Schriftsteller.
-C) Alle Diamanten sind Schriftsteller.
-D) Alle Diamanten sind keine Schriftsteller.
+A) Alle CS sind keine PHU.
+B) Einige CS sind keine PHU.
+C) Einige CS sind PHU.
+D) Alle CS sind PHU.
 E) Keine der Schlussfolgerungen ist richtig.

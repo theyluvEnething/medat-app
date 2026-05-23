@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Metalle sind keine Wirbeltiere.
-- Alle Wirbeltiere sind Kätzchen.
+- Alle HV sind ER.
+- Alle ER sind keine DK.
 
-A) Einige Metalle sind Kätzchen.
-B) Alle Metalle sind keine Kätzchen.
-C) Einige Metalle sind keine Kätzchen.
-D) Alle Metalle sind Kätzchen.
+A) Alle HV sind keine DK.
+B) Alle HV sind DK.
+C) Einige HV sind keine DK.
+D) Einige HV sind DK.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vasen sind Marder.
-- Alle Marder sind keine Blumen.
+- Einige OK sind DE.
+- Alle DE sind keine BS.
 
-A) Alle Vasen sind Blumen.
-B) Einige Vasen sind Blumen.
-C) Alle Vasen sind keine Blumen.
-D) Einige Vasen sind keine Blumen.
+A) Einige OK sind BS.
+B) Alle OK sind BS.
+C) Alle OK sind keine BS.
+D) Einige OK sind keine BS.
 E) Keine der Schlussfolgerungen ist richtig.

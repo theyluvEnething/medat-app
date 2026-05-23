@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Dichter sind keine Schriftsteller.
-- Alle Schriftsteller sind keine Metalle.
+- Alle VDL sind KZV.
+- Alle KZV sind keine UEP.
 
-A) Alle Dichter sind keine Metalle.
-B) Einige Dichter sind keine Metalle.
-C) Einige Dichter sind Metalle.
-D) Alle Dichter sind Metalle.
+A) Alle VDL sind UEP.
+B) Einige VDL sind UEP.
+C) Einige VDL sind keine UEP.
+D) Alle VDL sind keine UEP.
 E) Keine der Schlussfolgerungen ist richtig.

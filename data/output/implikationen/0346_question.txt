@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Taucher sind keine Mathematiker.
-- Alle Mathematiker sind Statuen.
+- Einige RS sind OPD.
+- Alle OPD sind URK.
 
-A) Einige Taucher sind Statuen.
-B) Alle Taucher sind Statuen.
-C) Alle Taucher sind keine Statuen.
-D) Einige Taucher sind keine Statuen.
+A) Einige RS sind URK.
+B) Alle RS sind keine URK.
+C) Einige RS sind keine URK.
+D) Alle RS sind URK.
 E) Keine der Schlussfolgerungen ist richtig.

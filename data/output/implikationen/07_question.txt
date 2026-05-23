@@ -1,9 +1,0 @@
-Prämissen:
-- AllePYEsindYZO.
-- AlleYZOsindWP.
-
-A) AlleWPsindPYE.
-B) AlleWPsindkeinePYE.
-C) EinigeWPsindPYE.
-D) EinigeWPsindkeinePYE.
-E) KeinederSchlussfolgerungenistrichtig.

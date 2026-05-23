@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Ärzte sind keine Tomaten.
-- Alle Tomaten sind keine Metalle.
+- Einige TPT sind CG.
+- Alle CG sind keine KM.
 
-A) Alle Ärzte sind keine Metalle.
-B) Alle Ärzte sind Metalle.
-C) Einige Ärzte sind Metalle.
-D) Einige Ärzte sind keine Metalle.
+A) Alle TPT sind KM.
+B) Alle TPT sind keine KM.
+C) Einige TPT sind KM.
+D) Einige TPT sind keine KM.
 E) Keine der Schlussfolgerungen ist richtig.

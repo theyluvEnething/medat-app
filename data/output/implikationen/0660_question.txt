@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Klaviere sind Diamanten.
-- Einige Diamanten sind keine Gedichte.
+- Alle FE sind SI.
+- Alle SI sind VMC.
 
-A) Einige Klaviere sind keine Gedichte.
-B) Alle Klaviere sind Gedichte.
-C) Einige Klaviere sind Gedichte.
-D) Alle Klaviere sind keine Gedichte.
+A) Einige FE sind keine VMC.
+B) Alle FE sind keine VMC.
+C) Einige FE sind VMC.
+D) Alle FE sind VMC.
 E) Keine der Schlussfolgerungen ist richtig.

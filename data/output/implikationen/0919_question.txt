@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Kätzchen sind Taucher.
-- Einige Taucher sind Ingenieure.
+- Einige FE sind HP.
+- Alle HP sind keine IJH.
 
-A) Einige Kätzchen sind keine Ingenieure.
-B) Einige Kätzchen sind Ingenieure.
-C) Alle Kätzchen sind Ingenieure.
-D) Alle Kätzchen sind keine Ingenieure.
+A) Einige FE sind IJH.
+B) Einige FE sind keine IJH.
+C) Alle FE sind keine IJH.
+D) Alle FE sind IJH.
 E) Keine der Schlussfolgerungen ist richtig.

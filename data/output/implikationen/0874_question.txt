@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Nashörner sind keine Amphibien.
-- Einige Amphibien sind Diamanten.
+- Einige LLE sind MC.
+- Alle MC sind ARM.
 
-A) Einige Nashörner sind Diamanten.
-B) Alle Nashörner sind Diamanten.
-C) Einige Nashörner sind keine Diamanten.
-D) Alle Nashörner sind keine Diamanten.
+A) Einige LLE sind keine ARM.
+B) Einige LLE sind ARM.
+C) Alle LLE sind keine ARM.
+D) Alle LLE sind ARM.
 E) Keine der Schlussfolgerungen ist richtig.

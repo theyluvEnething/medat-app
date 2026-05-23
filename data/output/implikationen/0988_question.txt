@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Teleskope sind Eichen.
-- Alle Eichen sind Kätzchen.
+- Einige UD sind keine JB.
+- Alle JB sind keine HC.
 
-A) Einige Teleskope sind keine Kätzchen.
-B) Einige Teleskope sind Kätzchen.
-C) Alle Teleskope sind keine Kätzchen.
-D) Alle Teleskope sind Kätzchen.
+A) Alle UD sind HC.
+B) Einige UD sind HC.
+C) Alle UD sind keine HC.
+D) Einige UD sind keine HC.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mammute sind keine Wirbeltiere.
-- Alle Wirbeltiere sind Klaviere.
+- Alle DJ sind IN.
+- Einige IN sind keine VE.
 
-A) Alle Mammute sind keine Klaviere.
-B) Einige Mammute sind Klaviere.
-C) Alle Mammute sind Klaviere.
-D) Einige Mammute sind keine Klaviere.
+A) Alle DJ sind keine VE.
+B) Alle DJ sind VE.
+C) Einige DJ sind VE.
+D) Einige DJ sind keine VE.
 E) Keine der Schlussfolgerungen ist richtig.

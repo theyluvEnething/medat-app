@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Mathematiker sind keine Schlangen.
-- Einige Schlangen sind keine Sportler.
+- Alle KG sind PK.
+- Einige PK sind keine GI.
 
-A) Alle Mathematiker sind keine Sportler.
-B) Einige Mathematiker sind keine Sportler.
-C) Alle Mathematiker sind Sportler.
-D) Einige Mathematiker sind Sportler.
+A) Einige KG sind keine GI.
+B) Alle KG sind GI.
+C) Einige KG sind GI.
+D) Alle KG sind keine GI.
 E) Keine der Schlussfolgerungen ist richtig.

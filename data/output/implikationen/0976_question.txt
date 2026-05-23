@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Blumen sind Maler.
-- Alle Maler sind keine Tannen.
+- Alle PKU sind BJ.
+- Einige BJ sind keine WG.
 
-A) Einige Blumen sind Tannen.
-B) Alle Blumen sind Tannen.
-C) Alle Blumen sind keine Tannen.
-D) Einige Blumen sind keine Tannen.
+A) Einige PKU sind keine WG.
+B) Einige PKU sind WG.
+C) Alle PKU sind keine WG.
+D) Alle PKU sind WG.
 E) Keine der Schlussfolgerungen ist richtig.

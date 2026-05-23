@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Haie sind keine Orchideen.
-- Einige Orchideen sind keine Autos.
+- Alle BH sind keine PG.
+- Alle PG sind keine NU.
 
-A) Einige Haie sind Autos.
-B) Einige Haie sind keine Autos.
-C) Alle Haie sind Autos.
-D) Alle Haie sind keine Autos.
+A) Alle BH sind keine NU.
+B) Einige BH sind keine NU.
+C) Einige BH sind NU.
+D) Alle BH sind NU.
 E) Keine der Schlussfolgerungen ist richtig.

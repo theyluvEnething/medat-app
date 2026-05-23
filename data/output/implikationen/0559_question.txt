@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Metalle sind Nashörner.
-- Einige Nashörner sind keine Spatzen.
+- Alle NK sind EE.
+- Alle EE sind OZ.
 
-A) Einige Metalle sind Spatzen.
-B) Einige Metalle sind keine Spatzen.
-C) Alle Metalle sind Spatzen.
-D) Alle Metalle sind keine Spatzen.
+A) Alle NK sind keine OZ.
+B) Einige NK sind keine OZ.
+C) Alle NK sind OZ.
+D) Einige NK sind OZ.
 E) Keine der Schlussfolgerungen ist richtig.

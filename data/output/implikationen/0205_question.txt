@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Dinosaurier sind keine Stühle.
-- Einige Stühle sind keine Skulpturen.
+- Alle DS sind OZR.
+- Einige OZR sind FDH.
 
-A) Alle Dinosaurier sind keine Skulpturen.
-B) Alle Dinosaurier sind Skulpturen.
-C) Einige Dinosaurier sind Skulpturen.
-D) Einige Dinosaurier sind keine Skulpturen.
+A) Einige DS sind keine FDH.
+B) Alle DS sind FDH.
+C) Einige DS sind FDH.
+D) Alle DS sind keine FDH.
 E) Keine der Schlussfolgerungen ist richtig.

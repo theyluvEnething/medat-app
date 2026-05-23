@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Radios sind keine Flugzeuge.
-- Einige Flugzeuge sind keine Nashörner.
+- Einige LL sind keine SM.
+- Alle SM sind GA.
 
-A) Einige Radios sind keine Nashörner.
-B) Alle Radios sind Nashörner.
-C) Alle Radios sind keine Nashörner.
-D) Einige Radios sind Nashörner.
+A) Alle LL sind keine GA.
+B) Alle LL sind GA.
+C) Einige LL sind GA.
+D) Einige LL sind keine GA.
 E) Keine der Schlussfolgerungen ist richtig.

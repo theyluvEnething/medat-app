@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Säugetiere sind keine Sportler.
-- Alle Sportler sind keine Fotografen.
+- Alle SG sind EI.
+- Einige EI sind NAF.
 
-A) Alle Säugetiere sind Fotografen.
-B) Einige Säugetiere sind keine Fotografen.
-C) Alle Säugetiere sind keine Fotografen.
-D) Einige Säugetiere sind Fotografen.
+A) Einige SG sind keine NAF.
+B) Alle SG sind NAF.
+C) Alle SG sind keine NAF.
+D) Einige SG sind NAF.
 E) Keine der Schlussfolgerungen ist richtig.

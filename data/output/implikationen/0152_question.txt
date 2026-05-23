@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Pandas sind keine Gräser.
-- Alle Gräser sind keine Dichter.
+- Einige MVG sind keine CUD.
+- Einige CUD sind VDP.
 
-A) Alle Pandas sind keine Dichter.
-B) Einige Pandas sind Dichter.
-C) Einige Pandas sind keine Dichter.
-D) Alle Pandas sind Dichter.
+A) Einige MVG sind VDP.
+B) Alle MVG sind VDP.
+C) Einige MVG sind keine VDP.
+D) Alle MVG sind keine VDP.
 E) Keine der Schlussfolgerungen ist richtig.

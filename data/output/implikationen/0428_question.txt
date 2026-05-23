@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Statuen sind Sänger.
-- Alle Sänger sind Dinosaurier.
+- Alle BR sind UI.
+- Alle UI sind keine SDC.
 
-A) Einige Statuen sind keine Dinosaurier.
-B) Alle Statuen sind Dinosaurier.
-C) Alle Statuen sind keine Dinosaurier.
-D) Einige Statuen sind Dinosaurier.
+A) Alle BR sind keine SDC.
+B) Alle BR sind SDC.
+C) Einige BR sind SDC.
+D) Einige BR sind keine SDC.
 E) Keine der Schlussfolgerungen ist richtig.

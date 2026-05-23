@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Roboter sind keine Skulpturen.
-- Alle Skulpturen sind Gräser.
+- Einige FV sind RB.
+- Alle RB sind GN.
 
-A) Alle Roboter sind keine Gräser.
-B) Alle Roboter sind Gräser.
-C) Einige Roboter sind Gräser.
-D) Einige Roboter sind keine Gräser.
+A) Einige FV sind keine GN.
+B) Einige FV sind GN.
+C) Alle FV sind GN.
+D) Alle FV sind keine GN.
 E) Keine der Schlussfolgerungen ist richtig.

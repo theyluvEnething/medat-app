@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wissenschaftler sind keine Gedichte.
-- Einige Gedichte sind Mathematiker.
+- Einige NK sind keine HJ.
+- Einige HJ sind WF.
 
-A) Einige Wissenschaftler sind Mathematiker.
-B) Alle Wissenschaftler sind Mathematiker.
-C) Einige Wissenschaftler sind keine Mathematiker.
-D) Alle Wissenschaftler sind keine Mathematiker.
+A) Alle NK sind keine WF.
+B) Einige NK sind WF.
+C) Einige NK sind keine WF.
+D) Alle NK sind WF.
 E) Keine der Schlussfolgerungen ist richtig.

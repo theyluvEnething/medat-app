@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Dinosaurier sind Kupfer.
-- Einige Kupfer sind keine Stühle.
+- Alle DI sind keine RGA.
+- Alle RGA sind OUH.
 
-A) Einige Dinosaurier sind keine Stühle.
-B) Einige Dinosaurier sind Stühle.
-C) Alle Dinosaurier sind Stühle.
-D) Alle Dinosaurier sind keine Stühle.
+A) Alle DI sind OUH.
+B) Alle DI sind keine OUH.
+C) Einige DI sind keine OUH.
+D) Einige DI sind OUH.
 E) Keine der Schlussfolgerungen ist richtig.

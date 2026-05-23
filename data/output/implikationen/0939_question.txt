@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Hunde sind Insekten.
-- Alle Insekten sind keine Menschen.
+- Einige EHD sind AW.
+- Einige AW sind keine KCR.
 
-A) Einige Hunde sind Menschen.
-B) Alle Hunde sind keine Menschen.
-C) Einige Hunde sind keine Menschen.
-D) Alle Hunde sind Menschen.
+A) Alle EHD sind KCR.
+B) Alle EHD sind keine KCR.
+C) Einige EHD sind keine KCR.
+D) Einige EHD sind KCR.
 E) Keine der Schlussfolgerungen ist richtig.

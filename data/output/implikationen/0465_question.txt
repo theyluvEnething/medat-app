@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Bücher sind keine Vulkane.
-- Alle Vulkane sind keine Anwälte.
+- Alle HB sind AFS.
+- Alle AFS sind ZV.
 
-A) Einige Bücher sind keine Anwälte.
-B) Einige Bücher sind Anwälte.
-C) Alle Bücher sind Anwälte.
-D) Alle Bücher sind keine Anwälte.
+A) Einige HB sind ZV.
+B) Alle HB sind keine ZV.
+C) Alle HB sind ZV.
+D) Einige HB sind keine ZV.
 E) Keine der Schlussfolgerungen ist richtig.

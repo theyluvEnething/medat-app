@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Amphibien sind keine Tabletten.
-- Alle Tabletten sind keine Schriftsteller.
+- Alle CGS sind EA.
+- Einige EA sind CA.
 
-A) Alle Amphibien sind keine Schriftsteller.
-B) Einige Amphibien sind Schriftsteller.
-C) Einige Amphibien sind keine Schriftsteller.
-D) Alle Amphibien sind Schriftsteller.
+A) Alle CGS sind keine CA.
+B) Einige CGS sind CA.
+C) Alle CGS sind CA.
+D) Einige CGS sind keine CA.
 E) Keine der Schlussfolgerungen ist richtig.

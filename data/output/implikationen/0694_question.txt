@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Zebras sind keine Dinosaurier.
-- Einige Dinosaurier sind Sänger.
+- Einige JJ sind ZB.
+- Alle ZB sind keine IZN.
 
-A) Alle Zebras sind Sänger.
-B) Einige Zebras sind Sänger.
-C) Alle Zebras sind keine Sänger.
-D) Einige Zebras sind keine Sänger.
+A) Alle JJ sind IZN.
+B) Einige JJ sind keine IZN.
+C) Alle JJ sind keine IZN.
+D) Einige JJ sind IZN.
 E) Keine der Schlussfolgerungen ist richtig.

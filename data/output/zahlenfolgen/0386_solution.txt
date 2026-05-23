@@ -1,2 +1,0 @@
-A — 446/722
-Jedes Glied = Summe der beiden Vorgänger

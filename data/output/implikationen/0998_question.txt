@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tulpen sind keine Stühle.
-- Einige Stühle sind keine Schlangen.
+- Alle FG sind WO.
+- Alle WO sind US.
 
-A) Einige Tulpen sind Schlangen.
-B) Einige Tulpen sind keine Schlangen.
-C) Alle Tulpen sind Schlangen.
-D) Alle Tulpen sind keine Schlangen.
+A) Einige FG sind keine US.
+B) Alle FG sind US.
+C) Einige FG sind US.
+D) Alle FG sind keine US.
 E) Keine der Schlussfolgerungen ist richtig.

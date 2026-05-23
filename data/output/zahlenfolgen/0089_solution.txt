@@ -1,2 +1,2 @@
-D — 1296/3888
-×3, ×2 im Wechsel
+A — 22/11
+Ganzzahliges Halbieren (aufrunden), +5 im Wechsel

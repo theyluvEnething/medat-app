@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Hunde sind keine Lilien.
-- Einige Lilien sind keine Amphibien.
+- Alle HJN sind SR.
+- Alle SR sind FL.
 
-A) Alle Hunde sind Amphibien.
-B) Einige Hunde sind Amphibien.
-C) Einige Hunde sind keine Amphibien.
-D) Alle Hunde sind keine Amphibien.
+A) Alle HJN sind FL.
+B) Einige HJN sind keine FL.
+C) Einige HJN sind FL.
+D) Alle HJN sind keine FL.
 E) Keine der Schlussfolgerungen ist richtig.

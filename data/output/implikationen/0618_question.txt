@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Rosen sind keine Elektroautos.
-- Alle Elektroautos sind keine Mathematiker.
+- Alle FK sind FZB.
+- Einige FZB sind FOZ.
 
-A) Einige Rosen sind keine Mathematiker.
-B) Alle Rosen sind Mathematiker.
-C) Einige Rosen sind Mathematiker.
-D) Alle Rosen sind keine Mathematiker.
+A) Alle FK sind FOZ.
+B) Einige FK sind FOZ.
+C) Einige FK sind keine FOZ.
+D) Alle FK sind keine FOZ.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 0 3 9 18 30 45 ? ?
-
-A) 107/133
-B) 106/133
-C) 110/133
-D) 108/135
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gedichte sind Amphibien.
-- Alle Amphibien sind keine Musikinstrumente.
+- Einige LV sind keine JGA.
+- Einige JGA sind keine TE.
 
-A) Alle Gedichte sind keine Musikinstrumente.
-B) Alle Gedichte sind Musikinstrumente.
-C) Einige Gedichte sind keine Musikinstrumente.
-D) Einige Gedichte sind Musikinstrumente.
+A) Einige LV sind keine TE.
+B) Alle LV sind TE.
+C) Alle LV sind keine TE.
+D) Einige LV sind TE.
 E) Keine der Schlussfolgerungen ist richtig.

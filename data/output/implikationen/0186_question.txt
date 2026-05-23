@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tannen sind Sänger.
-- Einige Sänger sind keine Eichen.
+- Alle AG sind keine NS.
+- Alle NS sind DP.
 
-A) Alle Tannen sind keine Eichen.
-B) Alle Tannen sind Eichen.
-C) Einige Tannen sind Eichen.
-D) Einige Tannen sind keine Eichen.
+A) Einige AG sind keine DP.
+B) Einige AG sind DP.
+C) Alle AG sind keine DP.
+D) Alle AG sind DP.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Telefone sind Türen.
-- Alle Türen sind Tabletten.
+- Einige CT sind UFN.
+- Alle UFN sind keine TN.
 
-A) Alle Telefone sind keine Tabletten.
-B) Alle Telefone sind Tabletten.
-C) Einige Telefone sind Tabletten.
-D) Einige Telefone sind keine Tabletten.
+A) Einige CT sind keine TN.
+B) Alle CT sind TN.
+C) Alle CT sind keine TN.
+D) Einige CT sind TN.
 E) Keine der Schlussfolgerungen ist richtig.

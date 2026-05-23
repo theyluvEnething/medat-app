@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Türen sind Orchideen.
-- Alle Orchideen sind Delfine.
+- Einige DU sind ZPB.
+- Alle ZPB sind keine MRD.
 
-A) Alle Türen sind keine Delfine.
-B) Einige Türen sind Delfine.
-C) Alle Türen sind Delfine.
-D) Einige Türen sind keine Delfine.
+A) Alle DU sind MRD.
+B) Einige DU sind MRD.
+C) Einige DU sind keine MRD.
+D) Alle DU sind keine MRD.
 E) Keine der Schlussfolgerungen ist richtig.

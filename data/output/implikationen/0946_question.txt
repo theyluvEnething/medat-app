@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schriftsteller sind Lilien.
-- Einige Lilien sind Metalle.
+- Alle KF sind VI.
+- Alle VI sind CF.
 
-A) Einige Schriftsteller sind keine Metalle.
-B) Einige Schriftsteller sind Metalle.
-C) Alle Schriftsteller sind Metalle.
-D) Alle Schriftsteller sind keine Metalle.
+A) Einige KF sind keine CF.
+B) Alle KF sind CF.
+C) Einige KF sind CF.
+D) Alle KF sind keine CF.
 E) Keine der Schlussfolgerungen ist richtig.

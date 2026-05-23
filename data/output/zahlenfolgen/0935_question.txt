@@ -1,7 +1,0 @@
-Zahlenfolge: 8 27 4 33 0 39 ? ?
-
-A) -2/57
-B) -7/50
-C) -7/53
-D) -8/51
-E) Keine der Antworten ist richtig

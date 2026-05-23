@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Maler sind Fische.
-- Einige Fische sind Musikinstrumente.
+- Alle VLL sind UV.
+- Alle UV sind UN.
 
-A) Einige Maler sind Musikinstrumente.
-B) Alle Maler sind Musikinstrumente.
-C) Alle Maler sind keine Musikinstrumente.
-D) Einige Maler sind keine Musikinstrumente.
+A) Einige VLL sind UN.
+B) Alle VLL sind UN.
+C) Einige VLL sind keine UN.
+D) Alle VLL sind keine UN.
 E) Keine der Schlussfolgerungen ist richtig.

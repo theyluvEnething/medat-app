@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Pilze sind Türen.
-- Alle Türen sind keine Pandas.
+- Einige SK sind DE.
+- Alle DE sind keine HM.
 
-A) Einige Pilze sind Pandas.
-B) Alle Pilze sind keine Pandas.
-C) Einige Pilze sind keine Pandas.
-D) Alle Pilze sind Pandas.
+A) Einige SK sind keine HM.
+B) Alle SK sind keine HM.
+C) Alle SK sind HM.
+D) Einige SK sind HM.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,2 +1,2 @@
-C — 4374/-13122
-Konstanter Faktor ×-3
+B — 152/186
+Differenz: +10, +14, +18, +22, +26, +30, +34 — die Differenz wächst um +4 pro Schritt

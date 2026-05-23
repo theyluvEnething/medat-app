@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Häuser sind Dinosaurier.
-- Einige Dinosaurier sind Ingenieure.
+- Alle OU sind GD.
+- Alle GD sind WH.
 
-A) Alle Häuser sind keine Ingenieure.
-B) Alle Häuser sind Ingenieure.
-C) Einige Häuser sind Ingenieure.
-D) Einige Häuser sind keine Ingenieure.
+A) Alle OU sind WH.
+B) Einige OU sind keine WH.
+C) Alle OU sind keine WH.
+D) Einige OU sind WH.
 E) Keine der Schlussfolgerungen ist richtig.

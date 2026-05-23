@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Vasen sind Lilien.
-- Alle Lilien sind Tiger.
+- Alle FJH sind keine SV.
+- Alle SV sind UJ.
 
-A) Alle Vasen sind keine Tiger.
-B) Einige Vasen sind Tiger.
-C) Alle Vasen sind Tiger.
-D) Einige Vasen sind keine Tiger.
+A) Alle FJH sind keine UJ.
+B) Alle FJH sind UJ.
+C) Einige FJH sind UJ.
+D) Einige FJH sind keine UJ.
 E) Keine der Schlussfolgerungen ist richtig.

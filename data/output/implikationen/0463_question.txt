@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tannen sind keine Diamanten.
-- Einige Diamanten sind keine Häuser.
+- Alle CG sind PS.
+- Alle PS sind keine CF.
 
-A) Einige Tannen sind Häuser.
-B) Alle Tannen sind keine Häuser.
-C) Einige Tannen sind keine Häuser.
-D) Alle Tannen sind Häuser.
+A) Einige CG sind CF.
+B) Einige CG sind keine CF.
+C) Alle CG sind CF.
+D) Alle CG sind keine CF.
 E) Keine der Schlussfolgerungen ist richtig.

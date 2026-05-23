@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Vulkane sind Mathematiker.
-- Einige Mathematiker sind Kupfer.
+- Alle LV sind keine ST.
+- Alle ST sind IUP.
 
-A) Alle Vulkane sind Kupfer.
-B) Alle Vulkane sind keine Kupfer.
-C) Einige Vulkane sind keine Kupfer.
-D) Einige Vulkane sind Kupfer.
+A) Einige LV sind IUP.
+B) Alle LV sind keine IUP.
+C) Einige LV sind keine IUP.
+D) Alle LV sind IUP.
 E) Keine der Schlussfolgerungen ist richtig.

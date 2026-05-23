@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Dichter sind keine Wirbeltiere.
-- Alle Wirbeltiere sind keine Dinosaurier.
+- Alle CWV sind VW.
+- Alle VW sind keine EAH.
 
-A) Einige Dichter sind keine Dinosaurier.
-B) Einige Dichter sind Dinosaurier.
-C) Alle Dichter sind Dinosaurier.
-D) Alle Dichter sind keine Dinosaurier.
+A) Alle CWV sind EAH.
+B) Einige CWV sind EAH.
+C) Einige CWV sind keine EAH.
+D) Alle CWV sind keine EAH.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Vegetarier sind Wale.
-- Alle Wale sind Haie.
+- Alle IT sind keine NV.
+- Alle NV sind VVN.
 
-A) Alle Vegetarier sind Haie.
-B) Einige Vegetarier sind Haie.
-C) Einige Vegetarier sind keine Haie.
-D) Alle Vegetarier sind keine Haie.
+A) Alle IT sind VVN.
+B) Einige IT sind keine VVN.
+C) Alle IT sind keine VVN.
+D) Einige IT sind VVN.
 E) Keine der Schlussfolgerungen ist richtig.

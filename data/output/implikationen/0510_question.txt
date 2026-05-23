@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Quartette sind Eichen.
-- Einige Eichen sind keine Delfine.
+- Einige ND sind EV.
+- Alle EV sind keine SJ.
 
-A) Alle Quartette sind Delfine.
-B) Einige Quartette sind keine Delfine.
-C) Einige Quartette sind Delfine.
-D) Alle Quartette sind keine Delfine.
+A) Einige ND sind keine SJ.
+B) Alle ND sind SJ.
+C) Einige ND sind SJ.
+D) Alle ND sind keine SJ.
 E) Keine der Schlussfolgerungen ist richtig.

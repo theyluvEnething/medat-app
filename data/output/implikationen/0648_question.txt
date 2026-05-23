@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tannen sind keine Insekten.
-- Einige Insekten sind Eidechsen.
+- Einige HD sind ZK.
+- Alle ZK sind keine TK.
 
-A) Alle Tannen sind Eidechsen.
-B) Alle Tannen sind keine Eidechsen.
-C) Einige Tannen sind Eidechsen.
-D) Einige Tannen sind keine Eidechsen.
+A) Alle HD sind keine TK.
+B) Alle HD sind TK.
+C) Einige HD sind TK.
+D) Einige HD sind keine TK.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 19 21 42 44 88 90 ? ?
-
-A) 363/367
-B) 364/366
-C) 365/365
-D) 365/367
-E) Keine der Antworten ist richtig

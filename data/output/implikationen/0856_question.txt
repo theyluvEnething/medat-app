@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Taucher sind keine Bäume.
-- Alle Bäume sind keine Tulpen.
+- Alle ND sind HSU.
+- Alle HSU sind keine EI.
 
-A) Alle Taucher sind Tulpen.
-B) Einige Taucher sind Tulpen.
-C) Einige Taucher sind keine Tulpen.
-D) Alle Taucher sind keine Tulpen.
+A) Alle ND sind EI.
+B) Einige ND sind keine EI.
+C) Einige ND sind EI.
+D) Alle ND sind keine EI.
 E) Keine der Schlussfolgerungen ist richtig.

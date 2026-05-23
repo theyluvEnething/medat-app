@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mäuse sind Marder.
-- Alle Marder sind keine Pilze.
+- Alle WN sind BK.
+- Alle BK sind KJ.
 
-A) Einige Mäuse sind keine Pilze.
-B) Einige Mäuse sind Pilze.
-C) Alle Mäuse sind keine Pilze.
-D) Alle Mäuse sind Pilze.
+A) Einige WN sind keine KJ.
+B) Alle WN sind keine KJ.
+C) Einige WN sind KJ.
+D) Alle WN sind KJ.
 E) Keine der Schlussfolgerungen ist richtig.

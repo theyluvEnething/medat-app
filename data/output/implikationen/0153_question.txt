@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Autos sind keine Krokodile.
-- Alle Krokodile sind Radios.
+- Einige SK sind keine CBN.
+- Einige CBN sind keine TT.
 
-A) Einige Autos sind keine Radios.
-B) Alle Autos sind Radios.
-C) Alle Autos sind keine Radios.
-D) Einige Autos sind Radios.
+A) Alle SK sind TT.
+B) Einige SK sind keine TT.
+C) Einige SK sind TT.
+D) Alle SK sind keine TT.
 E) Keine der Schlussfolgerungen ist richtig.

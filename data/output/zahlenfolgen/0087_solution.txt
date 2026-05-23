@@ -1,2 +1,2 @@
-A — 100/118
-Differenz wächst um +2 je Schritt
+B — 20/40
+×2, -4 im Wechsel

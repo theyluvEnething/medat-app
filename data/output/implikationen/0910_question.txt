@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Uhren sind keine Werkzeuge.
-- Alle Werkzeuge sind Kupfer.
+- Einige IJW sind OVW.
+- Alle OVW sind keine OE.
 
-A) Einige Uhren sind keine Kupfer.
-B) Alle Uhren sind keine Kupfer.
-C) Alle Uhren sind Kupfer.
-D) Einige Uhren sind Kupfer.
+A) Einige IJW sind keine OE.
+B) Einige IJW sind OE.
+C) Alle IJW sind OE.
+D) Alle IJW sind keine OE.
 E) Keine der Schlussfolgerungen ist richtig.

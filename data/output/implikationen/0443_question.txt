@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vögel sind keine Vulkane.
-- Alle Vulkane sind Kupfer.
+- Einige IKI sind AV.
+- Alle AV sind keine HA.
 
-A) Einige Vögel sind keine Kupfer.
-B) Alle Vögel sind Kupfer.
-C) Alle Vögel sind keine Kupfer.
-D) Einige Vögel sind Kupfer.
+A) Einige IKI sind keine HA.
+B) Einige IKI sind HA.
+C) Alle IKI sind keine HA.
+D) Alle IKI sind HA.
 E) Keine der Schlussfolgerungen ist richtig.

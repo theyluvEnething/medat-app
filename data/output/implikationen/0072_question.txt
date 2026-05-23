@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Möbel sind Züge.
-- Alle Züge sind keine Tabletten.
+- Alle UF sind ZW.
+- Alle ZW sind SU.
 
-A) Einige Möbel sind keine Tabletten.
-B) Alle Möbel sind Tabletten.
-C) Alle Möbel sind keine Tabletten.
-D) Einige Möbel sind Tabletten.
+A) Alle UF sind SU.
+B) Einige UF sind keine SU.
+C) Einige UF sind SU.
+D) Alle UF sind keine SU.
 E) Keine der Schlussfolgerungen ist richtig.

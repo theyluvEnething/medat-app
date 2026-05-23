@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Eidechsen sind keine Dichter.
-- Einige Dichter sind Musikinstrumente.
+- Einige FMF sind PT.
+- Einige PT sind keine DC.
 
-A) Einige Eidechsen sind Musikinstrumente.
-B) Einige Eidechsen sind keine Musikinstrumente.
-C) Alle Eidechsen sind Musikinstrumente.
-D) Alle Eidechsen sind keine Musikinstrumente.
+A) Alle FMF sind keine DC.
+B) Einige FMF sind keine DC.
+C) Einige FMF sind DC.
+D) Alle FMF sind DC.
 E) Keine der Schlussfolgerungen ist richtig.

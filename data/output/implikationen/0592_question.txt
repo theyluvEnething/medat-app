@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Spatzen sind Gedichte.
-- Einige Gedichte sind keine Chemiker.
+- Alle RFZ sind HA.
+- Alle HA sind GW.
 
-A) Einige Spatzen sind keine Chemiker.
-B) Alle Spatzen sind Chemiker.
-C) Einige Spatzen sind Chemiker.
-D) Alle Spatzen sind keine Chemiker.
+A) Einige RFZ sind keine GW.
+B) Alle RFZ sind keine GW.
+C) Alle RFZ sind GW.
+D) Einige RFZ sind GW.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Taucher sind keine Stühle.
-- Alle Stühle sind Vasen.
+- Einige DS sind UR.
+- Alle UR sind keine WG.
 
-A) Einige Taucher sind keine Vasen.
-B) Alle Taucher sind keine Vasen.
-C) Alle Taucher sind Vasen.
-D) Einige Taucher sind Vasen.
+A) Einige DS sind keine WG.
+B) Alle DS sind keine WG.
+C) Alle DS sind WG.
+D) Einige DS sind WG.
 E) Keine der Schlussfolgerungen ist richtig.

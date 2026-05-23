@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Vegetarier sind Skulpturen.
-- Einige Skulpturen sind keine Fotografen.
+- Alle VPU sind keine CI.
+- Alle CI sind VPH.
 
-A) Alle Vegetarier sind keine Fotografen.
-B) Alle Vegetarier sind Fotografen.
-C) Einige Vegetarier sind keine Fotografen.
-D) Einige Vegetarier sind Fotografen.
+A) Alle VPU sind keine VPH.
+B) Alle VPU sind VPH.
+C) Einige VPU sind VPH.
+D) Einige VPU sind keine VPH.
 E) Keine der Schlussfolgerungen ist richtig.

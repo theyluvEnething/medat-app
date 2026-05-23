@@ -1,7 +1,7 @@
-Zahlenfolge: 4 9 18 31 48 69 ? ?
+Zahlenfolge: 50 3 42 9 34 27 ? ?
 
-A) 154/194
-B) 155/195
-C) 156/193
-D) 169/206
+A) 26/80
+B) 24/81
+C) 25/81
+D) 26/81
 E) Keine der Antworten ist richtig

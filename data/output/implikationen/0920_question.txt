@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wale sind Fotografen.
-- Einige Fotografen sind keine Metalle.
+- Einige HM sind NVF.
+- Alle NVF sind keine AU.
 
-A) Einige Wale sind keine Metalle.
-B) Einige Wale sind Metalle.
-C) Alle Wale sind Metalle.
-D) Alle Wale sind keine Metalle.
+A) Alle HM sind keine AU.
+B) Einige HM sind keine AU.
+C) Einige HM sind AU.
+D) Alle HM sind AU.
 E) Keine der Schlussfolgerungen ist richtig.

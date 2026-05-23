@@ -1,7 +1,0 @@
-Zahlenfolge: 14 17 23 32 44 59 ? ?
-
-A) 123/150
-B) 124/150
-C) 121/148
-D) 122/149
-E) Keine der Antworten ist richtig

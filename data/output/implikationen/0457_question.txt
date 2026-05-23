@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tannen sind keine Kupfer.
-- Einige Kupfer sind Säugetiere.
+- Einige KSV sind KBG.
+- Alle KBG sind keine SEN.
 
-A) Alle Tannen sind keine Säugetiere.
-B) Einige Tannen sind keine Säugetiere.
-C) Alle Tannen sind Säugetiere.
-D) Einige Tannen sind Säugetiere.
+A) Einige KSV sind SEN.
+B) Alle KSV sind keine SEN.
+C) Alle KSV sind SEN.
+D) Einige KSV sind keine SEN.
 E) Keine der Schlussfolgerungen ist richtig.

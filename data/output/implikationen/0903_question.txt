@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Maler sind Sänger.
-- Alle Sänger sind Glühbirnen.
+- Alle VCF sind SGM.
+- Alle SGM sind CTI.
 
-A) Einige Maler sind Glühbirnen.
-B) Einige Maler sind keine Glühbirnen.
-C) Alle Maler sind Glühbirnen.
-D) Alle Maler sind keine Glühbirnen.
+A) Alle VCF sind CTI.
+B) Alle VCF sind keine CTI.
+C) Einige VCF sind CTI.
+D) Einige VCF sind keine CTI.
 E) Keine der Schlussfolgerungen ist richtig.

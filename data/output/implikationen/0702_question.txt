@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Anwälte sind Kupfer.
-- Alle Kupfer sind keine Gräser.
+- Einige DEI sind GZ.
+- Alle GZ sind keine JO.
 
-A) Alle Anwälte sind Gräser.
-B) Einige Anwälte sind keine Gräser.
-C) Alle Anwälte sind keine Gräser.
-D) Einige Anwälte sind Gräser.
+A) Einige DEI sind JO.
+B) Alle DEI sind keine JO.
+C) Alle DEI sind JO.
+D) Einige DEI sind keine JO.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Gedichte sind keine Schlangen.
-- Alle Schlangen sind keine Metalle.
+- Alle LM sind FP.
+- Alle FP sind TP.
 
-A) Alle Gedichte sind Metalle.
-B) Einige Gedichte sind keine Metalle.
-C) Alle Gedichte sind keine Metalle.
-D) Einige Gedichte sind Metalle.
+A) Einige LM sind keine TP.
+B) Alle LM sind TP.
+C) Alle LM sind keine TP.
+D) Einige LM sind TP.
 E) Keine der Schlussfolgerungen ist richtig.

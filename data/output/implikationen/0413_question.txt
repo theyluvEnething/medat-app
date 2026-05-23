@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Diamanten sind keine Tannen.
-- Alle Tannen sind keine Maler.
+- Alle ZJS sind keine VOS.
+- Alle VOS sind keine EI.
 
-A) Einige Diamanten sind keine Maler.
-B) Alle Diamanten sind Maler.
-C) Einige Diamanten sind Maler.
-D) Alle Diamanten sind keine Maler.
+A) Einige ZJS sind keine EI.
+B) Alle ZJS sind keine EI.
+C) Alle ZJS sind EI.
+D) Einige ZJS sind EI.
 E) Keine der Schlussfolgerungen ist richtig.

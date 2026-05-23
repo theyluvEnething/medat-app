@@ -1,7 +1,0 @@
-Zahlenfolge: 14 16 18 20 22 24 ? ?
-
-A) 30/29
-B) 28/30
-C) 29/28
-D) 27/29
-E) Keine der Antworten ist richtig

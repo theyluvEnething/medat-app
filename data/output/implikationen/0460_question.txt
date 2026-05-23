@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Amphibien sind Politiker.
-- Einige Politiker sind keine Vasen.
+- Alle PA sind NW.
+- Alle NW sind keine KA.
 
-A) Einige Amphibien sind keine Vasen.
-B) Alle Amphibien sind keine Vasen.
-C) Alle Amphibien sind Vasen.
-D) Einige Amphibien sind Vasen.
+A) Alle PA sind KA.
+B) Einige PA sind KA.
+C) Alle PA sind keine KA.
+D) Einige PA sind keine KA.
 E) Keine der Schlussfolgerungen ist richtig.

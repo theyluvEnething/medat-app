@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Ingenieure sind Zebras.
-- Alle Zebras sind Züge.
+- Alle ZK sind HZ.
+- Alle HZ sind keine US.
 
-A) Alle Ingenieure sind Züge.
-B) Einige Ingenieure sind keine Züge.
-C) Alle Ingenieure sind keine Züge.
-D) Einige Ingenieure sind Züge.
+A) Alle ZK sind keine US.
+B) Alle ZK sind US.
+C) Einige ZK sind US.
+D) Einige ZK sind keine US.
 E) Keine der Schlussfolgerungen ist richtig.

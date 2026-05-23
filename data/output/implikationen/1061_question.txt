@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Fische sind Pandas.
-- Einige Pandas sind Möbel.
+- Einige EL sind KE.
+- Alle KE sind LSM.
 
-A) Einige Fische sind Möbel.
-B) Alle Fische sind keine Möbel.
-C) Einige Fische sind keine Möbel.
-D) Alle Fische sind Möbel.
+A) Alle EL sind LSM.
+B) Einige EL sind LSM.
+C) Alle EL sind keine LSM.
+D) Einige EL sind keine LSM.
 E) Keine der Schlussfolgerungen ist richtig.

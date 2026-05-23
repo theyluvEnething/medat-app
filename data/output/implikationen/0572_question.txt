@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Klaviere sind keine Lehrer.
-- Einige Lehrer sind keine Uhren.
+- Einige MII sind keine CEE.
+- Alle CEE sind keine TP.
 
-A) Alle Klaviere sind Uhren.
-B) Alle Klaviere sind keine Uhren.
-C) Einige Klaviere sind keine Uhren.
-D) Einige Klaviere sind Uhren.
+A) Einige MII sind TP.
+B) Einige MII sind keine TP.
+C) Alle MII sind TP.
+D) Alle MII sind keine TP.
 E) Keine der Schlussfolgerungen ist richtig.

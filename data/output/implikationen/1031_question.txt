@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mathematiker sind Bäume.
-- Alle Bäume sind Orchideen.
+- Einige SB sind KKL.
+- Alle KKL sind keine VI.
 
-A) Alle Mathematiker sind Orchideen.
-B) Einige Mathematiker sind keine Orchideen.
-C) Alle Mathematiker sind keine Orchideen.
-D) Einige Mathematiker sind Orchideen.
+A) Alle SB sind VI.
+B) Einige SB sind VI.
+C) Alle SB sind keine VI.
+D) Einige SB sind keine VI.
 E) Keine der Schlussfolgerungen ist richtig.

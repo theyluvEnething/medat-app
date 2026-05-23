@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Elektroautos sind Marder.
-- Einige Marder sind Glühbirnen.
+- Alle JF sind keine GLO.
+- Einige GLO sind RD.
 
-A) Einige Elektroautos sind Glühbirnen.
-B) Alle Elektroautos sind Glühbirnen.
-C) Einige Elektroautos sind keine Glühbirnen.
-D) Alle Elektroautos sind keine Glühbirnen.
+A) Einige JF sind keine RD.
+B) Alle JF sind RD.
+C) Alle JF sind keine RD.
+D) Einige JF sind RD.
 E) Keine der Schlussfolgerungen ist richtig.

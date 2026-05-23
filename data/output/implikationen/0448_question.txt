@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Elektroautos sind Maler.
-- Alle Maler sind keine Gedichte.
+- Alle DJT sind WD.
+- Alle WD sind keine SL.
 
-A) Einige Elektroautos sind keine Gedichte.
-B) Alle Elektroautos sind keine Gedichte.
-C) Einige Elektroautos sind Gedichte.
-D) Alle Elektroautos sind Gedichte.
+A) Alle DJT sind SL.
+B) Einige DJT sind keine SL.
+C) Einige DJT sind SL.
+D) Alle DJT sind keine SL.
 E) Keine der Schlussfolgerungen ist richtig.

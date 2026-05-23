@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Radios sind keine Krokodile.
-- Alle Krokodile sind Lehrer.
+- Alle ITO sind BN.
+- Alle BN sind CC.
 
-A) Einige Radios sind keine Lehrer.
-B) Einige Radios sind Lehrer.
-C) Alle Radios sind keine Lehrer.
-D) Alle Radios sind Lehrer.
+A) Alle ITO sind keine CC.
+B) Einige ITO sind keine CC.
+C) Einige ITO sind CC.
+D) Alle ITO sind CC.
 E) Keine der Schlussfolgerungen ist richtig.

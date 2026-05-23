@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Fische sind Orchideen.
-- Einige Orchideen sind keine Taucher.
+- Alle EL sind HU.
+- Alle HU sind keine OK.
 
-A) Einige Fische sind Taucher.
-B) Alle Fische sind Taucher.
-C) Alle Fische sind keine Taucher.
-D) Einige Fische sind keine Taucher.
+A) Einige EL sind OK.
+B) Alle EL sind OK.
+C) Alle EL sind keine OK.
+D) Einige EL sind keine OK.
 E) Keine der Schlussfolgerungen ist richtig.

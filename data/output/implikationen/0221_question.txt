@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Dichter sind keine Schriftsteller.
-- Einige Schriftsteller sind keine Lehrer.
+- Alle LS sind CPH.
+- Alle CPH sind keine ZUI.
 
-A) Alle Dichter sind Lehrer.
-B) Einige Dichter sind Lehrer.
-C) Einige Dichter sind keine Lehrer.
-D) Alle Dichter sind keine Lehrer.
+A) Einige LS sind ZUI.
+B) Einige LS sind keine ZUI.
+C) Alle LS sind keine ZUI.
+D) Alle LS sind ZUI.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Radios sind keine Tiger.
-- Einige Tiger sind keine Granite.
+- Einige UJ sind keine PN.
+- Einige PN sind ZMV.
 
-A) Einige Radios sind Granite.
-B) Alle Radios sind keine Granite.
-C) Alle Radios sind Granite.
-D) Einige Radios sind keine Granite.
+A) Alle UJ sind keine ZMV.
+B) Einige UJ sind keine ZMV.
+C) Alle UJ sind ZMV.
+D) Einige UJ sind ZMV.
 E) Keine der Schlussfolgerungen ist richtig.

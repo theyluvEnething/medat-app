@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gemälde sind keine Vulkane.
-- Alle Vulkane sind Krokodile.
+- Einige FV sind GV.
+- Alle GV sind keine TO.
 
-A) Alle Gemälde sind Krokodile.
-B) Einige Gemälde sind keine Krokodile.
-C) Einige Gemälde sind Krokodile.
-D) Alle Gemälde sind keine Krokodile.
+A) Einige FV sind TO.
+B) Alle FV sind keine TO.
+C) Einige FV sind keine TO.
+D) Alle FV sind TO.
 E) Keine der Schlussfolgerungen ist richtig.

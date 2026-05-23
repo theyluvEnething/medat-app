@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Gemälde sind keine Mäuse.
-- Alle Mäuse sind Vegetarier.
+- Alle IJL sind DF.
+- Alle DF sind VW.
 
-A) Einige Gemälde sind Vegetarier.
-B) Alle Gemälde sind keine Vegetarier.
-C) Alle Gemälde sind Vegetarier.
-D) Einige Gemälde sind keine Vegetarier.
+A) Alle IJL sind VW.
+B) Einige IJL sind VW.
+C) Einige IJL sind keine VW.
+D) Alle IJL sind keine VW.
 E) Keine der Schlussfolgerungen ist richtig.

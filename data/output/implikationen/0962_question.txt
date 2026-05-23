@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Menschen sind Fische.
-- Einige Fische sind keine Quallen.
+- Alle VV sind VIH.
+- Alle VIH sind keine EMT.
 
-A) Alle Menschen sind Quallen.
-B) Einige Menschen sind Quallen.
-C) Einige Menschen sind keine Quallen.
-D) Alle Menschen sind keine Quallen.
+A) Einige VV sind EMT.
+B) Einige VV sind keine EMT.
+C) Alle VV sind keine EMT.
+D) Alle VV sind EMT.
 E) Keine der Schlussfolgerungen ist richtig.

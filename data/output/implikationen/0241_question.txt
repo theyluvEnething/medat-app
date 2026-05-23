@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Züge sind Chemiker.
-- Einige Chemiker sind Ingenieure.
+- Einige SF sind DL.
+- Alle DL sind keine ZCV.
 
-A) Alle Züge sind Ingenieure.
-B) Einige Züge sind keine Ingenieure.
-C) Einige Züge sind Ingenieure.
-D) Alle Züge sind keine Ingenieure.
+A) Alle SF sind ZCV.
+B) Alle SF sind keine ZCV.
+C) Einige SF sind keine ZCV.
+D) Einige SF sind ZCV.
 E) Keine der Schlussfolgerungen ist richtig.

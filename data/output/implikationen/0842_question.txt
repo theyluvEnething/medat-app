@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Giraffen sind Telefone.
-- Einige Telefone sind keine Diamanten.
+- Alle PF sind keine KV.
+- Einige KV sind keine UC.
 
-A) Alle Giraffen sind keine Diamanten.
-B) Alle Giraffen sind Diamanten.
-C) Einige Giraffen sind keine Diamanten.
-D) Einige Giraffen sind Diamanten.
+A) Alle PF sind keine UC.
+B) Einige PF sind UC.
+C) Einige PF sind keine UC.
+D) Alle PF sind UC.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Mammute sind Vulkane.
-- Einige Vulkane sind keine Tabletten.
+- Einige IG sind LNS.
+- Alle LNS sind OH.
 
-A) Einige Mammute sind Tabletten.
-B) Alle Mammute sind keine Tabletten.
-C) Alle Mammute sind Tabletten.
-D) Einige Mammute sind keine Tabletten.
+A) Einige IG sind keine OH.
+B) Einige IG sind OH.
+C) Alle IG sind OH.
+D) Alle IG sind keine OH.
 E) Keine der Schlussfolgerungen ist richtig.

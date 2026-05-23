@@ -1,7 +1,0 @@
-Zahlenfolge: 4 5 8 13 20 29 ? ?
-
-A) 68/85
-B) 66/83
-C) 34/39
-D) 67/83
-E) Keine der Antworten ist richtig

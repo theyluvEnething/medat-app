@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Giraffen sind keine Schlangen.
-- Einige Schlangen sind keine Krokodile.
+- Alle NF sind PI.
+- Alle PI sind keine UTL.
 
-A) Einige Giraffen sind keine Krokodile.
-B) Einige Giraffen sind Krokodile.
-C) Alle Giraffen sind keine Krokodile.
-D) Alle Giraffen sind Krokodile.
+A) Alle NF sind keine UTL.
+B) Alle NF sind UTL.
+C) Einige NF sind UTL.
+D) Einige NF sind keine UTL.
 E) Keine der Schlussfolgerungen ist richtig.

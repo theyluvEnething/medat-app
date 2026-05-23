@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Lehrer sind Schauspieler.
-- Einige Schauspieler sind keine Skulpturen.
+- Alle ZO sind ZUJ.
+- Alle ZUJ sind IO.
 
-A) Einige Lehrer sind keine Skulpturen.
-B) Alle Lehrer sind Skulpturen.
-C) Einige Lehrer sind Skulpturen.
-D) Alle Lehrer sind keine Skulpturen.
+A) Einige ZO sind IO.
+B) Alle ZO sind IO.
+C) Alle ZO sind keine IO.
+D) Einige ZO sind keine IO.
 E) Keine der Schlussfolgerungen ist richtig.

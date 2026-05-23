@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Skulpturen sind Sänger.
-- Einige Sänger sind keine Nashörner.
+- Alle PO sind UB.
+- Einige UB sind keine UTI.
 
-A) Alle Skulpturen sind Nashörner.
-B) Einige Skulpturen sind Nashörner.
-C) Einige Skulpturen sind keine Nashörner.
-D) Alle Skulpturen sind keine Nashörner.
+A) Einige PO sind keine UTI.
+B) Alle PO sind keine UTI.
+C) Einige PO sind UTI.
+D) Alle PO sind UTI.
 E) Keine der Schlussfolgerungen ist richtig.

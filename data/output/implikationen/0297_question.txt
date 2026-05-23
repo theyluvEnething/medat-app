@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Bäume sind Mäuse.
-- Einige Mäuse sind keine Eidechsen.
+- Einige DDF sind MB.
+- Alle MB sind OMZ.
 
-A) Alle Bäume sind keine Eidechsen.
-B) Einige Bäume sind Eidechsen.
-C) Einige Bäume sind keine Eidechsen.
-D) Alle Bäume sind Eidechsen.
+A) Alle DDF sind OMZ.
+B) Einige DDF sind OMZ.
+C) Alle DDF sind keine OMZ.
+D) Einige DDF sind keine OMZ.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schlangen sind keine Schiffe.
-- Alle Schiffe sind keine Amphibien.
+- Alle PA sind keine TAZ.
+- Einige TAZ sind VF.
 
-A) Alle Schlangen sind keine Amphibien.
-B) Einige Schlangen sind Amphibien.
-C) Alle Schlangen sind Amphibien.
-D) Einige Schlangen sind keine Amphibien.
+A) Einige PA sind VF.
+B) Alle PA sind keine VF.
+C) Alle PA sind VF.
+D) Einige PA sind keine VF.
 E) Keine der Schlussfolgerungen ist richtig.

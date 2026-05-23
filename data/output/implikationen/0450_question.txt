@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vögel sind Flüsse.
-- Einige Flüsse sind keine Politiker.
+- Alle BZO sind BD.
+- Alle BD sind VE.
 
-A) Einige Vögel sind Politiker.
-B) Alle Vögel sind keine Politiker.
-C) Einige Vögel sind keine Politiker.
-D) Alle Vögel sind Politiker.
+A) Einige BZO sind VE.
+B) Alle BZO sind keine VE.
+C) Einige BZO sind keine VE.
+D) Alle BZO sind VE.
 E) Keine der Schlussfolgerungen ist richtig.

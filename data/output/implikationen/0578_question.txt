@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wirbeltiere sind Teleskope.
-- Alle Teleskope sind keine Politiker.
+- Einige CVU sind ML.
+- Alle ML sind keine FW.
 
-A) Alle Wirbeltiere sind Politiker.
-B) Alle Wirbeltiere sind keine Politiker.
-C) Einige Wirbeltiere sind keine Politiker.
-D) Einige Wirbeltiere sind Politiker.
+A) Alle CVU sind FW.
+B) Alle CVU sind keine FW.
+C) Einige CVU sind keine FW.
+D) Einige CVU sind FW.
 E) Keine der Schlussfolgerungen ist richtig.

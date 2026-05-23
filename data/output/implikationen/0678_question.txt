@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Ärzte sind Menschen.
-- Einige Menschen sind Gemälde.
+- Alle AF sind ZB.
+- Alle ZB sind KA.
 
-A) Alle Ärzte sind keine Gemälde.
-B) Alle Ärzte sind Gemälde.
-C) Einige Ärzte sind Gemälde.
-D) Einige Ärzte sind keine Gemälde.
+A) Alle AF sind keine KA.
+B) Einige AF sind KA.
+C) Einige AF sind keine KA.
+D) Alle AF sind KA.
 E) Keine der Schlussfolgerungen ist richtig.

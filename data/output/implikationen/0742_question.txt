@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Flugzeuge sind keine Tiger.
-- Einige Tiger sind Elektroautos.
+- Alle DU sind BNN.
+- Einige BNN sind JE.
 
-A) Einige Flugzeuge sind Elektroautos.
-B) Einige Flugzeuge sind keine Elektroautos.
-C) Alle Flugzeuge sind keine Elektroautos.
-D) Alle Flugzeuge sind Elektroautos.
+A) Einige DU sind keine JE.
+B) Alle DU sind keine JE.
+C) Einige DU sind JE.
+D) Alle DU sind JE.
 E) Keine der Schlussfolgerungen ist richtig.

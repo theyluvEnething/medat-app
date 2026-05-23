@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Delfine sind Skulpturen.
-- Alle Skulpturen sind keine Maler.
+- Einige UDH sind IEJ.
+- Alle IEJ sind TU.
 
-A) Alle Delfine sind keine Maler.
-B) Einige Delfine sind Maler.
-C) Einige Delfine sind keine Maler.
-D) Alle Delfine sind Maler.
+A) Einige UDH sind TU.
+B) Alle UDH sind keine TU.
+C) Alle UDH sind TU.
+D) Einige UDH sind keine TU.
 E) Keine der Schlussfolgerungen ist richtig.

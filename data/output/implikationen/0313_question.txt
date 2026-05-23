@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schlangen sind keine Amphibien.
-- Einige Amphibien sind keine Granite.
+- Einige WN sind AG.
+- Alle AG sind BL.
 
-A) Einige Schlangen sind Granite.
-B) Einige Schlangen sind keine Granite.
-C) Alle Schlangen sind Granite.
-D) Alle Schlangen sind keine Granite.
+A) Alle WN sind BL.
+B) Einige WN sind BL.
+C) Einige WN sind keine BL.
+D) Alle WN sind keine BL.
 E) Keine der Schlussfolgerungen ist richtig.

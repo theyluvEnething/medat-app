@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Lilien sind Türen.
-- Alle Türen sind keine Granite.
+- Einige WSG sind ZEG.
+- Alle ZEG sind keine RM.
 
-A) Alle Lilien sind Granite.
-B) Alle Lilien sind keine Granite.
-C) Einige Lilien sind Granite.
-D) Einige Lilien sind keine Granite.
+A) Alle WSG sind keine RM.
+B) Einige WSG sind RM.
+C) Einige WSG sind keine RM.
+D) Alle WSG sind RM.
 E) Keine der Schlussfolgerungen ist richtig.

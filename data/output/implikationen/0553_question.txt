@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Säugetiere sind keine Flugzeuge.
-- Alle Flugzeuge sind Sänger.
+- Alle OE sind NM.
+- Einige NM sind RW.
 
-A) Einige Säugetiere sind keine Sänger.
-B) Einige Säugetiere sind Sänger.
-C) Alle Säugetiere sind keine Sänger.
-D) Alle Säugetiere sind Sänger.
+A) Alle OE sind keine RW.
+B) Einige OE sind RW.
+C) Alle OE sind RW.
+D) Einige OE sind keine RW.
 E) Keine der Schlussfolgerungen ist richtig.

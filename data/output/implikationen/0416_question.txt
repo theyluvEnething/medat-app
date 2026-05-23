@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Smartphones sind Tiger.
-- Alle Tiger sind Türen.
+- Alle ZZ sind WTK.
+- Alle WTK sind keine AR.
 
-A) Alle Smartphones sind Türen.
-B) Alle Smartphones sind keine Türen.
-C) Einige Smartphones sind keine Türen.
-D) Einige Smartphones sind Türen.
+A) Einige ZZ sind keine AR.
+B) Alle ZZ sind keine AR.
+C) Einige ZZ sind AR.
+D) Alle ZZ sind AR.
 E) Keine der Schlussfolgerungen ist richtig.

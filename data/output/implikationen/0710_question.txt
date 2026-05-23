@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Zebras sind keine Häuser.
-- Einige Häuser sind keine Rosen.
+- Alle SO sind keine OJ.
+- Alle OJ sind KJ.
 
-A) Alle Zebras sind keine Rosen.
-B) Alle Zebras sind Rosen.
-C) Einige Zebras sind keine Rosen.
-D) Einige Zebras sind Rosen.
+A) Alle SO sind keine KJ.
+B) Alle SO sind KJ.
+C) Einige SO sind KJ.
+D) Einige SO sind keine KJ.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Flüsse sind Quallen.
-- Alle Quallen sind keine Haie.
+- Alle LI sind keine NS.
+- Alle NS sind EMA.
 
-A) Einige Flüsse sind keine Haie.
-B) Einige Flüsse sind Haie.
-C) Alle Flüsse sind keine Haie.
-D) Alle Flüsse sind Haie.
+A) Alle LI sind EMA.
+B) Einige LI sind EMA.
+C) Einige LI sind keine EMA.
+D) Alle LI sind keine EMA.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Rosen sind keine Uhren.
-- Einige Uhren sind keine Sänger.
+- Einige EM sind JN.
+- Alle JN sind keine OF.
 
-A) Alle Rosen sind Sänger.
-B) Einige Rosen sind keine Sänger.
-C) Einige Rosen sind Sänger.
-D) Alle Rosen sind keine Sänger.
+A) Einige EM sind keine OF.
+B) Einige EM sind OF.
+C) Alle EM sind keine OF.
+D) Alle EM sind OF.
 E) Keine der Schlussfolgerungen ist richtig.

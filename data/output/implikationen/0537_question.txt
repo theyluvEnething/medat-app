@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Hunde sind keine Bäume.
-- Alle Bäume sind keine Säugetiere.
+- Einige IK sind HHR.
+- Alle HHR sind keine ZNS.
 
-A) Einige Hunde sind Säugetiere.
-B) Alle Hunde sind keine Säugetiere.
-C) Alle Hunde sind Säugetiere.
-D) Einige Hunde sind keine Säugetiere.
+A) Einige IK sind keine ZNS.
+B) Alle IK sind keine ZNS.
+C) Einige IK sind ZNS.
+D) Alle IK sind ZNS.
 E) Keine der Schlussfolgerungen ist richtig.

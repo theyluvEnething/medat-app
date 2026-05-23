@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tiger sind Nashörner.
-- Einige Nashörner sind Delfine.
+- Alle TLZ sind PK.
+- Alle PK sind IJ.
 
-A) Alle Tiger sind Delfine.
-B) Einige Tiger sind keine Delfine.
-C) Alle Tiger sind keine Delfine.
-D) Einige Tiger sind Delfine.
+A) Einige TLZ sind IJ.
+B) Alle TLZ sind keine IJ.
+C) Alle TLZ sind IJ.
+D) Einige TLZ sind keine IJ.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Quartette sind keine Telefone.
-- Alle Telefone sind Tomaten.
+- Alle GZI sind NCC.
+- Alle NCC sind keine NT.
 
-A) Alle Quartette sind keine Tomaten.
-B) Einige Quartette sind Tomaten.
-C) Alle Quartette sind Tomaten.
-D) Einige Quartette sind keine Tomaten.
+A) Einige GZI sind keine NT.
+B) Einige GZI sind NT.
+C) Alle GZI sind NT.
+D) Alle GZI sind keine NT.
 E) Keine der Schlussfolgerungen ist richtig.

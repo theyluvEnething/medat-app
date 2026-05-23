@@ -1,7 +1,0 @@
-Zahlenfolge: 24 -10 22 -2 20 6 ? ?
-
-A) 18/20
-B) 2/-2
-C) 16/22
-D) 17/24
-E) Keine der Antworten ist richtig

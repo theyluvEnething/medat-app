@@ -1,7 +1,0 @@
-Zahlenfolge: 2 7 14 23 34 47 ? ?
-
-A) 107/128
-B) 98/119
-C) 99/118
-D) 100/121
-E) Keine der Antworten ist richtig

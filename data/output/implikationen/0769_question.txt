@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Uhren sind Vegetarier.
-- Alle Vegetarier sind keine Eichen.
+- Alle LA sind UVS.
+- Alle UVS sind RF.
 
-A) Alle Uhren sind keine Eichen.
-B) Einige Uhren sind keine Eichen.
-C) Alle Uhren sind Eichen.
-D) Einige Uhren sind Eichen.
+A) Alle LA sind RF.
+B) Einige LA sind keine RF.
+C) Einige LA sind RF.
+D) Alle LA sind keine RF.
 E) Keine der Schlussfolgerungen ist richtig.

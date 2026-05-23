@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tannen sind keine Pandas.
-- Alle Pandas sind Reptilien.
+- Einige NV sind AS.
+- Alle AS sind keine VS.
 
-A) Alle Tannen sind Reptilien.
-B) Alle Tannen sind keine Reptilien.
-C) Einige Tannen sind Reptilien.
-D) Einige Tannen sind keine Reptilien.
+A) Einige NV sind VS.
+B) Alle NV sind keine VS.
+C) Alle NV sind VS.
+D) Einige NV sind keine VS.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wissenschaftler sind Blumen.
-- Einige Blumen sind Granite.
+- Alle IZ sind SK.
+- Alle SK sind GE.
 
-A) Alle Wissenschaftler sind Granite.
-B) Einige Wissenschaftler sind Granite.
-C) Einige Wissenschaftler sind keine Granite.
-D) Alle Wissenschaftler sind keine Granite.
+A) Einige IZ sind GE.
+B) Einige IZ sind keine GE.
+C) Alle IZ sind GE.
+D) Alle IZ sind keine GE.
 E) Keine der Schlussfolgerungen ist richtig.

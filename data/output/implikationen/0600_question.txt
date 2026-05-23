@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Vegetarier sind Rosen.
-- Einige Rosen sind Fotografen.
+- Einige LV sind keine UD.
+- Alle UD sind keine ON.
 
-A) Einige Vegetarier sind keine Fotografen.
-B) Einige Vegetarier sind Fotografen.
-C) Alle Vegetarier sind keine Fotografen.
-D) Alle Vegetarier sind Fotografen.
+A) Alle LV sind keine ON.
+B) Einige LV sind keine ON.
+C) Einige LV sind ON.
+D) Alle LV sind ON.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Pandas sind keine Wirbeltiere.
-- Einige Wirbeltiere sind Reptilien.
+- Einige WN sind keine PK.
+- Alle PK sind ED.
 
-A) Einige Pandas sind Reptilien.
-B) Alle Pandas sind Reptilien.
-C) Alle Pandas sind keine Reptilien.
-D) Einige Pandas sind keine Reptilien.
+A) Alle WN sind ED.
+B) Einige WN sind keine ED.
+C) Alle WN sind keine ED.
+D) Einige WN sind ED.
 E) Keine der Schlussfolgerungen ist richtig.

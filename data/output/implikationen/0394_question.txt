@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Möbel sind keine Züge.
-- Alle Züge sind keine Häuser.
+- Einige HL sind keine GF.
+- Einige GF sind PC.
 
-A) Einige Möbel sind Häuser.
-B) Alle Möbel sind keine Häuser.
-C) Alle Möbel sind Häuser.
-D) Einige Möbel sind keine Häuser.
+A) Alle HL sind keine PC.
+B) Alle HL sind PC.
+C) Einige HL sind PC.
+D) Einige HL sind keine PC.
 E) Keine der Schlussfolgerungen ist richtig.

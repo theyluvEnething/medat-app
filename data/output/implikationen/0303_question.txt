@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Granite sind Dichter.
-- Alle Dichter sind keine Telefone.
+- Alle UI sind MF.
+- Alle MF sind GC.
 
-A) Alle Granite sind Telefone.
-B) Alle Granite sind keine Telefone.
-C) Einige Granite sind keine Telefone.
-D) Einige Granite sind Telefone.
+A) Einige UI sind GC.
+B) Einige UI sind keine GC.
+C) Alle UI sind keine GC.
+D) Alle UI sind GC.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Möbel sind Lehrer.
-- Alle Lehrer sind keine Menschen.
+- Alle HLZ sind ZE.
+- Alle ZE sind keine RD.
 
-A) Einige Möbel sind Menschen.
-B) Alle Möbel sind Menschen.
-C) Einige Möbel sind keine Menschen.
-D) Alle Möbel sind keine Menschen.
+A) Alle HLZ sind RD.
+B) Alle HLZ sind keine RD.
+C) Einige HLZ sind RD.
+D) Einige HLZ sind keine RD.
 E) Keine der Schlussfolgerungen ist richtig.

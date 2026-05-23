@@ -1,7 +1,0 @@
-Zahlenfolge: 13 16 23 34 49 68 ? ?
-
-A) 150/183
-B) 149/184
-C) 150/185
-D) 136/147
-E) Keine der Antworten ist richtig

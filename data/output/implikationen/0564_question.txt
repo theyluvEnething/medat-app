@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Züge sind Menschen.
-- Alle Menschen sind keine Bücher.
+- Einige IEC sind keine GZ.
+- Alle GZ sind JN.
 
-A) Alle Züge sind Bücher.
-B) Einige Züge sind keine Bücher.
-C) Alle Züge sind keine Bücher.
-D) Einige Züge sind Bücher.
+A) Einige IEC sind JN.
+B) Alle IEC sind JN.
+C) Einige IEC sind keine JN.
+D) Alle IEC sind keine JN.
 E) Keine der Schlussfolgerungen ist richtig.

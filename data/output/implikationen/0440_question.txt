@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mammute sind Maler.
-- Alle Maler sind Insekten.
+- Alle CJ sind SV.
+- Alle SV sind HGK.
 
-A) Einige Mammute sind keine Insekten.
-B) Einige Mammute sind Insekten.
-C) Alle Mammute sind Insekten.
-D) Alle Mammute sind keine Insekten.
+A) Alle CJ sind keine HGK.
+B) Alle CJ sind HGK.
+C) Einige CJ sind HGK.
+D) Einige CJ sind keine HGK.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 7 15 22 37 59 96 ? ?
-
-A) 404/658
-B) 192/209
-C) 406/657
-D) 404/655
-E) Keine der Antworten ist richtig

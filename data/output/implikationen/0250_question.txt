@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gedichte sind keine Taucher.
-- Einige Taucher sind keine Wirbeltiere.
+- Alle FS sind keine FL.
+- Alle FL sind ZB.
 
-A) Alle Gedichte sind keine Wirbeltiere.
-B) Einige Gedichte sind keine Wirbeltiere.
-C) Einige Gedichte sind Wirbeltiere.
-D) Alle Gedichte sind Wirbeltiere.
+A) Alle FS sind ZB.
+B) Einige FS sind keine ZB.
+C) Alle FS sind keine ZB.
+D) Einige FS sind ZB.
 E) Keine der Schlussfolgerungen ist richtig.

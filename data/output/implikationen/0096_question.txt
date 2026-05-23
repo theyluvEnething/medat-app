@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wissenschaftler sind Politiker.
-- Einige Politiker sind Haie.
+- Alle DK sind keine WM.
+- Alle WM sind ZAV.
 
-A) Einige Wissenschaftler sind Haie.
-B) Einige Wissenschaftler sind keine Haie.
-C) Alle Wissenschaftler sind keine Haie.
-D) Alle Wissenschaftler sind Haie.
+A) Einige DK sind keine ZAV.
+B) Alle DK sind keine ZAV.
+C) Alle DK sind ZAV.
+D) Einige DK sind ZAV.
 E) Keine der Schlussfolgerungen ist richtig.

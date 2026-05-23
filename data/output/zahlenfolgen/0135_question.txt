@@ -1,7 +1,0 @@
-Zahlenfolge: 13 17 51 55 165 169 ? ?
-
-A) 1534/1539
-B) 1531/1536
-C) 1533/1537
-D) 1531/1539
-E) Keine der Antworten ist richtig

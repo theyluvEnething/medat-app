@@ -1,2 +1,2 @@
-A — 75/92
-n² + 11
+C — 66/130
+Differenz verdoppelt sich je Schritt

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Taucher sind keine Zebras.
-- Einige Zebras sind keine Delfine.
+- Einige SZ sind PS.
+- Einige PS sind keine TVH.
 
-A) Einige Taucher sind keine Delfine.
-B) Alle Taucher sind Delfine.
-C) Alle Taucher sind keine Delfine.
-D) Einige Taucher sind Delfine.
+A) Alle SZ sind TVH.
+B) Einige SZ sind TVH.
+C) Alle SZ sind keine TVH.
+D) Einige SZ sind keine TVH.
 E) Keine der Schlussfolgerungen ist richtig.

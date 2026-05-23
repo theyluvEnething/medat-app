@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schriftsteller sind Ärzte.
-- Alle Ärzte sind Sportler.
+- Einige KG sind BPW.
+- Alle BPW sind keine SL.
 
-A) Einige Schriftsteller sind keine Sportler.
-B) Alle Schriftsteller sind keine Sportler.
-C) Alle Schriftsteller sind Sportler.
-D) Einige Schriftsteller sind Sportler.
+A) Alle KG sind SL.
+B) Alle KG sind keine SL.
+C) Einige KG sind keine SL.
+D) Einige KG sind SL.
 E) Keine der Schlussfolgerungen ist richtig.

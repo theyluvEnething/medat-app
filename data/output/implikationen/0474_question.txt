@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Quartette sind Flugzeuge.
-- Alle Flugzeuge sind Mammute.
+- Alle LL sind BN.
+- Alle BN sind EJ.
 
-A) Einige Quartette sind keine Mammute.
-B) Alle Quartette sind Mammute.
-C) Alle Quartette sind keine Mammute.
-D) Einige Quartette sind Mammute.
+A) Einige LL sind EJ.
+B) Einige LL sind keine EJ.
+C) Alle LL sind EJ.
+D) Alle LL sind keine EJ.
 E) Keine der Schlussfolgerungen ist richtig.

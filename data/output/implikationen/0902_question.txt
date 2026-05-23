@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schlangen sind Chemiker.
-- Einige Chemiker sind keine Tomaten.
+- Einige CT sind keine VV.
+- Einige VV sind keine WV.
 
-A) Einige Schlangen sind keine Tomaten.
-B) Alle Schlangen sind Tomaten.
-C) Einige Schlangen sind Tomaten.
-D) Alle Schlangen sind keine Tomaten.
+A) Einige CT sind keine WV.
+B) Alle CT sind WV.
+C) Einige CT sind WV.
+D) Alle CT sind keine WV.
 E) Keine der Schlussfolgerungen ist richtig.

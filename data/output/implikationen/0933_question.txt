@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Werkzeuge sind keine Delfine.
-- Alle Delfine sind Türen.
+- Einige WC sind FS.
+- Alle FS sind GE.
 
-A) Einige Werkzeuge sind Türen.
-B) Einige Werkzeuge sind keine Türen.
-C) Alle Werkzeuge sind Türen.
-D) Alle Werkzeuge sind keine Türen.
+A) Alle WC sind keine GE.
+B) Einige WC sind keine GE.
+C) Einige WC sind GE.
+D) Alle WC sind GE.
 E) Keine der Schlussfolgerungen ist richtig.

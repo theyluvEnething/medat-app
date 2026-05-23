@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Smartphones sind Fische.
-- Alle Fische sind keine Flüsse.
+- Alle RSP sind keine ZR.
+- Alle ZR sind EE.
 
-A) Alle Smartphones sind Flüsse.
-B) Einige Smartphones sind Flüsse.
-C) Einige Smartphones sind keine Flüsse.
-D) Alle Smartphones sind keine Flüsse.
+A) Alle RSP sind EE.
+B) Einige RSP sind keine EE.
+C) Alle RSP sind keine EE.
+D) Einige RSP sind EE.
 E) Keine der Schlussfolgerungen ist richtig.

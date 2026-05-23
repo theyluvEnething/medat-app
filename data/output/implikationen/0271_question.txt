@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Metalle sind keine Wissenschaftler.
-- Einige Wissenschaftler sind Giraffen.
+- Alle LR sind LK.
+- Einige LK sind WP.
 
-A) Alle Metalle sind Giraffen.
-B) Alle Metalle sind keine Giraffen.
-C) Einige Metalle sind keine Giraffen.
-D) Einige Metalle sind Giraffen.
+A) Einige LR sind keine WP.
+B) Alle LR sind keine WP.
+C) Einige LR sind WP.
+D) Alle LR sind WP.
 E) Keine der Schlussfolgerungen ist richtig.

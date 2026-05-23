@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vulkane sind Hunde.
-- Einige Hunde sind Maler.
+- Alle DV sind MHV.
+- Alle MHV sind VHV.
 
-A) Alle Vulkane sind keine Maler.
-B) Einige Vulkane sind Maler.
-C) Alle Vulkane sind Maler.
-D) Einige Vulkane sind keine Maler.
+A) Einige DV sind keine VHV.
+B) Alle DV sind keine VHV.
+C) Einige DV sind VHV.
+D) Alle DV sind VHV.
 E) Keine der Schlussfolgerungen ist richtig.

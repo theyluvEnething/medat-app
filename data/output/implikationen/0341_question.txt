@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Bücher sind Autos.
-- Alle Autos sind keine Taucher.
+- Einige BSC sind IZ.
+- Alle IZ sind TE.
 
-A) Alle Bücher sind keine Taucher.
-B) Alle Bücher sind Taucher.
-C) Einige Bücher sind keine Taucher.
-D) Einige Bücher sind Taucher.
+A) Alle BSC sind keine TE.
+B) Einige BSC sind keine TE.
+C) Alle BSC sind TE.
+D) Einige BSC sind TE.
 E) Keine der Schlussfolgerungen ist richtig.

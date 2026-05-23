@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Sänger sind keine Züge.
-- Alle Züge sind keine Häuser.
+- Alle AU sind RU.
+- Alle RU sind GO.
 
-A) Alle Sänger sind keine Häuser.
-B) Einige Sänger sind keine Häuser.
-C) Alle Sänger sind Häuser.
-D) Einige Sänger sind Häuser.
+A) Alle AU sind keine GO.
+B) Einige AU sind keine GO.
+C) Einige AU sind GO.
+D) Alle AU sind GO.
 E) Keine der Schlussfolgerungen ist richtig.

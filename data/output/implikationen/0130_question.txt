@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Werkzeuge sind keine Rosen.
-- Einige Rosen sind Vulkane.
+- Einige IW sind TKK.
+- Alle TKK sind VOH.
 
-A) Einige Werkzeuge sind Vulkane.
-B) Alle Werkzeuge sind keine Vulkane.
-C) Alle Werkzeuge sind Vulkane.
-D) Einige Werkzeuge sind keine Vulkane.
+A) Alle IW sind keine VOH.
+B) Einige IW sind keine VOH.
+C) Einige IW sind VOH.
+D) Alle IW sind VOH.
 E) Keine der Schlussfolgerungen ist richtig.

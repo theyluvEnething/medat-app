@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Nashörner sind Wölfe.
-- Einige Wölfe sind Glühbirnen.
+- Alle LL sind FWH.
+- Einige FWH sind keine GLG.
 
-A) Einige Nashörner sind Glühbirnen.
-B) Einige Nashörner sind keine Glühbirnen.
-C) Alle Nashörner sind keine Glühbirnen.
-D) Alle Nashörner sind Glühbirnen.
+A) Alle LL sind keine GLG.
+B) Einige LL sind GLG.
+C) Einige LL sind keine GLG.
+D) Alle LL sind GLG.
 E) Keine der Schlussfolgerungen ist richtig.

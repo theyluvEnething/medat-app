@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Smartphones sind keine Maler.
-- Einige Maler sind keine Giraffen.
+- Alle PRF sind FWB.
+- Alle FWB sind NP.
 
-A) Alle Smartphones sind Giraffen.
-B) Einige Smartphones sind keine Giraffen.
-C) Einige Smartphones sind Giraffen.
-D) Alle Smartphones sind keine Giraffen.
+A) Einige PRF sind NP.
+B) Alle PRF sind keine NP.
+C) Einige PRF sind keine NP.
+D) Alle PRF sind NP.
 E) Keine der Schlussfolgerungen ist richtig.

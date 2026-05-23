@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Kätzchen sind Delfine.
-- Alle Delfine sind Dichter.
+- Alle RBC sind keine BDO.
+- Alle BDO sind AI.
 
-A) Einige Kätzchen sind Dichter.
-B) Einige Kätzchen sind keine Dichter.
-C) Alle Kätzchen sind keine Dichter.
-D) Alle Kätzchen sind Dichter.
+A) Einige RBC sind AI.
+B) Einige RBC sind keine AI.
+C) Alle RBC sind AI.
+D) Alle RBC sind keine AI.
 E) Keine der Schlussfolgerungen ist richtig.

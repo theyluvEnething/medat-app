@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Lilien sind Mammute.
-- Alle Mammute sind keine Politiker.
+- Einige JO sind MA.
+- Alle MA sind keine FJ.
 
-A) Einige Lilien sind keine Politiker.
-B) Alle Lilien sind keine Politiker.
-C) Einige Lilien sind Politiker.
-D) Alle Lilien sind Politiker.
+A) Einige JO sind keine FJ.
+B) Einige JO sind FJ.
+C) Alle JO sind keine FJ.
+D) Alle JO sind FJ.
 E) Keine der Schlussfolgerungen ist richtig.

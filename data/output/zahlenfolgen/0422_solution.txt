@@ -1,2 +1,0 @@
-D — 494/799
-Jedes Glied = Summe der beiden Vorgänger

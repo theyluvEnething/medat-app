@@ -1,7 +1,0 @@
-Zahlenfolge: 5 7 11 13 17 19 ? ?
-
-A) 30/39
-B) 29/36
-C) 31/37
-D) 32/38
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Chemiker sind keine Autos.
-- Alle Autos sind Delfine.
+- Alle WC sind EA.
+- Einige EA sind BC.
 
-A) Einige Chemiker sind keine Delfine.
-B) Alle Chemiker sind Delfine.
-C) Alle Chemiker sind keine Delfine.
-D) Einige Chemiker sind Delfine.
+A) Einige WC sind keine BC.
+B) Alle WC sind keine BC.
+C) Einige WC sind BC.
+D) Alle WC sind BC.
 E) Keine der Schlussfolgerungen ist richtig.

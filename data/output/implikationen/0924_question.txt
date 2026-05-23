@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Chemiker sind Zebras.
-- Einige Zebras sind keine Quallen.
+- Einige VI sind KOM.
+- Alle KOM sind CB.
 
-A) Alle Chemiker sind keine Quallen.
-B) Alle Chemiker sind Quallen.
-C) Einige Chemiker sind keine Quallen.
-D) Einige Chemiker sind Quallen.
+A) Alle VI sind keine CB.
+B) Alle VI sind CB.
+C) Einige VI sind keine CB.
+D) Einige VI sind CB.
 E) Keine der Schlussfolgerungen ist richtig.

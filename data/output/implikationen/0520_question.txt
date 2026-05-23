@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Politiker sind Quallen.
-- Alle Quallen sind Flugzeuge.
+- Einige NGN sind keine BM.
+- Einige BM sind keine EO.
 
-A) Alle Politiker sind Flugzeuge.
-B) Einige Politiker sind Flugzeuge.
-C) Alle Politiker sind keine Flugzeuge.
-D) Einige Politiker sind keine Flugzeuge.
+A) Alle NGN sind EO.
+B) Einige NGN sind keine EO.
+C) Einige NGN sind EO.
+D) Alle NGN sind keine EO.
 E) Keine der Schlussfolgerungen ist richtig.

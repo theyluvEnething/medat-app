@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Insekten sind keine Eichen.
-- Einige Eichen sind keine Dinosaurier.
+- Einige OP sind DD.
+- Einige DD sind keine LRL.
 
-A) Alle Insekten sind keine Dinosaurier.
-B) Alle Insekten sind Dinosaurier.
-C) Einige Insekten sind keine Dinosaurier.
-D) Einige Insekten sind Dinosaurier.
+A) Einige OP sind LRL.
+B) Alle OP sind LRL.
+C) Einige OP sind keine LRL.
+D) Alle OP sind keine LRL.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Amphibien sind keine Möbel.
-- Einige Möbel sind Schiffe.
+- Alle BU sind NAJ.
+- Einige NAJ sind AL.
 
-A) Einige Amphibien sind keine Schiffe.
-B) Alle Amphibien sind keine Schiffe.
-C) Einige Amphibien sind Schiffe.
-D) Alle Amphibien sind Schiffe.
+A) Alle BU sind AL.
+B) Einige BU sind keine AL.
+C) Einige BU sind AL.
+D) Alle BU sind keine AL.
 E) Keine der Schlussfolgerungen ist richtig.

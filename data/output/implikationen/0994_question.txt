@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wale sind keine Orchideen.
-- Einige Orchideen sind keine Blumen.
+- Einige DJ sind keine SM.
+- Alle SM sind keine LB.
 
-A) Einige Wale sind Blumen.
-B) Einige Wale sind keine Blumen.
-C) Alle Wale sind Blumen.
-D) Alle Wale sind keine Blumen.
+A) Alle DJ sind keine LB.
+B) Einige DJ sind keine LB.
+C) Alle DJ sind LB.
+D) Einige DJ sind LB.
 E) Keine der Schlussfolgerungen ist richtig.

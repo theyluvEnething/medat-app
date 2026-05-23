@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tiger sind keine Bücher.
-- Alle Bücher sind Mammute.
+- Alle JSB sind keine BZ.
+- Alle BZ sind JF.
 
-A) Einige Tiger sind keine Mammute.
-B) Einige Tiger sind Mammute.
-C) Alle Tiger sind Mammute.
-D) Alle Tiger sind keine Mammute.
+A) Alle JSB sind keine JF.
+B) Alle JSB sind JF.
+C) Einige JSB sind keine JF.
+D) Einige JSB sind JF.
 E) Keine der Schlussfolgerungen ist richtig.

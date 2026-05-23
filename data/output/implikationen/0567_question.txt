@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schiffe sind keine Diamanten.
-- Einige Diamanten sind Tiger.
+- Alle AF sind TJ.
+- Alle TJ sind PC.
 
-A) Alle Schiffe sind Tiger.
-B) Einige Schiffe sind keine Tiger.
-C) Alle Schiffe sind keine Tiger.
-D) Einige Schiffe sind Tiger.
+A) Einige AF sind keine PC.
+B) Alle AF sind PC.
+C) Alle AF sind keine PC.
+D) Einige AF sind PC.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gräser sind keine Roboter.
-- Einige Roboter sind keine Giraffen.
+- Alle PJ sind WM.
+- Einige WM sind keine NF.
 
-A) Einige Gräser sind Giraffen.
-B) Alle Gräser sind Giraffen.
-C) Alle Gräser sind keine Giraffen.
-D) Einige Gräser sind keine Giraffen.
+A) Einige PJ sind keine NF.
+B) Einige PJ sind NF.
+C) Alle PJ sind NF.
+D) Alle PJ sind keine NF.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,7 @@
-Zahlenfolge: -3 -2 5 24 61 122 ? ?
+Zahlenfolge: 10 20 13 26 19 38 ? ?
 
-A) 339/508
-B) 340/509
-C) 342/507
-D) 365/534
+A) 76/95
+B) 29/62
+C) 62/31
+D) 31/62
 E) Keine der Antworten ist richtig

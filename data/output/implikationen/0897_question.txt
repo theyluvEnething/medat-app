@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Lehrer sind Quallen.
-- Alle Quallen sind Pilze.
+- Alle BI sind VI.
+- Alle VI sind MC.
 
-A) Einige Lehrer sind Pilze.
-B) Einige Lehrer sind keine Pilze.
-C) Alle Lehrer sind keine Pilze.
-D) Alle Lehrer sind Pilze.
+A) Einige BI sind keine MC.
+B) Einige BI sind MC.
+C) Alle BI sind keine MC.
+D) Alle BI sind MC.
 E) Keine der Schlussfolgerungen ist richtig.

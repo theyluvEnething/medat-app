@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Smartphones sind Schlangen.
-- Alle Schlangen sind Telefone.
+- Alle RP sind OJ.
+- Alle OJ sind keine PM.
 
-A) Alle Smartphones sind Telefone.
-B) Einige Smartphones sind Telefone.
-C) Einige Smartphones sind keine Telefone.
-D) Alle Smartphones sind keine Telefone.
+A) Einige RP sind PM.
+B) Alle RP sind PM.
+C) Einige RP sind keine PM.
+D) Alle RP sind keine PM.
 E) Keine der Schlussfolgerungen ist richtig.

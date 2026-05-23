@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tulpen sind keine Pandas.
-- Alle Pandas sind Quartette.
+- Alle RA sind DJO.
+- Einige DJO sind NVM.
 
-A) Alle Tulpen sind Quartette.
-B) Einige Tulpen sind Quartette.
-C) Einige Tulpen sind keine Quartette.
-D) Alle Tulpen sind keine Quartette.
+A) Einige RA sind keine NVM.
+B) Alle RA sind NVM.
+C) Einige RA sind NVM.
+D) Alle RA sind keine NVM.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Ärzte sind Pilze.
-- Alle Pilze sind Rosen.
+- Einige DW sind ZS.
+- Alle ZS sind keine DA.
 
-A) Einige Ärzte sind keine Rosen.
-B) Alle Ärzte sind keine Rosen.
-C) Einige Ärzte sind Rosen.
-D) Alle Ärzte sind Rosen.
+A) Alle DW sind DA.
+B) Alle DW sind keine DA.
+C) Einige DW sind DA.
+D) Einige DW sind keine DA.
 E) Keine der Schlussfolgerungen ist richtig.

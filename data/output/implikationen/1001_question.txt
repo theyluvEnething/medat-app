@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Dichter sind Taucher.
-- Alle Taucher sind keine Pandas.
+- Einige CS sind FN.
+- Alle FN sind keine BG.
 
-A) Alle Dichter sind Pandas.
-B) Einige Dichter sind Pandas.
-C) Einige Dichter sind keine Pandas.
-D) Alle Dichter sind keine Pandas.
+A) Alle CS sind keine BG.
+B) Alle CS sind BG.
+C) Einige CS sind BG.
+D) Einige CS sind keine BG.
 E) Keine der Schlussfolgerungen ist richtig.

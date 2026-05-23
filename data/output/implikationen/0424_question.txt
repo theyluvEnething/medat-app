@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Bücher sind keine Zebras.
-- Alle Zebras sind keine Vulkane.
+- Einige AF sind WZZ.
+- Alle WZZ sind VNF.
 
-A) Alle Bücher sind keine Vulkane.
-B) Einige Bücher sind Vulkane.
-C) Alle Bücher sind Vulkane.
-D) Einige Bücher sind keine Vulkane.
+A) Einige AF sind keine VNF.
+B) Einige AF sind VNF.
+C) Alle AF sind VNF.
+D) Alle AF sind keine VNF.
 E) Keine der Schlussfolgerungen ist richtig.

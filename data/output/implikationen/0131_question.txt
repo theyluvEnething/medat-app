@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Spatzen sind Dichter.
-- Einige Dichter sind Politiker.
+- Alle RC sind keine AM.
+- Alle AM sind DL.
 
-A) Einige Spatzen sind keine Politiker.
-B) Alle Spatzen sind keine Politiker.
-C) Alle Spatzen sind Politiker.
-D) Einige Spatzen sind Politiker.
+A) Alle RC sind keine DL.
+B) Einige RC sind keine DL.
+C) Einige RC sind DL.
+D) Alle RC sind DL.
 E) Keine der Schlussfolgerungen ist richtig.

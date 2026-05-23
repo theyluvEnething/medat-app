@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Flüsse sind Menschen.
-- Einige Menschen sind keine Quartette.
+- Alle NL sind OE.
+- Alle OE sind MFH.
 
-A) Alle Flüsse sind Quartette.
-B) Alle Flüsse sind keine Quartette.
-C) Einige Flüsse sind keine Quartette.
-D) Einige Flüsse sind Quartette.
+A) Alle NL sind keine MFH.
+B) Einige NL sind keine MFH.
+C) Einige NL sind MFH.
+D) Alle NL sind MFH.
 E) Keine der Schlussfolgerungen ist richtig.

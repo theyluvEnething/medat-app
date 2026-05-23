@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Ärzte sind keine Anwälte.
-- Alle Anwälte sind keine Delfine.
+- Alle ZLE sind EK.
+- Einige EK sind AAI.
 
-A) Einige Ärzte sind keine Delfine.
-B) Alle Ärzte sind keine Delfine.
-C) Alle Ärzte sind Delfine.
-D) Einige Ärzte sind Delfine.
+A) Alle ZLE sind keine AAI.
+B) Alle ZLE sind AAI.
+C) Einige ZLE sind keine AAI.
+D) Einige ZLE sind AAI.
 E) Keine der Schlussfolgerungen ist richtig.

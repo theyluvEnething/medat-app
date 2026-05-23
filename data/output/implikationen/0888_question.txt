@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tiger sind Rosen.
-- Einige Rosen sind keine Skulpturen.
+- Alle MV sind NF.
+- Alle NF sind TO.
 
-A) Alle Tiger sind Skulpturen.
-B) Alle Tiger sind keine Skulpturen.
-C) Einige Tiger sind Skulpturen.
-D) Einige Tiger sind keine Skulpturen.
+A) Alle MV sind TO.
+B) Alle MV sind keine TO.
+C) Einige MV sind TO.
+D) Einige MV sind keine TO.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,2 +1,2 @@
-D — 19683/59049
-3ⁿ ab n=2
+C — 37/16
+Differenz: +-3, +-6, +-9, +-12, +-15, +-18, +-21 — die Differenz wächst um -3 pro Schritt

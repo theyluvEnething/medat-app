@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Granite sind keine Autos.
-- Einige Autos sind keine Pandas.
+- Einige GB sind keine GR.
+- Einige GR sind SS.
 
-A) Einige Granite sind Pandas.
-B) Alle Granite sind keine Pandas.
-C) Alle Granite sind Pandas.
-D) Einige Granite sind keine Pandas.
+A) Einige GB sind SS.
+B) Alle GB sind SS.
+C) Alle GB sind keine SS.
+D) Einige GB sind keine SS.
 E) Keine der Schlussfolgerungen ist richtig.

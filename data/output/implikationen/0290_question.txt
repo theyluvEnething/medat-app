@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tomaten sind Ärzte.
-- Einige Ärzte sind keine Fische.
+- Einige EHP sind DBZ.
+- Alle DBZ sind KP.
 
-A) Einige Tomaten sind Fische.
-B) Einige Tomaten sind keine Fische.
-C) Alle Tomaten sind Fische.
-D) Alle Tomaten sind keine Fische.
+A) Alle EHP sind KP.
+B) Einige EHP sind KP.
+C) Alle EHP sind keine KP.
+D) Einige EHP sind keine KP.
 E) Keine der Schlussfolgerungen ist richtig.

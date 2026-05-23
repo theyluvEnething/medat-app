@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Statuen sind keine Ingenieure.
-- Einige Ingenieure sind Kätzchen.
+- Einige MI sind keine HB.
+- Einige HB sind keine LN.
 
-A) Einige Statuen sind Kätzchen.
-B) Einige Statuen sind keine Kätzchen.
-C) Alle Statuen sind keine Kätzchen.
-D) Alle Statuen sind Kätzchen.
+A) Alle MI sind LN.
+B) Einige MI sind keine LN.
+C) Einige MI sind LN.
+D) Alle MI sind keine LN.
 E) Keine der Schlussfolgerungen ist richtig.

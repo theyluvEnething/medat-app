@@ -1,7 +1,0 @@
-Zahlenfolge: 17 4 21 25 46 71 ? ?
-
-A) 305/493
-B) 307/492
-C) 304/495
-D) 303/491
-E) Keine der Antworten ist richtig

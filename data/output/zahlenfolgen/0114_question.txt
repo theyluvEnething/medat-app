@@ -1,7 +1,7 @@
-Zahlenfolge: 14 6 -2 -10 -18 -26 ? ?
+Zahlenfolge: 1 2 6 12 36 72 ? ?
 
-A) -44/-48
-B) -41/-48
-C) -40/-52
-D) -42/-50
+A) 216/431
+B) 214/432
+C) 216/432
+D) 86/100
 E) Keine der Antworten ist richtig

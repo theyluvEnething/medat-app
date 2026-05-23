@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Marder sind keine Kätzchen.
-- Alle Kätzchen sind Wale.
+- Alle UB sind JV.
+- Einige JV sind KP.
 
-A) Alle Marder sind Wale.
-B) Einige Marder sind keine Wale.
-C) Alle Marder sind keine Wale.
-D) Einige Marder sind Wale.
+A) Einige UB sind KP.
+B) Alle UB sind KP.
+C) Alle UB sind keine KP.
+D) Einige UB sind keine KP.
 E) Keine der Schlussfolgerungen ist richtig.

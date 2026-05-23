@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Kätzchen sind keine Häuser.
-- Alle Häuser sind Maler.
+- Alle TVK sind BHT.
+- Alle BHT sind IK.
 
-A) Alle Kätzchen sind Maler.
-B) Einige Kätzchen sind keine Maler.
-C) Alle Kätzchen sind keine Maler.
-D) Einige Kätzchen sind Maler.
+A) Alle TVK sind IK.
+B) Alle TVK sind keine IK.
+C) Einige TVK sind IK.
+D) Einige TVK sind keine IK.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vegetarier sind Schlangen.
-- Alle Schlangen sind Haie.
+- Alle EL sind keine DD.
+- Einige DD sind GZ.
 
-A) Einige Vegetarier sind Haie.
-B) Alle Vegetarier sind Haie.
-C) Alle Vegetarier sind keine Haie.
-D) Einige Vegetarier sind keine Haie.
+A) Alle EL sind GZ.
+B) Einige EL sind GZ.
+C) Alle EL sind keine GZ.
+D) Einige EL sind keine GZ.
 E) Keine der Schlussfolgerungen ist richtig.

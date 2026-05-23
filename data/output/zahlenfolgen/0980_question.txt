@@ -1,7 +1,0 @@
-Zahlenfolge: 15 18 22 27 33 40 ? ?
-
-A) 67/78
-B) 68/76
-C) 69/79
-D) 65/80
-E) Keine der Antworten ist richtig

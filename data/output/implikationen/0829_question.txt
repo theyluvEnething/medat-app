@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schiffe sind keine Granite.
-- Einige Granite sind Tomaten.
+- Alle BR sind PG.
+- Alle PG sind keine AJ.
 
-A) Einige Schiffe sind Tomaten.
-B) Einige Schiffe sind keine Tomaten.
-C) Alle Schiffe sind keine Tomaten.
-D) Alle Schiffe sind Tomaten.
+A) Einige BR sind keine AJ.
+B) Einige BR sind AJ.
+C) Alle BR sind keine AJ.
+D) Alle BR sind AJ.
 E) Keine der Schlussfolgerungen ist richtig.

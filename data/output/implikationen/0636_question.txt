@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Giraffen sind keine Wölfe.
-- Alle Wölfe sind Sportler.
+- Alle AF sind KM.
+- Alle KM sind RM.
 
-A) Alle Giraffen sind Sportler.
-B) Einige Giraffen sind Sportler.
-C) Alle Giraffen sind keine Sportler.
-D) Einige Giraffen sind keine Sportler.
+A) Alle AF sind keine RM.
+B) Alle AF sind RM.
+C) Einige AF sind keine RM.
+D) Einige AF sind RM.
 E) Keine der Schlussfolgerungen ist richtig.

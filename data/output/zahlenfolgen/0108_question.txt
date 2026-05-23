@@ -1,7 +1,7 @@
-Zahlenfolge: 15 21 12 27 9 33 ? ?
+Zahlenfolge: 0 3 8 15 24 35 ? ?
 
-A) 3/45
-B) 2/47
-C) 5/43
-D) 1/44
+A) 49/63
+B) 48/63
+C) 63/48
+D) 48/62
 E) Keine der Antworten ist richtig

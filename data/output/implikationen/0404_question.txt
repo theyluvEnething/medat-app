@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Ärzte sind Sportler.
-- Einige Sportler sind keine Dichter.
+- Alle MDV sind MA.
+- Alle MA sind WUE.
 
-A) Einige Ärzte sind Dichter.
-B) Einige Ärzte sind keine Dichter.
-C) Alle Ärzte sind keine Dichter.
-D) Alle Ärzte sind Dichter.
+A) Alle MDV sind keine WUE.
+B) Einige MDV sind WUE.
+C) Alle MDV sind WUE.
+D) Einige MDV sind keine WUE.
 E) Keine der Schlussfolgerungen ist richtig.

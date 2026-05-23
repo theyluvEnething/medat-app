@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Taucher sind Hunde.
-- Alle Hunde sind Türen.
+- Alle DS sind keine MFV.
+- Einige MFV sind keine UPM.
 
-A) Einige Taucher sind Türen.
-B) Alle Taucher sind keine Türen.
-C) Alle Taucher sind Türen.
-D) Einige Taucher sind keine Türen.
+A) Alle DS sind UPM.
+B) Alle DS sind keine UPM.
+C) Einige DS sind keine UPM.
+D) Einige DS sind UPM.
 E) Keine der Schlussfolgerungen ist richtig.

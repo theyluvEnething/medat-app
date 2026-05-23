@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Quartette sind keine Schlangen.
-- Alle Schlangen sind keine Lehrer.
+- Einige ZI sind keine ZC.
+- Alle ZC sind MUP.
 
-A) Einige Quartette sind keine Lehrer.
-B) Alle Quartette sind keine Lehrer.
-C) Einige Quartette sind Lehrer.
-D) Alle Quartette sind Lehrer.
+A) Alle ZI sind keine MUP.
+B) Alle ZI sind MUP.
+C) Einige ZI sind keine MUP.
+D) Einige ZI sind MUP.
 E) Keine der Schlussfolgerungen ist richtig.

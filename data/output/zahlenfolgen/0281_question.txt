@@ -1,7 +1,0 @@
-Zahlenfolge: -7 5 17 29 41 53 ? ?
-
-A) 78/88
-B) 75/91
-C) 79/90
-D) 77/89
-E) Keine der Antworten ist richtig

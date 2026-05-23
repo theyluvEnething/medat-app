@@ -1,7 +1,7 @@
-Zahlenfolge: 18 9 19 6 20 3 ? ?
+Zahlenfolge: 4 7 13 25 49 97 ? ?
 
-A) 22/-3
-B) 21/-2
-C) 20/-2
-D) 23/-1
+A) 385/193
+B) 193/385
+C) 194/242
+D) 192/385
 E) Keine der Antworten ist richtig

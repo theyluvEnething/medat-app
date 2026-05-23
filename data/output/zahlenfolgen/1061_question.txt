@@ -1,7 +1,0 @@
-Zahlenfolge: 1 6 18 23 69 74 ? ?
-
-A) 681/686
-B) 683/687
-C) 683/685
-D) 679/685
-E) Keine der Antworten ist richtig

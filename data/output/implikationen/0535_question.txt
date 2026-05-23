@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Politiker sind keine Zebras.
-- Einige Zebras sind keine Tomaten.
+- Alle TW sind DH.
+- Alle DH sind NM.
 
-A) Alle Politiker sind keine Tomaten.
-B) Einige Politiker sind Tomaten.
-C) Alle Politiker sind Tomaten.
-D) Einige Politiker sind keine Tomaten.
+A) Alle TW sind NM.
+B) Einige TW sind NM.
+C) Einige TW sind keine NM.
+D) Alle TW sind keine NM.
 E) Keine der Schlussfolgerungen ist richtig.

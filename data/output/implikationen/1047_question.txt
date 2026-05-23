@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Pandas sind Krokodile.
-- Einige Krokodile sind Schauspieler.
+- Alle PF sind MI.
+- Alle MI sind HE.
 
-A) Einige Pandas sind Schauspieler.
-B) Alle Pandas sind Schauspieler.
-C) Alle Pandas sind keine Schauspieler.
-D) Einige Pandas sind keine Schauspieler.
+A) Alle PF sind keine HE.
+B) Einige PF sind HE.
+C) Einige PF sind keine HE.
+D) Alle PF sind HE.
 E) Keine der Schlussfolgerungen ist richtig.

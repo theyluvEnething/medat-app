@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Menschen sind keine Amseln.
-- Einige Amseln sind keine Orchideen.
+- Alle VBI sind NKT.
+- Einige NKT sind EWR.
 
-A) Alle Menschen sind keine Orchideen.
-B) Einige Menschen sind Orchideen.
-C) Einige Menschen sind keine Orchideen.
-D) Alle Menschen sind Orchideen.
+A) Alle VBI sind keine EWR.
+B) Einige VBI sind EWR.
+C) Einige VBI sind keine EWR.
+D) Alle VBI sind EWR.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Taucher sind Maler.
-- Einige Maler sind Mathematiker.
+- Einige DT sind KV.
+- Alle KV sind keine SJ.
 
-A) Einige Taucher sind Mathematiker.
-B) Alle Taucher sind Mathematiker.
-C) Einige Taucher sind keine Mathematiker.
-D) Alle Taucher sind keine Mathematiker.
+A) Alle DT sind SJ.
+B) Einige DT sind keine SJ.
+C) Einige DT sind SJ.
+D) Alle DT sind keine SJ.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Flugzeuge sind Diamanten.
-- Einige Diamanten sind keine Uhren.
+- Einige AR sind CU.
+- Alle CU sind keine VD.
 
-A) Einige Flugzeuge sind keine Uhren.
-B) Alle Flugzeuge sind Uhren.
-C) Alle Flugzeuge sind keine Uhren.
-D) Einige Flugzeuge sind Uhren.
+A) Alle AR sind VD.
+B) Alle AR sind keine VD.
+C) Einige AR sind keine VD.
+D) Einige AR sind VD.
 E) Keine der Schlussfolgerungen ist richtig.

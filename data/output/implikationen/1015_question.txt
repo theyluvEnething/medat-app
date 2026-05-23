@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schriftsteller sind Statuen.
-- Einige Statuen sind Wissenschaftler.
+- Alle WJ sind WMT.
+- Alle WMT sind JP.
 
-A) Alle Schriftsteller sind Wissenschaftler.
-B) Einige Schriftsteller sind Wissenschaftler.
-C) Alle Schriftsteller sind keine Wissenschaftler.
-D) Einige Schriftsteller sind keine Wissenschaftler.
+A) Alle WJ sind keine JP.
+B) Einige WJ sind keine JP.
+C) Einige WJ sind JP.
+D) Alle WJ sind JP.
 E) Keine der Schlussfolgerungen ist richtig.

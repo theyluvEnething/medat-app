@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Ingenieure sind Dichter.
-- Alle Dichter sind keine Blumen.
+- Einige EL sind WZ.
+- Alle WZ sind EHU.
 
-A) Alle Ingenieure sind Blumen.
-B) Einige Ingenieure sind Blumen.
-C) Einige Ingenieure sind keine Blumen.
-D) Alle Ingenieure sind keine Blumen.
+A) Alle EL sind EHU.
+B) Einige EL sind keine EHU.
+C) Einige EL sind EHU.
+D) Alle EL sind keine EHU.
 E) Keine der Schlussfolgerungen ist richtig.

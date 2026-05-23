@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wirbeltiere sind keine Säugetiere.
-- Alle Säugetiere sind keine Haie.
+- Einige WO sind EH.
+- Alle EH sind keine NH.
 
-A) Einige Wirbeltiere sind Haie.
-B) Alle Wirbeltiere sind keine Haie.
-C) Alle Wirbeltiere sind Haie.
-D) Einige Wirbeltiere sind keine Haie.
+A) Einige WO sind NH.
+B) Alle WO sind NH.
+C) Alle WO sind keine NH.
+D) Einige WO sind keine NH.
 E) Keine der Schlussfolgerungen ist richtig.

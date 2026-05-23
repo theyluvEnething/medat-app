@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Eidechsen sind keine Insekten.
-- Einige Insekten sind keine Smartphones.
+- Alle ND sind UGH.
+- Einige UGH sind DH.
 
-A) Einige Eidechsen sind Smartphones.
-B) Alle Eidechsen sind keine Smartphones.
-C) Alle Eidechsen sind Smartphones.
-D) Einige Eidechsen sind keine Smartphones.
+A) Alle ND sind keine DH.
+B) Einige ND sind DH.
+C) Alle ND sind DH.
+D) Einige ND sind keine DH.
 E) Keine der Schlussfolgerungen ist richtig.

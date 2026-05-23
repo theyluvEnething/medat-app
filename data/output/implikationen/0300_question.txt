@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Ärzte sind Schriftsteller.
-- Einige Schriftsteller sind Möbel.
+- Einige FFK sind LA.
+- Alle LA sind RN.
 
-A) Alle Ärzte sind keine Möbel.
-B) Alle Ärzte sind Möbel.
-C) Einige Ärzte sind Möbel.
-D) Einige Ärzte sind keine Möbel.
+A) Alle FFK sind keine RN.
+B) Alle FFK sind RN.
+C) Einige FFK sind keine RN.
+D) Einige FFK sind RN.
 E) Keine der Schlussfolgerungen ist richtig.

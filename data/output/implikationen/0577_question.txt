@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Züge sind keine Diamanten.
-- Einige Diamanten sind Metalle.
+- Alle ND sind keine ZC.
+- Alle ZC sind SPH.
 
-A) Einige Züge sind Metalle.
-B) Alle Züge sind Metalle.
-C) Alle Züge sind keine Metalle.
-D) Einige Züge sind keine Metalle.
+A) Alle ND sind keine SPH.
+B) Alle ND sind SPH.
+C) Einige ND sind SPH.
+D) Einige ND sind keine SPH.
 E) Keine der Schlussfolgerungen ist richtig.

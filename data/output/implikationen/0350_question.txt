@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Quallen sind Wirbeltiere.
-- Alle Wirbeltiere sind keine Mathematiker.
+- Einige KV sind FM.
+- Einige FM sind IF.
 
-A) Einige Quallen sind keine Mathematiker.
-B) Alle Quallen sind Mathematiker.
-C) Alle Quallen sind keine Mathematiker.
-D) Einige Quallen sind Mathematiker.
+A) Alle KV sind keine IF.
+B) Alle KV sind IF.
+C) Einige KV sind IF.
+D) Einige KV sind keine IF.
 E) Keine der Schlussfolgerungen ist richtig.

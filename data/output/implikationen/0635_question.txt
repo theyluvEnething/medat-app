@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tomaten sind Schauspieler.
-- Einige Schauspieler sind Lehrer.
+- Alle TOZ sind keine TUE.
+- Alle TUE sind CE.
 
-A) Alle Tomaten sind keine Lehrer.
-B) Alle Tomaten sind Lehrer.
-C) Einige Tomaten sind Lehrer.
-D) Einige Tomaten sind keine Lehrer.
+A) Alle TOZ sind CE.
+B) Einige TOZ sind keine CE.
+C) Alle TOZ sind keine CE.
+D) Einige TOZ sind CE.
 E) Keine der Schlussfolgerungen ist richtig.

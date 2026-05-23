@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Stühle sind keine Schlangen.
-- Einige Schlangen sind keine Wirbeltiere.
+- Alle MZ sind SP.
+- Alle SP sind keine RMU.
 
-A) Alle Stühle sind Wirbeltiere.
-B) Alle Stühle sind keine Wirbeltiere.
-C) Einige Stühle sind Wirbeltiere.
-D) Einige Stühle sind keine Wirbeltiere.
+A) Einige MZ sind RMU.
+B) Alle MZ sind keine RMU.
+C) Alle MZ sind RMU.
+D) Einige MZ sind keine RMU.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Sänger sind Möbel.
-- Einige Möbel sind keine Dichter.
+- Alle FN sind keine LC.
+- Alle LC sind UN.
 
-A) Einige Sänger sind Dichter.
-B) Alle Sänger sind keine Dichter.
-C) Einige Sänger sind keine Dichter.
-D) Alle Sänger sind Dichter.
+A) Alle FN sind UN.
+B) Einige FN sind UN.
+C) Alle FN sind keine UN.
+D) Einige FN sind keine UN.
 E) Keine der Schlussfolgerungen ist richtig.

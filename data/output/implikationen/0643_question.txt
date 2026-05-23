@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Statuen sind keine Gräser.
-- Einige Gräser sind Dichter.
+- Einige AM sind GCL.
+- Alle GCL sind MR.
 
-A) Einige Statuen sind keine Dichter.
-B) Alle Statuen sind keine Dichter.
-C) Alle Statuen sind Dichter.
-D) Einige Statuen sind Dichter.
+A) Einige AM sind keine MR.
+B) Alle AM sind MR.
+C) Alle AM sind keine MR.
+D) Einige AM sind MR.
 E) Keine der Schlussfolgerungen ist richtig.

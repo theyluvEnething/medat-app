@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Sportler sind Dinosaurier.
-- Einige Dinosaurier sind keine Schauspieler.
+- Alle LL sind keine DW.
+- Einige DW sind RD.
 
-A) Alle Sportler sind Schauspieler.
-B) Einige Sportler sind keine Schauspieler.
-C) Alle Sportler sind keine Schauspieler.
-D) Einige Sportler sind Schauspieler.
+A) Einige LL sind keine RD.
+B) Einige LL sind RD.
+C) Alle LL sind keine RD.
+D) Alle LL sind RD.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Türen sind keine Pandas.
-- Einige Pandas sind Klaviere.
+- Einige NK sind MIO.
+- Alle MIO sind keine AA.
 
-A) Alle Türen sind Klaviere.
-B) Einige Türen sind Klaviere.
-C) Einige Türen sind keine Klaviere.
-D) Alle Türen sind keine Klaviere.
+A) Alle NK sind AA.
+B) Alle NK sind keine AA.
+C) Einige NK sind keine AA.
+D) Einige NK sind AA.
 E) Keine der Schlussfolgerungen ist richtig.

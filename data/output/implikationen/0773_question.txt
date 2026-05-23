@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wissenschaftler sind keine Nashörner.
-- Einige Nashörner sind keine Mäuse.
+- Alle WL sind WF.
+- Alle WF sind SP.
 
-A) Alle Wissenschaftler sind Mäuse.
-B) Alle Wissenschaftler sind keine Mäuse.
-C) Einige Wissenschaftler sind Mäuse.
-D) Einige Wissenschaftler sind keine Mäuse.
+A) Einige WL sind keine SP.
+B) Alle WL sind keine SP.
+C) Alle WL sind SP.
+D) Einige WL sind SP.
 E) Keine der Schlussfolgerungen ist richtig.

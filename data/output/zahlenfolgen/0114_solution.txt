@@ -1,2 +1,2 @@
-D — -42/-50
-Konstante Differenz +-8
+C — 216/432
+×2, ×3 im Wechsel

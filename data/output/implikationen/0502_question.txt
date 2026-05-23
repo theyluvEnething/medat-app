@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Vegetarier sind Musikinstrumente.
-- Alle Musikinstrumente sind keine Züge.
+- Einige FV sind NZV.
+- Alle NZV sind ZF.
 
-A) Einige Vegetarier sind Züge.
-B) Alle Vegetarier sind Züge.
-C) Einige Vegetarier sind keine Züge.
-D) Alle Vegetarier sind keine Züge.
+A) Alle FV sind keine ZF.
+B) Alle FV sind ZF.
+C) Einige FV sind ZF.
+D) Einige FV sind keine ZF.
 E) Keine der Schlussfolgerungen ist richtig.

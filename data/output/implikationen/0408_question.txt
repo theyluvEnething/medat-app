@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Taucher sind keine Ingenieure.
-- Einige Ingenieure sind Tiger.
+- Einige NRC sind OI.
+- Alle OI sind keine HT.
 
-A) Einige Taucher sind keine Tiger.
-B) Einige Taucher sind Tiger.
-C) Alle Taucher sind keine Tiger.
-D) Alle Taucher sind Tiger.
+A) Alle NRC sind keine HT.
+B) Alle NRC sind HT.
+C) Einige NRC sind HT.
+D) Einige NRC sind keine HT.
 E) Keine der Schlussfolgerungen ist richtig.

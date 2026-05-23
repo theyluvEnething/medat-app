@@ -1,7 +1,0 @@
-Zahlenfolge: 4 10 14 24 38 62 ? ?
-
-A) 263/426
-B) 263/423
-C) 263/422
-D) 262/424
-E) Keine der Antworten ist richtig

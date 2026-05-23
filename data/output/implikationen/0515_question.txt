@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Lilien sind keine Flugzeuge.
-- Einige Flugzeuge sind Dinosaurier.
+- Alle OI sind JEA.
+- Alle JEA sind AB.
 
-A) Einige Lilien sind keine Dinosaurier.
-B) Einige Lilien sind Dinosaurier.
-C) Alle Lilien sind keine Dinosaurier.
-D) Alle Lilien sind Dinosaurier.
+A) Einige OI sind AB.
+B) Alle OI sind keine AB.
+C) Alle OI sind AB.
+D) Einige OI sind keine AB.
 E) Keine der Schlussfolgerungen ist richtig.

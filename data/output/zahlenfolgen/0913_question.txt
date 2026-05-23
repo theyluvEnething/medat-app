@@ -1,7 +1,0 @@
-Zahlenfolge: 38 37 36 35 34 33 ? ?
-
-A) 31/30
-B) 32/32
-C) 29/31
-D) 29/32
-E) Keine der Antworten ist richtig

@@ -1,7 +1,7 @@
-Zahlenfolge: 10 6 2 -2 -6 -10 ? ?
+Zahlenfolge: 4 12 10 30 28 84 ? ?
 
-A) -18/-22
-B) -17/-20
-C) -19/-23
-D) -14/-18
+A) 100/116
+B) 168/224
+C) 82/246
+D) 80/246
 E) Keine der Antworten ist richtig

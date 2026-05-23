@@ -1,7 +1,0 @@
-Zahlenfolge: 26 27 32 41 54 71 ? ?
-
-A) 147/178
-B) 148/177
-C) 146/179
-D) 145/177
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Delfine sind keine Nashörner.
-- Einige Nashörner sind Hunde.
+- Einige CL sind OW.
+- Alle OW sind UJ.
 
-A) Alle Delfine sind keine Hunde.
-B) Alle Delfine sind Hunde.
-C) Einige Delfine sind Hunde.
-D) Einige Delfine sind keine Hunde.
+A) Einige CL sind UJ.
+B) Einige CL sind keine UJ.
+C) Alle CL sind UJ.
+D) Alle CL sind keine UJ.
 E) Keine der Schlussfolgerungen ist richtig.

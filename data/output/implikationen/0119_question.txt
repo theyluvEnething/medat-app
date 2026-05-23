@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Stühle sind Wirbeltiere.
-- Alle Wirbeltiere sind keine Tannen.
+- Einige VH sind keine SNN.
+- Alle SNN sind FS.
 
-A) Alle Stühle sind keine Tannen.
-B) Einige Stühle sind Tannen.
-C) Alle Stühle sind Tannen.
-D) Einige Stühle sind keine Tannen.
+A) Einige VH sind keine FS.
+B) Alle VH sind FS.
+C) Alle VH sind keine FS.
+D) Einige VH sind FS.
 E) Keine der Schlussfolgerungen ist richtig.

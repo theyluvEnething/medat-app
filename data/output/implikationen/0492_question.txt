@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Lilien sind Anwälte.
-- Einige Anwälte sind Autos.
+- Alle FGD sind DL.
+- Einige DL sind keine AB.
 
-A) Alle Lilien sind keine Autos.
-B) Einige Lilien sind Autos.
-C) Einige Lilien sind keine Autos.
-D) Alle Lilien sind Autos.
+A) Alle FGD sind keine AB.
+B) Alle FGD sind AB.
+C) Einige FGD sind AB.
+D) Einige FGD sind keine AB.
 E) Keine der Schlussfolgerungen ist richtig.

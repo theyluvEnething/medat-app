@@ -1,2 +1,2 @@
-C — 98/89
-Ziffern umdrehen, dann +7
+A — 259/515
+Differenz verdoppelt sich je Schritt

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Flugzeuge sind keine Vegetarier.
-- Einige Vegetarier sind keine Giraffen.
+- Alle PE sind AHR.
+- Alle AHR sind FD.
 
-A) Alle Flugzeuge sind keine Giraffen.
-B) Einige Flugzeuge sind keine Giraffen.
-C) Einige Flugzeuge sind Giraffen.
-D) Alle Flugzeuge sind Giraffen.
+A) Einige PE sind FD.
+B) Alle PE sind keine FD.
+C) Einige PE sind keine FD.
+D) Alle PE sind FD.
 E) Keine der Schlussfolgerungen ist richtig.

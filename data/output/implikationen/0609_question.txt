@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Giraffen sind Vögel.
-- Alle Vögel sind Vulkane.
+- Einige JA sind GH.
+- Alle GH sind keine JBV.
 
-A) Einige Giraffen sind keine Vulkane.
-B) Einige Giraffen sind Vulkane.
-C) Alle Giraffen sind Vulkane.
-D) Alle Giraffen sind keine Vulkane.
+A) Einige JA sind keine JBV.
+B) Alle JA sind keine JBV.
+C) Einige JA sind JBV.
+D) Alle JA sind JBV.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Politiker sind keine Musikinstrumente.
-- Alle Musikinstrumente sind Chemiker.
+- Einige EH sind WD.
+- Alle WD sind keine CON.
 
-A) Einige Politiker sind Chemiker.
-B) Alle Politiker sind keine Chemiker.
-C) Alle Politiker sind Chemiker.
-D) Einige Politiker sind keine Chemiker.
+A) Alle EH sind CON.
+B) Alle EH sind keine CON.
+C) Einige EH sind keine CON.
+D) Einige EH sind CON.
 E) Keine der Schlussfolgerungen ist richtig.

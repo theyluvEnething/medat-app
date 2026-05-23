@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tannen sind Ärzte.
-- Einige Ärzte sind Statuen.
+- Alle ZU sind WJ.
+- Alle WJ sind SA.
 
-A) Alle Tannen sind Statuen.
-B) Einige Tannen sind keine Statuen.
-C) Alle Tannen sind keine Statuen.
-D) Einige Tannen sind Statuen.
+A) Alle ZU sind SA.
+B) Einige ZU sind keine SA.
+C) Alle ZU sind keine SA.
+D) Einige ZU sind SA.
 E) Keine der Schlussfolgerungen ist richtig.

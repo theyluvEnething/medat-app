@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Vögel sind keine Vegetarier.
-- Einige Vegetarier sind Dinosaurier.
+- Einige VV sind UO.
+- Alle UO sind keine MV.
 
-A) Alle Vögel sind Dinosaurier.
-B) Einige Vögel sind Dinosaurier.
-C) Alle Vögel sind keine Dinosaurier.
-D) Einige Vögel sind keine Dinosaurier.
+A) Alle VV sind keine MV.
+B) Alle VV sind MV.
+C) Einige VV sind keine MV.
+D) Einige VV sind MV.
 E) Keine der Schlussfolgerungen ist richtig.

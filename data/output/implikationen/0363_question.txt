@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Stühle sind keine Gedichte.
-- Alle Gedichte sind Mammute.
+- Einige BSC sind NC.
+- Alle NC sind keine CR.
 
-A) Einige Stühle sind Mammute.
-B) Alle Stühle sind keine Mammute.
-C) Einige Stühle sind keine Mammute.
-D) Alle Stühle sind Mammute.
+A) Einige BSC sind keine CR.
+B) Alle BSC sind CR.
+C) Einige BSC sind CR.
+D) Alle BSC sind keine CR.
 E) Keine der Schlussfolgerungen ist richtig.

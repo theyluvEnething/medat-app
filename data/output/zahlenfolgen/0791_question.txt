@@ -1,7 +1,0 @@
-Zahlenfolge: 20 6 26 32 58 90 ? ?
-
-A) 386/624
-B) 385/626
-C) 384/625
-D) 624/386
-E) Keine der Antworten ist richtig

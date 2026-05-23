@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Werkzeuge sind Smartphones.
-- Alle Smartphones sind Pilze.
+- Alle MZH sind ZM.
+- Alle ZM sind CW.
 
-A) Alle Werkzeuge sind keine Pilze.
-B) Einige Werkzeuge sind keine Pilze.
-C) Einige Werkzeuge sind Pilze.
-D) Alle Werkzeuge sind Pilze.
+A) Alle MZH sind keine CW.
+B) Alle MZH sind CW.
+C) Einige MZH sind CW.
+D) Einige MZH sind keine CW.
 E) Keine der Schlussfolgerungen ist richtig.

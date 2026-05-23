@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Lilien sind keine Nashörner.
-- Alle Nashörner sind keine Sportler.
+- Einige ZA sind EE.
+- Alle EE sind keine LZ.
 
-A) Alle Lilien sind keine Sportler.
-B) Einige Lilien sind keine Sportler.
-C) Einige Lilien sind Sportler.
-D) Alle Lilien sind Sportler.
+A) Einige ZA sind LZ.
+B) Einige ZA sind keine LZ.
+C) Alle ZA sind LZ.
+D) Alle ZA sind keine LZ.
 E) Keine der Schlussfolgerungen ist richtig.

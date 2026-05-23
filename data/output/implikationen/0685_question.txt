@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Kätzchen sind Ärzte.
-- Alle Ärzte sind Mammute.
+- Alle AE sind CHU.
+- Alle CHU sind keine UJ.
 
-A) Alle Kätzchen sind keine Mammute.
-B) Einige Kätzchen sind Mammute.
-C) Einige Kätzchen sind keine Mammute.
-D) Alle Kätzchen sind Mammute.
+A) Einige AE sind UJ.
+B) Einige AE sind keine UJ.
+C) Alle AE sind UJ.
+D) Alle AE sind keine UJ.
 E) Keine der Schlussfolgerungen ist richtig.

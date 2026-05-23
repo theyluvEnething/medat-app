@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Diamanten sind keine Schlangen.
-- Alle Schlangen sind keine Tiger.
+- Einige MET sind LW.
+- Einige LW sind keine PRI.
 
-A) Alle Diamanten sind keine Tiger.
-B) Alle Diamanten sind Tiger.
-C) Einige Diamanten sind Tiger.
-D) Einige Diamanten sind keine Tiger.
+A) Einige MET sind keine PRI.
+B) Alle MET sind keine PRI.
+C) Einige MET sind PRI.
+D) Alle MET sind PRI.
 E) Keine der Schlussfolgerungen ist richtig.

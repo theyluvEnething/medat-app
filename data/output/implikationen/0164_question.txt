@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Klaviere sind Schauspieler.
-- Einige Schauspieler sind Schriftsteller.
+- Alle JI sind UMN.
+- Alle UMN sind MA.
 
-A) Alle Klaviere sind keine Schriftsteller.
-B) Einige Klaviere sind Schriftsteller.
-C) Alle Klaviere sind Schriftsteller.
-D) Einige Klaviere sind keine Schriftsteller.
+A) Einige JI sind MA.
+B) Einige JI sind keine MA.
+C) Alle JI sind MA.
+D) Alle JI sind keine MA.
 E) Keine der Schlussfolgerungen ist richtig.

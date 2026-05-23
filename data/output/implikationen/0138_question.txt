@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Sänger sind keine Züge.
-- Einige Züge sind keine Mammute.
+- Alle OF sind OZ.
+- Alle OZ sind RIE.
 
-A) Alle Sänger sind Mammute.
-B) Einige Sänger sind keine Mammute.
-C) Einige Sänger sind Mammute.
-D) Alle Sänger sind keine Mammute.
+A) Einige OF sind RIE.
+B) Einige OF sind keine RIE.
+C) Alle OF sind RIE.
+D) Alle OF sind keine RIE.
 E) Keine der Schlussfolgerungen ist richtig.

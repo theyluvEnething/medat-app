@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Smartphones sind Tomaten.
-- Einige Tomaten sind keine Schiffe.
+- Einige TP sind CK.
+- Alle CK sind keine IN.
 
-A) Einige Smartphones sind keine Schiffe.
-B) Einige Smartphones sind Schiffe.
-C) Alle Smartphones sind keine Schiffe.
-D) Alle Smartphones sind Schiffe.
+A) Einige TP sind keine IN.
+B) Alle TP sind keine IN.
+C) Alle TP sind IN.
+D) Einige TP sind IN.
 E) Keine der Schlussfolgerungen ist richtig.

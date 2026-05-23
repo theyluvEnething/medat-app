@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Kupfer sind keine Uhren.
-- Einige Uhren sind keine Politiker.
+- Einige OI sind KA.
+- Alle KA sind keine ES.
 
-A) Alle Kupfer sind Politiker.
-B) Einige Kupfer sind keine Politiker.
-C) Einige Kupfer sind Politiker.
-D) Alle Kupfer sind keine Politiker.
+A) Alle OI sind keine ES.
+B) Alle OI sind ES.
+C) Einige OI sind ES.
+D) Einige OI sind keine ES.
 E) Keine der Schlussfolgerungen ist richtig.

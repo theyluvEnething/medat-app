@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Delfine sind keine Lehrer.
-- Alle Lehrer sind keine Bücher.
+- Alle OT sind ZO.
+- Einige ZO sind CZO.
 
-A) Alle Delfine sind Bücher.
-B) Einige Delfine sind Bücher.
-C) Alle Delfine sind keine Bücher.
-D) Einige Delfine sind keine Bücher.
+A) Einige OT sind keine CZO.
+B) Einige OT sind CZO.
+C) Alle OT sind keine CZO.
+D) Alle OT sind CZO.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 17 18 21 26 33 42 ? ?
-
-A) 81/98
-B) 83/100
-C) 83/97
-D) 82/97
-E) Keine der Antworten ist richtig

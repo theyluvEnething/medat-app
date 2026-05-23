@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Klaviere sind Pandas.
-- Alle Pandas sind Flugzeuge.
+- Alle AF sind MBD.
+- Alle MBD sind IMB.
 
-A) Einige Klaviere sind keine Flugzeuge.
-B) Einige Klaviere sind Flugzeuge.
-C) Alle Klaviere sind Flugzeuge.
-D) Alle Klaviere sind keine Flugzeuge.
+A) Einige AF sind IMB.
+B) Alle AF sind IMB.
+C) Einige AF sind keine IMB.
+D) Alle AF sind keine IMB.
 E) Keine der Schlussfolgerungen ist richtig.

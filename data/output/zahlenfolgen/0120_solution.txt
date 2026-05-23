@@ -1,2 +1,2 @@
-B — 351/520
-n³ + 8
+B — 74/121
+Differenz-Fibonacci: die Differenzen folgen der Fibonacci-Regel

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Roboter sind Tulpen.
-- Alle Tulpen sind Skulpturen.
+- Alle SC sind PV.
+- Alle PV sind CB.
 
-A) Einige Roboter sind keine Skulpturen.
-B) Einige Roboter sind Skulpturen.
-C) Alle Roboter sind Skulpturen.
-D) Alle Roboter sind keine Skulpturen.
+A) Einige SC sind CB.
+B) Alle SC sind keine CB.
+C) Einige SC sind keine CB.
+D) Alle SC sind CB.
 E) Keine der Schlussfolgerungen ist richtig.

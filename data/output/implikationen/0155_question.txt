@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tabletten sind Stühle.
-- Einige Stühle sind keine Radios.
+- Einige TI sind NS.
+- Alle NS sind SJ.
 
-A) Alle Tabletten sind keine Radios.
-B) Einige Tabletten sind keine Radios.
-C) Alle Tabletten sind Radios.
-D) Einige Tabletten sind Radios.
+A) Alle TI sind keine SJ.
+B) Einige TI sind keine SJ.
+C) Einige TI sind SJ.
+D) Alle TI sind SJ.
 E) Keine der Schlussfolgerungen ist richtig.

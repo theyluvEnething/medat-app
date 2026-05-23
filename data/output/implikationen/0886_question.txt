@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Elektroautos sind keine Kätzchen.
-- Einige Kätzchen sind keine Mammute.
+- Alle SNJ sind WF.
+- Alle WF sind UDS.
 
-A) Einige Elektroautos sind Mammute.
-B) Alle Elektroautos sind Mammute.
-C) Einige Elektroautos sind keine Mammute.
-D) Alle Elektroautos sind keine Mammute.
+A) Einige SNJ sind UDS.
+B) Alle SNJ sind keine UDS.
+C) Einige SNJ sind keine UDS.
+D) Alle SNJ sind UDS.
 E) Keine der Schlussfolgerungen ist richtig.

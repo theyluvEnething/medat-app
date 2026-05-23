@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Autos sind Eidechsen.
-- Alle Eidechsen sind keine Zebras.
+- Alle DZ sind BH.
+- Alle BH sind TE.
 
-A) Einige Autos sind keine Zebras.
-B) Einige Autos sind Zebras.
-C) Alle Autos sind Zebras.
-D) Alle Autos sind keine Zebras.
+A) Einige DZ sind TE.
+B) Alle DZ sind TE.
+C) Einige DZ sind keine TE.
+D) Alle DZ sind keine TE.
 E) Keine der Schlussfolgerungen ist richtig.

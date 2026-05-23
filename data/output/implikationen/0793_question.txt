@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Stühle sind Anwälte.
-- Alle Anwälte sind Züge.
+- Einige ZOO sind ID.
+- Alle ID sind keine TG.
 
-A) Alle Stühle sind Züge.
-B) Einige Stühle sind Züge.
-C) Alle Stühle sind keine Züge.
-D) Einige Stühle sind keine Züge.
+A) Alle ZOO sind TG.
+B) Alle ZOO sind keine TG.
+C) Einige ZOO sind TG.
+D) Einige ZOO sind keine TG.
 E) Keine der Schlussfolgerungen ist richtig.

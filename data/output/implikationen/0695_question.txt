@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Stühle sind Orchideen.
-- Alle Orchideen sind keine Tannen.
+- Alle SN sind keine HS.
+- Alle HS sind JE.
 
-A) Alle Stühle sind Tannen.
-B) Alle Stühle sind keine Tannen.
-C) Einige Stühle sind Tannen.
-D) Einige Stühle sind keine Tannen.
+A) Einige SN sind keine JE.
+B) Einige SN sind JE.
+C) Alle SN sind keine JE.
+D) Alle SN sind JE.
 E) Keine der Schlussfolgerungen ist richtig.

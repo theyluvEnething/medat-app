@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Vulkane sind Granite.
-- Einige Granite sind keine Mammute.
+- Alle RP sind keine FS.
+- Alle FS sind JJZ.
 
-A) Einige Vulkane sind keine Mammute.
-B) Alle Vulkane sind Mammute.
-C) Alle Vulkane sind keine Mammute.
-D) Einige Vulkane sind Mammute.
+A) Alle RP sind JJZ.
+B) Einige RP sind JJZ.
+C) Alle RP sind keine JJZ.
+D) Einige RP sind keine JJZ.
 E) Keine der Schlussfolgerungen ist richtig.

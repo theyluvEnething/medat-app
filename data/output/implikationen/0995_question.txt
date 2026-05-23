@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wirbeltiere sind keine Kätzchen.
-- Einige Kätzchen sind Roboter.
+- Alle JD sind RK.
+- Alle RK sind JWN.
 
-A) Einige Wirbeltiere sind keine Roboter.
-B) Alle Wirbeltiere sind keine Roboter.
-C) Alle Wirbeltiere sind Roboter.
-D) Einige Wirbeltiere sind Roboter.
+A) Alle JD sind keine JWN.
+B) Einige JD sind keine JWN.
+C) Einige JD sind JWN.
+D) Alle JD sind JWN.
 E) Keine der Schlussfolgerungen ist richtig.

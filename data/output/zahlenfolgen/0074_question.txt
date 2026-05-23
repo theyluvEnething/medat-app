@@ -1,7 +1,7 @@
-Zahlenfolge: 7 15 23 31 39 47 ? ?
+Zahlenfolge: 10 18 34 58 90 130 ? ?
 
-A) 61/72
-B) 61/69
-C) 63/71
-D) 65/73
+A) 178/234
+B) 178/233
+C) 180/234
+D) 170/210
 E) Keine der Antworten ist richtig

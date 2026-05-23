@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Pilze sind keine Amphibien.
-- Alle Amphibien sind Gräser.
+- Alle SO sind OVK.
+- Einige OVK sind ZMH.
 
-A) Alle Pilze sind Gräser.
-B) Einige Pilze sind keine Gräser.
-C) Einige Pilze sind Gräser.
-D) Alle Pilze sind keine Gräser.
+A) Alle SO sind ZMH.
+B) Einige SO sind keine ZMH.
+C) Alle SO sind keine ZMH.
+D) Einige SO sind ZMH.
 E) Keine der Schlussfolgerungen ist richtig.

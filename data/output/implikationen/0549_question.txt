@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Gedichte sind keine Züge.
-- Einige Züge sind keine Tabletten.
+- Einige SPM sind keine CK.
+- Alle CK sind GPZ.
 
-A) Einige Gedichte sind Tabletten.
-B) Alle Gedichte sind keine Tabletten.
-C) Alle Gedichte sind Tabletten.
-D) Einige Gedichte sind keine Tabletten.
+A) Alle SPM sind keine GPZ.
+B) Einige SPM sind GPZ.
+C) Einige SPM sind keine GPZ.
+D) Alle SPM sind GPZ.
 E) Keine der Schlussfolgerungen ist richtig.

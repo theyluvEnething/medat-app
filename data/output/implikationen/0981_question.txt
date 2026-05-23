@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Flugzeuge sind keine Musikinstrumente.
-- Alle Musikinstrumente sind Nashörner.
+- Einige LO sind BE.
+- Einige BE sind keine LZ.
 
-A) Einige Flugzeuge sind Nashörner.
-B) Alle Flugzeuge sind keine Nashörner.
-C) Alle Flugzeuge sind Nashörner.
-D) Einige Flugzeuge sind keine Nashörner.
+A) Alle LO sind keine LZ.
+B) Einige LO sind LZ.
+C) Alle LO sind LZ.
+D) Einige LO sind keine LZ.
 E) Keine der Schlussfolgerungen ist richtig.

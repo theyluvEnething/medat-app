@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Kupfer sind keine Mäuse.
-- Einige Mäuse sind keine Diamanten.
+- Einige OI sind NO.
+- Alle NO sind keine CV.
 
-A) Einige Kupfer sind keine Diamanten.
-B) Alle Kupfer sind keine Diamanten.
-C) Alle Kupfer sind Diamanten.
-D) Einige Kupfer sind Diamanten.
+A) Alle OI sind keine CV.
+B) Alle OI sind CV.
+C) Einige OI sind CV.
+D) Einige OI sind keine CV.
 E) Keine der Schlussfolgerungen ist richtig.

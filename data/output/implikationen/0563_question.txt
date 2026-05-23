@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Giraffen sind Chemiker.
-- Alle Chemiker sind Orchideen.
+- Einige JVC sind LLE.
+- Alle LLE sind UU.
 
-A) Einige Giraffen sind keine Orchideen.
-B) Alle Giraffen sind keine Orchideen.
-C) Alle Giraffen sind Orchideen.
-D) Einige Giraffen sind Orchideen.
+A) Einige JVC sind keine UU.
+B) Alle JVC sind UU.
+C) Alle JVC sind keine UU.
+D) Einige JVC sind UU.
 E) Keine der Schlussfolgerungen ist richtig.

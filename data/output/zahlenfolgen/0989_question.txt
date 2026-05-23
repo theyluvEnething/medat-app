@@ -1,7 +1,0 @@
-Zahlenfolge: 16 17 51 52 156 157 ? ?
-
-A) 1414/1418
-B) 1416/1417
-C) 1415/1418
-D) 1415/1416
-E) Keine der Antworten ist richtig

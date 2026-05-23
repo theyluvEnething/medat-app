@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Metalle sind Amphibien.
-- Alle Amphibien sind Hunde.
+- Einige HP sind AM.
+- Alle AM sind DA.
 
-A) Einige Metalle sind Hunde.
-B) Alle Metalle sind Hunde.
-C) Alle Metalle sind keine Hunde.
-D) Einige Metalle sind keine Hunde.
+A) Einige HP sind DA.
+B) Alle HP sind DA.
+C) Alle HP sind keine DA.
+D) Einige HP sind keine DA.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: -10 -5 4 17 34 55 ? ?
-
-A) 141/178
-B) 142/179
-C) 140/177
-D) 155/192
-E) Keine der Antworten ist richtig

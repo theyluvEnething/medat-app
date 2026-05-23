@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tabletten sind Hunde.
-- Einige Hunde sind keine Kätzchen.
+- Einige VL sind NSP.
+- Alle NSP sind keine ZMG.
 
-A) Alle Tabletten sind Kätzchen.
-B) Alle Tabletten sind keine Kätzchen.
-C) Einige Tabletten sind Kätzchen.
-D) Einige Tabletten sind keine Kätzchen.
+A) Einige VL sind ZMG.
+B) Einige VL sind keine ZMG.
+C) Alle VL sind ZMG.
+D) Alle VL sind keine ZMG.
 E) Keine der Schlussfolgerungen ist richtig.

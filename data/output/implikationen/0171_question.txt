@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Elektroautos sind keine Tomaten.
-- Einige Tomaten sind keine Schauspieler.
+- Einige DT sind SM.
+- Alle SM sind keine OWJ.
 
-A) Alle Elektroautos sind Schauspieler.
-B) Einige Elektroautos sind Schauspieler.
-C) Einige Elektroautos sind keine Schauspieler.
-D) Alle Elektroautos sind keine Schauspieler.
+A) Alle DT sind keine OWJ.
+B) Einige DT sind keine OWJ.
+C) Alle DT sind OWJ.
+D) Einige DT sind OWJ.
 E) Keine der Schlussfolgerungen ist richtig.

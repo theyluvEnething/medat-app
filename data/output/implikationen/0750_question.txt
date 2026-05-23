@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Flugzeuge sind Ingenieure.
-- Einige Ingenieure sind keine Schauspieler.
+- Alle JU sind keine EH.
+- Alle EH sind DBZ.
 
-A) Alle Flugzeuge sind keine Schauspieler.
-B) Einige Flugzeuge sind Schauspieler.
-C) Einige Flugzeuge sind keine Schauspieler.
-D) Alle Flugzeuge sind Schauspieler.
+A) Einige JU sind keine DBZ.
+B) Einige JU sind DBZ.
+C) Alle JU sind keine DBZ.
+D) Alle JU sind DBZ.
 E) Keine der Schlussfolgerungen ist richtig.

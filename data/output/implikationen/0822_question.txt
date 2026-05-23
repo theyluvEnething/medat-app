@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mäuse sind Gedichte.
-- Einige Gedichte sind keine Sänger.
+- Einige WC sind JN.
+- Einige JN sind keine MKO.
 
-A) Einige Mäuse sind keine Sänger.
-B) Alle Mäuse sind Sänger.
-C) Alle Mäuse sind keine Sänger.
-D) Einige Mäuse sind Sänger.
+A) Alle WC sind keine MKO.
+B) Alle WC sind MKO.
+C) Einige WC sind MKO.
+D) Einige WC sind keine MKO.
 E) Keine der Schlussfolgerungen ist richtig.

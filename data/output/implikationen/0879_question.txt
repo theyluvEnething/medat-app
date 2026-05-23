@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Fotografen sind Amseln.
-- Einige Amseln sind Granite.
+- Alle SLA sind IL.
+- Alle IL sind GE.
 
-A) Einige Fotografen sind Granite.
-B) Alle Fotografen sind Granite.
-C) Einige Fotografen sind keine Granite.
-D) Alle Fotografen sind keine Granite.
+A) Einige SLA sind GE.
+B) Alle SLA sind keine GE.
+C) Einige SLA sind keine GE.
+D) Alle SLA sind GE.
 E) Keine der Schlussfolgerungen ist richtig.

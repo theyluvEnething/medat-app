@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Amseln sind keine Mäuse.
-- Einige Mäuse sind Maler.
+- Einige LA sind keine ZL.
+- Einige ZL sind KJ.
 
-A) Einige Amseln sind keine Maler.
-B) Alle Amseln sind keine Maler.
-C) Alle Amseln sind Maler.
-D) Einige Amseln sind Maler.
+A) Alle LA sind KJ.
+B) Einige LA sind keine KJ.
+C) Alle LA sind keine KJ.
+D) Einige LA sind KJ.
 E) Keine der Schlussfolgerungen ist richtig.

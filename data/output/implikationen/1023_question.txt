@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schlangen sind keine Fische.
-- Einige Fische sind keine Reptilien.
+- Alle LL sind OP.
+- Einige OP sind NJN.
 
-A) Einige Schlangen sind keine Reptilien.
-B) Alle Schlangen sind keine Reptilien.
-C) Alle Schlangen sind Reptilien.
-D) Einige Schlangen sind Reptilien.
+A) Einige LL sind NJN.
+B) Alle LL sind NJN.
+C) Alle LL sind keine NJN.
+D) Einige LL sind keine NJN.
 E) Keine der Schlussfolgerungen ist richtig.

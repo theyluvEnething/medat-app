@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Gedichte sind keine Fische.
-- Einige Fische sind Taucher.
+- Alle SZ sind FE.
+- Alle FE sind DEG.
 
-A) Einige Gedichte sind Taucher.
-B) Alle Gedichte sind keine Taucher.
-C) Einige Gedichte sind keine Taucher.
-D) Alle Gedichte sind Taucher.
+A) Alle SZ sind keine DEG.
+B) Einige SZ sind DEG.
+C) Alle SZ sind DEG.
+D) Einige SZ sind keine DEG.
 E) Keine der Schlussfolgerungen ist richtig.

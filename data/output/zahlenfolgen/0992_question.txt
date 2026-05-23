@@ -1,7 +1,0 @@
-Zahlenfolge: -19 -32 -45 -58 -71 -84 ? ?
-
-A) -108/-122
-B) -108/-125
-C) -111/-121
-D) -110/-123
-E) Keine der Antworten ist richtig

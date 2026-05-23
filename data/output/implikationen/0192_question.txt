@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Dichter sind Schauspieler.
-- Einige Schauspieler sind Marder.
+- Alle NK sind keine JC.
+- Alle JC sind IWF.
 
-A) Alle Dichter sind Marder.
-B) Einige Dichter sind Marder.
-C) Alle Dichter sind keine Marder.
-D) Einige Dichter sind keine Marder.
+A) Einige NK sind IWF.
+B) Alle NK sind IWF.
+C) Einige NK sind keine IWF.
+D) Alle NK sind keine IWF.
 E) Keine der Schlussfolgerungen ist richtig.

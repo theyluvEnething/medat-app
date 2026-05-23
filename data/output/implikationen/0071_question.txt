@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Krokodile sind Fotografen.
-- Alle Fotografen sind Gräser.
+- Alle GIR sind keine BUA.
+- Alle BUA sind UAE.
 
-A) Alle Krokodile sind keine Gräser.
-B) Einige Krokodile sind keine Gräser.
-C) Alle Krokodile sind Gräser.
-D) Einige Krokodile sind Gräser.
+A) Einige GIR sind keine UAE.
+B) Alle GIR sind UAE.
+C) Alle GIR sind keine UAE.
+D) Einige GIR sind UAE.
 E) Keine der Schlussfolgerungen ist richtig.

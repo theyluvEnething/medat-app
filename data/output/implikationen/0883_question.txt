@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Menschen sind Telefone.
-- Alle Telefone sind keine Smartphones.
+- Einige CL sind FK.
+- Alle FK sind SJ.
 
-A) Einige Menschen sind keine Smartphones.
-B) Einige Menschen sind Smartphones.
-C) Alle Menschen sind keine Smartphones.
-D) Alle Menschen sind Smartphones.
+A) Alle CL sind keine SJ.
+B) Einige CL sind keine SJ.
+C) Alle CL sind SJ.
+D) Einige CL sind SJ.
 E) Keine der Schlussfolgerungen ist richtig.

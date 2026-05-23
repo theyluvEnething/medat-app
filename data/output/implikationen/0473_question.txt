@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Blumen sind Ärzte.
-- Einige Ärzte sind Orchideen.
+- Alle DJE sind keine TO.
+- Alle TO sind BA.
 
-A) Einige Blumen sind keine Orchideen.
-B) Alle Blumen sind keine Orchideen.
-C) Einige Blumen sind Orchideen.
-D) Alle Blumen sind Orchideen.
+A) Alle DJE sind BA.
+B) Einige DJE sind BA.
+C) Einige DJE sind keine BA.
+D) Alle DJE sind keine BA.
 E) Keine der Schlussfolgerungen ist richtig.

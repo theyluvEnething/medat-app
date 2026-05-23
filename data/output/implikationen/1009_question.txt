@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schriftsteller sind keine Delfine.
-- Alle Delfine sind Sportler.
+- Alle PF sind HGB.
+- Alle HGB sind PC.
 
-A) Alle Schriftsteller sind keine Sportler.
-B) Einige Schriftsteller sind Sportler.
-C) Alle Schriftsteller sind Sportler.
-D) Einige Schriftsteller sind keine Sportler.
+A) Einige PF sind keine PC.
+B) Einige PF sind PC.
+C) Alle PF sind PC.
+D) Alle PF sind keine PC.
 E) Keine der Schlussfolgerungen ist richtig.

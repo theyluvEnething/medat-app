@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Granite sind Amseln.
-- Einige Amseln sind keine Giraffen.
+- Einige PGF sind ETK.
+- Alle ETK sind keine MIM.
 
-A) Alle Granite sind Giraffen.
-B) Einige Granite sind keine Giraffen.
-C) Einige Granite sind Giraffen.
-D) Alle Granite sind keine Giraffen.
+A) Alle PGF sind MIM.
+B) Einige PGF sind MIM.
+C) Alle PGF sind keine MIM.
+D) Einige PGF sind keine MIM.
 E) Keine der Schlussfolgerungen ist richtig.

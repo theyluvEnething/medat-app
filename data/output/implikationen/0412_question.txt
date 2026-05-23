@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Eichen sind Gräser.
-- Alle Gräser sind Eidechsen.
+- Alle OPU sind DJG.
+- Alle DJG sind keine ZBG.
 
-A) Alle Eichen sind keine Eidechsen.
-B) Einige Eichen sind keine Eidechsen.
-C) Alle Eichen sind Eidechsen.
-D) Einige Eichen sind Eidechsen.
+A) Alle OPU sind ZBG.
+B) Einige OPU sind ZBG.
+C) Einige OPU sind keine ZBG.
+D) Alle OPU sind keine ZBG.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 4 5 12 31 68 129 ? ?
-
-A) 349/515
-B) 345/514
-C) 347/516
-D) 346/518
-E) Keine der Antworten ist richtig

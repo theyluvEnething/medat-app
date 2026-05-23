@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Menschen sind Gräser.
-- Alle Gräser sind keine Lilien.
+- Alle FKH sind VDC.
+- Alle VDC sind keine JR.
 
-A) Einige Menschen sind keine Lilien.
-B) Alle Menschen sind Lilien.
-C) Einige Menschen sind Lilien.
-D) Alle Menschen sind keine Lilien.
+A) Einige FKH sind keine JR.
+B) Alle FKH sind keine JR.
+C) Alle FKH sind JR.
+D) Einige FKH sind JR.
 E) Keine der Schlussfolgerungen ist richtig.

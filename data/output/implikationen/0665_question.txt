@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Orchideen sind keine Hunde.
-- Einige Hunde sind keine Skulpturen.
+- Einige NV sind HPC.
+- Alle HPC sind HR.
 
-A) Einige Orchideen sind keine Skulpturen.
-B) Alle Orchideen sind keine Skulpturen.
-C) Alle Orchideen sind Skulpturen.
-D) Einige Orchideen sind Skulpturen.
+A) Alle NV sind keine HR.
+B) Einige NV sind keine HR.
+C) Alle NV sind HR.
+D) Einige NV sind HR.
 E) Keine der Schlussfolgerungen ist richtig.

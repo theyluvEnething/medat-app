@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Taucher sind Spatzen.
-- Alle Spatzen sind keine Elektroautos.
+- Alle UF sind LST.
+- Alle LST sind keine DR.
 
-A) Alle Taucher sind Elektroautos.
-B) Alle Taucher sind keine Elektroautos.
-C) Einige Taucher sind keine Elektroautos.
-D) Einige Taucher sind Elektroautos.
+A) Einige UF sind keine DR.
+B) Einige UF sind DR.
+C) Alle UF sind DR.
+D) Alle UF sind keine DR.
 E) Keine der Schlussfolgerungen ist richtig.

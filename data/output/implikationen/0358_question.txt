@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Politiker sind keine Marder.
-- Alle Marder sind keine Granite.
+- Einige HG sind EW.
+- Alle EW sind keine JGC.
 
-A) Alle Politiker sind keine Granite.
-B) Einige Politiker sind Granite.
-C) Einige Politiker sind keine Granite.
-D) Alle Politiker sind Granite.
+A) Alle HG sind JGC.
+B) Einige HG sind JGC.
+C) Einige HG sind keine JGC.
+D) Alle HG sind keine JGC.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Taucher sind Stühle.
-- Einige Stühle sind keine Menschen.
+- Einige RA sind SKJ.
+- Alle SKJ sind keine ZN.
 
-A) Alle Taucher sind Menschen.
-B) Einige Taucher sind Menschen.
-C) Einige Taucher sind keine Menschen.
-D) Alle Taucher sind keine Menschen.
+A) Einige RA sind keine ZN.
+B) Alle RA sind ZN.
+C) Alle RA sind keine ZN.
+D) Einige RA sind ZN.
 E) Keine der Schlussfolgerungen ist richtig.

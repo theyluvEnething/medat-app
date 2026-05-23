@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schriftsteller sind keine Gräser.
-- Einige Gräser sind keine Möbel.
+- Alle UZ sind PZ.
+- Einige PZ sind PGL.
 
-A) Einige Schriftsteller sind keine Möbel.
-B) Einige Schriftsteller sind Möbel.
-C) Alle Schriftsteller sind keine Möbel.
-D) Alle Schriftsteller sind Möbel.
+A) Alle UZ sind PGL.
+B) Alle UZ sind keine PGL.
+C) Einige UZ sind PGL.
+D) Einige UZ sind keine PGL.
 E) Keine der Schlussfolgerungen ist richtig.

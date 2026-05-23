@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Blumen sind Sänger.
-- Einige Sänger sind keine Telefone.
+- Einige OT sind keine IDL.
+- Einige IDL sind RK.
 
-A) Einige Blumen sind keine Telefone.
-B) Alle Blumen sind keine Telefone.
-C) Alle Blumen sind Telefone.
-D) Einige Blumen sind Telefone.
+A) Alle OT sind keine RK.
+B) Alle OT sind RK.
+C) Einige OT sind keine RK.
+D) Einige OT sind RK.
 E) Keine der Schlussfolgerungen ist richtig.

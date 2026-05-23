@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Taucher sind keine Zebras.
-- Alle Zebras sind Vögel.
+- Alle SZ sind CD.
+- Einige CD sind ZD.
 
-A) Alle Taucher sind keine Vögel.
-B) Einige Taucher sind Vögel.
-C) Einige Taucher sind keine Vögel.
-D) Alle Taucher sind Vögel.
+A) Alle SZ sind keine ZD.
+B) Einige SZ sind ZD.
+C) Alle SZ sind ZD.
+D) Einige SZ sind keine ZD.
 E) Keine der Schlussfolgerungen ist richtig.

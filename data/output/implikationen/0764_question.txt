@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Radios sind keine Vögel.
-- Alle Vögel sind Smartphones.
+- Einige RHI sind keine VR.
+- Einige VR sind keine WFN.
 
-A) Alle Radios sind keine Smartphones.
-B) Alle Radios sind Smartphones.
-C) Einige Radios sind Smartphones.
-D) Einige Radios sind keine Smartphones.
+A) Einige RHI sind WFN.
+B) Alle RHI sind keine WFN.
+C) Einige RHI sind keine WFN.
+D) Alle RHI sind WFN.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Sportler sind keine Tabletten.
-- Einige Tabletten sind keine Sänger.
+- Alle SO sind keine VO.
+- Alle VO sind UN.
 
-A) Alle Sportler sind Sänger.
-B) Alle Sportler sind keine Sänger.
-C) Einige Sportler sind keine Sänger.
-D) Einige Sportler sind Sänger.
+A) Einige SO sind keine UN.
+B) Alle SO sind UN.
+C) Einige SO sind UN.
+D) Alle SO sind keine UN.
 E) Keine der Schlussfolgerungen ist richtig.

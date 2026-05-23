@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Quartette sind Uhren.
-- Einige Uhren sind Hunde.
+- Einige HU sind KN.
+- Alle KN sind LZ.
 
-A) Einige Quartette sind Hunde.
-B) Alle Quartette sind keine Hunde.
-C) Alle Quartette sind Hunde.
-D) Einige Quartette sind keine Hunde.
+A) Alle HU sind keine LZ.
+B) Einige HU sind LZ.
+C) Alle HU sind LZ.
+D) Einige HU sind keine LZ.
 E) Keine der Schlussfolgerungen ist richtig.

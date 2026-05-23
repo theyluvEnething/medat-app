@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Blumen sind keine Schriftsteller.
-- Einige Schriftsteller sind Glühbirnen.
+- Alle BPF sind KC.
+- Einige KC sind EG.
 
-A) Einige Blumen sind Glühbirnen.
-B) Alle Blumen sind Glühbirnen.
-C) Einige Blumen sind keine Glühbirnen.
-D) Alle Blumen sind keine Glühbirnen.
+A) Alle BPF sind keine EG.
+B) Einige BPF sind keine EG.
+C) Einige BPF sind EG.
+D) Alle BPF sind EG.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Giraffen sind keine Flüsse.
-- Alle Flüsse sind keine Wissenschaftler.
+- Alle HNB sind SJ.
+- Einige SJ sind FEG.
 
-A) Einige Giraffen sind keine Wissenschaftler.
-B) Alle Giraffen sind Wissenschaftler.
-C) Einige Giraffen sind Wissenschaftler.
-D) Alle Giraffen sind keine Wissenschaftler.
+A) Alle HNB sind keine FEG.
+B) Alle HNB sind FEG.
+C) Einige HNB sind FEG.
+D) Einige HNB sind keine FEG.
 E) Keine der Schlussfolgerungen ist richtig.

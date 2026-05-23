@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Granite sind keine Rosen.
-- Alle Rosen sind Schauspieler.
+- Einige OOB sind UO.
+- Alle UO sind keine EA.
 
-A) Einige Granite sind Schauspieler.
-B) Einige Granite sind keine Schauspieler.
-C) Alle Granite sind keine Schauspieler.
-D) Alle Granite sind Schauspieler.
+A) Alle OOB sind EA.
+B) Einige OOB sind EA.
+C) Alle OOB sind keine EA.
+D) Einige OOB sind keine EA.
 E) Keine der Schlussfolgerungen ist richtig.

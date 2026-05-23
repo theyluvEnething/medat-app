@@ -1,2 +1,2 @@
-A — 10935/32805
-Konstanter Faktor ×3
+D — 171/174
++3, ×3 im Wechsel

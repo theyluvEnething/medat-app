@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Amseln sind keine Sportler.
-- Einige Sportler sind keine Tannen.
+- Einige RS sind TT.
+- Alle TT sind keine RM.
 
-A) Einige Amseln sind keine Tannen.
-B) Einige Amseln sind Tannen.
-C) Alle Amseln sind keine Tannen.
-D) Alle Amseln sind Tannen.
+A) Einige RS sind keine RM.
+B) Einige RS sind RM.
+C) Alle RS sind keine RM.
+D) Alle RS sind RM.
 E) Keine der Schlussfolgerungen ist richtig.

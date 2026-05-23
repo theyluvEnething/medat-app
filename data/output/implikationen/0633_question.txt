@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Blumen sind Möbel.
-- Einige Möbel sind Amseln.
+- Alle LG sind BLA.
+- Alle BLA sind FR.
 
-A) Einige Blumen sind Amseln.
-B) Alle Blumen sind keine Amseln.
-C) Einige Blumen sind keine Amseln.
-D) Alle Blumen sind Amseln.
+A) Einige LG sind FR.
+B) Einige LG sind keine FR.
+C) Alle LG sind keine FR.
+D) Alle LG sind FR.
 E) Keine der Schlussfolgerungen ist richtig.

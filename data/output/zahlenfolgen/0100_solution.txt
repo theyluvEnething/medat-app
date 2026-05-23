@@ -1,2 +1,2 @@
-B — 346/515
-n³ + 3
+B — 10/81
+Zwei Folgen verschränkt: +3 und ×3

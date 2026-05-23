@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Gedichte sind Roboter.
-- Einige Roboter sind Wölfe.
+- Einige PE sind CLW.
+- Alle CLW sind FO.
 
-A) Alle Gedichte sind Wölfe.
-B) Einige Gedichte sind Wölfe.
-C) Einige Gedichte sind keine Wölfe.
-D) Alle Gedichte sind keine Wölfe.
+A) Alle PE sind FO.
+B) Einige PE sind keine FO.
+C) Einige PE sind FO.
+D) Alle PE sind keine FO.
 E) Keine der Schlussfolgerungen ist richtig.

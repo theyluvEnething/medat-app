@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Glühbirnen sind Bäume.
-- Einige Bäume sind keine Marder.
+- Einige MF sind WO.
+- Alle WO sind keine JV.
 
-A) Alle Glühbirnen sind Marder.
-B) Alle Glühbirnen sind keine Marder.
-C) Einige Glühbirnen sind keine Marder.
-D) Einige Glühbirnen sind Marder.
+A) Alle MF sind JV.
+B) Einige MF sind keine JV.
+C) Einige MF sind JV.
+D) Alle MF sind keine JV.
 E) Keine der Schlussfolgerungen ist richtig.

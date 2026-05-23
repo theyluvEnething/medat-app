@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Politiker sind keine Insekten.
-- Einige Insekten sind keine Giraffen.
+- Alle MHL sind keine HS.
+- Alle HS sind LZ.
 
-A) Alle Politiker sind keine Giraffen.
-B) Einige Politiker sind keine Giraffen.
-C) Alle Politiker sind Giraffen.
-D) Einige Politiker sind Giraffen.
+A) Einige MHL sind keine LZ.
+B) Alle MHL sind keine LZ.
+C) Einige MHL sind LZ.
+D) Alle MHL sind LZ.
 E) Keine der Schlussfolgerungen ist richtig.

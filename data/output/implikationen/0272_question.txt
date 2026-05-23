@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Chemiker sind keine Wale.
-- Einige Wale sind Skulpturen.
+- Einige ZUU sind keine PK.
+- Einige PK sind LC.
 
-A) Alle Chemiker sind Skulpturen.
-B) Einige Chemiker sind keine Skulpturen.
-C) Alle Chemiker sind keine Skulpturen.
-D) Einige Chemiker sind Skulpturen.
+A) Alle ZUU sind LC.
+B) Einige ZUU sind keine LC.
+C) Einige ZUU sind LC.
+D) Alle ZUU sind keine LC.
 E) Keine der Schlussfolgerungen ist richtig.

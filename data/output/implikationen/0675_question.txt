@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Quallen sind keine Lilien.
-- Einige Lilien sind Vegetarier.
+- Alle LM sind JV.
+- Alle JV sind keine JO.
 
-A) Alle Quallen sind Vegetarier.
-B) Einige Quallen sind Vegetarier.
-C) Alle Quallen sind keine Vegetarier.
-D) Einige Quallen sind keine Vegetarier.
+A) Alle LM sind keine JO.
+B) Einige LM sind keine JO.
+C) Einige LM sind JO.
+D) Alle LM sind JO.
 E) Keine der Schlussfolgerungen ist richtig.

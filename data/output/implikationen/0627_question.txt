@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Fische sind Hunde.
-- Alle Hunde sind Amphibien.
+- Einige TDA sind keine FG.
+- Alle FG sind HD.
 
-A) Einige Fische sind Amphibien.
-B) Einige Fische sind keine Amphibien.
-C) Alle Fische sind Amphibien.
-D) Alle Fische sind keine Amphibien.
+A) Alle TDA sind keine HD.
+B) Alle TDA sind HD.
+C) Einige TDA sind HD.
+D) Einige TDA sind keine HD.
 E) Keine der Schlussfolgerungen ist richtig.

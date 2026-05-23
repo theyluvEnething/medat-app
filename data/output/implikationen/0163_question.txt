@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Skulpturen sind keine Lilien.
-- Alle Lilien sind keine Häuser.
+- Einige GLE sind EF.
+- Alle EF sind OTJ.
 
-A) Einige Skulpturen sind keine Häuser.
-B) Alle Skulpturen sind keine Häuser.
-C) Alle Skulpturen sind Häuser.
-D) Einige Skulpturen sind Häuser.
+A) Einige GLE sind OTJ.
+B) Einige GLE sind keine OTJ.
+C) Alle GLE sind keine OTJ.
+D) Alle GLE sind OTJ.
 E) Keine der Schlussfolgerungen ist richtig.

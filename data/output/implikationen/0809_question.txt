@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Glühbirnen sind Tulpen.
-- Einige Tulpen sind keine Marder.
+- Alle MF sind OH.
+- Alle OH sind UJ.
 
-A) Einige Glühbirnen sind Marder.
-B) Alle Glühbirnen sind keine Marder.
-C) Alle Glühbirnen sind Marder.
-D) Einige Glühbirnen sind keine Marder.
+A) Einige MF sind UJ.
+B) Einige MF sind keine UJ.
+C) Alle MF sind keine UJ.
+D) Alle MF sind UJ.
 E) Keine der Schlussfolgerungen ist richtig.

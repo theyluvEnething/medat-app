@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Uhren sind Maler.
-- Einige Maler sind keine Musikinstrumente.
+- Alle UZV sind HZ.
+- Alle HZ sind JG.
 
-A) Alle Uhren sind keine Musikinstrumente.
-B) Einige Uhren sind keine Musikinstrumente.
-C) Alle Uhren sind Musikinstrumente.
-D) Einige Uhren sind Musikinstrumente.
+A) Einige UZV sind JG.
+B) Einige UZV sind keine JG.
+C) Alle UZV sind JG.
+D) Alle UZV sind keine JG.
 E) Keine der Schlussfolgerungen ist richtig.

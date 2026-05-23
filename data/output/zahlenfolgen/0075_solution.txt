@@ -1,2 +1,2 @@
-A — -3/29
-Zwei Folgen verschränkt: +-6 und +8
+B — 43/57
+Differenz: +2, +4, +6, +8, +10, +12, +14 — die Differenz wächst um +2 pro Schritt

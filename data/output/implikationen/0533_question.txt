@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Zebras sind keine Orchideen.
-- Alle Orchideen sind keine Krokodile.
+- Alle ZLN sind keine JF.
+- Alle JF sind WB.
 
-A) Alle Zebras sind keine Krokodile.
-B) Alle Zebras sind Krokodile.
-C) Einige Zebras sind Krokodile.
-D) Einige Zebras sind keine Krokodile.
+A) Einige ZLN sind keine WB.
+B) Alle ZLN sind WB.
+C) Einige ZLN sind WB.
+D) Alle ZLN sind keine WB.
 E) Keine der Schlussfolgerungen ist richtig.

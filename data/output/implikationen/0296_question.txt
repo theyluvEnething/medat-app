@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Orchideen sind Smartphones.
-- Einige Smartphones sind Wissenschaftler.
+- Alle IL sind TN.
+- Alle TN sind BV.
 
-A) Einige Orchideen sind keine Wissenschaftler.
-B) Alle Orchideen sind keine Wissenschaftler.
-C) Einige Orchideen sind Wissenschaftler.
-D) Alle Orchideen sind Wissenschaftler.
+A) Einige IL sind BV.
+B) Alle IL sind keine BV.
+C) Einige IL sind keine BV.
+D) Alle IL sind BV.
 E) Keine der Schlussfolgerungen ist richtig.

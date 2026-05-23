@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Klaviere sind keine Gedichte.
-- Alle Gedichte sind Flugzeuge.
+- Alle CI sind keine EVK.
+- Einige EVK sind TC.
 
-A) Einige Klaviere sind keine Flugzeuge.
-B) Alle Klaviere sind Flugzeuge.
-C) Alle Klaviere sind keine Flugzeuge.
-D) Einige Klaviere sind Flugzeuge.
+A) Einige CI sind TC.
+B) Einige CI sind keine TC.
+C) Alle CI sind TC.
+D) Alle CI sind keine TC.
 E) Keine der Schlussfolgerungen ist richtig.

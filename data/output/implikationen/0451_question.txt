@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schlangen sind Nashörner.
-- Alle Nashörner sind keine Bäume.
+- Alle DZ sind EP.
+- Alle EP sind BD.
 
-A) Einige Schlangen sind Bäume.
-B) Alle Schlangen sind keine Bäume.
-C) Einige Schlangen sind keine Bäume.
-D) Alle Schlangen sind Bäume.
+A) Alle DZ sind BD.
+B) Einige DZ sind BD.
+C) Einige DZ sind keine BD.
+D) Alle DZ sind keine BD.
 E) Keine der Schlussfolgerungen ist richtig.

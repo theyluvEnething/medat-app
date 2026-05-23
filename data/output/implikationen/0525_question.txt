@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Gemälde sind Wissenschaftler.
-- Einige Wissenschaftler sind keine Glühbirnen.
+- Alle FWD sind keine DP.
+- Alle DP sind keine EUO.
 
-A) Einige Gemälde sind Glühbirnen.
-B) Alle Gemälde sind keine Glühbirnen.
-C) Einige Gemälde sind keine Glühbirnen.
-D) Alle Gemälde sind Glühbirnen.
+A) Alle FWD sind keine EUO.
+B) Einige FWD sind keine EUO.
+C) Einige FWD sind EUO.
+D) Alle FWD sind EUO.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Hunde sind Teleskope.
-- Alle Teleskope sind keine Glühbirnen.
+- Alle GH sind SD.
+- Alle SD sind keine ZJ.
 
-A) Einige Hunde sind keine Glühbirnen.
-B) Alle Hunde sind keine Glühbirnen.
-C) Einige Hunde sind Glühbirnen.
-D) Alle Hunde sind Glühbirnen.
+A) Einige GH sind ZJ.
+B) Alle GH sind keine ZJ.
+C) Einige GH sind keine ZJ.
+D) Alle GH sind ZJ.
 E) Keine der Schlussfolgerungen ist richtig.

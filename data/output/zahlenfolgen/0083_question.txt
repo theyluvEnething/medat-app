@@ -1,7 +1,7 @@
-Zahlenfolge: 5 9 14 23 37 60 ? ?
+Zahlenfolge: 6 9 18 21 42 45 ? ?
 
-A) 253/410
-B) 254/411
-C) 255/412
-D) 71/82
+A) 88/93
+B) 92/93
+C) 90/93
+D) 52/59
 E) Keine der Antworten ist richtig

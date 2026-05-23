@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Stühle sind keine Dinosaurier.
-- Alle Dinosaurier sind keine Teleskope.
+- Einige GV sind GST.
+- Alle GST sind keine KLG.
 
-A) Alle Stühle sind Teleskope.
-B) Einige Stühle sind keine Teleskope.
-C) Einige Stühle sind Teleskope.
-D) Alle Stühle sind keine Teleskope.
+A) Einige GV sind keine KLG.
+B) Alle GV sind KLG.
+C) Einige GV sind KLG.
+D) Alle GV sind keine KLG.
 E) Keine der Schlussfolgerungen ist richtig.

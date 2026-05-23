@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Züge sind keine Schauspieler.
-- Einige Schauspieler sind Radios.
+- Alle WF sind WT.
+- Einige WT sind ZO.
 
-A) Einige Züge sind Radios.
-B) Alle Züge sind Radios.
-C) Einige Züge sind keine Radios.
-D) Alle Züge sind keine Radios.
+A) Einige WF sind ZO.
+B) Alle WF sind keine ZO.
+C) Alle WF sind ZO.
+D) Einige WF sind keine ZO.
 E) Keine der Schlussfolgerungen ist richtig.

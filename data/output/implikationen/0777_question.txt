@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Sänger sind keine Orchideen.
-- Einige Orchideen sind keine Teleskope.
+- Alle OL sind KS.
+- Alle KS sind keine OW.
 
-A) Einige Sänger sind keine Teleskope.
-B) Alle Sänger sind Teleskope.
-C) Alle Sänger sind keine Teleskope.
-D) Einige Sänger sind Teleskope.
+A) Alle OL sind OW.
+B) Alle OL sind keine OW.
+C) Einige OL sind OW.
+D) Einige OL sind keine OW.
 E) Keine der Schlussfolgerungen ist richtig.

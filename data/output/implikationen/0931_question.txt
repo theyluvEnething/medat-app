@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wölfe sind keine Taucher.
-- Einige Taucher sind keine Teleskope.
+- Alle MW sind FR.
+- Einige FR sind keine OH.
 
-A) Einige Wölfe sind Teleskope.
-B) Alle Wölfe sind keine Teleskope.
-C) Alle Wölfe sind Teleskope.
-D) Einige Wölfe sind keine Teleskope.
+A) Alle MW sind OH.
+B) Einige MW sind OH.
+C) Einige MW sind keine OH.
+D) Alle MW sind keine OH.
 E) Keine der Schlussfolgerungen ist richtig.

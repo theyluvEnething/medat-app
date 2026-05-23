@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Sänger sind Vulkane.
-- Alle Vulkane sind keine Flugzeuge.
+- Einige EW sind SJG.
+- Alle SJG sind keine FO.
 
-A) Alle Sänger sind Flugzeuge.
-B) Alle Sänger sind keine Flugzeuge.
-C) Einige Sänger sind Flugzeuge.
-D) Einige Sänger sind keine Flugzeuge.
+A) Einige EW sind FO.
+B) Einige EW sind keine FO.
+C) Alle EW sind keine FO.
+D) Alle EW sind FO.
 E) Keine der Schlussfolgerungen ist richtig.

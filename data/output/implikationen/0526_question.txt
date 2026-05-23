@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Glühbirnen sind keine Bücher.
-- Alle Bücher sind keine Maler.
+- Einige GFM sind keine ZB.
+- Einige ZB sind keine MP.
 
-A) Alle Glühbirnen sind Maler.
-B) Einige Glühbirnen sind Maler.
-C) Alle Glühbirnen sind keine Maler.
-D) Einige Glühbirnen sind keine Maler.
+A) Alle GFM sind MP.
+B) Einige GFM sind keine MP.
+C) Einige GFM sind MP.
+D) Alle GFM sind keine MP.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 24 26 30 36 44 54 ? ?
-
-A) 97/113
-B) 94/113
-C) 60/66
-D) 96/114
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Musikinstrumente sind keine Glühbirnen.
-- Alle Glühbirnen sind Wale.
+- Einige ERF sind ALZ.
+- Alle ALZ sind KV.
 
-A) Einige Musikinstrumente sind keine Wale.
-B) Alle Musikinstrumente sind Wale.
-C) Einige Musikinstrumente sind Wale.
-D) Alle Musikinstrumente sind keine Wale.
+A) Einige ERF sind KV.
+B) Alle ERF sind KV.
+C) Einige ERF sind keine KV.
+D) Alle ERF sind keine KV.
 E) Keine der Schlussfolgerungen ist richtig.

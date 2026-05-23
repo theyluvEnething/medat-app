@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Maler sind keine Möbel.
-- Einige Möbel sind Metalle.
+- Alle PW sind JL.
+- Einige JL sind DF.
 
-A) Alle Maler sind keine Metalle.
-B) Einige Maler sind Metalle.
-C) Einige Maler sind keine Metalle.
-D) Alle Maler sind Metalle.
+A) Einige PW sind keine DF.
+B) Alle PW sind keine DF.
+C) Einige PW sind DF.
+D) Alle PW sind DF.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 14 17 31 48 79 127 ? ?
-
-A) 537/873
-B) 539/872
-C) 541/870
-D) 541/873
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Pilze sind Radios.
-- Einige Radios sind Gedichte.
+- Alle JM sind keine FK.
+- Einige FK sind LZ.
 
-A) Alle Pilze sind Gedichte.
-B) Einige Pilze sind keine Gedichte.
-C) Alle Pilze sind keine Gedichte.
-D) Einige Pilze sind Gedichte.
+A) Alle JM sind keine LZ.
+B) Einige JM sind keine LZ.
+C) Alle JM sind LZ.
+D) Einige JM sind LZ.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Fotografen sind Schlangen.
-- Einige Schlangen sind Wale.
+- Alle EP sind AR.
+- Alle AR sind HND.
 
-A) Einige Fotografen sind Wale.
-B) Alle Fotografen sind Wale.
-C) Einige Fotografen sind keine Wale.
-D) Alle Fotografen sind keine Wale.
+A) Alle EP sind HND.
+B) Einige EP sind keine HND.
+C) Einige EP sind HND.
+D) Alle EP sind keine HND.
 E) Keine der Schlussfolgerungen ist richtig.

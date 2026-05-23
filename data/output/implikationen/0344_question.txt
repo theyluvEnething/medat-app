@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Eichen sind keine Maler.
-- Einige Maler sind keine Wissenschaftler.
+- Alle DJ sind keine KJ.
+- Alle KJ sind RW.
 
-A) Alle Eichen sind Wissenschaftler.
-B) Einige Eichen sind keine Wissenschaftler.
-C) Alle Eichen sind keine Wissenschaftler.
-D) Einige Eichen sind Wissenschaftler.
+A) Alle DJ sind RW.
+B) Einige DJ sind keine RW.
+C) Alle DJ sind keine RW.
+D) Einige DJ sind RW.
 E) Keine der Schlussfolgerungen ist richtig.

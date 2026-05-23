@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vögel sind keine Züge.
-- Einige Züge sind keine Schlangen.
+- Einige BUB sind SR.
+- Alle SR sind keine MV.
 
-A) Alle Vögel sind keine Schlangen.
-B) Einige Vögel sind keine Schlangen.
-C) Einige Vögel sind Schlangen.
-D) Alle Vögel sind Schlangen.
+A) Alle BUB sind MV.
+B) Einige BUB sind MV.
+C) Alle BUB sind keine MV.
+D) Einige BUB sind keine MV.
 E) Keine der Schlussfolgerungen ist richtig.

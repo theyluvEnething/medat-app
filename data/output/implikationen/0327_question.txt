@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mäuse sind Fische.
-- Einige Fische sind keine Flüsse.
+- Alle EEP sind keine GDD.
+- Einige GDD sind keine RO.
 
-A) Einige Mäuse sind Flüsse.
-B) Alle Mäuse sind Flüsse.
-C) Einige Mäuse sind keine Flüsse.
-D) Alle Mäuse sind keine Flüsse.
+A) Einige EEP sind keine RO.
+B) Einige EEP sind RO.
+C) Alle EEP sind RO.
+D) Alle EEP sind keine RO.
 E) Keine der Schlussfolgerungen ist richtig.

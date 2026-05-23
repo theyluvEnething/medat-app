@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Glühbirnen sind keine Autos.
-- Einige Autos sind keine Vasen.
+- Alle TG sind NFG.
+- Alle NFG sind DP.
 
-A) Einige Glühbirnen sind Vasen.
-B) Einige Glühbirnen sind keine Vasen.
-C) Alle Glühbirnen sind Vasen.
-D) Alle Glühbirnen sind keine Vasen.
+A) Alle TG sind DP.
+B) Einige TG sind DP.
+C) Alle TG sind keine DP.
+D) Einige TG sind keine DP.
 E) Keine der Schlussfolgerungen ist richtig.

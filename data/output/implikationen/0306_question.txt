@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Lehrer sind keine Vasen.
-- Alle Vasen sind keine Haie.
+- Alle MW sind GN.
+- Einige GN sind RGU.
 
-A) Alle Lehrer sind Haie.
-B) Alle Lehrer sind keine Haie.
-C) Einige Lehrer sind Haie.
-D) Einige Lehrer sind keine Haie.
+A) Alle MW sind keine RGU.
+B) Einige MW sind keine RGU.
+C) Einige MW sind RGU.
+D) Alle MW sind RGU.
 E) Keine der Schlussfolgerungen ist richtig.

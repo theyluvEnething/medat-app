@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Dichter sind keine Sportler.
-- Einige Sportler sind keine Wale.
+- Alle BLH sind keine ODC.
+- Alle ODC sind keine POV.
 
-A) Einige Dichter sind Wale.
-B) Alle Dichter sind keine Wale.
-C) Alle Dichter sind Wale.
-D) Einige Dichter sind keine Wale.
+A) Alle BLH sind POV.
+B) Alle BLH sind keine POV.
+C) Einige BLH sind POV.
+D) Einige BLH sind keine POV.
 E) Keine der Schlussfolgerungen ist richtig.

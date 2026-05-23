@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Giraffen sind Bücher.
-- Alle Bücher sind Radios.
+- Einige BKJ sind keine SAB.
+- Einige SAB sind NI.
 
-A) Einige Giraffen sind keine Radios.
-B) Alle Giraffen sind Radios.
-C) Alle Giraffen sind keine Radios.
-D) Einige Giraffen sind Radios.
+A) Einige BKJ sind NI.
+B) Alle BKJ sind keine NI.
+C) Alle BKJ sind NI.
+D) Einige BKJ sind keine NI.
 E) Keine der Schlussfolgerungen ist richtig.

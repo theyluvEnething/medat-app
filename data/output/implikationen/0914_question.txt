@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Delfine sind Telefone.
-- Einige Telefone sind Giraffen.
+- Alle PL sind CTK.
+- Alle CTK sind EC.
 
-A) Alle Delfine sind keine Giraffen.
-B) Einige Delfine sind keine Giraffen.
-C) Alle Delfine sind Giraffen.
-D) Einige Delfine sind Giraffen.
+A) Alle PL sind keine EC.
+B) Alle PL sind EC.
+C) Einige PL sind keine EC.
+D) Einige PL sind EC.
 E) Keine der Schlussfolgerungen ist richtig.

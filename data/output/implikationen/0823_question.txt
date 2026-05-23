@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gedichte sind Dichter.
-- Alle Dichter sind keine Tabletten.
+- Alle SLL sind keine HF.
+- Alle HF sind TTJ.
 
-A) Alle Gedichte sind keine Tabletten.
-B) Einige Gedichte sind keine Tabletten.
-C) Alle Gedichte sind Tabletten.
-D) Einige Gedichte sind Tabletten.
+A) Einige SLL sind keine TTJ.
+B) Einige SLL sind TTJ.
+C) Alle SLL sind keine TTJ.
+D) Alle SLL sind TTJ.
 E) Keine der Schlussfolgerungen ist richtig.

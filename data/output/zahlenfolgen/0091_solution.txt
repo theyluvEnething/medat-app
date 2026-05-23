@@ -1,2 +1,2 @@
-B — 48828125/244140625
-5ⁿ ab n=4
+B — 46/75
+Ab 3. Glied: Summe der beiden Vorgänger + 1

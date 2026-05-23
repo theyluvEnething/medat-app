@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tomaten sind Fotografen.
-- Einige Fotografen sind keine Tiger.
+- Alle PTA sind keine TSZ.
+- Alle TSZ sind OF.
 
-A) Alle Tomaten sind keine Tiger.
-B) Einige Tomaten sind keine Tiger.
-C) Einige Tomaten sind Tiger.
-D) Alle Tomaten sind Tiger.
+A) Einige PTA sind keine OF.
+B) Alle PTA sind keine OF.
+C) Alle PTA sind OF.
+D) Einige PTA sind OF.
 E) Keine der Schlussfolgerungen ist richtig.

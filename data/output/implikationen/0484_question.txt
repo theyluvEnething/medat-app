@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mäuse sind keine Bäume.
-- Einige Bäume sind keine Dinosaurier.
+- Einige WI sind OKD.
+- Alle OKD sind OH.
 
-A) Alle Mäuse sind keine Dinosaurier.
-B) Einige Mäuse sind Dinosaurier.
-C) Alle Mäuse sind Dinosaurier.
-D) Einige Mäuse sind keine Dinosaurier.
+A) Alle WI sind OH.
+B) Einige WI sind OH.
+C) Einige WI sind keine OH.
+D) Alle WI sind keine OH.
 E) Keine der Schlussfolgerungen ist richtig.

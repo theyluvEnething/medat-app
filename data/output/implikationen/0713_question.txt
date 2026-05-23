@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Nashörner sind keine Schlangen.
-- Einige Schlangen sind Wölfe.
+- Alle MWU sind keine JL.
+- Alle JL sind OL.
 
-A) Alle Nashörner sind keine Wölfe.
-B) Alle Nashörner sind Wölfe.
-C) Einige Nashörner sind Wölfe.
-D) Einige Nashörner sind keine Wölfe.
+A) Alle MWU sind keine OL.
+B) Einige MWU sind keine OL.
+C) Einige MWU sind OL.
+D) Alle MWU sind OL.
 E) Keine der Schlussfolgerungen ist richtig.

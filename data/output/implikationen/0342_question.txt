@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tiger sind Delfine.
-- Alle Delfine sind keine Chemiker.
+- Alle CV sind TB.
+- Alle TB sind TCP.
 
-A) Einige Tiger sind Chemiker.
-B) Einige Tiger sind keine Chemiker.
-C) Alle Tiger sind keine Chemiker.
-D) Alle Tiger sind Chemiker.
+A) Einige CV sind keine TCP.
+B) Alle CV sind TCP.
+C) Alle CV sind keine TCP.
+D) Einige CV sind TCP.
 E) Keine der Schlussfolgerungen ist richtig.

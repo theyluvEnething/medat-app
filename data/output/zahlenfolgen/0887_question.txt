@@ -1,7 +1,0 @@
-Zahlenfolge: 38 49 60 71 82 93 ? ?
-
-A) 126/137
-B) 113/127
-C) 117/128
-D) 115/126
-E) Keine der Antworten ist richtig

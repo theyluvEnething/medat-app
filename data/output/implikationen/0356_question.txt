@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Klaviere sind Quartette.
-- Einige Quartette sind keine Roboter.
+- Einige NG sind UO.
+- Alle UO sind keine PI.
 
-A) Alle Klaviere sind Roboter.
-B) Alle Klaviere sind keine Roboter.
-C) Einige Klaviere sind Roboter.
-D) Einige Klaviere sind keine Roboter.
+A) Alle NG sind PI.
+B) Einige NG sind PI.
+C) Alle NG sind keine PI.
+D) Einige NG sind keine PI.
 E) Keine der Schlussfolgerungen ist richtig.

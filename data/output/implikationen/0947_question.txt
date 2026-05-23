@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Musikinstrumente sind keine Spatzen.
-- Einige Spatzen sind Eichen.
+- Alle IL sind KB.
+- Alle KB sind FP.
 
-A) Alle Musikinstrumente sind Eichen.
-B) Einige Musikinstrumente sind Eichen.
-C) Einige Musikinstrumente sind keine Eichen.
-D) Alle Musikinstrumente sind keine Eichen.
+A) Einige IL sind keine FP.
+B) Alle IL sind keine FP.
+C) Alle IL sind FP.
+D) Einige IL sind FP.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Reptilien sind Werkzeuge.
-- Alle Werkzeuge sind keine Vulkane.
+- Einige KC sind GN.
+- Alle GN sind keine ZV.
 
-A) Einige Reptilien sind keine Vulkane.
-B) Alle Reptilien sind keine Vulkane.
-C) Alle Reptilien sind Vulkane.
-D) Einige Reptilien sind Vulkane.
+A) Alle KC sind ZV.
+B) Einige KC sind keine ZV.
+C) Einige KC sind ZV.
+D) Alle KC sind keine ZV.
 E) Keine der Schlussfolgerungen ist richtig.

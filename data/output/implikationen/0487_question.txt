@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Bäume sind Glühbirnen.
-- Einige Glühbirnen sind Kupfer.
+- Alle SH sind UL.
+- Einige UL sind keine BFK.
 
-A) Alle Bäume sind keine Kupfer.
-B) Alle Bäume sind Kupfer.
-C) Einige Bäume sind keine Kupfer.
-D) Einige Bäume sind Kupfer.
+A) Alle SH sind BFK.
+B) Einige SH sind keine BFK.
+C) Alle SH sind keine BFK.
+D) Einige SH sind BFK.
 E) Keine der Schlussfolgerungen ist richtig.

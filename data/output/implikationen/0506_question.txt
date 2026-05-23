@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Pilze sind keine Teleskope.
-- Einige Teleskope sind Radios.
+- Einige NI sind RZW.
+- Alle RZW sind keine PI.
 
-A) Alle Pilze sind keine Radios.
-B) Einige Pilze sind keine Radios.
-C) Alle Pilze sind Radios.
-D) Einige Pilze sind Radios.
+A) Alle NI sind PI.
+B) Einige NI sind PI.
+C) Alle NI sind keine PI.
+D) Einige NI sind keine PI.
 E) Keine der Schlussfolgerungen ist richtig.

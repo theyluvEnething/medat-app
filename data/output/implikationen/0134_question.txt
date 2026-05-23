@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Taucher sind keine Vögel.
-- Alle Vögel sind keine Fische.
+- Alle GS sind VEP.
+- Einige VEP sind DMH.
 
-A) Einige Taucher sind keine Fische.
-B) Alle Taucher sind keine Fische.
-C) Einige Taucher sind Fische.
-D) Alle Taucher sind Fische.
+A) Alle GS sind keine DMH.
+B) Einige GS sind DMH.
+C) Alle GS sind DMH.
+D) Einige GS sind keine DMH.
 E) Keine der Schlussfolgerungen ist richtig.

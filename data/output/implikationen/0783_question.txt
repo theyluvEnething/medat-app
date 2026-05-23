@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Säugetiere sind keine Quallen.
-- Alle Quallen sind keine Kupfer.
+- Einige GG sind ZD.
+- Alle ZD sind IGU.
 
-A) Einige Säugetiere sind keine Kupfer.
-B) Einige Säugetiere sind Kupfer.
-C) Alle Säugetiere sind Kupfer.
-D) Alle Säugetiere sind keine Kupfer.
+A) Alle GG sind keine IGU.
+B) Einige GG sind keine IGU.
+C) Einige GG sind IGU.
+D) Alle GG sind IGU.
 E) Keine der Schlussfolgerungen ist richtig.

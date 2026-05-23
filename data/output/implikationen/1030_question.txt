@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tulpen sind Gedichte.
-- Einige Gedichte sind keine Wale.
+- Einige NUG sind keine OR.
+- Alle OR sind keine MC.
 
-A) Alle Tulpen sind Wale.
-B) Einige Tulpen sind Wale.
-C) Einige Tulpen sind keine Wale.
-D) Alle Tulpen sind keine Wale.
+A) Einige NUG sind keine MC.
+B) Einige NUG sind MC.
+C) Alle NUG sind MC.
+D) Alle NUG sind keine MC.
 E) Keine der Schlussfolgerungen ist richtig.

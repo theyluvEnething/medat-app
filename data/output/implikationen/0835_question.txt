@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Elektroautos sind keine Wissenschaftler.
-- Einige Wissenschaftler sind Vegetarier.
+- Einige VT sind ZZL.
+- Alle ZZL sind keine DW.
 
-A) Alle Elektroautos sind Vegetarier.
-B) Alle Elektroautos sind keine Vegetarier.
-C) Einige Elektroautos sind keine Vegetarier.
-D) Einige Elektroautos sind Vegetarier.
+A) Alle VT sind DW.
+B) Einige VT sind keine DW.
+C) Alle VT sind keine DW.
+D) Einige VT sind DW.
 E) Keine der Schlussfolgerungen ist richtig.

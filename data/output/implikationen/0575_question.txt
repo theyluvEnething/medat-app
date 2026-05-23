@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Pilze sind Eidechsen.
-- Alle Eidechsen sind Quartette.
+- Alle VU sind keine WB.
+- Alle WB sind DN.
 
-A) Alle Pilze sind Quartette.
-B) Einige Pilze sind Quartette.
-C) Alle Pilze sind keine Quartette.
-D) Einige Pilze sind keine Quartette.
+A) Einige VU sind keine DN.
+B) Alle VU sind keine DN.
+C) Alle VU sind DN.
+D) Einige VU sind DN.
 E) Keine der Schlussfolgerungen ist richtig.

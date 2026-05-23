@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Stühle sind keine Schriftsteller.
-- Einige Schriftsteller sind Delfine.
+- Alle CS sind OB.
+- Einige OB sind KS.
 
-A) Einige Stühle sind Delfine.
-B) Alle Stühle sind keine Delfine.
-C) Alle Stühle sind Delfine.
-D) Einige Stühle sind keine Delfine.
+A) Alle CS sind keine KS.
+B) Einige CS sind KS.
+C) Alle CS sind KS.
+D) Einige CS sind keine KS.
 E) Keine der Schlussfolgerungen ist richtig.

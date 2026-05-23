@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Pandas sind Glühbirnen.
-- Einige Glühbirnen sind keine Anwälte.
+- Einige LM sind OML.
+- Alle OML sind EF.
 
-A) Alle Pandas sind Anwälte.
-B) Einige Pandas sind keine Anwälte.
-C) Alle Pandas sind keine Anwälte.
-D) Einige Pandas sind Anwälte.
+A) Alle LM sind EF.
+B) Einige LM sind keine EF.
+C) Einige LM sind EF.
+D) Alle LM sind keine EF.
 E) Keine der Schlussfolgerungen ist richtig.

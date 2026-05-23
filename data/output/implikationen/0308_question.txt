@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Quallen sind keine Musikinstrumente.
-- Alle Musikinstrumente sind keine Orchideen.
+- Alle ML sind RIJ.
+- Alle RIJ sind NT.
 
-A) Einige Quallen sind keine Orchideen.
-B) Alle Quallen sind keine Orchideen.
-C) Alle Quallen sind Orchideen.
-D) Einige Quallen sind Orchideen.
+A) Einige ML sind keine NT.
+B) Einige ML sind NT.
+C) Alle ML sind NT.
+D) Alle ML sind keine NT.
 E) Keine der Schlussfolgerungen ist richtig.

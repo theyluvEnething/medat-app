@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Politiker sind Bäume.
-- Einige Bäume sind Orchideen.
+- Alle LM sind KEL.
+- Alle KEL sind MM.
 
-A) Alle Politiker sind keine Orchideen.
-B) Alle Politiker sind Orchideen.
-C) Einige Politiker sind Orchideen.
-D) Einige Politiker sind keine Orchideen.
+A) Alle LM sind keine MM.
+B) Einige LM sind keine MM.
+C) Alle LM sind MM.
+D) Einige LM sind MM.
 E) Keine der Schlussfolgerungen ist richtig.

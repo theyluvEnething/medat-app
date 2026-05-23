@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Säugetiere sind keine Giraffen.
-- Einige Giraffen sind keine Politiker.
+- Alle LN sind DSO.
+- Alle DSO sind OF.
 
-A) Einige Säugetiere sind keine Politiker.
-B) Alle Säugetiere sind Politiker.
-C) Alle Säugetiere sind keine Politiker.
-D) Einige Säugetiere sind Politiker.
+A) Alle LN sind keine OF.
+B) Einige LN sind keine OF.
+C) Alle LN sind OF.
+D) Einige LN sind OF.
 E) Keine der Schlussfolgerungen ist richtig.

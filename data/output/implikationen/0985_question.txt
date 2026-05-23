@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Nashörner sind Amphibien.
-- Alle Amphibien sind keine Skulpturen.
+- Alle GLP sind keine NTD.
+- Alle NTD sind EI.
 
-A) Alle Nashörner sind keine Skulpturen.
-B) Alle Nashörner sind Skulpturen.
-C) Einige Nashörner sind Skulpturen.
-D) Einige Nashörner sind keine Skulpturen.
+A) Alle GLP sind keine EI.
+B) Einige GLP sind keine EI.
+C) Einige GLP sind EI.
+D) Alle GLP sind EI.
 E) Keine der Schlussfolgerungen ist richtig.

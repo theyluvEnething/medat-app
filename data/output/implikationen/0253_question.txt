@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Flüsse sind keine Wale.
-- Einige Wale sind keine Insekten.
+- Einige VV sind MN.
+- Alle MN sind HC.
 
-A) Einige Flüsse sind Insekten.
-B) Einige Flüsse sind keine Insekten.
-C) Alle Flüsse sind keine Insekten.
-D) Alle Flüsse sind Insekten.
+A) Einige VV sind HC.
+B) Alle VV sind keine HC.
+C) Einige VV sind keine HC.
+D) Alle VV sind HC.
 E) Keine der Schlussfolgerungen ist richtig.

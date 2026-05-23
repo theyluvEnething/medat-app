@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Anwälte sind Politiker.
-- Alle Politiker sind Reptilien.
+- Einige KH sind AM.
+- Alle AM sind keine JT.
 
-A) Einige Anwälte sind keine Reptilien.
-B) Alle Anwälte sind keine Reptilien.
-C) Alle Anwälte sind Reptilien.
-D) Einige Anwälte sind Reptilien.
+A) Alle KH sind JT.
+B) Alle KH sind keine JT.
+C) Einige KH sind keine JT.
+D) Einige KH sind JT.
 E) Keine der Schlussfolgerungen ist richtig.

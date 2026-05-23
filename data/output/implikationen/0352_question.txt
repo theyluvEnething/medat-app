@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Chemiker sind Werkzeuge.
-- Alle Werkzeuge sind keine Kupfer.
+- Einige GPS sind EC.
+- Einige EC sind IE.
 
-A) Einige Chemiker sind keine Kupfer.
-B) Alle Chemiker sind Kupfer.
-C) Einige Chemiker sind Kupfer.
-D) Alle Chemiker sind keine Kupfer.
+A) Alle GPS sind keine IE.
+B) Alle GPS sind IE.
+C) Einige GPS sind keine IE.
+D) Einige GPS sind IE.
 E) Keine der Schlussfolgerungen ist richtig.

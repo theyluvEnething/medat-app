@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Türen sind keine Insekten.
-- Einige Insekten sind Uhren.
+- Alle LU sind IS.
+- Einige IS sind HUC.
 
-A) Einige Türen sind keine Uhren.
-B) Alle Türen sind Uhren.
-C) Alle Türen sind keine Uhren.
-D) Einige Türen sind Uhren.
+A) Alle LU sind HUC.
+B) Einige LU sind keine HUC.
+C) Einige LU sind HUC.
+D) Alle LU sind keine HUC.
 E) Keine der Schlussfolgerungen ist richtig.

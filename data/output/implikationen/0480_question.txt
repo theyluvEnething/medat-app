@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Sportler sind keine Wirbeltiere.
-- Einige Wirbeltiere sind Säugetiere.
+- Alle WJ sind keine GHI.
+- Alle GHI sind OG.
 
-A) Alle Sportler sind Säugetiere.
-B) Einige Sportler sind keine Säugetiere.
-C) Einige Sportler sind Säugetiere.
-D) Alle Sportler sind keine Säugetiere.
+A) Einige WJ sind OG.
+B) Alle WJ sind OG.
+C) Einige WJ sind keine OG.
+D) Alle WJ sind keine OG.
 E) Keine der Schlussfolgerungen ist richtig.

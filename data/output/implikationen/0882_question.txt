@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Flugzeuge sind Vegetarier.
-- Einige Vegetarier sind Vögel.
+- Einige VS sind keine KE.
+- Einige KE sind keine ZV.
 
-A) Alle Flugzeuge sind Vögel.
-B) Alle Flugzeuge sind keine Vögel.
-C) Einige Flugzeuge sind Vögel.
-D) Einige Flugzeuge sind keine Vögel.
+A) Alle VS sind ZV.
+B) Alle VS sind keine ZV.
+C) Einige VS sind ZV.
+D) Einige VS sind keine ZV.
 E) Keine der Schlussfolgerungen ist richtig.

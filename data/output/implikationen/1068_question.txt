@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Haie sind keine Reptilien.
-- Einige Reptilien sind keine Smartphones.
+- Alle LP sind GN.
+- Einige GN sind BGV.
 
-A) Einige Haie sind keine Smartphones.
-B) Alle Haie sind Smartphones.
-C) Alle Haie sind keine Smartphones.
-D) Einige Haie sind Smartphones.
+A) Einige LP sind BGV.
+B) Alle LP sind BGV.
+C) Alle LP sind keine BGV.
+D) Einige LP sind keine BGV.
 E) Keine der Schlussfolgerungen ist richtig.

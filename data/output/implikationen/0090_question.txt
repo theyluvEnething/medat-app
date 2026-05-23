@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schlangen sind keine Werkzeuge.
-- Alle Werkzeuge sind Teleskope.
+- Alle TJ sind LO.
+- Alle LO sind keine CP.
 
-A) Alle Schlangen sind Teleskope.
-B) Alle Schlangen sind keine Teleskope.
-C) Einige Schlangen sind keine Teleskope.
-D) Einige Schlangen sind Teleskope.
+A) Alle TJ sind CP.
+B) Einige TJ sind keine CP.
+C) Alle TJ sind keine CP.
+D) Einige TJ sind CP.
 E) Keine der Schlussfolgerungen ist richtig.

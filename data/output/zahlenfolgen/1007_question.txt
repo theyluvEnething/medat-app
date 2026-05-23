@@ -1,7 +1,0 @@
-Zahlenfolge: 5 3 6 4 8 6 ? ?
-
-A) 22/19
-B) 20/18
-C) 18/20
-D) 19/20
-E) Keine der Antworten ist richtig

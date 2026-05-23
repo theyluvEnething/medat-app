@@ -1,7 +1,0 @@
-Zahlenfolge: 9 27 81 243 729 2187 ? ?
-
-A) 4374/4809
-B) 19682/59048
-C) 19683/59049
-D) 19685/59048
-E) Keine der Antworten ist richtig

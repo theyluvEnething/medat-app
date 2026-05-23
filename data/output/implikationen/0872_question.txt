@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Pilze sind keine Roboter.
-- Alle Roboter sind keine Schriftsteller.
+- Einige PE sind PW.
+- Alle PW sind VHZ.
 
-A) Einige Pilze sind Schriftsteller.
-B) Einige Pilze sind keine Schriftsteller.
-C) Alle Pilze sind Schriftsteller.
-D) Alle Pilze sind keine Schriftsteller.
+A) Alle PE sind VHZ.
+B) Alle PE sind keine VHZ.
+C) Einige PE sind VHZ.
+D) Einige PE sind keine VHZ.
 E) Keine der Schlussfolgerungen ist richtig.

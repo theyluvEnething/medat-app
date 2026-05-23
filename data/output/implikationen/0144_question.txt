@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Säugetiere sind keine Diamanten.
-- Alle Diamanten sind Gemälde.
+- Alle OC sind FMN.
+- Einige FMN sind PTW.
 
-A) Einige Säugetiere sind Gemälde.
-B) Alle Säugetiere sind keine Gemälde.
-C) Alle Säugetiere sind Gemälde.
-D) Einige Säugetiere sind keine Gemälde.
+A) Einige OC sind PTW.
+B) Einige OC sind keine PTW.
+C) Alle OC sind PTW.
+D) Alle OC sind keine PTW.
 E) Keine der Schlussfolgerungen ist richtig.

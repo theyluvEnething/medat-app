@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Reptilien sind keine Wirbeltiere.
-- Alle Wirbeltiere sind keine Säugetiere.
+- Einige CUI sind EN.
+- Alle EN sind keine OZ.
 
-A) Einige Reptilien sind keine Säugetiere.
-B) Alle Reptilien sind keine Säugetiere.
-C) Einige Reptilien sind Säugetiere.
-D) Alle Reptilien sind Säugetiere.
+A) Alle CUI sind OZ.
+B) Alle CUI sind keine OZ.
+C) Einige CUI sind OZ.
+D) Einige CUI sind keine OZ.
 E) Keine der Schlussfolgerungen ist richtig.

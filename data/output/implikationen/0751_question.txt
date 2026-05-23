@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Roboter sind Tannen.
-- Einige Tannen sind Metalle.
+- Einige KN sind KSA.
+- Alle KSA sind keine RD.
 
-A) Einige Roboter sind keine Metalle.
-B) Alle Roboter sind Metalle.
-C) Einige Roboter sind Metalle.
-D) Alle Roboter sind keine Metalle.
+A) Alle KN sind keine RD.
+B) Einige KN sind RD.
+C) Einige KN sind keine RD.
+D) Alle KN sind RD.
 E) Keine der Schlussfolgerungen ist richtig.

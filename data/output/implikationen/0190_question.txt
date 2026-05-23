@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Menschen sind Orchideen.
-- Alle Orchideen sind keine Haie.
+- Alle KLP sind RB.
+- Alle RB sind MCZ.
 
-A) Alle Menschen sind Haie.
-B) Einige Menschen sind Haie.
-C) Einige Menschen sind keine Haie.
-D) Alle Menschen sind keine Haie.
+A) Einige KLP sind keine MCZ.
+B) Alle KLP sind keine MCZ.
+C) Einige KLP sind MCZ.
+D) Alle KLP sind MCZ.
 E) Keine der Schlussfolgerungen ist richtig.

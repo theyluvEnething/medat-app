@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Lilien sind Kupfer.
-- Einige Kupfer sind Statuen.
+- Alle RA sind JJ.
+- Alle JJ sind KL.
 
-A) Einige Lilien sind Statuen.
-B) Einige Lilien sind keine Statuen.
-C) Alle Lilien sind keine Statuen.
-D) Alle Lilien sind Statuen.
+A) Alle RA sind keine KL.
+B) Einige RA sind KL.
+C) Alle RA sind KL.
+D) Einige RA sind keine KL.
 E) Keine der Schlussfolgerungen ist richtig.

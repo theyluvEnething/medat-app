@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Marder sind Giraffen.
-- Alle Giraffen sind keine Hunde.
+- Alle UF sind keine VG.
+- Einige VG sind ZFB.
 
-A) Alle Marder sind keine Hunde.
-B) Einige Marder sind keine Hunde.
-C) Einige Marder sind Hunde.
-D) Alle Marder sind Hunde.
+A) Alle UF sind ZFB.
+B) Alle UF sind keine ZFB.
+C) Einige UF sind ZFB.
+D) Einige UF sind keine ZFB.
 E) Keine der Schlussfolgerungen ist richtig.

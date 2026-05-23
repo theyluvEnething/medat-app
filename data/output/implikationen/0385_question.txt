@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Politiker sind Sportler.
-- Einige Sportler sind keine Marder.
+- Einige LR sind keine AMM.
+- Alle AMM sind PM.
 
-A) Einige Politiker sind Marder.
-B) Einige Politiker sind keine Marder.
-C) Alle Politiker sind keine Marder.
-D) Alle Politiker sind Marder.
+A) Alle LR sind PM.
+B) Einige LR sind keine PM.
+C) Einige LR sind PM.
+D) Alle LR sind keine PM.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Blumen sind keine Teleskope.
-- Alle Teleskope sind keine Zebras.
+- Alle ZRI sind UC.
+- Einige UC sind BT.
 
-A) Einige Blumen sind Zebras.
-B) Alle Blumen sind Zebras.
-C) Einige Blumen sind keine Zebras.
-D) Alle Blumen sind keine Zebras.
+A) Einige ZRI sind BT.
+B) Alle ZRI sind BT.
+C) Alle ZRI sind keine BT.
+D) Einige ZRI sind keine BT.
 E) Keine der Schlussfolgerungen ist richtig.

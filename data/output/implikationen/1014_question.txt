@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Klaviere sind Autos.
-- Alle Autos sind keine Reptilien.
+- Einige WU sind OR.
+- Alle OR sind HIN.
 
-A) Alle Klaviere sind keine Reptilien.
-B) Alle Klaviere sind Reptilien.
-C) Einige Klaviere sind Reptilien.
-D) Einige Klaviere sind keine Reptilien.
+A) Alle WU sind HIN.
+B) Alle WU sind keine HIN.
+C) Einige WU sind HIN.
+D) Einige WU sind keine HIN.
 E) Keine der Schlussfolgerungen ist richtig.

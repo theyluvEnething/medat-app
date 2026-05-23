@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Orchideen sind Eichen.
-- Einige Eichen sind Säugetiere.
+- Alle ILO sind JR.
+- Alle JR sind PEK.
 
-A) Alle Orchideen sind keine Säugetiere.
-B) Alle Orchideen sind Säugetiere.
-C) Einige Orchideen sind keine Säugetiere.
-D) Einige Orchideen sind Säugetiere.
+A) Alle ILO sind keine PEK.
+B) Einige ILO sind keine PEK.
+C) Alle ILO sind PEK.
+D) Einige ILO sind PEK.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,2 +1,2 @@
-D — 351/520
-n³ + 8
+C — 152/201
+Differenz: +7, +14, +21, +28, +35, +42, +49 — die Differenz wächst um +7 pro Schritt

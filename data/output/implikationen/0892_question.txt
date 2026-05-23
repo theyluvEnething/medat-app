@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wirbeltiere sind keine Kätzchen.
-- Einige Kätzchen sind Sänger.
+- Alle GG sind JW.
+- Alle JW sind keine HO.
 
-A) Alle Wirbeltiere sind keine Sänger.
-B) Einige Wirbeltiere sind Sänger.
-C) Alle Wirbeltiere sind Sänger.
-D) Einige Wirbeltiere sind keine Sänger.
+A) Einige GG sind HO.
+B) Alle GG sind HO.
+C) Einige GG sind keine HO.
+D) Alle GG sind keine HO.
 E) Keine der Schlussfolgerungen ist richtig.

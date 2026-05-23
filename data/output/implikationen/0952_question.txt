@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Säugetiere sind Granite.
-- Alle Granite sind Autos.
+- Alle BB sind NMD.
+- Alle NMD sind BOF.
 
-A) Einige Säugetiere sind keine Autos.
-B) Einige Säugetiere sind Autos.
-C) Alle Säugetiere sind Autos.
-D) Alle Säugetiere sind keine Autos.
+A) Alle BB sind keine BOF.
+B) Einige BB sind keine BOF.
+C) Alle BB sind BOF.
+D) Einige BB sind BOF.
 E) Keine der Schlussfolgerungen ist richtig.

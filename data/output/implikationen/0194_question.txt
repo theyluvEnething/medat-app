@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Musikinstrumente sind Pilze.
-- Alle Pilze sind keine Klaviere.
+- Alle OS sind IN.
+- Einige IN sind keine CTM.
 
-A) Alle Musikinstrumente sind Klaviere.
-B) Alle Musikinstrumente sind keine Klaviere.
-C) Einige Musikinstrumente sind Klaviere.
-D) Einige Musikinstrumente sind keine Klaviere.
+A) Einige OS sind CTM.
+B) Alle OS sind CTM.
+C) Alle OS sind keine CTM.
+D) Einige OS sind keine CTM.
 E) Keine der Schlussfolgerungen ist richtig.

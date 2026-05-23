@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Ingenieure sind keine Uhren.
-- Einige Uhren sind keine Insekten.
+- Alle OS sind FD.
+- Einige FD sind MH.
 
-A) Alle Ingenieure sind keine Insekten.
-B) Alle Ingenieure sind Insekten.
-C) Einige Ingenieure sind Insekten.
-D) Einige Ingenieure sind keine Insekten.
+A) Alle OS sind keine MH.
+B) Einige OS sind MH.
+C) Alle OS sind MH.
+D) Einige OS sind keine MH.
 E) Keine der Schlussfolgerungen ist richtig.

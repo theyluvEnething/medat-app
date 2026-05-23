@@ -1,7 +1,0 @@
-Zahlenfolge: -2 1 5 10 16 23 ? ?
-
-A) 50/61
-B) 49/62
-C) 51/59
-D) 46/51
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Bücher sind keine Radios.
-- Alle Radios sind Telefone.
+- Einige KV sind HDT.
+- Alle HDT sind keine BC.
 
-A) Alle Bücher sind Telefone.
-B) Alle Bücher sind keine Telefone.
-C) Einige Bücher sind keine Telefone.
-D) Einige Bücher sind Telefone.
+A) Einige KV sind keine BC.
+B) Alle KV sind keine BC.
+C) Einige KV sind BC.
+D) Alle KV sind BC.
 E) Keine der Schlussfolgerungen ist richtig.

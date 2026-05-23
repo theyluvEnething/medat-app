@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Vegetarier sind Metalle.
-- Alle Metalle sind keine Taucher.
+- Einige LVV sind GP.
+- Alle GP sind KSO.
 
-A) Einige Vegetarier sind keine Taucher.
-B) Alle Vegetarier sind keine Taucher.
-C) Einige Vegetarier sind Taucher.
-D) Alle Vegetarier sind Taucher.
+A) Einige LVV sind keine KSO.
+B) Einige LVV sind KSO.
+C) Alle LVV sind KSO.
+D) Alle LVV sind keine KSO.
 E) Keine der Schlussfolgerungen ist richtig.

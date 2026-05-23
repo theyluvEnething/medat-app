@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wale sind keine Häuser.
-- Einige Häuser sind keine Ingenieure.
+- Alle JM sind HA.
+- Alle HA sind keine MV.
 
-A) Einige Wale sind keine Ingenieure.
-B) Alle Wale sind keine Ingenieure.
-C) Einige Wale sind Ingenieure.
-D) Alle Wale sind Ingenieure.
+A) Alle JM sind MV.
+B) Alle JM sind keine MV.
+C) Einige JM sind MV.
+D) Einige JM sind keine MV.
 E) Keine der Schlussfolgerungen ist richtig.

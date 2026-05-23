@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mathematiker sind keine Schlangen.
-- Einige Schlangen sind Blumen.
+- Alle BI sind RB.
+- Alle RB sind KP.
 
-A) Alle Mathematiker sind Blumen.
-B) Einige Mathematiker sind keine Blumen.
-C) Alle Mathematiker sind keine Blumen.
-D) Einige Mathematiker sind Blumen.
+A) Einige BI sind KP.
+B) Alle BI sind KP.
+C) Alle BI sind keine KP.
+D) Einige BI sind keine KP.
 E) Keine der Schlussfolgerungen ist richtig.

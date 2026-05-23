@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Maler sind keine Chemiker.
-- Alle Chemiker sind Türen.
+- Alle CJ sind TV.
+- Alle TV sind CU.
 
-A) Alle Maler sind Türen.
-B) Alle Maler sind keine Türen.
-C) Einige Maler sind Türen.
-D) Einige Maler sind keine Türen.
+A) Einige CJ sind keine CU.
+B) Alle CJ sind keine CU.
+C) Alle CJ sind CU.
+D) Einige CJ sind CU.
 E) Keine der Schlussfolgerungen ist richtig.

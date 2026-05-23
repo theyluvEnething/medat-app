@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schlangen sind keine Glühbirnen.
-- Einige Glühbirnen sind Wirbeltiere.
+- Alle MMN sind ZL.
+- Alle ZL sind FWC.
 
-A) Einige Schlangen sind keine Wirbeltiere.
-B) Einige Schlangen sind Wirbeltiere.
-C) Alle Schlangen sind Wirbeltiere.
-D) Alle Schlangen sind keine Wirbeltiere.
+A) Alle MMN sind FWC.
+B) Einige MMN sind keine FWC.
+C) Alle MMN sind keine FWC.
+D) Einige MMN sind FWC.
 E) Keine der Schlussfolgerungen ist richtig.

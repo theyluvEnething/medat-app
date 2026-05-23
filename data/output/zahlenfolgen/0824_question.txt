@@ -1,7 +1,0 @@
-Zahlenfolge: 8 11 19 30 49 79 ? ?
-
-A) 334/544
-B) 337/541
-C) 336/543
-D) 335/542
-E) Keine der Antworten ist richtig

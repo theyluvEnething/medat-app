@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schauspieler sind Metalle.
-- Einige Metalle sind keine Nashörner.
+- Alle SN sind keine AZ.
+- Alle AZ sind LK.
 
-A) Alle Schauspieler sind keine Nashörner.
-B) Einige Schauspieler sind keine Nashörner.
-C) Alle Schauspieler sind Nashörner.
-D) Einige Schauspieler sind Nashörner.
+A) Einige SN sind LK.
+B) Alle SN sind LK.
+C) Einige SN sind keine LK.
+D) Alle SN sind keine LK.
 E) Keine der Schlussfolgerungen ist richtig.

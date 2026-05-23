@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Anwälte sind keine Vulkane.
-- Alle Vulkane sind Schlangen.
+- Einige PI sind ZV.
+- Alle ZV sind keine EAV.
 
-A) Alle Anwälte sind Schlangen.
-B) Einige Anwälte sind keine Schlangen.
-C) Alle Anwälte sind keine Schlangen.
-D) Einige Anwälte sind Schlangen.
+A) Einige PI sind EAV.
+B) Alle PI sind EAV.
+C) Alle PI sind keine EAV.
+D) Einige PI sind keine EAV.
 E) Keine der Schlussfolgerungen ist richtig.

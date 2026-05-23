@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Nashörner sind Haie.
-- Alle Haie sind keine Pandas.
+- Einige FL sind MVI.
+- Alle MVI sind ZJ.
 
-A) Einige Nashörner sind Pandas.
-B) Einige Nashörner sind keine Pandas.
-C) Alle Nashörner sind Pandas.
-D) Alle Nashörner sind keine Pandas.
+A) Alle FL sind keine ZJ.
+B) Einige FL sind keine ZJ.
+C) Alle FL sind ZJ.
+D) Einige FL sind ZJ.
 E) Keine der Schlussfolgerungen ist richtig.

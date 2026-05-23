@@ -1,7 +1,0 @@
-Zahlenfolge: 3 11 14 25 39 64 ? ?
-
-A) 272/439
-B) 270/437
-C) 268/436
-D) 271/436
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Skulpturen sind Mammute.
-- Alle Mammute sind keine Tomaten.
+- Alle CI sind PJ.
+- Alle PJ sind ISI.
 
-A) Einige Skulpturen sind Tomaten.
-B) Alle Skulpturen sind Tomaten.
-C) Alle Skulpturen sind keine Tomaten.
-D) Einige Skulpturen sind keine Tomaten.
+A) Einige CI sind keine ISI.
+B) Alle CI sind ISI.
+C) Alle CI sind keine ISI.
+D) Einige CI sind ISI.
 E) Keine der Schlussfolgerungen ist richtig.

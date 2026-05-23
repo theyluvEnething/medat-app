@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schiffe sind keine Ärzte.
-- Einige Ärzte sind keine Wirbeltiere.
+- Alle VM sind keine WF.
+- Einige WF sind keine FA.
 
-A) Einige Schiffe sind Wirbeltiere.
-B) Alle Schiffe sind Wirbeltiere.
-C) Einige Schiffe sind keine Wirbeltiere.
-D) Alle Schiffe sind keine Wirbeltiere.
+A) Einige VM sind keine FA.
+B) Einige VM sind FA.
+C) Alle VM sind keine FA.
+D) Alle VM sind FA.
 E) Keine der Schlussfolgerungen ist richtig.

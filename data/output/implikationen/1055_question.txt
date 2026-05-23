@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Möbel sind Telefone.
-- Alle Telefone sind Vögel.
+- Alle LT sind NO.
+- Alle NO sind NW.
 
-A) Alle Möbel sind Vögel.
-B) Einige Möbel sind Vögel.
-C) Einige Möbel sind keine Vögel.
-D) Alle Möbel sind keine Vögel.
+A) Alle LT sind NW.
+B) Alle LT sind keine NW.
+C) Einige LT sind keine NW.
+D) Einige LT sind NW.
 E) Keine der Schlussfolgerungen ist richtig.

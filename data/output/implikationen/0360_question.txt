@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Kätzchen sind keine Werkzeuge.
-- Einige Werkzeuge sind Diamanten.
+- Einige CG sind JH.
+- Einige JH sind keine SFH.
 
-A) Einige Kätzchen sind keine Diamanten.
-B) Alle Kätzchen sind Diamanten.
-C) Einige Kätzchen sind Diamanten.
-D) Alle Kätzchen sind keine Diamanten.
+A) Alle CG sind keine SFH.
+B) Einige CG sind keine SFH.
+C) Einige CG sind SFH.
+D) Alle CG sind SFH.
 E) Keine der Schlussfolgerungen ist richtig.

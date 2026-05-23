@@ -1,7 +1,0 @@
-Zahlenfolge: 35 46 57 68 79 90 ? ?
-
-A) 112/123
-B) 113/122
-C) 110/125
-D) 111/121
-E) Keine der Antworten ist richtig

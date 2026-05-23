@@ -1,7 +1,0 @@
-Zahlenfolge: 6 4 10 14 24 38 ? ?
-
-A) 162/262
-B) 76/82
-C) 164/264
-D) 164/261
-E) Keine der Antworten ist richtig

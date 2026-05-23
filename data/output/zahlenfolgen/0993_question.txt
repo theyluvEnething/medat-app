@@ -1,7 +1,0 @@
-Zahlenfolge: 3 9 27 81 243 729 ? ?
-
-A) 19682/59047
-B) 19682/59048
-C) 19683/59049
-D) 19685/59051
-E) Keine der Antworten ist richtig

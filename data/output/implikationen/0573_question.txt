@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Chemiker sind Politiker.
-- Alle Politiker sind keine Tannen.
+- Einige RO sind VI.
+- Alle VI sind keine CM.
 
-A) Alle Chemiker sind keine Tannen.
-B) Einige Chemiker sind Tannen.
-C) Alle Chemiker sind Tannen.
-D) Einige Chemiker sind keine Tannen.
+A) Einige RO sind keine CM.
+B) Alle RO sind CM.
+C) Einige RO sind CM.
+D) Alle RO sind keine CM.
 E) Keine der Schlussfolgerungen ist richtig.

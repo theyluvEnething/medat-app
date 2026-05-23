@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Taucher sind Tannen.
-- Einige Tannen sind keine Radios.
+- Alle WU sind KMZ.
+- Alle KMZ sind SS.
 
-A) Alle Taucher sind Radios.
-B) Einige Taucher sind keine Radios.
-C) Alle Taucher sind keine Radios.
-D) Einige Taucher sind Radios.
+A) Alle WU sind SS.
+B) Einige WU sind keine SS.
+C) Alle WU sind keine SS.
+D) Einige WU sind SS.
 E) Keine der Schlussfolgerungen ist richtig.

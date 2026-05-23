@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Stühle sind Autos.
-- Alle Autos sind keine Ärzte.
+- Alle SB sind keine AJ.
+- Alle AJ sind GI.
 
-A) Alle Stühle sind keine Ärzte.
-B) Alle Stühle sind Ärzte.
-C) Einige Stühle sind keine Ärzte.
-D) Einige Stühle sind Ärzte.
+A) Alle SB sind keine GI.
+B) Alle SB sind GI.
+C) Einige SB sind GI.
+D) Einige SB sind keine GI.
 E) Keine der Schlussfolgerungen ist richtig.

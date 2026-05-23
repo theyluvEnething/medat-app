@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Lilien sind Ärzte.
-- Alle Ärzte sind keine Amphibien.
+- Alle GJA sind ST.
+- Einige ST sind keine GOW.
 
-A) Einige Lilien sind Amphibien.
-B) Alle Lilien sind Amphibien.
-C) Einige Lilien sind keine Amphibien.
-D) Alle Lilien sind keine Amphibien.
+A) Einige GJA sind keine GOW.
+B) Einige GJA sind GOW.
+C) Alle GJA sind GOW.
+D) Alle GJA sind keine GOW.
 E) Keine der Schlussfolgerungen ist richtig.

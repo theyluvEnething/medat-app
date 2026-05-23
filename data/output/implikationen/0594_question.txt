@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wölfe sind keine Vasen.
-- Einige Vasen sind keine Granite.
+- Alle WUB sind GAR.
+- Alle GAR sind BU.
 
-A) Alle Wölfe sind keine Granite.
-B) Einige Wölfe sind keine Granite.
-C) Alle Wölfe sind Granite.
-D) Einige Wölfe sind Granite.
+A) Einige WUB sind BU.
+B) Alle WUB sind BU.
+C) Einige WUB sind keine BU.
+D) Alle WUB sind keine BU.
 E) Keine der Schlussfolgerungen ist richtig.

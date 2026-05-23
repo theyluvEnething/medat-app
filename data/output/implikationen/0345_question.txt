@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gemälde sind Quartette.
-- Alle Quartette sind Eichen.
+- Einige AF sind DG.
+- Alle DG sind keine VE.
 
-A) Einige Gemälde sind Eichen.
-B) Alle Gemälde sind Eichen.
-C) Einige Gemälde sind keine Eichen.
-D) Alle Gemälde sind keine Eichen.
+A) Alle AF sind VE.
+B) Alle AF sind keine VE.
+C) Einige AF sind VE.
+D) Einige AF sind keine VE.
 E) Keine der Schlussfolgerungen ist richtig.

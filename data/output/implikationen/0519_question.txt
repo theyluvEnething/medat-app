@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Menschen sind keine Ingenieure.
-- Alle Ingenieure sind Fische.
+- Einige SH sind AKJ.
+- Alle AKJ sind keine UM.
 
-A) Alle Menschen sind keine Fische.
-B) Alle Menschen sind Fische.
-C) Einige Menschen sind keine Fische.
-D) Einige Menschen sind Fische.
+A) Einige SH sind UM.
+B) Einige SH sind keine UM.
+C) Alle SH sind UM.
+D) Alle SH sind keine UM.
 E) Keine der Schlussfolgerungen ist richtig.

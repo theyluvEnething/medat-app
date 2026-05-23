@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Türen sind Wölfe.
-- Alle Wölfe sind keine Granite.
+- Alle UWT sind EG.
+- Alle EG sind keine DTW.
 
-A) Alle Türen sind keine Granite.
-B) Einige Türen sind keine Granite.
-C) Einige Türen sind Granite.
-D) Alle Türen sind Granite.
+A) Alle UWT sind DTW.
+B) Einige UWT sind DTW.
+C) Einige UWT sind keine DTW.
+D) Alle UWT sind keine DTW.
 E) Keine der Schlussfolgerungen ist richtig.

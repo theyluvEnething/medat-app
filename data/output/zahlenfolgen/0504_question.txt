@@ -1,7 +1,0 @@
-Zahlenfolge: 7 12 24 29 58 63 ? ?
-
-A) 264/266
-B) 264/269
-C) 262/267
-D) 264/268
-E) Keine der Antworten ist richtig

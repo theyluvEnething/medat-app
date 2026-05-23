@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Granite sind keine Dinosaurier.
-- Einige Dinosaurier sind keine Musikinstrumente.
+- Alle LJI sind AWP.
+- Einige AWP sind VND.
 
-A) Einige Granite sind keine Musikinstrumente.
-B) Alle Granite sind keine Musikinstrumente.
-C) Alle Granite sind Musikinstrumente.
-D) Einige Granite sind Musikinstrumente.
+A) Alle LJI sind VND.
+B) Alle LJI sind keine VND.
+C) Einige LJI sind VND.
+D) Einige LJI sind keine VND.
 E) Keine der Schlussfolgerungen ist richtig.

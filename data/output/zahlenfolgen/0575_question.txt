@@ -1,7 +1,0 @@
-Zahlenfolge: 67 76 83 38 45 54 ? ?
-
-A) 23/32
-B) 24/34
-C) 21/30
-D) 22/33
-E) Keine der Antworten ist richtig

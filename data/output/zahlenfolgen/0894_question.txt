@@ -1,7 +1,0 @@
-Zahlenfolge: -6 2 -8 -8 -10 -18 ? ?
-
-A) -12/-36
-B) -12/-40
-C) -14/-38
-D) -36/-39
-E) Keine der Antworten ist richtig

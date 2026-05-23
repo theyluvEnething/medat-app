@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tiger sind Politiker.
-- Alle Politiker sind keine Vegetarier.
+- Alle FU sind FKV.
+- Alle FKV sind TM.
 
-A) Einige Tiger sind keine Vegetarier.
-B) Alle Tiger sind Vegetarier.
-C) Einige Tiger sind Vegetarier.
-D) Alle Tiger sind keine Vegetarier.
+A) Einige FU sind TM.
+B) Alle FU sind keine TM.
+C) Alle FU sind TM.
+D) Einige FU sind keine TM.
 E) Keine der Schlussfolgerungen ist richtig.

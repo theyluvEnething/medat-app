@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gräser sind Ingenieure.
-- Einige Ingenieure sind Granite.
+- Einige KGD sind JP.
+- Alle JP sind keine UHV.
 
-A) Einige Gräser sind keine Granite.
-B) Einige Gräser sind Granite.
-C) Alle Gräser sind keine Granite.
-D) Alle Gräser sind Granite.
+A) Einige KGD sind UHV.
+B) Einige KGD sind keine UHV.
+C) Alle KGD sind keine UHV.
+D) Alle KGD sind UHV.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Eichen sind keine Amphibien.
-- Einige Amphibien sind keine Marder.
+- Alle ND sind keine AJ.
+- Einige AJ sind AL.
 
-A) Einige Eichen sind keine Marder.
-B) Einige Eichen sind Marder.
-C) Alle Eichen sind keine Marder.
-D) Alle Eichen sind Marder.
+A) Alle ND sind keine AL.
+B) Einige ND sind AL.
+C) Alle ND sind AL.
+D) Einige ND sind keine AL.
 E) Keine der Schlussfolgerungen ist richtig.

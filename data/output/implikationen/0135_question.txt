@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schriftsteller sind Maler.
-- Einige Maler sind Elektroautos.
+- Einige VV sind PJ.
+- Alle PJ sind keine DOT.
 
-A) Einige Schriftsteller sind Elektroautos.
-B) Alle Schriftsteller sind Elektroautos.
-C) Alle Schriftsteller sind keine Elektroautos.
-D) Einige Schriftsteller sind keine Elektroautos.
+A) Alle VV sind DOT.
+B) Einige VV sind DOT.
+C) Einige VV sind keine DOT.
+D) Alle VV sind keine DOT.
 E) Keine der Schlussfolgerungen ist richtig.

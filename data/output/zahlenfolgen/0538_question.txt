@@ -1,7 +1,0 @@
-Zahlenfolge: 1 10 11 21 32 53 ? ?
-
-A) 106/116
-B) 223/361
-C) 63/73
-D) 224/360
-E) Keine der Antworten ist richtig

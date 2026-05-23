@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Anwälte sind keine Flugzeuge.
-- Einige Flugzeuge sind keine Amseln.
+- Einige RS sind EPA.
+- Alle EPA sind keine UC.
 
-A) Einige Anwälte sind keine Amseln.
-B) Alle Anwälte sind keine Amseln.
-C) Einige Anwälte sind Amseln.
-D) Alle Anwälte sind Amseln.
+A) Einige RS sind keine UC.
+B) Einige RS sind UC.
+C) Alle RS sind UC.
+D) Alle RS sind keine UC.
 E) Keine der Schlussfolgerungen ist richtig.

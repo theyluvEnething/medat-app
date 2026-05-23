@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Dinosaurier sind Schiffe.
-- Einige Schiffe sind Schriftsteller.
+- Einige FZ sind PZ.
+- Alle PZ sind keine TJP.
 
-A) Einige Dinosaurier sind keine Schriftsteller.
-B) Alle Dinosaurier sind Schriftsteller.
-C) Einige Dinosaurier sind Schriftsteller.
-D) Alle Dinosaurier sind keine Schriftsteller.
+A) Alle FZ sind TJP.
+B) Einige FZ sind keine TJP.
+C) Einige FZ sind TJP.
+D) Alle FZ sind keine TJP.
 E) Keine der Schlussfolgerungen ist richtig.

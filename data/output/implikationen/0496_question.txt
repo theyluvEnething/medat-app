@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Elektroautos sind keine Mathematiker.
-- Einige Mathematiker sind keine Vögel.
+- Einige VH sind OMK.
+- Alle OMK sind keine ZF.
 
-A) Einige Elektroautos sind keine Vögel.
-B) Alle Elektroautos sind Vögel.
-C) Einige Elektroautos sind Vögel.
-D) Alle Elektroautos sind keine Vögel.
+A) Einige VH sind ZF.
+B) Einige VH sind keine ZF.
+C) Alle VH sind ZF.
+D) Alle VH sind keine ZF.
 E) Keine der Schlussfolgerungen ist richtig.

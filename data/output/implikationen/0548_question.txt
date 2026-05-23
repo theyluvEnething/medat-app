@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Smartphones sind Flüsse.
-- Alle Flüsse sind Diamanten.
+- Einige BR sind keine UVP.
+- Alle UVP sind keine CM.
 
-A) Alle Smartphones sind keine Diamanten.
-B) Alle Smartphones sind Diamanten.
-C) Einige Smartphones sind Diamanten.
-D) Einige Smartphones sind keine Diamanten.
+A) Alle BR sind keine CM.
+B) Einige BR sind keine CM.
+C) Alle BR sind CM.
+D) Einige BR sind CM.
 E) Keine der Schlussfolgerungen ist richtig.

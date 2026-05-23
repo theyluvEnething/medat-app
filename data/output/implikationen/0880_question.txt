@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Klaviere sind Wirbeltiere.
-- Alle Wirbeltiere sind Tulpen.
+- Einige WU sind keine TE.
+- Einige TE sind keine CI.
 
-A) Einige Klaviere sind keine Tulpen.
-B) Alle Klaviere sind Tulpen.
-C) Einige Klaviere sind Tulpen.
-D) Alle Klaviere sind keine Tulpen.
+A) Alle WU sind keine CI.
+B) Alle WU sind CI.
+C) Einige WU sind keine CI.
+D) Einige WU sind CI.
 E) Keine der Schlussfolgerungen ist richtig.

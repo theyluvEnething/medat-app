@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Telefone sind Tomaten.
-- Einige Tomaten sind keine Säugetiere.
+- Einige CI sind OB.
+- Alle OB sind MT.
 
-A) Einige Telefone sind keine Säugetiere.
-B) Einige Telefone sind Säugetiere.
-C) Alle Telefone sind keine Säugetiere.
-D) Alle Telefone sind Säugetiere.
+A) Einige CI sind keine MT.
+B) Alle CI sind MT.
+C) Einige CI sind MT.
+D) Alle CI sind keine MT.
 E) Keine der Schlussfolgerungen ist richtig.

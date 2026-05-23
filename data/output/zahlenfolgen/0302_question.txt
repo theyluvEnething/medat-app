@@ -1,7 +1,0 @@
-Zahlenfolge: -19 -6 7 20 33 46 ? ?
-
-A) 74/87
-B) 72/85
-C) 73/87
-D) 59/72
-E) Keine der Antworten ist richtig

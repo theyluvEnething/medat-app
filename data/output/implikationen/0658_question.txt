@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Chemiker sind keine Vulkane.
-- Einige Vulkane sind Sportler.
+- Alle BFM sind WA.
+- Alle WA sind CV.
 
-A) Alle Chemiker sind keine Sportler.
-B) Alle Chemiker sind Sportler.
-C) Einige Chemiker sind Sportler.
-D) Einige Chemiker sind keine Sportler.
+A) Einige BFM sind keine CV.
+B) Alle BFM sind keine CV.
+C) Einige BFM sind CV.
+D) Alle BFM sind CV.
 E) Keine der Schlussfolgerungen ist richtig.

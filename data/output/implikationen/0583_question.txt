@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Züge sind Flüsse.
-- Einige Flüsse sind Telefone.
+- Einige DJ sind GV.
+- Alle GV sind TV.
 
-A) Einige Züge sind keine Telefone.
-B) Alle Züge sind keine Telefone.
-C) Alle Züge sind Telefone.
-D) Einige Züge sind Telefone.
+A) Alle DJ sind TV.
+B) Einige DJ sind keine TV.
+C) Alle DJ sind keine TV.
+D) Einige DJ sind TV.
 E) Keine der Schlussfolgerungen ist richtig.

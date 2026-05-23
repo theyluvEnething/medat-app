@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Musikinstrumente sind Chemiker.
-- Einige Chemiker sind keine Rosen.
+- Einige COF sind keine KS.
+- Alle KS sind RM.
 
-A) Einige Musikinstrumente sind keine Rosen.
-B) Alle Musikinstrumente sind Rosen.
-C) Einige Musikinstrumente sind Rosen.
-D) Alle Musikinstrumente sind keine Rosen.
+A) Einige COF sind keine RM.
+B) Alle COF sind keine RM.
+C) Einige COF sind RM.
+D) Alle COF sind RM.
 E) Keine der Schlussfolgerungen ist richtig.

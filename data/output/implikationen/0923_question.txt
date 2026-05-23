@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tulpen sind keine Orchideen.
-- Alle Orchideen sind keine Taucher.
+- Alle UW sind EU.
+- Einige EU sind keine ZNZ.
 
-A) Einige Tulpen sind keine Taucher.
-B) Alle Tulpen sind keine Taucher.
-C) Einige Tulpen sind Taucher.
-D) Alle Tulpen sind Taucher.
+A) Einige UW sind ZNZ.
+B) Alle UW sind ZNZ.
+C) Alle UW sind keine ZNZ.
+D) Einige UW sind keine ZNZ.
 E) Keine der Schlussfolgerungen ist richtig.

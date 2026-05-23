@@ -1,7 +1,7 @@
-Zahlenfolge: 1 -1 9 -11 17 -21 ? ?
+Zahlenfolge: 12 15 21 33 57 105 ? ?
 
-A) 31/-40
-B) 33/-41
-C) 34/-43
-D) 35/-40
+A) 202/393
+B) 201/393
+C) 153/201
+D) 393/201
 E) Keine der Antworten ist richtig

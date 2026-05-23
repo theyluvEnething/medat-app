@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Smartphones sind keine Schiffe.
-- Einige Schiffe sind keine Türen.
+- Alle RP sind WC.
+- Alle WC sind keine PGB.
 
-A) Einige Smartphones sind keine Türen.
-B) Alle Smartphones sind keine Türen.
-C) Einige Smartphones sind Türen.
-D) Alle Smartphones sind Türen.
+A) Einige RP sind keine PGB.
+B) Einige RP sind PGB.
+C) Alle RP sind PGB.
+D) Alle RP sind keine PGB.
 E) Keine der Schlussfolgerungen ist richtig.

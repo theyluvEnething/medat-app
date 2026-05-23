@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tiger sind keine Schauspieler.
-- Einige Schauspieler sind keine Chemiker.
+- Einige WN sind keine EKI.
+- Alle EKI sind keine TOD.
 
-A) Alle Tiger sind keine Chemiker.
-B) Einige Tiger sind keine Chemiker.
-C) Alle Tiger sind Chemiker.
-D) Einige Tiger sind Chemiker.
+A) Einige WN sind keine TOD.
+B) Einige WN sind TOD.
+C) Alle WN sind TOD.
+D) Alle WN sind keine TOD.
 E) Keine der Schlussfolgerungen ist richtig.

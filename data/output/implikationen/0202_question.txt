@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Quartette sind keine Gräser.
-- Einige Gräser sind keine Wissenschaftler.
+- Einige BN sind GG.
+- Alle GG sind keine VP.
 
-A) Einige Quartette sind Wissenschaftler.
-B) Alle Quartette sind keine Wissenschaftler.
-C) Alle Quartette sind Wissenschaftler.
-D) Einige Quartette sind keine Wissenschaftler.
+A) Einige BN sind VP.
+B) Alle BN sind keine VP.
+C) Alle BN sind VP.
+D) Einige BN sind keine VP.
 E) Keine der Schlussfolgerungen ist richtig.

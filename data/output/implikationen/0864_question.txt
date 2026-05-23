@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Anwälte sind Möbel.
-- Einige Möbel sind keine Wölfe.
+- Alle PA sind keine CAU.
+- Alle CAU sind GE.
 
-A) Einige Anwälte sind keine Wölfe.
-B) Einige Anwälte sind Wölfe.
-C) Alle Anwälte sind Wölfe.
-D) Alle Anwälte sind keine Wölfe.
+A) Alle PA sind GE.
+B) Einige PA sind keine GE.
+C) Alle PA sind keine GE.
+D) Einige PA sind GE.
 E) Keine der Schlussfolgerungen ist richtig.

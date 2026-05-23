@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Maler sind Granite.
-- Alle Granite sind Fotografen.
+- Einige DJE sind EH.
+- Einige EH sind ZLP.
 
-A) Einige Maler sind Fotografen.
-B) Einige Maler sind keine Fotografen.
-C) Alle Maler sind Fotografen.
-D) Alle Maler sind keine Fotografen.
+A) Einige DJE sind ZLP.
+B) Alle DJE sind keine ZLP.
+C) Alle DJE sind ZLP.
+D) Einige DJE sind keine ZLP.
 E) Keine der Schlussfolgerungen ist richtig.

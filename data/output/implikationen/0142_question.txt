@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schriftsteller sind keine Lilien.
-- Alle Lilien sind keine Möbel.
+- Einige WV sind PJ.
+- Alle PJ sind IBF.
 
-A) Einige Schriftsteller sind keine Möbel.
-B) Alle Schriftsteller sind Möbel.
-C) Alle Schriftsteller sind keine Möbel.
-D) Einige Schriftsteller sind Möbel.
+A) Einige WV sind keine IBF.
+B) Alle WV sind IBF.
+C) Einige WV sind IBF.
+D) Alle WV sind keine IBF.
 E) Keine der Schlussfolgerungen ist richtig.

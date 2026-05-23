@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Roboter sind keine Eichen.
-- Einige Eichen sind Uhren.
+- Alle ND sind GB.
+- Einige GB sind TS.
 
-A) Alle Roboter sind keine Uhren.
-B) Alle Roboter sind Uhren.
-C) Einige Roboter sind Uhren.
-D) Einige Roboter sind keine Uhren.
+A) Alle ND sind TS.
+B) Alle ND sind keine TS.
+C) Einige ND sind TS.
+D) Einige ND sind keine TS.
 E) Keine der Schlussfolgerungen ist richtig.

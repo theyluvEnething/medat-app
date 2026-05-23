@@ -1,7 +1,0 @@
-Zahlenfolge: 47 53 59 61 67 71 ? ?
-
-A) 83/89
-B) 82/88
-C) 82/91
-D) 81/91
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Ärzte sind keine Schlangen.
-- Einige Schlangen sind Tomaten.
+- Einige TS sind GC.
+- Alle GC sind keine KA.
 
-A) Alle Ärzte sind keine Tomaten.
-B) Alle Ärzte sind Tomaten.
-C) Einige Ärzte sind keine Tomaten.
-D) Einige Ärzte sind Tomaten.
+A) Einige TS sind KA.
+B) Alle TS sind KA.
+C) Alle TS sind keine KA.
+D) Einige TS sind keine KA.
 E) Keine der Schlussfolgerungen ist richtig.

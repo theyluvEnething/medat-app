@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mathematiker sind keine Marder.
-- Einige Marder sind Glühbirnen.
+- Einige JF sind WL.
+- Alle WL sind SL.
 
-A) Alle Mathematiker sind Glühbirnen.
-B) Alle Mathematiker sind keine Glühbirnen.
-C) Einige Mathematiker sind keine Glühbirnen.
-D) Einige Mathematiker sind Glühbirnen.
+A) Einige JF sind SL.
+B) Alle JF sind SL.
+C) Alle JF sind keine SL.
+D) Einige JF sind keine SL.
 E) Keine der Schlussfolgerungen ist richtig.

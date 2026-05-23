@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Amphibien sind Lehrer.
-- Alle Lehrer sind Blumen.
+- Einige RV sind BAB.
+- Alle BAB sind HC.
 
-A) Einige Amphibien sind keine Blumen.
-B) Einige Amphibien sind Blumen.
-C) Alle Amphibien sind Blumen.
-D) Alle Amphibien sind keine Blumen.
+A) Alle RV sind HC.
+B) Einige RV sind HC.
+C) Einige RV sind keine HC.
+D) Alle RV sind keine HC.
 E) Keine der Schlussfolgerungen ist richtig.

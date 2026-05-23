@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Klaviere sind keine Vögel.
-- Einige Vögel sind keine Züge.
+- Einige DK sind RT.
+- Alle RT sind keine VZ.
 
-A) Alle Klaviere sind keine Züge.
-B) Einige Klaviere sind Züge.
-C) Alle Klaviere sind Züge.
-D) Einige Klaviere sind keine Züge.
+A) Alle DK sind keine VZ.
+B) Einige DK sind VZ.
+C) Einige DK sind keine VZ.
+D) Alle DK sind VZ.
 E) Keine der Schlussfolgerungen ist richtig.

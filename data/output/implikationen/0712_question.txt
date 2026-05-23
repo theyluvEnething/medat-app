@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schriftsteller sind Diamanten.
-- Einige Diamanten sind keine Zebras.
+- Alle GB sind OZ.
+- Alle OZ sind keine PPN.
 
-A) Alle Schriftsteller sind keine Zebras.
-B) Einige Schriftsteller sind Zebras.
-C) Alle Schriftsteller sind Zebras.
-D) Einige Schriftsteller sind keine Zebras.
+A) Einige GB sind keine PPN.
+B) Alle GB sind PPN.
+C) Einige GB sind PPN.
+D) Alle GB sind keine PPN.
 E) Keine der Schlussfolgerungen ist richtig.

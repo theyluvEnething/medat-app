@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Smartphones sind Wale.
-- Alle Wale sind keine Musikinstrumente.
+- Einige LH sind LU.
+- Alle LU sind keine RR.
 
-A) Alle Smartphones sind Musikinstrumente.
-B) Einige Smartphones sind keine Musikinstrumente.
-C) Alle Smartphones sind keine Musikinstrumente.
-D) Einige Smartphones sind Musikinstrumente.
+A) Alle LH sind RR.
+B) Einige LH sind keine RR.
+C) Alle LH sind keine RR.
+D) Einige LH sind RR.
 E) Keine der Schlussfolgerungen ist richtig.

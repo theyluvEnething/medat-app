@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Ingenieure sind keine Häuser.
-- Alle Häuser sind Statuen.
+- Alle CH sind keine GR.
+- Alle GR sind keine RN.
 
-A) Alle Ingenieure sind keine Statuen.
-B) Einige Ingenieure sind Statuen.
-C) Alle Ingenieure sind Statuen.
-D) Einige Ingenieure sind keine Statuen.
+A) Alle CH sind keine RN.
+B) Einige CH sind RN.
+C) Alle CH sind RN.
+D) Einige CH sind keine RN.
 E) Keine der Schlussfolgerungen ist richtig.

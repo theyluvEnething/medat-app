@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gemälde sind keine Möbel.
-- Alle Möbel sind Bücher.
+- Alle HU sind SH.
+- Einige SH sind FLS.
 
-A) Einige Gemälde sind keine Bücher.
-B) Alle Gemälde sind Bücher.
-C) Einige Gemälde sind Bücher.
-D) Alle Gemälde sind keine Bücher.
+A) Alle HU sind keine FLS.
+B) Alle HU sind FLS.
+C) Einige HU sind FLS.
+D) Einige HU sind keine FLS.
 E) Keine der Schlussfolgerungen ist richtig.

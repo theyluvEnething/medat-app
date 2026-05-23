@@ -1,7 +1,0 @@
-Zahlenfolge: 10 11 18 37 74 135 ? ?
-
-A) 352/520
-B) 353/522
-C) 351/520
-D) 354/520
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Eidechsen sind Wissenschaftler.
-- Alle Wissenschaftler sind Lilien.
+- Alle WJK sind keine DG.
+- Einige DG sind keine JB.
 
-A) Alle Eidechsen sind Lilien.
-B) Einige Eidechsen sind Lilien.
-C) Einige Eidechsen sind keine Lilien.
-D) Alle Eidechsen sind keine Lilien.
+A) Alle WJK sind JB.
+B) Einige WJK sind JB.
+C) Alle WJK sind keine JB.
+D) Einige WJK sind keine JB.
 E) Keine der Schlussfolgerungen ist richtig.

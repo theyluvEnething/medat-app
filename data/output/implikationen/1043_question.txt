@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schiffe sind Ingenieure.
-- Einige Ingenieure sind Wölfe.
+- Einige WH sind keine LK.
+- Alle LK sind keine KW.
 
-A) Einige Schiffe sind Wölfe.
-B) Einige Schiffe sind keine Wölfe.
-C) Alle Schiffe sind Wölfe.
-D) Alle Schiffe sind keine Wölfe.
+A) Einige WH sind keine KW.
+B) Alle WH sind KW.
+C) Einige WH sind KW.
+D) Alle WH sind keine KW.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Smartphones sind keine Chemiker.
-- Einige Chemiker sind keine Vasen.
+- Einige FU sind keine NAL.
+- Alle NAL sind CZ.
 
-A) Alle Smartphones sind keine Vasen.
-B) Einige Smartphones sind Vasen.
-C) Alle Smartphones sind Vasen.
-D) Einige Smartphones sind keine Vasen.
+A) Einige FU sind keine CZ.
+B) Alle FU sind keine CZ.
+C) Einige FU sind CZ.
+D) Alle FU sind CZ.
 E) Keine der Schlussfolgerungen ist richtig.

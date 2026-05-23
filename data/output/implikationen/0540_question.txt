@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schauspieler sind Mathematiker.
-- Alle Mathematiker sind Türen.
+- Einige CI sind UO.
+- Alle UO sind keine WLK.
 
-A) Alle Schauspieler sind Türen.
-B) Alle Schauspieler sind keine Türen.
-C) Einige Schauspieler sind Türen.
-D) Einige Schauspieler sind keine Türen.
+A) Einige CI sind WLK.
+B) Einige CI sind keine WLK.
+C) Alle CI sind keine WLK.
+D) Alle CI sind WLK.
 E) Keine der Schlussfolgerungen ist richtig.

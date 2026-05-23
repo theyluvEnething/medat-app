@@ -1,2 +1,0 @@
-A — 387/626
-Jedes Glied = Summe der beiden Vorgänger

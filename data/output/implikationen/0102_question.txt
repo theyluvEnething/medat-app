@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Gemälde sind keine Tannen.
-- Einige Tannen sind Werkzeuge.
+- Alle UN sind ULZ.
+- Alle ULZ sind WUJ.
 
-A) Alle Gemälde sind Werkzeuge.
-B) Einige Gemälde sind Werkzeuge.
-C) Einige Gemälde sind keine Werkzeuge.
-D) Alle Gemälde sind keine Werkzeuge.
+A) Alle UN sind keine WUJ.
+B) Einige UN sind keine WUJ.
+C) Einige UN sind WUJ.
+D) Alle UN sind WUJ.
 E) Keine der Schlussfolgerungen ist richtig.

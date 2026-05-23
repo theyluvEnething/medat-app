@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schiffe sind keine Sänger.
-- Alle Sänger sind Spatzen.
+- Einige TB sind PG.
+- Alle PG sind keine RK.
 
-A) Alle Schiffe sind keine Spatzen.
-B) Alle Schiffe sind Spatzen.
-C) Einige Schiffe sind keine Spatzen.
-D) Einige Schiffe sind Spatzen.
+A) Alle TB sind keine RK.
+B) Einige TB sind keine RK.
+C) Einige TB sind RK.
+D) Alle TB sind RK.
 E) Keine der Schlussfolgerungen ist richtig.

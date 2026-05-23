@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Flugzeuge sind Metalle.
-- Einige Metalle sind Hunde.
+- Alle EKB sind PTK.
+- Alle PTK sind KT.
 
-A) Einige Flugzeuge sind keine Hunde.
-B) Einige Flugzeuge sind Hunde.
-C) Alle Flugzeuge sind keine Hunde.
-D) Alle Flugzeuge sind Hunde.
+A) Alle EKB sind keine KT.
+B) Alle EKB sind KT.
+C) Einige EKB sind keine KT.
+D) Einige EKB sind KT.
 E) Keine der Schlussfolgerungen ist richtig.

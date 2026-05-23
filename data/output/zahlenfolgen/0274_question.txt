@@ -1,7 +1,0 @@
-Zahlenfolge: 6 9 27 30 90 93 ? ?
-
-A) 845/848
-B) 846/849
-C) 844/850
-D) 844/848
-E) Keine der Antworten ist richtig

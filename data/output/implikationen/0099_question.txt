@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gräser sind keine Tulpen.
-- Einige Tulpen sind keine Giraffen.
+- Alle ECM sind GUH.
+- Einige GUH sind RW.
 
-A) Einige Gräser sind keine Giraffen.
-B) Einige Gräser sind Giraffen.
-C) Alle Gräser sind Giraffen.
-D) Alle Gräser sind keine Giraffen.
+A) Einige ECM sind keine RW.
+B) Alle ECM sind keine RW.
+C) Einige ECM sind RW.
+D) Alle ECM sind RW.
 E) Keine der Schlussfolgerungen ist richtig.

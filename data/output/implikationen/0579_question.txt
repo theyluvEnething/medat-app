@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schriftsteller sind Flüsse.
-- Einige Flüsse sind keine Wale.
+- Alle VKB sind keine DN.
+- Alle DN sind MP.
 
-A) Einige Schriftsteller sind keine Wale.
-B) Alle Schriftsteller sind keine Wale.
-C) Alle Schriftsteller sind Wale.
-D) Einige Schriftsteller sind Wale.
+A) Alle VKB sind MP.
+B) Alle VKB sind keine MP.
+C) Einige VKB sind keine MP.
+D) Einige VKB sind MP.
 E) Keine der Schlussfolgerungen ist richtig.

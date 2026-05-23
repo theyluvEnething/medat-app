@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Menschen sind Metalle.
-- Alle Metalle sind Granite.
+- Einige KG sind KH.
+- Alle KH sind DB.
 
-A) Einige Menschen sind keine Granite.
-B) Alle Menschen sind Granite.
-C) Alle Menschen sind keine Granite.
-D) Einige Menschen sind Granite.
+A) Einige KG sind keine DB.
+B) Einige KG sind DB.
+C) Alle KG sind DB.
+D) Alle KG sind keine DB.
 E) Keine der Schlussfolgerungen ist richtig.

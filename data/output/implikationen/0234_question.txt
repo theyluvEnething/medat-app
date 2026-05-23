@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Bücher sind Tiger.
-- Einige Tiger sind Quartette.
+- Alle HI sind keine RZ.
+- Alle RZ sind BT.
 
-A) Einige Bücher sind Quartette.
-B) Alle Bücher sind keine Quartette.
-C) Alle Bücher sind Quartette.
-D) Einige Bücher sind keine Quartette.
+A) Alle HI sind keine BT.
+B) Alle HI sind BT.
+C) Einige HI sind BT.
+D) Einige HI sind keine BT.
 E) Keine der Schlussfolgerungen ist richtig.

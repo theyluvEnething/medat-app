@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Marder sind keine Blumen.
-- Einige Blumen sind keine Telefone.
+- Einige GR sind keine ZZ.
+- Einige ZZ sind keine JB.
 
-A) Einige Marder sind Telefone.
-B) Alle Marder sind Telefone.
-C) Alle Marder sind keine Telefone.
-D) Einige Marder sind keine Telefone.
+A) Einige GR sind JB.
+B) Einige GR sind keine JB.
+C) Alle GR sind JB.
+D) Alle GR sind keine JB.
 E) Keine der Schlussfolgerungen ist richtig.

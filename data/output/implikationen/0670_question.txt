@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Quartette sind Flugzeuge.
-- Alle Flugzeuge sind keine Pandas.
+- Einige GNM sind IZ.
+- Alle IZ sind NAE.
 
-A) Alle Quartette sind Pandas.
-B) Einige Quartette sind Pandas.
-C) Alle Quartette sind keine Pandas.
-D) Einige Quartette sind keine Pandas.
+A) Einige GNM sind keine NAE.
+B) Einige GNM sind NAE.
+C) Alle GNM sind keine NAE.
+D) Alle GNM sind NAE.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,0 @@
-Prämissen:
-- EinigePolizistensindPiloten.
-- AllePilotensindBusfahrer.
-
-A) AlleBusfahrersindPolizisten.
-B) AlleBusfahrersindkeinePolizisten.
-C) EinigeBusfahrersindPolizisten.
-D) EinigeBusfahrersindkeinePolizisten.
-E) KeinederSchlussfolgerungenistrichtig.

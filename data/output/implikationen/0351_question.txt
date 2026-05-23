@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Kupfer sind Mathematiker.
-- Einige Mathematiker sind Maler.
+- Alle JU sind keine TL.
+- Einige TL sind IK.
 
-A) Einige Kupfer sind Maler.
-B) Alle Kupfer sind Maler.
-C) Alle Kupfer sind keine Maler.
-D) Einige Kupfer sind keine Maler.
+A) Alle JU sind IK.
+B) Einige JU sind IK.
+C) Einige JU sind keine IK.
+D) Alle JU sind keine IK.
 E) Keine der Schlussfolgerungen ist richtig.

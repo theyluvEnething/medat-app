@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Lilien sind keine Wölfe.
-- Einige Wölfe sind keine Nashörner.
+- Alle BR sind JW.
+- Einige JW sind BUJ.
 
-A) Einige Lilien sind Nashörner.
-B) Einige Lilien sind keine Nashörner.
-C) Alle Lilien sind Nashörner.
-D) Alle Lilien sind keine Nashörner.
+A) Alle BR sind keine BUJ.
+B) Einige BR sind BUJ.
+C) Alle BR sind BUJ.
+D) Einige BR sind keine BUJ.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,2 +1,2 @@
-D — 49/50
-Konstante Differenz +1
+C — 149/244
+Ab 3. Glied: Summe der beiden Vorgänger + 5

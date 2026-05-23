@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Amseln sind Chemiker.
-- Einige Chemiker sind Smartphones.
+- Einige ZR sind AS.
+- Alle AS sind keine KA.
 
-A) Alle Amseln sind Smartphones.
-B) Alle Amseln sind keine Smartphones.
-C) Einige Amseln sind keine Smartphones.
-D) Einige Amseln sind Smartphones.
+A) Alle ZR sind KA.
+B) Alle ZR sind keine KA.
+C) Einige ZR sind keine KA.
+D) Einige ZR sind KA.
 E) Keine der Schlussfolgerungen ist richtig.

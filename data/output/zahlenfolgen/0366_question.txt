@@ -1,7 +1,0 @@
-Zahlenfolge: 14 18 6 21 -2 24 ? ?
-
-A) -20/31
-B) -17/29
-C) -18/30
-D) -19/28
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wissenschaftler sind keine Amseln.
-- Alle Amseln sind Vasen.
+- Alle DT sind HUD.
+- Alle HUD sind WA.
 
-A) Einige Wissenschaftler sind keine Vasen.
-B) Alle Wissenschaftler sind keine Vasen.
-C) Alle Wissenschaftler sind Vasen.
-D) Einige Wissenschaftler sind Vasen.
+A) Alle DT sind keine WA.
+B) Einige DT sind keine WA.
+C) Einige DT sind WA.
+D) Alle DT sind WA.
 E) Keine der Schlussfolgerungen ist richtig.

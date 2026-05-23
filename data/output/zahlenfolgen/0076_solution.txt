@@ -1,2 +1,2 @@
-C — 768/1536
-×2, ×2 im Wechsel
+D — 62/76
+Differenz: +2, +4, +6, +8, +10, +12, +14 — die Differenz wächst um +2 pro Schritt

@@ -1,7 +1,0 @@
-Zahlenfolge: 28 24 19 26 10 28 ? ?
-
-A) -6/33
-B) -8/32
-C) 56/56
-D) -7/30
-E) Keine der Antworten ist richtig

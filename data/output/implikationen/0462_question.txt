@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Glühbirnen sind Anwälte.
-- Einige Anwälte sind keine Dinosaurier.
+- Einige TI sind FAW.
+- Alle FAW sind CM.
 
-A) Einige Glühbirnen sind keine Dinosaurier.
-B) Alle Glühbirnen sind keine Dinosaurier.
-C) Einige Glühbirnen sind Dinosaurier.
-D) Alle Glühbirnen sind Dinosaurier.
+A) Einige TI sind keine CM.
+B) Alle TI sind keine CM.
+C) Alle TI sind CM.
+D) Einige TI sind CM.
 E) Keine der Schlussfolgerungen ist richtig.

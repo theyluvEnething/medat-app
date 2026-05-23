@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schauspieler sind Pandas.
-- Alle Pandas sind Flüsse.
+- Alle OMF sind keine CB.
+- Alle CB sind SL.
 
-A) Alle Schauspieler sind Flüsse.
-B) Einige Schauspieler sind keine Flüsse.
-C) Einige Schauspieler sind Flüsse.
-D) Alle Schauspieler sind keine Flüsse.
+A) Einige OMF sind SL.
+B) Alle OMF sind SL.
+C) Einige OMF sind keine SL.
+D) Alle OMF sind keine SL.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tiger sind keine Blumen.
-- Alle Blumen sind keine Politiker.
+- Einige TO sind HG.
+- Alle HG sind GTW.
 
-A) Alle Tiger sind Politiker.
-B) Einige Tiger sind Politiker.
-C) Alle Tiger sind keine Politiker.
-D) Einige Tiger sind keine Politiker.
+A) Einige TO sind GTW.
+B) Alle TO sind GTW.
+C) Einige TO sind keine GTW.
+D) Alle TO sind keine GTW.
 E) Keine der Schlussfolgerungen ist richtig.

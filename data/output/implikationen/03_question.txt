@@ -1,9 +1,0 @@
-Prämissen:
-- AlleDDNsindFH.
-- EinigeDDNsindNA.
-
-A) AlleFHsindNA.
-B) AlleFHsindkeineNA.
-C) EinigeFHsindNA.
-D) EinigeFHsindkeineNA.
-E) KeinederSchlussfolgerungenistrichtig.

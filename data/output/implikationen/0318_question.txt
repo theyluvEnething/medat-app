@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Quallen sind Radios.
-- Einige Radios sind keine Gemälde.
+- Einige WJ sind NF.
+- Alle NF sind keine BO.
 
-A) Alle Quallen sind Gemälde.
-B) Einige Quallen sind keine Gemälde.
-C) Alle Quallen sind keine Gemälde.
-D) Einige Quallen sind Gemälde.
+A) Einige WJ sind BO.
+B) Alle WJ sind BO.
+C) Alle WJ sind keine BO.
+D) Einige WJ sind keine BO.
 E) Keine der Schlussfolgerungen ist richtig.

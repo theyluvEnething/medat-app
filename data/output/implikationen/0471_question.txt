@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schauspieler sind Mäuse.
-- Einige Mäuse sind Musikinstrumente.
+- Einige KLL sind keine ZC.
+- Einige ZC sind keine CVO.
 
-A) Alle Schauspieler sind Musikinstrumente.
-B) Einige Schauspieler sind keine Musikinstrumente.
-C) Einige Schauspieler sind Musikinstrumente.
-D) Alle Schauspieler sind keine Musikinstrumente.
+A) Einige KLL sind keine CVO.
+B) Alle KLL sind keine CVO.
+C) Einige KLL sind CVO.
+D) Alle KLL sind CVO.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,7 @@
-Zahlenfolge: 18 20 60 62 186 188 ? ?
+Zahlenfolge: 0 32 4 64 8 128 ? ?
 
-A) 1732/1734
-B) 1697/1699
-C) 1696/1702
-D) 1698/1700
+A) 12/256
+B) 11/256
+C) 12/255
+D) 12/257
 E) Keine der Antworten ist richtig

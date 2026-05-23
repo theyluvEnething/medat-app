@@ -1,7 +1,7 @@
-Zahlenfolge: 1 -3 9 -27 81 -243 ? ?
+Zahlenfolge: 10 17 31 59 115 227 ? ?
 
-A) -2187/6561
-B) 6561/-2187
-C) -2236/6512
-D) -2188/6563
+A) 339/451
+B) 449/899
+C) 451/899
+D) 899/451
 E) Keine der Antworten ist richtig

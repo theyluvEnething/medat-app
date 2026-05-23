@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schriftsteller sind Statuen.
-- Alle Statuen sind keine Quartette.
+- Alle TE sind HEU.
+- Alle HEU sind PR.
 
-A) Alle Schriftsteller sind keine Quartette.
-B) Einige Schriftsteller sind Quartette.
-C) Einige Schriftsteller sind keine Quartette.
-D) Alle Schriftsteller sind Quartette.
+A) Alle TE sind keine PR.
+B) Einige TE sind PR.
+C) Einige TE sind keine PR.
+D) Alle TE sind PR.
 E) Keine der Schlussfolgerungen ist richtig.

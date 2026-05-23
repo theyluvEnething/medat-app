@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Quallen sind Diamanten.
-- Einige Diamanten sind Türen.
+- Einige LL sind keine FV.
+- Einige FV sind keine UFW.
 
-A) Einige Quallen sind keine Türen.
-B) Einige Quallen sind Türen.
-C) Alle Quallen sind Türen.
-D) Alle Quallen sind keine Türen.
+A) Einige LL sind UFW.
+B) Alle LL sind keine UFW.
+C) Alle LL sind UFW.
+D) Einige LL sind keine UFW.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schiffe sind Vulkane.
-- Alle Vulkane sind keine Glühbirnen.
+- Einige THD sind AE.
+- Alle AE sind FS.
 
-A) Alle Schiffe sind keine Glühbirnen.
-B) Einige Schiffe sind keine Glühbirnen.
-C) Einige Schiffe sind Glühbirnen.
-D) Alle Schiffe sind Glühbirnen.
+A) Einige THD sind FS.
+B) Einige THD sind keine FS.
+C) Alle THD sind FS.
+D) Alle THD sind keine FS.
 E) Keine der Schlussfolgerungen ist richtig.

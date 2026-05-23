@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Politiker sind Säugetiere.
-- Alle Säugetiere sind Ärzte.
+- Alle AZE sind HM.
+- Alle HM sind MO.
 
-A) Alle Politiker sind keine Ärzte.
-B) Alle Politiker sind Ärzte.
-C) Einige Politiker sind keine Ärzte.
-D) Einige Politiker sind Ärzte.
+A) Alle AZE sind MO.
+B) Einige AZE sind keine MO.
+C) Alle AZE sind keine MO.
+D) Einige AZE sind MO.
 E) Keine der Schlussfolgerungen ist richtig.

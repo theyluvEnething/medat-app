@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wissenschaftler sind Glühbirnen.
-- Alle Glühbirnen sind Spatzen.
+- Alle RI sind ZD.
+- Alle ZD sind keine UN.
 
-A) Alle Wissenschaftler sind Spatzen.
-B) Alle Wissenschaftler sind keine Spatzen.
-C) Einige Wissenschaftler sind keine Spatzen.
-D) Einige Wissenschaftler sind Spatzen.
+A) Alle RI sind UN.
+B) Alle RI sind keine UN.
+C) Einige RI sind UN.
+D) Einige RI sind keine UN.
 E) Keine der Schlussfolgerungen ist richtig.

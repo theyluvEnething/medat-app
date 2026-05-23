@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vulkane sind Chemiker.
-- Einige Chemiker sind Stühle.
+- Alle WO sind VC.
+- Alle VC sind ETF.
 
-A) Einige Vulkane sind keine Stühle.
-B) Alle Vulkane sind Stühle.
-C) Einige Vulkane sind Stühle.
-D) Alle Vulkane sind keine Stühle.
+A) Alle WO sind ETF.
+B) Alle WO sind keine ETF.
+C) Einige WO sind keine ETF.
+D) Einige WO sind ETF.
 E) Keine der Schlussfolgerungen ist richtig.

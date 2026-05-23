@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Diamanten sind keine Sänger.
-- Einige Sänger sind Ingenieure.
+- Alle NND sind keine WLH.
+- Alle WLH sind IF.
 
-A) Einige Diamanten sind Ingenieure.
-B) Alle Diamanten sind Ingenieure.
-C) Alle Diamanten sind keine Ingenieure.
-D) Einige Diamanten sind keine Ingenieure.
+A) Einige NND sind IF.
+B) Alle NND sind keine IF.
+C) Einige NND sind keine IF.
+D) Alle NND sind IF.
 E) Keine der Schlussfolgerungen ist richtig.

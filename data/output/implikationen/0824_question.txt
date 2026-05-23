@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Bäume sind keine Flüsse.
-- Einige Flüsse sind Blumen.
+- Einige ACH sind EB.
+- Alle EB sind keine ES.
 
-A) Alle Bäume sind keine Blumen.
-B) Einige Bäume sind Blumen.
-C) Einige Bäume sind keine Blumen.
-D) Alle Bäume sind Blumen.
+A) Einige ACH sind ES.
+B) Einige ACH sind keine ES.
+C) Alle ACH sind keine ES.
+D) Alle ACH sind ES.
 E) Keine der Schlussfolgerungen ist richtig.

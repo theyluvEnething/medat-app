@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Telefone sind keine Quartette.
-- Einige Quartette sind Tannen.
+- Einige GU sind keine OH.
+- Alle OH sind KT.
 
-A) Alle Telefone sind keine Tannen.
-B) Einige Telefone sind Tannen.
-C) Alle Telefone sind Tannen.
-D) Einige Telefone sind keine Tannen.
+A) Alle GU sind KT.
+B) Alle GU sind keine KT.
+C) Einige GU sind KT.
+D) Einige GU sind keine KT.
 E) Keine der Schlussfolgerungen ist richtig.

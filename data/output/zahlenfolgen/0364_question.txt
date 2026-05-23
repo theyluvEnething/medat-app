@@ -1,7 +1,0 @@
-Zahlenfolge: 0 14 28 42 56 70 ? ?
-
-A) 98/112
-B) 100/113
-C) 96/113
-D) 99/114
-E) Keine der Antworten ist richtig

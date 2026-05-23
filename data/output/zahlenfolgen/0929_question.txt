@@ -1,7 +1,0 @@
-Zahlenfolge: 4 16 64 256 1024 4096 ? ?
-
-A) 65538/262146
-B) 65535/262143
-C) 65538/262142
-D) 65536/262144
-E) Keine der Antworten ist richtig

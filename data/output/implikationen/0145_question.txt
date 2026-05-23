@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Rosen sind keine Anwälte.
-- Alle Anwälte sind Werkzeuge.
+- Alle NRA sind keine WK.
+- Einige WK sind keine VW.
 
-A) Alle Rosen sind Werkzeuge.
-B) Alle Rosen sind keine Werkzeuge.
-C) Einige Rosen sind keine Werkzeuge.
-D) Einige Rosen sind Werkzeuge.
+A) Alle NRA sind VW.
+B) Alle NRA sind keine VW.
+C) Einige NRA sind VW.
+D) Einige NRA sind keine VW.
 E) Keine der Schlussfolgerungen ist richtig.

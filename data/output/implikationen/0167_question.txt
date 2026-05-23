@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Menschen sind keine Reptilien.
-- Alle Reptilien sind Mäuse.
+- Alle UP sind CK.
+- Alle CK sind keine CRN.
 
-A) Alle Menschen sind keine Mäuse.
-B) Einige Menschen sind keine Mäuse.
-C) Einige Menschen sind Mäuse.
-D) Alle Menschen sind Mäuse.
+A) Einige UP sind keine CRN.
+B) Einige UP sind CRN.
+C) Alle UP sind CRN.
+D) Alle UP sind keine CRN.
 E) Keine der Schlussfolgerungen ist richtig.

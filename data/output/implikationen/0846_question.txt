@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schriftsteller sind Gedichte.
-- Alle Gedichte sind Giraffen.
+- Alle PFI sind DZL.
+- Alle DZL sind FE.
 
-A) Alle Schriftsteller sind keine Giraffen.
-B) Einige Schriftsteller sind keine Giraffen.
-C) Alle Schriftsteller sind Giraffen.
-D) Einige Schriftsteller sind Giraffen.
+A) Einige PFI sind keine FE.
+B) Alle PFI sind keine FE.
+C) Alle PFI sind FE.
+D) Einige PFI sind FE.
 E) Keine der Schlussfolgerungen ist richtig.

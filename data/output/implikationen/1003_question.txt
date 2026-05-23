@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Hunde sind keine Schauspieler.
-- Einige Schauspieler sind Sänger.
+- Alle LH sind AZ.
+- Einige AZ sind OS.
 
-A) Einige Hunde sind Sänger.
-B) Alle Hunde sind Sänger.
-C) Alle Hunde sind keine Sänger.
-D) Einige Hunde sind keine Sänger.
+A) Alle LH sind OS.
+B) Alle LH sind keine OS.
+C) Einige LH sind OS.
+D) Einige LH sind keine OS.
 E) Keine der Schlussfolgerungen ist richtig.

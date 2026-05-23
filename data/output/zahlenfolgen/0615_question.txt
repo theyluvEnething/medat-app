@@ -1,7 +1,0 @@
-Zahlenfolge: -5 0 8 19 33 50 ? ?
-
-A) 130/159
-B) 120/146
-C) 117/147
-D) 119/148
-E) Keine der Antworten ist richtig

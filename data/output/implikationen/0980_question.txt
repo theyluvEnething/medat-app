@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Giraffen sind keine Häuser.
-- Einige Häuser sind Lehrer.
+- Alle FGW sind KDF.
+- Einige KDF sind NJ.
 
-A) Alle Giraffen sind Lehrer.
-B) Alle Giraffen sind keine Lehrer.
-C) Einige Giraffen sind keine Lehrer.
-D) Einige Giraffen sind Lehrer.
+A) Alle FGW sind keine NJ.
+B) Alle FGW sind NJ.
+C) Einige FGW sind keine NJ.
+D) Einige FGW sind NJ.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schlangen sind keine Mäuse.
-- Einige Mäuse sind Uhren.
+- Alle PK sind KS.
+- Einige KS sind ZB.
 
-A) Alle Schlangen sind keine Uhren.
-B) Alle Schlangen sind Uhren.
-C) Einige Schlangen sind keine Uhren.
-D) Einige Schlangen sind Uhren.
+A) Alle PK sind ZB.
+B) Alle PK sind keine ZB.
+C) Einige PK sind keine ZB.
+D) Einige PK sind ZB.
 E) Keine der Schlussfolgerungen ist richtig.

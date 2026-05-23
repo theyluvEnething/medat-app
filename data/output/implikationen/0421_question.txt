@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wirbeltiere sind Schriftsteller.
-- Einige Schriftsteller sind keine Lehrer.
+- Einige KR sind PW.
+- Alle PW sind keine UI.
 
-A) Alle Wirbeltiere sind Lehrer.
-B) Alle Wirbeltiere sind keine Lehrer.
-C) Einige Wirbeltiere sind keine Lehrer.
-D) Einige Wirbeltiere sind Lehrer.
+A) Einige KR sind UI.
+B) Alle KR sind UI.
+C) Alle KR sind keine UI.
+D) Einige KR sind keine UI.
 E) Keine der Schlussfolgerungen ist richtig.

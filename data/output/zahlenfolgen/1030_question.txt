@@ -1,7 +1,0 @@
-Zahlenfolge: 29 31 34 38 43 49 ? ?
-
-A) 73/83
-B) 71/81
-C) 74/85
-D) 72/85
-E) Keine der Antworten ist richtig

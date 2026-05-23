@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wölfe sind Wissenschaftler.
-- Alle Wissenschaftler sind keine Gedichte.
+- Alle MO sind OO.
+- Alle OO sind FW.
 
-A) Alle Wölfe sind Gedichte.
-B) Einige Wölfe sind Gedichte.
-C) Alle Wölfe sind keine Gedichte.
-D) Einige Wölfe sind keine Gedichte.
+A) Alle MO sind keine FW.
+B) Einige MO sind keine FW.
+C) Alle MO sind FW.
+D) Einige MO sind FW.
 E) Keine der Schlussfolgerungen ist richtig.

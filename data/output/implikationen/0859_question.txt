@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Diamanten sind keine Vögel.
-- Alle Vögel sind Vasen.
+- Einige UB sind HDV.
+- Alle HDV sind ET.
 
-A) Einige Diamanten sind Vasen.
-B) Einige Diamanten sind keine Vasen.
-C) Alle Diamanten sind keine Vasen.
-D) Alle Diamanten sind Vasen.
+A) Einige UB sind ET.
+B) Einige UB sind keine ET.
+C) Alle UB sind keine ET.
+D) Alle UB sind ET.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Lehrer sind keine Gräser.
-- Alle Gräser sind Flugzeuge.
+- Alle DSR sind keine BIE.
+- Alle BIE sind FW.
 
-A) Alle Lehrer sind keine Flugzeuge.
-B) Einige Lehrer sind keine Flugzeuge.
-C) Einige Lehrer sind Flugzeuge.
-D) Alle Lehrer sind Flugzeuge.
+A) Alle DSR sind FW.
+B) Einige DSR sind FW.
+C) Alle DSR sind keine FW.
+D) Einige DSR sind keine FW.
 E) Keine der Schlussfolgerungen ist richtig.

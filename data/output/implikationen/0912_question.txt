@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Taucher sind Quartette.
-- Alle Quartette sind keine Vögel.
+- Einige JG sind AB.
+- Alle AB sind VF.
 
-A) Alle Taucher sind Vögel.
-B) Einige Taucher sind keine Vögel.
-C) Einige Taucher sind Vögel.
-D) Alle Taucher sind keine Vögel.
+A) Alle JG sind VF.
+B) Einige JG sind keine VF.
+C) Einige JG sind VF.
+D) Alle JG sind keine VF.
 E) Keine der Schlussfolgerungen ist richtig.

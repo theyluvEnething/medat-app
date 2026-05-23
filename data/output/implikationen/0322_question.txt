@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Chemiker sind keine Ingenieure.
-- Alle Ingenieure sind keine Lilien.
+- Alle NEJ sind keine VS.
+- Einige VS sind keine KTF.
 
-A) Alle Chemiker sind keine Lilien.
-B) Alle Chemiker sind Lilien.
-C) Einige Chemiker sind keine Lilien.
-D) Einige Chemiker sind Lilien.
+A) Einige NEJ sind keine KTF.
+B) Einige NEJ sind KTF.
+C) Alle NEJ sind KTF.
+D) Alle NEJ sind keine KTF.
 E) Keine der Schlussfolgerungen ist richtig.

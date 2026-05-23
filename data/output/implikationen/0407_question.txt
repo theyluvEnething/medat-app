@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tabletten sind Quallen.
-- Einige Quallen sind Nashörner.
+- Einige LU sind DJ.
+- Alle DJ sind keine WR.
 
-A) Alle Tabletten sind Nashörner.
-B) Alle Tabletten sind keine Nashörner.
-C) Einige Tabletten sind Nashörner.
-D) Einige Tabletten sind keine Nashörner.
+A) Einige LU sind keine WR.
+B) Einige LU sind WR.
+C) Alle LU sind keine WR.
+D) Alle LU sind WR.
 E) Keine der Schlussfolgerungen ist richtig.

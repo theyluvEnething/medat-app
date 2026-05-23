@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Elektroautos sind Tiger.
-- Einige Tiger sind Roboter.
+- Einige KD sind IDD.
+- Alle IDD sind keine BV.
 
-A) Einige Elektroautos sind keine Roboter.
-B) Alle Elektroautos sind keine Roboter.
-C) Einige Elektroautos sind Roboter.
-D) Alle Elektroautos sind Roboter.
+A) Einige KD sind keine BV.
+B) Alle KD sind keine BV.
+C) Alle KD sind BV.
+D) Einige KD sind BV.
 E) Keine der Schlussfolgerungen ist richtig.

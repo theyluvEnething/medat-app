@@ -1,7 +1,7 @@
-Zahlenfolge: -17 -26 -35 -44 -53 -62 ? ?
+Zahlenfolge: 5 10 7 14 11 22 ? ?
 
-A) -79/-90
-B) -80/-89
-C) -79/-91
-D) -81/-87
+A) 17/38
+B) 21/38
+C) 38/19
+D) 19/38
 E) Keine der Antworten ist richtig

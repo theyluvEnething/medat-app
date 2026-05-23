@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Bücher sind Menschen.
-- Einige Menschen sind Krokodile.
+- Einige SB sind ITP.
+- Alle ITP sind keine KI.
 
-A) Alle Bücher sind keine Krokodile.
-B) Alle Bücher sind Krokodile.
-C) Einige Bücher sind keine Krokodile.
-D) Einige Bücher sind Krokodile.
+A) Einige SB sind KI.
+B) Einige SB sind keine KI.
+C) Alle SB sind keine KI.
+D) Alle SB sind KI.
 E) Keine der Schlussfolgerungen ist richtig.

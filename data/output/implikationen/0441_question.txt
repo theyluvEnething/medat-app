@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Zebras sind keine Uhren.
-- Einige Uhren sind keine Fotografen.
+- Alle EP sind MZ.
+- Alle MZ sind GO.
 
-A) Einige Zebras sind Fotografen.
-B) Alle Zebras sind keine Fotografen.
-C) Alle Zebras sind Fotografen.
-D) Einige Zebras sind keine Fotografen.
+A) Alle EP sind keine GO.
+B) Alle EP sind GO.
+C) Einige EP sind keine GO.
+D) Einige EP sind GO.
 E) Keine der Schlussfolgerungen ist richtig.

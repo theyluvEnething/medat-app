@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Bücher sind Gräser.
-- Alle Gräser sind Eidechsen.
+- Einige FL sind ZM.
+- Alle ZM sind keine ZDD.
 
-A) Alle Bücher sind keine Eidechsen.
-B) Alle Bücher sind Eidechsen.
-C) Einige Bücher sind Eidechsen.
-D) Einige Bücher sind keine Eidechsen.
+A) Einige FL sind ZDD.
+B) Alle FL sind keine ZDD.
+C) Alle FL sind ZDD.
+D) Einige FL sind keine ZDD.
 E) Keine der Schlussfolgerungen ist richtig.

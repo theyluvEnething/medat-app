@@ -1,7 +1,0 @@
-Zahlenfolge: 17 19 23 29 31 37 ? ?
-
-A) 41/45
-B) 47/53
-C) 51/57
-D) 53/47
-E) Keine der Antworten ist richtig

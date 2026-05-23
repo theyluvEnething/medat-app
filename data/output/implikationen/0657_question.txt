@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Mathematiker sind Klaviere.
-- Einige Klaviere sind Vögel.
+- Einige IKJ sind NA.
+- Alle NA sind PP.
 
-A) Einige Mathematiker sind keine Vögel.
-B) Alle Mathematiker sind Vögel.
-C) Alle Mathematiker sind keine Vögel.
-D) Einige Mathematiker sind Vögel.
+A) Alle IKJ sind keine PP.
+B) Einige IKJ sind PP.
+C) Alle IKJ sind PP.
+D) Einige IKJ sind keine PP.
 E) Keine der Schlussfolgerungen ist richtig.

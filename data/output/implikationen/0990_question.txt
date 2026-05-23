@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Maler sind Krokodile.
-- Einige Krokodile sind Kupfer.
+- Alle BI sind ZB.
+- Einige ZB sind keine II.
 
-A) Alle Maler sind keine Kupfer.
-B) Einige Maler sind keine Kupfer.
-C) Einige Maler sind Kupfer.
-D) Alle Maler sind Kupfer.
+A) Alle BI sind II.
+B) Einige BI sind II.
+C) Einige BI sind keine II.
+D) Alle BI sind keine II.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Autos sind Ärzte.
-- Alle Ärzte sind Wissenschaftler.
+- Einige FG sind keine AZ.
+- Einige AZ sind AW.
 
-A) Alle Autos sind keine Wissenschaftler.
-B) Alle Autos sind Wissenschaftler.
-C) Einige Autos sind Wissenschaftler.
-D) Einige Autos sind keine Wissenschaftler.
+A) Einige FG sind AW.
+B) Alle FG sind AW.
+C) Einige FG sind keine AW.
+D) Alle FG sind keine AW.
 E) Keine der Schlussfolgerungen ist richtig.

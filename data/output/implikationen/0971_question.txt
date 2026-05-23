@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Zebras sind Krokodile.
-- Alle Krokodile sind keine Gedichte.
+- Alle ZG sind ZIC.
+- Alle ZIC sind keine FH.
 
-A) Alle Zebras sind keine Gedichte.
-B) Einige Zebras sind Gedichte.
-C) Einige Zebras sind keine Gedichte.
-D) Alle Zebras sind Gedichte.
+A) Alle ZG sind keine FH.
+B) Alle ZG sind FH.
+C) Einige ZG sind keine FH.
+D) Einige ZG sind FH.
 E) Keine der Schlussfolgerungen ist richtig.

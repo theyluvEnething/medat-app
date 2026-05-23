@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Mammute sind keine Taucher.
-- Alle Taucher sind keine Kupfer.
+- Einige OS sind RHE.
+- Alle RHE sind FJ.
 
-A) Einige Mammute sind Kupfer.
-B) Einige Mammute sind keine Kupfer.
-C) Alle Mammute sind Kupfer.
-D) Alle Mammute sind keine Kupfer.
+A) Einige OS sind FJ.
+B) Einige OS sind keine FJ.
+C) Alle OS sind FJ.
+D) Alle OS sind keine FJ.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Gräser sind Vasen.
-- Einige Vasen sind Chemiker.
+- Einige DL sind UCP.
+- Einige UCP sind TF.
 
-A) Einige Gräser sind Chemiker.
-B) Alle Gräser sind Chemiker.
-C) Einige Gräser sind keine Chemiker.
-D) Alle Gräser sind keine Chemiker.
+A) Alle DL sind TF.
+B) Einige DL sind TF.
+C) Einige DL sind keine TF.
+D) Alle DL sind keine TF.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,7 @@
-Zahlenfolge: 42 43 44 45 46 47 ? ?
+Zahlenfolge: 5 8 18 31 54 90 ? ?
 
-A) 94/95
-B) 47/49
-C) 50/49
-D) 49/50
+A) 149/243
+B) 149/245
+C) 149/244
+D) 107/124
 E) Keine der Antworten ist richtig

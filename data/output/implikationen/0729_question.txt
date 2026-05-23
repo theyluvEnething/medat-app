@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Teleskope sind Wissenschaftler.
-- Einige Wissenschaftler sind Dinosaurier.
+- Einige CO sind DTF.
+- Alle DTF sind keine KJ.
 
-A) Einige Teleskope sind Dinosaurier.
-B) Alle Teleskope sind Dinosaurier.
-C) Einige Teleskope sind keine Dinosaurier.
-D) Alle Teleskope sind keine Dinosaurier.
+A) Alle CO sind keine KJ.
+B) Einige CO sind KJ.
+C) Alle CO sind KJ.
+D) Einige CO sind keine KJ.
 E) Keine der Schlussfolgerungen ist richtig.

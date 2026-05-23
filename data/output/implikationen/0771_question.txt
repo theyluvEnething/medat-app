@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Giraffen sind keine Schauspieler.
-- Alle Schauspieler sind keine Pandas.
+- Einige CJ sind keine EF.
+- Einige EF sind ES.
 
-A) Einige Giraffen sind keine Pandas.
-B) Einige Giraffen sind Pandas.
-C) Alle Giraffen sind keine Pandas.
-D) Alle Giraffen sind Pandas.
+A) Alle CJ sind keine ES.
+B) Einige CJ sind keine ES.
+C) Einige CJ sind ES.
+D) Alle CJ sind ES.
 E) Keine der Schlussfolgerungen ist richtig.

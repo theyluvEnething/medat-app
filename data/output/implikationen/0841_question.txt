@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Teleskope sind keine Häuser.
-- Alle Häuser sind keine Statuen.
+- Einige ZU sind MV.
+- Alle MV sind TG.
 
-A) Alle Teleskope sind Statuen.
-B) Alle Teleskope sind keine Statuen.
-C) Einige Teleskope sind Statuen.
-D) Einige Teleskope sind keine Statuen.
+A) Alle ZU sind TG.
+B) Einige ZU sind TG.
+C) Alle ZU sind keine TG.
+D) Einige ZU sind keine TG.
 E) Keine der Schlussfolgerungen ist richtig.

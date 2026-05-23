@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Nashörner sind keine Bäume.
-- Einige Bäume sind keine Gemälde.
+- Alle PLJ sind AR.
+- Alle AR sind CW.
 
-A) Alle Nashörner sind keine Gemälde.
-B) Einige Nashörner sind keine Gemälde.
-C) Alle Nashörner sind Gemälde.
-D) Einige Nashörner sind Gemälde.
+A) Alle PLJ sind CW.
+B) Einige PLJ sind CW.
+C) Alle PLJ sind keine CW.
+D) Einige PLJ sind keine CW.
 E) Keine der Schlussfolgerungen ist richtig.

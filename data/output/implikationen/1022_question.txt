@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tulpen sind keine Nashörner.
-- Einige Nashörner sind keine Dichter.
+- Alle LH sind SW.
+- Alle SW sind ULM.
 
-A) Alle Tulpen sind keine Dichter.
-B) Alle Tulpen sind Dichter.
-C) Einige Tulpen sind Dichter.
-D) Einige Tulpen sind keine Dichter.
+A) Alle LH sind ULM.
+B) Einige LH sind keine ULM.
+C) Alle LH sind keine ULM.
+D) Einige LH sind ULM.
 E) Keine der Schlussfolgerungen ist richtig.

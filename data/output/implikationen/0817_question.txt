@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Möbel sind keine Granite.
-- Einige Granite sind Klaviere.
+- Alle IW sind JI.
+- Alle JI sind KL.
 
-A) Alle Möbel sind Klaviere.
-B) Einige Möbel sind keine Klaviere.
-C) Alle Möbel sind keine Klaviere.
-D) Einige Möbel sind Klaviere.
+A) Einige IW sind keine KL.
+B) Einige IW sind KL.
+C) Alle IW sind KL.
+D) Alle IW sind keine KL.
 E) Keine der Schlussfolgerungen ist richtig.

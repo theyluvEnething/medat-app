@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tulpen sind keine Insekten.
-- Alle Insekten sind keine Schriftsteller.
+- Alle BT sind HCL.
+- Alle HCL sind keine EUP.
 
-A) Einige Tulpen sind keine Schriftsteller.
-B) Einige Tulpen sind Schriftsteller.
-C) Alle Tulpen sind Schriftsteller.
-D) Alle Tulpen sind keine Schriftsteller.
+A) Alle BT sind keine EUP.
+B) Alle BT sind EUP.
+C) Einige BT sind EUP.
+D) Einige BT sind keine EUP.
 E) Keine der Schlussfolgerungen ist richtig.

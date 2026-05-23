@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Sänger sind Granite.
-- Alle Granite sind Tannen.
+- Einige SW sind keine NT.
+- Einige NT sind OG.
 
-A) Einige Sänger sind Tannen.
-B) Alle Sänger sind Tannen.
-C) Alle Sänger sind keine Tannen.
-D) Einige Sänger sind keine Tannen.
+A) Alle SW sind keine OG.
+B) Einige SW sind OG.
+C) Einige SW sind keine OG.
+D) Alle SW sind OG.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tulpen sind Vegetarier.
-- Einige Vegetarier sind Uhren.
+- Alle VU sind PSN.
+- Alle PSN sind keine UI.
 
-A) Alle Tulpen sind keine Uhren.
-B) Alle Tulpen sind Uhren.
-C) Einige Tulpen sind Uhren.
-D) Einige Tulpen sind keine Uhren.
+A) Einige VU sind UI.
+B) Alle VU sind keine UI.
+C) Alle VU sind UI.
+D) Einige VU sind keine UI.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Blumen sind keine Tabletten.
-- Alle Tabletten sind Schiffe.
+- Einige RU sind WO.
+- Alle WO sind keine BS.
 
-A) Alle Blumen sind keine Schiffe.
-B) Einige Blumen sind keine Schiffe.
-C) Einige Blumen sind Schiffe.
-D) Alle Blumen sind Schiffe.
+A) Einige RU sind keine BS.
+B) Alle RU sind BS.
+C) Einige RU sind BS.
+D) Alle RU sind keine BS.
 E) Keine der Schlussfolgerungen ist richtig.

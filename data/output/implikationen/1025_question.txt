@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Bäume sind keine Haie.
-- Alle Haie sind Möbel.
+- Alle HV sind MK.
+- Alle MK sind keine BG.
 
-A) Einige Bäume sind keine Möbel.
-B) Alle Bäume sind Möbel.
-C) Einige Bäume sind Möbel.
-D) Alle Bäume sind keine Möbel.
+A) Einige HV sind keine BG.
+B) Alle HV sind keine BG.
+C) Alle HV sind BG.
+D) Einige HV sind BG.
 E) Keine der Schlussfolgerungen ist richtig.

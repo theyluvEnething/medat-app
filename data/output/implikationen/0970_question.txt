@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Dinosaurier sind Züge.
-- Alle Züge sind Taucher.
+- Alle GA sind keine ZS.
+- Alle ZS sind keine ZD.
 
-A) Einige Dinosaurier sind keine Taucher.
-B) Einige Dinosaurier sind Taucher.
-C) Alle Dinosaurier sind Taucher.
-D) Alle Dinosaurier sind keine Taucher.
+A) Alle GA sind keine ZD.
+B) Einige GA sind keine ZD.
+C) Einige GA sind ZD.
+D) Alle GA sind ZD.
 E) Keine der Schlussfolgerungen ist richtig.

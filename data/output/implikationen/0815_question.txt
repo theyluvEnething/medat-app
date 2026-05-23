@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Autos sind Uhren.
-- Einige Uhren sind Marder.
+- Einige KPT sind JB.
+- Einige JB sind CV.
 
-A) Einige Autos sind keine Marder.
-B) Alle Autos sind Marder.
-C) Alle Autos sind keine Marder.
-D) Einige Autos sind Marder.
+A) Einige KPT sind CV.
+B) Einige KPT sind keine CV.
+C) Alle KPT sind CV.
+D) Alle KPT sind keine CV.
 E) Keine der Schlussfolgerungen ist richtig.

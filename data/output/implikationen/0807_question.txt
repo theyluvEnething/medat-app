@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gemälde sind Insekten.
-- Alle Insekten sind Mammute.
+- Alle FME sind keine FSB.
+- Alle FSB sind DFJ.
 
-A) Einige Gemälde sind keine Mammute.
-B) Alle Gemälde sind Mammute.
-C) Einige Gemälde sind Mammute.
-D) Alle Gemälde sind keine Mammute.
+A) Einige FME sind DFJ.
+B) Alle FME sind DFJ.
+C) Alle FME sind keine DFJ.
+D) Einige FME sind keine DFJ.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Züge sind keine Wissenschaftler.
-- Alle Wissenschaftler sind Schiffe.
+- Alle PF sind keine FRW.
+- Einige FRW sind keine RCK.
 
-A) Einige Züge sind keine Schiffe.
-B) Alle Züge sind Schiffe.
-C) Einige Züge sind Schiffe.
-D) Alle Züge sind keine Schiffe.
+A) Einige PF sind keine RCK.
+B) Alle PF sind RCK.
+C) Einige PF sind RCK.
+D) Alle PF sind keine RCK.
 E) Keine der Schlussfolgerungen ist richtig.

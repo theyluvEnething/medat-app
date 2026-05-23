@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gedichte sind keine Metalle.
-- Einige Metalle sind keine Häuser.
+- Alle KG sind keine SN.
+- Alle SN sind ZGL.
 
-A) Einige Gedichte sind Häuser.
-B) Alle Gedichte sind Häuser.
-C) Alle Gedichte sind keine Häuser.
-D) Einige Gedichte sind keine Häuser.
+A) Einige KG sind ZGL.
+B) Alle KG sind keine ZGL.
+C) Einige KG sind keine ZGL.
+D) Alle KG sind ZGL.
 E) Keine der Schlussfolgerungen ist richtig.

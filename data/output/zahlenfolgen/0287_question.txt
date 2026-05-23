@@ -1,7 +1,0 @@
-Zahlenfolge: 28 -3 29 -4 30 -5 ? ?
-
-A) 33/-5
-B) 25/-14
-C) 32/-7
-D) -12/-19
-E) Keine der Antworten ist richtig

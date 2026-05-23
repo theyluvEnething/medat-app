@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Kätzchen sind Vulkane.
-- Einige Vulkane sind keine Giraffen.
+- Einige PHE sind VF.
+- Alle VF sind TU.
 
-A) Einige Kätzchen sind Giraffen.
-B) Alle Kätzchen sind Giraffen.
-C) Alle Kätzchen sind keine Giraffen.
-D) Einige Kätzchen sind keine Giraffen.
+A) Einige PHE sind TU.
+B) Alle PHE sind keine TU.
+C) Alle PHE sind TU.
+D) Einige PHE sind keine TU.
 E) Keine der Schlussfolgerungen ist richtig.

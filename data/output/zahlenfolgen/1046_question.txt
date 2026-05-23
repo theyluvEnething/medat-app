@@ -1,7 +1,0 @@
-Zahlenfolge: 10 3 13 16 29 45 ? ?
-
-A) 194/314
-B) 193/312
-C) 192/310
-D) 192/311
-E) Keine der Antworten ist richtig

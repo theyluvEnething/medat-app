@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tulpen sind keine Türen.
-- Einige Türen sind Dichter.
+- Einige PUK sind keine CI.
+- Einige CI sind keine IU.
 
-A) Alle Tulpen sind Dichter.
-B) Einige Tulpen sind keine Dichter.
-C) Alle Tulpen sind keine Dichter.
-D) Einige Tulpen sind Dichter.
+A) Alle PUK sind keine IU.
+B) Einige PUK sind IU.
+C) Einige PUK sind keine IU.
+D) Alle PUK sind IU.
 E) Keine der Schlussfolgerungen ist richtig.

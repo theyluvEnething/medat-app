@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Smartphones sind keine Diamanten.
-- Alle Diamanten sind keine Türen.
+- Einige ULF sind keine ER.
+- Einige ER sind keine MU.
 
-A) Einige Smartphones sind keine Türen.
-B) Alle Smartphones sind keine Türen.
-C) Alle Smartphones sind Türen.
-D) Einige Smartphones sind Türen.
+A) Alle ULF sind keine MU.
+B) Einige ULF sind MU.
+C) Einige ULF sind keine MU.
+D) Alle ULF sind MU.
 E) Keine der Schlussfolgerungen ist richtig.

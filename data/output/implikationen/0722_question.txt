@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mammute sind keine Stühle.
-- Alle Stühle sind keine Roboter.
+- Einige HU sind SNI.
+- Alle SNI sind keine EF.
 
-A) Einige Mammute sind keine Roboter.
-B) Alle Mammute sind keine Roboter.
-C) Alle Mammute sind Roboter.
-D) Einige Mammute sind Roboter.
+A) Alle HU sind keine EF.
+B) Einige HU sind keine EF.
+C) Alle HU sind EF.
+D) Einige HU sind EF.
 E) Keine der Schlussfolgerungen ist richtig.

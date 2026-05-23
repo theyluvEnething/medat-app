@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gräser sind Eichen.
-- Alle Eichen sind keine Tannen.
+- Alle SZ sind keine GBD.
+- Alle GBD sind EG.
 
-A) Alle Gräser sind keine Tannen.
-B) Einige Gräser sind Tannen.
-C) Alle Gräser sind Tannen.
-D) Einige Gräser sind keine Tannen.
+A) Alle SZ sind keine EG.
+B) Einige SZ sind EG.
+C) Alle SZ sind EG.
+D) Einige SZ sind keine EG.
 E) Keine der Schlussfolgerungen ist richtig.

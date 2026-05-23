@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Uhren sind Amphibien.
-- Alle Amphibien sind keine Insekten.
+- Alle SB sind DF.
+- Alle DF sind ZUH.
 
-A) Alle Uhren sind keine Insekten.
-B) Einige Uhren sind Insekten.
-C) Einige Uhren sind keine Insekten.
-D) Alle Uhren sind Insekten.
+A) Alle SB sind ZUH.
+B) Einige SB sind ZUH.
+C) Einige SB sind keine ZUH.
+D) Alle SB sind keine ZUH.
 E) Keine der Schlussfolgerungen ist richtig.

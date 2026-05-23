@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mathematiker sind keine Fische.
-- Alle Fische sind Schriftsteller.
+- Einige PF sind keine POA.
+- Alle POA sind VD.
 
-A) Einige Mathematiker sind Schriftsteller.
-B) Alle Mathematiker sind keine Schriftsteller.
-C) Alle Mathematiker sind Schriftsteller.
-D) Einige Mathematiker sind keine Schriftsteller.
+A) Alle PF sind VD.
+B) Einige PF sind VD.
+C) Alle PF sind keine VD.
+D) Einige PF sind keine VD.
 E) Keine der Schlussfolgerungen ist richtig.

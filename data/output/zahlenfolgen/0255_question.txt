@@ -1,7 +1,0 @@
-Zahlenfolge: -2 -6 -18 -54 -162 -486 ? ?
-
-A) -4375/-13121
-B) -4374/-13122
-C) -4372/-13123
-D) -4376/-13120
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Gedichte sind Amphibien.
-- Alle Amphibien sind keine Zebras.
+- Einige TDP sind EFG.
+- Alle EFG sind OD.
 
-A) Einige Gedichte sind keine Zebras.
-B) Alle Gedichte sind Zebras.
-C) Einige Gedichte sind Zebras.
-D) Alle Gedichte sind keine Zebras.
+A) Alle TDP sind keine OD.
+B) Einige TDP sind OD.
+C) Alle TDP sind OD.
+D) Einige TDP sind keine OD.
 E) Keine der Schlussfolgerungen ist richtig.

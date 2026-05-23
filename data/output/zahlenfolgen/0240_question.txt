@@ -1,7 +1,0 @@
-Zahlenfolge: 11 -2 -15 -28 -41 -54 ? ?
-
-A) -81/-94
-B) -80/-93
-C) -82/-95
-D) -78/-95
-E) Keine der Antworten ist richtig

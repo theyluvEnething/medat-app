@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Klaviere sind keine Stühle.
-- Alle Stühle sind keine Quartette.
+- Einige WN sind SN.
+- Alle SN sind FTI.
 
-A) Alle Klaviere sind Quartette.
-B) Alle Klaviere sind keine Quartette.
-C) Einige Klaviere sind Quartette.
-D) Einige Klaviere sind keine Quartette.
+A) Einige WN sind keine FTI.
+B) Einige WN sind FTI.
+C) Alle WN sind keine FTI.
+D) Alle WN sind FTI.
 E) Keine der Schlussfolgerungen ist richtig.

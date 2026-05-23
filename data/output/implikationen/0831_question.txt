@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Quallen sind keine Vegetarier.
-- Einige Vegetarier sind Flüsse.
+- Alle MVE sind VH.
+- Alle VH sind HR.
 
-A) Alle Quallen sind keine Flüsse.
-B) Einige Quallen sind Flüsse.
-C) Einige Quallen sind keine Flüsse.
-D) Alle Quallen sind Flüsse.
+A) Einige MVE sind keine HR.
+B) Einige MVE sind HR.
+C) Alle MVE sind keine HR.
+D) Alle MVE sind HR.
 E) Keine der Schlussfolgerungen ist richtig.

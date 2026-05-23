@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Vulkane sind Spatzen.
-- Einige Spatzen sind Radios.
+- Einige LL sind keine NA.
+- Einige NA sind keine RP.
 
-A) Einige Vulkane sind Radios.
-B) Alle Vulkane sind keine Radios.
-C) Einige Vulkane sind keine Radios.
-D) Alle Vulkane sind Radios.
+A) Einige LL sind keine RP.
+B) Alle LL sind keine RP.
+C) Alle LL sind RP.
+D) Einige LL sind RP.
 E) Keine der Schlussfolgerungen ist richtig.

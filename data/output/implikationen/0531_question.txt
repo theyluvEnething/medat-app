@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tiger sind keine Möbel.
-- Einige Möbel sind keine Roboter.
+- Einige SWO sind OT.
+- Einige OT sind keine WE.
 
-A) Einige Tiger sind Roboter.
-B) Alle Tiger sind keine Roboter.
-C) Einige Tiger sind keine Roboter.
-D) Alle Tiger sind Roboter.
+A) Einige SWO sind WE.
+B) Einige SWO sind keine WE.
+C) Alle SWO sind keine WE.
+D) Alle SWO sind WE.
 E) Keine der Schlussfolgerungen ist richtig.

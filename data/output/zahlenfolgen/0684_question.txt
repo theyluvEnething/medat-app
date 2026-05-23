@@ -1,7 +1,0 @@
-Zahlenfolge: 15 20 26 33 41 50 ? ?
-
-A) 82/98
-B) 84/95
-C) 83/96
-D) 85/98
-E) Keine der Antworten ist richtig

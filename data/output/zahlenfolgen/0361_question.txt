@@ -1,7 +1,0 @@
-Zahlenfolge: -4 20 -8 26 -12 32 ? ?
-
-A) -20/44
-B) -19/45
-C) -22/45
-D) -21/42
-E) Keine der Antworten ist richtig

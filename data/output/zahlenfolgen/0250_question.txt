@@ -1,7 +1,0 @@
-Zahlenfolge: 5 9 27 31 93 97 ? ?
-
-A) 883/891
-B) 903/907
-C) 887/891
-D) 885/889
-E) Keine der Antworten ist richtig

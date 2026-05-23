@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Dichter sind keine Nashörner.
-- Einige Nashörner sind keine Granite.
+- Alle GE sind PC.
+- Einige PC sind BV.
 
-A) Einige Dichter sind keine Granite.
-B) Einige Dichter sind Granite.
-C) Alle Dichter sind Granite.
-D) Alle Dichter sind keine Granite.
+A) Einige GE sind keine BV.
+B) Einige GE sind BV.
+C) Alle GE sind keine BV.
+D) Alle GE sind BV.
 E) Keine der Schlussfolgerungen ist richtig.

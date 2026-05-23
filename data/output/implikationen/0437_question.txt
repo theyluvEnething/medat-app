@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Anwälte sind Fische.
-- Alle Fische sind Amseln.
+- Einige PT sind DAT.
+- Alle DAT sind IO.
 
-A) Alle Anwälte sind Amseln.
-B) Einige Anwälte sind keine Amseln.
-C) Alle Anwälte sind keine Amseln.
-D) Einige Anwälte sind Amseln.
+A) Einige PT sind keine IO.
+B) Alle PT sind IO.
+C) Alle PT sind keine IO.
+D) Einige PT sind IO.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Marder sind Uhren.
-- Alle Uhren sind Taucher.
+- Einige ZC sind SI.
+- Alle SI sind keine ID.
 
-A) Alle Marder sind keine Taucher.
-B) Alle Marder sind Taucher.
-C) Einige Marder sind keine Taucher.
-D) Einige Marder sind Taucher.
+A) Einige ZC sind keine ID.
+B) Einige ZC sind ID.
+C) Alle ZC sind keine ID.
+D) Alle ZC sind ID.
 E) Keine der Schlussfolgerungen ist richtig.

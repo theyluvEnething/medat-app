@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Rosen sind Granite.
-- Einige Granite sind Politiker.
+- Alle SV sind keine WD.
+- Alle WD sind OG.
 
-A) Alle Rosen sind keine Politiker.
-B) Einige Rosen sind keine Politiker.
-C) Einige Rosen sind Politiker.
-D) Alle Rosen sind Politiker.
+A) Einige SV sind keine OG.
+B) Alle SV sind keine OG.
+C) Einige SV sind OG.
+D) Alle SV sind OG.
 E) Keine der Schlussfolgerungen ist richtig.

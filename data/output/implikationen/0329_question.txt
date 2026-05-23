@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Spatzen sind keine Menschen.
-- Einige Menschen sind Hunde.
+- Alle PA sind keine MIC.
+- Alle MIC sind keine JR.
 
-A) Einige Spatzen sind Hunde.
-B) Alle Spatzen sind Hunde.
-C) Alle Spatzen sind keine Hunde.
-D) Einige Spatzen sind keine Hunde.
+A) Alle PA sind keine JR.
+B) Einige PA sind JR.
+C) Alle PA sind JR.
+D) Einige PA sind keine JR.
 E) Keine der Schlussfolgerungen ist richtig.

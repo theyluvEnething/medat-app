@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Lehrer sind keine Mammute.
-- Alle Mammute sind Roboter.
+- Einige DI sind AW.
+- Alle AW sind JN.
 
-A) Einige Lehrer sind keine Roboter.
-B) Alle Lehrer sind keine Roboter.
-C) Einige Lehrer sind Roboter.
-D) Alle Lehrer sind Roboter.
+A) Alle DI sind keine JN.
+B) Alle DI sind JN.
+C) Einige DI sind keine JN.
+D) Einige DI sind JN.
 E) Keine der Schlussfolgerungen ist richtig.

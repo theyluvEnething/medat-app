@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Eidechsen sind keine Tiger.
-- Einige Tiger sind Fotografen.
+- Alle WK sind JD.
+- Einige JD sind MPZ.
 
-A) Alle Eidechsen sind Fotografen.
-B) Einige Eidechsen sind Fotografen.
-C) Alle Eidechsen sind keine Fotografen.
-D) Einige Eidechsen sind keine Fotografen.
+A) Alle WK sind MPZ.
+B) Einige WK sind MPZ.
+C) Alle WK sind keine MPZ.
+D) Einige WK sind keine MPZ.
 E) Keine der Schlussfolgerungen ist richtig.

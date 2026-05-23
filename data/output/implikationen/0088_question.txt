@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Menschen sind keine Glühbirnen.
-- Alle Glühbirnen sind keine Vegetarier.
+- Alle ZA sind keine GK.
+- Alle GK sind VA.
 
-A) Alle Menschen sind keine Vegetarier.
-B) Einige Menschen sind keine Vegetarier.
-C) Einige Menschen sind Vegetarier.
-D) Alle Menschen sind Vegetarier.
+A) Alle ZA sind keine VA.
+B) Einige ZA sind VA.
+C) Alle ZA sind VA.
+D) Einige ZA sind keine VA.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Fotografen sind Radios.
-- Alle Radios sind keine Eichen.
+- Alle NA sind NB.
+- Alle NB sind ZE.
 
-A) Einige Fotografen sind Eichen.
-B) Alle Fotografen sind keine Eichen.
-C) Alle Fotografen sind Eichen.
-D) Einige Fotografen sind keine Eichen.
+A) Alle NA sind ZE.
+B) Einige NA sind keine ZE.
+C) Alle NA sind keine ZE.
+D) Einige NA sind ZE.
 E) Keine der Schlussfolgerungen ist richtig.

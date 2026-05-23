@@ -1,7 +1,0 @@
-Zahlenfolge: 0 1 4 9 16 25 ? ?
-
-A) 62/79
-B) 63/83
-C) 64/81
-D) 66/82
-E) Keine der Antworten ist richtig

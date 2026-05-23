@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vögel sind Tiger.
-- Einige Tiger sind Bäume.
+- Alle VV sind ER.
+- Alle ER sind BL.
 
-A) Alle Vögel sind keine Bäume.
-B) Alle Vögel sind Bäume.
-C) Einige Vögel sind keine Bäume.
-D) Einige Vögel sind Bäume.
+A) Alle VV sind BL.
+B) Einige VV sind keine BL.
+C) Alle VV sind keine BL.
+D) Einige VV sind BL.
 E) Keine der Schlussfolgerungen ist richtig.

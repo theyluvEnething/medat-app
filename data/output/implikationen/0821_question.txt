@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Nashörner sind keine Insekten.
-- Einige Insekten sind Dinosaurier.
+- Einige HD sind PJ.
+- Alle PJ sind MV.
 
-A) Einige Nashörner sind keine Dinosaurier.
-B) Einige Nashörner sind Dinosaurier.
-C) Alle Nashörner sind keine Dinosaurier.
-D) Alle Nashörner sind Dinosaurier.
+A) Alle HD sind MV.
+B) Einige HD sind keine MV.
+C) Alle HD sind keine MV.
+D) Einige HD sind MV.
 E) Keine der Schlussfolgerungen ist richtig.

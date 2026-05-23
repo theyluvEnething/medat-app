@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Sänger sind keine Autos.
-- Alle Autos sind keine Smartphones.
+- Alle RV sind CT.
+- Alle CT sind VE.
 
-A) Einige Sänger sind keine Smartphones.
-B) Alle Sänger sind keine Smartphones.
-C) Einige Sänger sind Smartphones.
-D) Alle Sänger sind Smartphones.
+A) Einige RV sind keine VE.
+B) Alle RV sind keine VE.
+C) Einige RV sind VE.
+D) Alle RV sind VE.
 E) Keine der Schlussfolgerungen ist richtig.

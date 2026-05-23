@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Häuser sind keine Türen.
-- Alle Türen sind keine Krokodile.
+- Einige UB sind keine UI.
+- Einige UI sind GZ.
 
-A) Alle Häuser sind keine Krokodile.
-B) Alle Häuser sind Krokodile.
-C) Einige Häuser sind Krokodile.
-D) Einige Häuser sind keine Krokodile.
+A) Alle UB sind GZ.
+B) Alle UB sind keine GZ.
+C) Einige UB sind keine GZ.
+D) Einige UB sind GZ.
 E) Keine der Schlussfolgerungen ist richtig.

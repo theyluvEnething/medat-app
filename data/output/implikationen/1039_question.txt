@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wölfe sind keine Dinosaurier.
-- Alle Dinosaurier sind keine Bücher.
+- Einige FG sind BH.
+- Alle BH sind keine MDF.
 
-A) Einige Wölfe sind Bücher.
-B) Alle Wölfe sind Bücher.
-C) Einige Wölfe sind keine Bücher.
-D) Alle Wölfe sind keine Bücher.
+A) Alle FG sind keine MDF.
+B) Einige FG sind MDF.
+C) Einige FG sind keine MDF.
+D) Alle FG sind MDF.
 E) Keine der Schlussfolgerungen ist richtig.

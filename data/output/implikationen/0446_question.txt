@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Glühbirnen sind keine Flugzeuge.
-- Alle Flugzeuge sind keine Roboter.
+- Einige VGN sind SW.
+- Alle SW sind keine UG.
 
-A) Einige Glühbirnen sind Roboter.
-B) Alle Glühbirnen sind Roboter.
-C) Einige Glühbirnen sind keine Roboter.
-D) Alle Glühbirnen sind keine Roboter.
+A) Alle VGN sind keine UG.
+B) Einige VGN sind keine UG.
+C) Einige VGN sind UG.
+D) Alle VGN sind UG.
 E) Keine der Schlussfolgerungen ist richtig.

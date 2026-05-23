@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Quallen sind keine Insekten.
-- Alle Insekten sind Stühle.
+- Einige GK sind keine HS.
+- Einige HS sind keine EC.
 
-A) Einige Quallen sind Stühle.
-B) Alle Quallen sind keine Stühle.
-C) Alle Quallen sind Stühle.
-D) Einige Quallen sind keine Stühle.
+A) Alle GK sind keine EC.
+B) Einige GK sind EC.
+C) Alle GK sind EC.
+D) Einige GK sind keine EC.
 E) Keine der Schlussfolgerungen ist richtig.

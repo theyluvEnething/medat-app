@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Giraffen sind Bücher.
-- Einige Bücher sind keine Nashörner.
+- Alle IP sind WG.
+- Alle WG sind OFG.
 
-A) Einige Giraffen sind keine Nashörner.
-B) Alle Giraffen sind Nashörner.
-C) Einige Giraffen sind Nashörner.
-D) Alle Giraffen sind keine Nashörner.
+A) Alle IP sind OFG.
+B) Einige IP sind OFG.
+C) Alle IP sind keine OFG.
+D) Einige IP sind keine OFG.
 E) Keine der Schlussfolgerungen ist richtig.

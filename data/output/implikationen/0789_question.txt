@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schriftsteller sind keine Flugzeuge.
-- Alle Flugzeuge sind Politiker.
+- Alle JT sind VB.
+- Einige VB sind MS.
 
-A) Alle Schriftsteller sind Politiker.
-B) Alle Schriftsteller sind keine Politiker.
-C) Einige Schriftsteller sind keine Politiker.
-D) Einige Schriftsteller sind Politiker.
+A) Alle JT sind MS.
+B) Alle JT sind keine MS.
+C) Einige JT sind keine MS.
+D) Einige JT sind MS.
 E) Keine der Schlussfolgerungen ist richtig.

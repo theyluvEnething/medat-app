@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Amseln sind Marder.
-- Einige Marder sind Schriftsteller.
+- Alle OS sind keine JR.
+- Alle JR sind AJ.
 
-A) Alle Amseln sind Schriftsteller.
-B) Einige Amseln sind keine Schriftsteller.
-C) Alle Amseln sind keine Schriftsteller.
-D) Einige Amseln sind Schriftsteller.
+A) Einige OS sind AJ.
+B) Einige OS sind keine AJ.
+C) Alle OS sind keine AJ.
+D) Alle OS sind AJ.
 E) Keine der Schlussfolgerungen ist richtig.

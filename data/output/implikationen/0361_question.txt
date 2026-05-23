@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Quallen sind keine Rosen.
-- Einige Rosen sind keine Amphibien.
+- Einige EM sind AN.
+- Einige AN sind keine EUU.
 
-A) Alle Quallen sind keine Amphibien.
-B) Alle Quallen sind Amphibien.
-C) Einige Quallen sind Amphibien.
-D) Einige Quallen sind keine Amphibien.
+A) Alle EM sind EUU.
+B) Einige EM sind keine EUU.
+C) Alle EM sind keine EUU.
+D) Einige EM sind EUU.
 E) Keine der Schlussfolgerungen ist richtig.

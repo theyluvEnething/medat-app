@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tannen sind Säugetiere.
-- Alle Säugetiere sind keine Smartphones.
+- Alle BAU sind keine RF.
+- Einige RF sind keine VE.
 
-A) Einige Tannen sind Smartphones.
-B) Alle Tannen sind Smartphones.
-C) Einige Tannen sind keine Smartphones.
-D) Alle Tannen sind keine Smartphones.
+A) Einige BAU sind keine VE.
+B) Einige BAU sind VE.
+C) Alle BAU sind VE.
+D) Alle BAU sind keine VE.
 E) Keine der Schlussfolgerungen ist richtig.

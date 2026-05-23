@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wirbeltiere sind keine Diamanten.
-- Alle Diamanten sind keine Dichter.
+- Alle WCL sind ZT.
+- Alle ZT sind RU.
 
-A) Alle Wirbeltiere sind Dichter.
-B) Alle Wirbeltiere sind keine Dichter.
-C) Einige Wirbeltiere sind keine Dichter.
-D) Einige Wirbeltiere sind Dichter.
+A) Alle WCL sind keine RU.
+B) Einige WCL sind RU.
+C) Alle WCL sind RU.
+D) Einige WCL sind keine RU.
 E) Keine der Schlussfolgerungen ist richtig.

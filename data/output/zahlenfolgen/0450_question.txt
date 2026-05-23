@@ -1,7 +1,0 @@
-Zahlenfolge: 6 7 10 15 22 31 ? ?
-
-A) 71/89
-B) 69/89
-C) 70/87
-D) 68/86
-E) Keine der Antworten ist richtig

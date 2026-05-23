@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Menschen sind Eichen.
-- Alle Eichen sind Lilien.
+- Einige DJ sind JPB.
+- Alle JPB sind keine KRZ.
 
-A) Alle Menschen sind Lilien.
-B) Einige Menschen sind Lilien.
-C) Alle Menschen sind keine Lilien.
-D) Einige Menschen sind keine Lilien.
+A) Einige DJ sind KRZ.
+B) Alle DJ sind KRZ.
+C) Alle DJ sind keine KRZ.
+D) Einige DJ sind keine KRZ.
 E) Keine der Schlussfolgerungen ist richtig.

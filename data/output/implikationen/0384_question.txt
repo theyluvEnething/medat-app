@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Stühle sind keine Anwälte.
-- Alle Anwälte sind Vögel.
+- Einige AV sind MB.
+- Alle MB sind keine OHS.
 
-A) Einige Stühle sind keine Vögel.
-B) Alle Stühle sind keine Vögel.
-C) Alle Stühle sind Vögel.
-D) Einige Stühle sind Vögel.
+A) Alle AV sind OHS.
+B) Einige AV sind OHS.
+C) Einige AV sind keine OHS.
+D) Alle AV sind keine OHS.
 E) Keine der Schlussfolgerungen ist richtig.

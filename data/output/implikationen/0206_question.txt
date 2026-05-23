@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Marder sind Hunde.
-- Alle Hunde sind Fische.
+- Alle RE sind HHI.
+- Alle HHI sind JH.
 
-A) Einige Marder sind keine Fische.
-B) Einige Marder sind Fische.
-C) Alle Marder sind Fische.
-D) Alle Marder sind keine Fische.
+A) Einige RE sind keine JH.
+B) Einige RE sind JH.
+C) Alle RE sind JH.
+D) Alle RE sind keine JH.
 E) Keine der Schlussfolgerungen ist richtig.

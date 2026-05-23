@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Stühle sind Taucher.
-- Alle Taucher sind keine Smartphones.
+- Einige ZU sind RN.
+- Alle RN sind keine SS.
 
-A) Alle Stühle sind Smartphones.
-B) Einige Stühle sind Smartphones.
-C) Alle Stühle sind keine Smartphones.
-D) Einige Stühle sind keine Smartphones.
+A) Alle ZU sind SS.
+B) Einige ZU sind keine SS.
+C) Alle ZU sind keine SS.
+D) Einige ZU sind SS.
 E) Keine der Schlussfolgerungen ist richtig.

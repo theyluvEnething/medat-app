@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Uhren sind keine Schlangen.
-- Alle Schlangen sind keine Vegetarier.
+- Alle PV sind EU.
+- Einige EU sind DRN.
 
-A) Alle Uhren sind keine Vegetarier.
-B) Einige Uhren sind Vegetarier.
-C) Einige Uhren sind keine Vegetarier.
-D) Alle Uhren sind Vegetarier.
+A) Einige PV sind DRN.
+B) Alle PV sind DRN.
+C) Alle PV sind keine DRN.
+D) Einige PV sind keine DRN.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Flüsse sind keine Teleskope.
-- Einige Teleskope sind Tannen.
+- Alle RA sind DM.
+- Einige DM sind IE.
 
-A) Einige Flüsse sind Tannen.
-B) Einige Flüsse sind keine Tannen.
-C) Alle Flüsse sind keine Tannen.
-D) Alle Flüsse sind Tannen.
+A) Einige RA sind IE.
+B) Einige RA sind keine IE.
+C) Alle RA sind IE.
+D) Alle RA sind keine IE.
 E) Keine der Schlussfolgerungen ist richtig.

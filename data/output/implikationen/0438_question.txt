@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Lilien sind keine Stühle.
-- Alle Stühle sind Tomaten.
+- Alle JS sind BZM.
+- Alle BZM sind keine TR.
 
-A) Alle Lilien sind keine Tomaten.
-B) Einige Lilien sind Tomaten.
-C) Alle Lilien sind Tomaten.
-D) Einige Lilien sind keine Tomaten.
+A) Alle JS sind keine TR.
+B) Einige JS sind TR.
+C) Alle JS sind TR.
+D) Einige JS sind keine TR.
 E) Keine der Schlussfolgerungen ist richtig.

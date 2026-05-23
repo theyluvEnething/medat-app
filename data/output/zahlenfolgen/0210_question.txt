@@ -1,7 +1,0 @@
-Zahlenfolge: -2 8 18 28 38 48 ? ?
-
-A) 78/68
-B) 66/80
-C) 68/78
-D) 67/79
-E) Keine der Antworten ist richtig

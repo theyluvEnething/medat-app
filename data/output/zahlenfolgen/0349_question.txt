@@ -1,7 +1,0 @@
-Zahlenfolge: 20 -1 10 -7 0 -13 ? ?
-
-A) -20/-25
-B) -21/-24
-C) -18/-26
-D) -19/-27
-E) Keine der Antworten ist richtig

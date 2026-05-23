@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Flugzeuge sind keine Tabletten.
-- Einige Tabletten sind keine Fotografen.
+- Alle EV sind VOS.
+- Einige VOS sind DHG.
 
-A) Alle Flugzeuge sind keine Fotografen.
-B) Einige Flugzeuge sind Fotografen.
-C) Alle Flugzeuge sind Fotografen.
-D) Einige Flugzeuge sind keine Fotografen.
+A) Alle EV sind DHG.
+B) Einige EV sind DHG.
+C) Einige EV sind keine DHG.
+D) Alle EV sind keine DHG.
 E) Keine der Schlussfolgerungen ist richtig.

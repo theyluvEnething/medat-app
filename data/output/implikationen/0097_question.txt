@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Orchideen sind keine Blumen.
-- Einige Blumen sind keine Teleskope.
+- Alle SBI sind LAO.
+- Alle LAO sind LB.
 
-A) Alle Orchideen sind keine Teleskope.
-B) Einige Orchideen sind keine Teleskope.
-C) Einige Orchideen sind Teleskope.
-D) Alle Orchideen sind Teleskope.
+A) Alle SBI sind keine LB.
+B) Alle SBI sind LB.
+C) Einige SBI sind LB.
+D) Einige SBI sind keine LB.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tomaten sind Statuen.
-- Einige Statuen sind Lehrer.
+- Alle WCU sind ET.
+- Alle ET sind JT.
 
-A) Einige Tomaten sind Lehrer.
-B) Einige Tomaten sind keine Lehrer.
-C) Alle Tomaten sind keine Lehrer.
-D) Alle Tomaten sind Lehrer.
+A) Einige WCU sind JT.
+B) Einige WCU sind keine JT.
+C) Alle WCU sind keine JT.
+D) Alle WCU sind JT.
 E) Keine der Schlussfolgerungen ist richtig.

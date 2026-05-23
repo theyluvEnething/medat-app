@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wirbeltiere sind keine Häuser.
-- Einige Häuser sind keine Schlangen.
+- Einige HOT sind keine WZ.
+- Einige WZ sind WG.
 
-A) Alle Wirbeltiere sind keine Schlangen.
-B) Alle Wirbeltiere sind Schlangen.
-C) Einige Wirbeltiere sind Schlangen.
-D) Einige Wirbeltiere sind keine Schlangen.
+A) Alle HOT sind WG.
+B) Alle HOT sind keine WG.
+C) Einige HOT sind keine WG.
+D) Einige HOT sind WG.
 E) Keine der Schlussfolgerungen ist richtig.

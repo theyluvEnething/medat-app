@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Insekten sind Rosen.
-- Alle Rosen sind Amseln.
+- Alle HOT sind keine RJ.
+- Alle RJ sind KWG.
 
-A) Alle Insekten sind Amseln.
-B) Einige Insekten sind keine Amseln.
-C) Einige Insekten sind Amseln.
-D) Alle Insekten sind keine Amseln.
+A) Einige HOT sind KWG.
+B) Einige HOT sind keine KWG.
+C) Alle HOT sind keine KWG.
+D) Alle HOT sind KWG.
 E) Keine der Schlussfolgerungen ist richtig.

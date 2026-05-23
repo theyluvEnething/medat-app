@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Quartette sind Werkzeuge.
-- Einige Werkzeuge sind Metalle.
+- Alle ZK sind keine GA.
+- Alle GA sind IN.
 
-A) Einige Quartette sind Metalle.
-B) Einige Quartette sind keine Metalle.
-C) Alle Quartette sind Metalle.
-D) Alle Quartette sind keine Metalle.
+A) Einige ZK sind IN.
+B) Alle ZK sind IN.
+C) Einige ZK sind keine IN.
+D) Alle ZK sind keine IN.
 E) Keine der Schlussfolgerungen ist richtig.

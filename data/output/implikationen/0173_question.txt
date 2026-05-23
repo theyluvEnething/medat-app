@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wirbeltiere sind Spatzen.
-- Einige Spatzen sind keine Tulpen.
+- Alle WR sind keine HN.
+- Alle HN sind AL.
 
-A) Einige Wirbeltiere sind keine Tulpen.
-B) Alle Wirbeltiere sind keine Tulpen.
-C) Alle Wirbeltiere sind Tulpen.
-D) Einige Wirbeltiere sind Tulpen.
+A) Alle WR sind AL.
+B) Einige WR sind keine AL.
+C) Einige WR sind AL.
+D) Alle WR sind keine AL.
 E) Keine der Schlussfolgerungen ist richtig.

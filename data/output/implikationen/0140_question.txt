@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Kupfer sind Amphibien.
-- Alle Amphibien sind Stühle.
+- Einige DAS sind BW.
+- Alle BW sind keine ARZ.
 
-A) Alle Kupfer sind keine Stühle.
-B) Einige Kupfer sind keine Stühle.
-C) Einige Kupfer sind Stühle.
-D) Alle Kupfer sind Stühle.
+A) Alle DAS sind ARZ.
+B) Alle DAS sind keine ARZ.
+C) Einige DAS sind ARZ.
+D) Einige DAS sind keine ARZ.
 E) Keine der Schlussfolgerungen ist richtig.

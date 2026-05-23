@@ -1,7 +1,0 @@
-Zahlenfolge: 12 14 26 40 66 106 ? ?
-
-A) 451/727
-B) 452/727
-C) 450/728
-D) 452/729
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Ärzte sind Flugzeuge.
-- Einige Flugzeuge sind Gräser.
+- Alle AEH sind GH.
+- Alle GH sind PBV.
 
-A) Einige Ärzte sind keine Gräser.
-B) Einige Ärzte sind Gräser.
-C) Alle Ärzte sind Gräser.
-D) Alle Ärzte sind keine Gräser.
+A) Einige AEH sind keine PBV.
+B) Alle AEH sind PBV.
+C) Alle AEH sind keine PBV.
+D) Einige AEH sind PBV.
 E) Keine der Schlussfolgerungen ist richtig.

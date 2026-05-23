@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Möbel sind keine Chemiker.
-- Einige Chemiker sind keine Eidechsen.
+- Alle GB sind TR.
+- Alle TR sind LCZ.
 
-A) Einige Möbel sind Eidechsen.
-B) Einige Möbel sind keine Eidechsen.
-C) Alle Möbel sind Eidechsen.
-D) Alle Möbel sind keine Eidechsen.
+A) Alle GB sind LCZ.
+B) Alle GB sind keine LCZ.
+C) Einige GB sind keine LCZ.
+D) Einige GB sind LCZ.
 E) Keine der Schlussfolgerungen ist richtig.

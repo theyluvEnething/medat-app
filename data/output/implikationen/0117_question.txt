@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Gemälde sind keine Haie.
-- Alle Haie sind keine Quallen.
+- Alle DZ sind FG.
+- Alle FG sind keine FS.
 
-A) Alle Gemälde sind Quallen.
-B) Einige Gemälde sind keine Quallen.
-C) Einige Gemälde sind Quallen.
-D) Alle Gemälde sind keine Quallen.
+A) Alle DZ sind FS.
+B) Einige DZ sind keine FS.
+C) Alle DZ sind keine FS.
+D) Einige DZ sind FS.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Musikinstrumente sind keine Hunde.
-- Einige Hunde sind keine Insekten.
+- Alle SSL sind keine IA.
+- Alle IA sind keine HH.
 
-A) Einige Musikinstrumente sind Insekten.
-B) Alle Musikinstrumente sind Insekten.
-C) Alle Musikinstrumente sind keine Insekten.
-D) Einige Musikinstrumente sind keine Insekten.
+A) Einige SSL sind keine HH.
+B) Einige SSL sind HH.
+C) Alle SSL sind keine HH.
+D) Alle SSL sind HH.
 E) Keine der Schlussfolgerungen ist richtig.

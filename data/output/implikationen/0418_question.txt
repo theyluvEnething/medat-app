@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Eidechsen sind Mammute.
-- Einige Mammute sind Flüsse.
+- Alle RHB sind keine DJW.
+- Alle DJW sind FM.
 
-A) Alle Eidechsen sind keine Flüsse.
-B) Alle Eidechsen sind Flüsse.
-C) Einige Eidechsen sind keine Flüsse.
-D) Einige Eidechsen sind Flüsse.
+A) Alle RHB sind keine FM.
+B) Alle RHB sind FM.
+C) Einige RHB sind keine FM.
+D) Einige RHB sind FM.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Eidechsen sind keine Vögel.
-- Alle Vögel sind keine Quartette.
+- Alle DV sind UC.
+- Einige UC sind HC.
 
-A) Alle Eidechsen sind keine Quartette.
-B) Einige Eidechsen sind Quartette.
-C) Alle Eidechsen sind Quartette.
-D) Einige Eidechsen sind keine Quartette.
+A) Einige DV sind keine HC.
+B) Alle DV sind keine HC.
+C) Einige DV sind HC.
+D) Alle DV sind HC.
 E) Keine der Schlussfolgerungen ist richtig.

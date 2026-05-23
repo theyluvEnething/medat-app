@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Nashörner sind keine Anwälte.
-- Alle Anwälte sind keine Spatzen.
+- Einige EL sind RL.
+- Alle RL sind keine UM.
 
-A) Alle Nashörner sind keine Spatzen.
-B) Einige Nashörner sind keine Spatzen.
-C) Alle Nashörner sind Spatzen.
-D) Einige Nashörner sind Spatzen.
+A) Alle EL sind UM.
+B) Einige EL sind keine UM.
+C) Einige EL sind UM.
+D) Alle EL sind keine UM.
 E) Keine der Schlussfolgerungen ist richtig.

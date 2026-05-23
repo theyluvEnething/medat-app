@@ -1,7 +1,0 @@
-Zahlenfolge: 35 27 19 11 3 -5 ? ?
-
-A) -20/-28
-B) -20/-31
-C) -21/-29
-D) -10/-18
-E) Keine der Antworten ist richtig

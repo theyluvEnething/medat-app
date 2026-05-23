@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Sportler sind keine Nashörner.
-- Einige Nashörner sind keine Amseln.
+- Alle RL sind RR.
+- Alle RR sind keine OA.
 
-A) Alle Sportler sind Amseln.
-B) Einige Sportler sind keine Amseln.
-C) Alle Sportler sind keine Amseln.
-D) Einige Sportler sind Amseln.
+A) Alle RL sind keine OA.
+B) Alle RL sind OA.
+C) Einige RL sind OA.
+D) Einige RL sind keine OA.
 E) Keine der Schlussfolgerungen ist richtig.

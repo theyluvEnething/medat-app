@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wirbeltiere sind Wölfe.
-- Einige Wölfe sind Nashörner.
+- Einige LW sind VH.
+- Alle VH sind keine NT.
 
-A) Alle Wirbeltiere sind Nashörner.
-B) Einige Wirbeltiere sind Nashörner.
-C) Einige Wirbeltiere sind keine Nashörner.
-D) Alle Wirbeltiere sind keine Nashörner.
+A) Alle LW sind keine NT.
+B) Einige LW sind keine NT.
+C) Einige LW sind NT.
+D) Alle LW sind NT.
 E) Keine der Schlussfolgerungen ist richtig.

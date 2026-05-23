@@ -1,2 +1,2 @@
-A — -2187/6561
-Konstanter Faktor ×-3
+C — 451/899
+×2 - 3 je Schritt

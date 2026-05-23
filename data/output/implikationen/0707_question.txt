@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Spatzen sind Stühle.
-- Einige Stühle sind Schauspieler.
+- Alle SO sind VK.
+- Alle VK sind RR.
 
-A) Einige Spatzen sind keine Schauspieler.
-B) Alle Spatzen sind keine Schauspieler.
-C) Einige Spatzen sind Schauspieler.
-D) Alle Spatzen sind Schauspieler.
+A) Einige SO sind keine RR.
+B) Alle SO sind keine RR.
+C) Alle SO sind RR.
+D) Einige SO sind RR.
 E) Keine der Schlussfolgerungen ist richtig.

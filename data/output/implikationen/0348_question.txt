@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Häuser sind Kätzchen.
-- Alle Kätzchen sind keine Säugetiere.
+- Alle NA sind keine CS.
+- Einige CS sind keine FGL.
 
-A) Alle Häuser sind keine Säugetiere.
-B) Einige Häuser sind keine Säugetiere.
-C) Alle Häuser sind Säugetiere.
-D) Einige Häuser sind Säugetiere.
+A) Alle NA sind keine FGL.
+B) Alle NA sind FGL.
+C) Einige NA sind keine FGL.
+D) Einige NA sind FGL.
 E) Keine der Schlussfolgerungen ist richtig.

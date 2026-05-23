@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Gemälde sind Chemiker.
-- Einige Chemiker sind keine Pandas.
+- Alle FC sind TBD.
+- Alle TBD sind WI.
 
-A) Alle Gemälde sind keine Pandas.
-B) Einige Gemälde sind Pandas.
-C) Einige Gemälde sind keine Pandas.
-D) Alle Gemälde sind Pandas.
+A) Einige FC sind WI.
+B) Einige FC sind keine WI.
+C) Alle FC sind keine WI.
+D) Alle FC sind WI.
 E) Keine der Schlussfolgerungen ist richtig.

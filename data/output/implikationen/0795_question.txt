@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Skulpturen sind keine Gemälde.
-- Einige Gemälde sind keine Maler.
+- Alle OPJ sind ANM.
+- Einige ANM sind GKU.
 
-A) Einige Skulpturen sind keine Maler.
-B) Alle Skulpturen sind keine Maler.
-C) Alle Skulpturen sind Maler.
-D) Einige Skulpturen sind Maler.
+A) Alle OPJ sind keine GKU.
+B) Einige OPJ sind GKU.
+C) Einige OPJ sind keine GKU.
+D) Alle OPJ sind GKU.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 15 9 3 -3 -9 -15 ? ?
-
-A) -27/-33
-B) -29/-34
-C) -28/-32
-D) -26/-32
-E) Keine der Antworten ist richtig

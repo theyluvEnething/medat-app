@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Ingenieure sind Vögel.
-- Einige Vögel sind Mäuse.
+- Einige KR sind ZK.
+- Alle ZK sind keine VLK.
 
-A) Alle Ingenieure sind Mäuse.
-B) Alle Ingenieure sind keine Mäuse.
-C) Einige Ingenieure sind keine Mäuse.
-D) Einige Ingenieure sind Mäuse.
+A) Einige KR sind VLK.
+B) Alle KR sind keine VLK.
+C) Alle KR sind VLK.
+D) Einige KR sind keine VLK.
 E) Keine der Schlussfolgerungen ist richtig.

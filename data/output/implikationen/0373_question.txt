@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Werkzeuge sind Elektroautos.
-- Alle Elektroautos sind Granite.
+- Alle HU sind MN.
+- Alle MN sind WD.
 
-A) Alle Werkzeuge sind Granite.
-B) Einige Werkzeuge sind keine Granite.
-C) Einige Werkzeuge sind Granite.
-D) Alle Werkzeuge sind keine Granite.
+A) Alle HU sind WD.
+B) Einige HU sind WD.
+C) Alle HU sind keine WD.
+D) Einige HU sind keine WD.
 E) Keine der Schlussfolgerungen ist richtig.

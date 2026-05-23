@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schlangen sind Diamanten.
-- Einige Diamanten sind keine Schriftsteller.
+- Einige CP sind MG.
+- Alle MG sind keine KO.
 
-A) Alle Schlangen sind Schriftsteller.
-B) Alle Schlangen sind keine Schriftsteller.
-C) Einige Schlangen sind Schriftsteller.
-D) Einige Schlangen sind keine Schriftsteller.
+A) Alle CP sind KO.
+B) Einige CP sind keine KO.
+C) Alle CP sind keine KO.
+D) Einige CP sind KO.
 E) Keine der Schlussfolgerungen ist richtig.

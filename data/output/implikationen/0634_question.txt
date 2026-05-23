@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wale sind keine Amseln.
-- Alle Amseln sind keine Tomaten.
+- Alle RRE sind EM.
+- Alle EM sind VA.
 
-A) Alle Wale sind keine Tomaten.
-B) Alle Wale sind Tomaten.
-C) Einige Wale sind Tomaten.
-D) Einige Wale sind keine Tomaten.
+A) Alle RRE sind VA.
+B) Einige RRE sind VA.
+C) Einige RRE sind keine VA.
+D) Alle RRE sind keine VA.
 E) Keine der Schlussfolgerungen ist richtig.

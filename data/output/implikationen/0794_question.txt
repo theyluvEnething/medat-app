@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Sportler sind Dichter.
-- Alle Dichter sind keine Marder.
+- Alle RC sind keine UVL.
+- Alle UVL sind NNA.
 
-A) Einige Sportler sind Marder.
-B) Alle Sportler sind Marder.
-C) Alle Sportler sind keine Marder.
-D) Einige Sportler sind keine Marder.
+A) Alle RC sind keine NNA.
+B) Einige RC sind keine NNA.
+C) Einige RC sind NNA.
+D) Alle RC sind NNA.
 E) Keine der Schlussfolgerungen ist richtig.

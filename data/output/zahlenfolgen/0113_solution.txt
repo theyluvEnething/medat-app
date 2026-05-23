@@ -1,2 +1,2 @@
-A — 145/180
-Differenz wächst um +4 je Schritt
+D — 5040/40320
+Fakultät: 1!=1, 2!=2, 3!=6, ..., 7!=5040, 8!=40320

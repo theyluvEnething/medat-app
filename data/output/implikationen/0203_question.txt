@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schriftsteller sind Tulpen.
-- Alle Tulpen sind Häuser.
+- Alle IUA sind PU.
+- Alle PU sind AU.
 
-A) Einige Schriftsteller sind keine Häuser.
-B) Alle Schriftsteller sind keine Häuser.
-C) Einige Schriftsteller sind Häuser.
-D) Alle Schriftsteller sind Häuser.
+A) Einige IUA sind AU.
+B) Alle IUA sind AU.
+C) Einige IUA sind keine AU.
+D) Alle IUA sind keine AU.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Insekten sind Roboter.
-- Einige Roboter sind keine Pandas.
+- Alle PA sind keine TS.
+- Alle TS sind UPM.
 
-A) Alle Insekten sind keine Pandas.
-B) Einige Insekten sind Pandas.
-C) Alle Insekten sind Pandas.
-D) Einige Insekten sind keine Pandas.
+A) Einige PA sind keine UPM.
+B) Alle PA sind UPM.
+C) Einige PA sind UPM.
+D) Alle PA sind keine UPM.
 E) Keine der Schlussfolgerungen ist richtig.

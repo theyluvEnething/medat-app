@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Haie sind keine Gemälde.
-- Alle Gemälde sind Quartette.
+- Einige FN sind UAF.
+- Alle UAF sind keine AKU.
 
-A) Einige Haie sind keine Quartette.
-B) Einige Haie sind Quartette.
-C) Alle Haie sind keine Quartette.
-D) Alle Haie sind Quartette.
+A) Einige FN sind keine AKU.
+B) Alle FN sind AKU.
+C) Alle FN sind keine AKU.
+D) Einige FN sind AKU.
 E) Keine der Schlussfolgerungen ist richtig.

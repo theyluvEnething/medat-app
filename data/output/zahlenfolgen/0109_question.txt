@@ -1,7 +1,7 @@
-Zahlenfolge: 30 1 36 -6 42 -13 ? ?
+Zahlenfolge: 2 5 10 17 26 37 ? ?
 
-A) -27/54
-B) 54/-27
-C) 55/-28
-D) 52/-28
+A) 65/50
+B) 51/65
+C) 50/65
+D) 44/51
 E) Keine der Antworten ist richtig

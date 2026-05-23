@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Diamanten sind keine Eichen.
-- Einige Eichen sind Blumen.
+- Einige EW sind OKD.
+- Alle OKD sind BW.
 
-A) Einige Diamanten sind keine Blumen.
-B) Alle Diamanten sind Blumen.
-C) Einige Diamanten sind Blumen.
-D) Alle Diamanten sind keine Blumen.
+A) Einige EW sind keine BW.
+B) Alle EW sind keine BW.
+C) Einige EW sind BW.
+D) Alle EW sind BW.
 E) Keine der Schlussfolgerungen ist richtig.

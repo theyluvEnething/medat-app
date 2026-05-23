@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tabletten sind keine Bäume.
-- Einige Bäume sind Sportler.
+- Einige AF sind keine ISZ.
+- Einige ISZ sind keine CT.
 
-A) Einige Tabletten sind Sportler.
-B) Alle Tabletten sind keine Sportler.
-C) Einige Tabletten sind keine Sportler.
-D) Alle Tabletten sind Sportler.
+A) Einige AF sind keine CT.
+B) Alle AF sind CT.
+C) Einige AF sind CT.
+D) Alle AF sind keine CT.
 E) Keine der Schlussfolgerungen ist richtig.

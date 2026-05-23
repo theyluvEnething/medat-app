@@ -1,7 +1,7 @@
-Zahlenfolge: 69 96 98 89 91 19 ? ?
+Zahlenfolge: 1 4 8 11 22 25 ? ?
 
-A) 14/41
-B) 12/43
-C) 15/42
-D) 12/39
+A) 50/53
+B) 53/50
+C) 51/53
+D) 48/53
 E) Keine der Antworten ist richtig

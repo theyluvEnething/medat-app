@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Smartphones sind Gräser.
-- Alle Gräser sind keine Quartette.
+- Alle VG sind NP.
+- Alle NP sind JO.
 
-A) Alle Smartphones sind Quartette.
-B) Alle Smartphones sind keine Quartette.
-C) Einige Smartphones sind Quartette.
-D) Einige Smartphones sind keine Quartette.
+A) Einige VG sind JO.
+B) Einige VG sind keine JO.
+C) Alle VG sind JO.
+D) Alle VG sind keine JO.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 3 17 20 37 57 94 ? ?
-
-A) 394/642
-B) 396/641
-C) 398/639
-D) 414/659
-E) Keine der Antworten ist richtig

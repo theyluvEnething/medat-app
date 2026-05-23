@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Kätzchen sind keine Züge.
-- Einige Züge sind Roboter.
+- Alle FU sind HZ.
+- Alle HZ sind keine IF.
 
-A) Einige Kätzchen sind Roboter.
-B) Alle Kätzchen sind Roboter.
-C) Einige Kätzchen sind keine Roboter.
-D) Alle Kätzchen sind keine Roboter.
+A) Einige FU sind IF.
+B) Alle FU sind IF.
+C) Alle FU sind keine IF.
+D) Einige FU sind keine IF.
 E) Keine der Schlussfolgerungen ist richtig.

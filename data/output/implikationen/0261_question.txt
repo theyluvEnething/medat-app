@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Giraffen sind keine Autos.
-- Alle Autos sind Tabletten.
+- Alle AF sind SZ.
+- Einige SZ sind FWO.
 
-A) Einige Giraffen sind keine Tabletten.
-B) Alle Giraffen sind keine Tabletten.
-C) Alle Giraffen sind Tabletten.
-D) Einige Giraffen sind Tabletten.
+A) Alle AF sind keine FWO.
+B) Einige AF sind FWO.
+C) Alle AF sind FWO.
+D) Einige AF sind keine FWO.
 E) Keine der Schlussfolgerungen ist richtig.

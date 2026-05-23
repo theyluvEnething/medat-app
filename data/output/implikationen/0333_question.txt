@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Häuser sind Quallen.
-- Einige Quallen sind Diamanten.
+- Einige KNK sind CJ.
+- Alle CJ sind LG.
 
-A) Alle Häuser sind Diamanten.
-B) Alle Häuser sind keine Diamanten.
-C) Einige Häuser sind keine Diamanten.
-D) Einige Häuser sind Diamanten.
+A) Einige KNK sind LG.
+B) Alle KNK sind LG.
+C) Einige KNK sind keine LG.
+D) Alle KNK sind keine LG.
 E) Keine der Schlussfolgerungen ist richtig.

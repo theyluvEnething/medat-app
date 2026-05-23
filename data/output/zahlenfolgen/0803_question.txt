@@ -1,7 +1,0 @@
-Zahlenfolge: 2 6 12 36 72 216 ? ?
-
-A) 2592/7776
-B) 7776/2592
-C) 2591/7777
-D) 432/474
-E) Keine der Antworten ist richtig

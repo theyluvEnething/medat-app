@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Skulpturen sind Wale.
-- Alle Wale sind Marder.
+- Alle PV sind MZ.
+- Alle MZ sind keine UN.
 
-A) Einige Skulpturen sind keine Marder.
-B) Alle Skulpturen sind keine Marder.
-C) Einige Skulpturen sind Marder.
-D) Alle Skulpturen sind Marder.
+A) Einige PV sind keine UN.
+B) Alle PV sind UN.
+C) Einige PV sind UN.
+D) Alle PV sind keine UN.
 E) Keine der Schlussfolgerungen ist richtig.

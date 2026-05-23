@@ -1,2 +1,0 @@
-C — 450/728
-Jedes Glied = Summe der beiden Vorgänger

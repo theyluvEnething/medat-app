@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Marder sind Insekten.
-- Alle Insekten sind Reptilien.
+- Alle NB sind keine SD.
+- Alle SD sind NP.
 
-A) Alle Marder sind Reptilien.
-B) Einige Marder sind Reptilien.
-C) Alle Marder sind keine Reptilien.
-D) Einige Marder sind keine Reptilien.
+A) Einige NB sind NP.
+B) Alle NB sind NP.
+C) Einige NB sind keine NP.
+D) Alle NB sind keine NP.
 E) Keine der Schlussfolgerungen ist richtig.

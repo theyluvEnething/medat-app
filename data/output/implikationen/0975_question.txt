@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Vulkane sind keine Tomaten.
-- Alle Tomaten sind Taucher.
+- Alle JCS sind SW.
+- Einige SW sind ZB.
 
-A) Einige Vulkane sind Taucher.
-B) Einige Vulkane sind keine Taucher.
-C) Alle Vulkane sind keine Taucher.
-D) Alle Vulkane sind Taucher.
+A) Alle JCS sind keine ZB.
+B) Einige JCS sind keine ZB.
+C) Einige JCS sind ZB.
+D) Alle JCS sind ZB.
 E) Keine der Schlussfolgerungen ist richtig.

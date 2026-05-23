@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Dichter sind keine Metalle.
-- Einige Metalle sind keine Amphibien.
+- Alle OC sind ACF.
+- Einige ACF sind LB.
 
-A) Alle Dichter sind keine Amphibien.
-B) Einige Dichter sind Amphibien.
-C) Einige Dichter sind keine Amphibien.
-D) Alle Dichter sind Amphibien.
+A) Alle OC sind keine LB.
+B) Einige OC sind keine LB.
+C) Alle OC sind LB.
+D) Einige OC sind LB.
 E) Keine der Schlussfolgerungen ist richtig.

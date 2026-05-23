@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mäuse sind keine Granite.
-- Alle Granite sind Türen.
+- Alle KG sind HP.
+- Alle HP sind keine GA.
 
-A) Einige Mäuse sind Türen.
-B) Einige Mäuse sind keine Türen.
-C) Alle Mäuse sind Türen.
-D) Alle Mäuse sind keine Türen.
+A) Alle KG sind keine GA.
+B) Einige KG sind keine GA.
+C) Einige KG sind GA.
+D) Alle KG sind GA.
 E) Keine der Schlussfolgerungen ist richtig.

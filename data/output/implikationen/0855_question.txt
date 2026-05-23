@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Gedichte sind keine Vulkane.
-- Einige Vulkane sind Taucher.
+- Alle RV sind SDT.
+- Alle SDT sind keine IF.
 
-A) Einige Gedichte sind Taucher.
-B) Alle Gedichte sind keine Taucher.
-C) Einige Gedichte sind keine Taucher.
-D) Alle Gedichte sind Taucher.
+A) Einige RV sind IF.
+B) Einige RV sind keine IF.
+C) Alle RV sind IF.
+D) Alle RV sind keine IF.
 E) Keine der Schlussfolgerungen ist richtig.

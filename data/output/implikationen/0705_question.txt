@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Maler sind Marder.
-- Alle Marder sind Wirbeltiere.
+- Einige RA sind NP.
+- Alle NP sind keine AJ.
 
-A) Alle Maler sind Wirbeltiere.
-B) Einige Maler sind Wirbeltiere.
-C) Alle Maler sind keine Wirbeltiere.
-D) Einige Maler sind keine Wirbeltiere.
+A) Einige RA sind AJ.
+B) Alle RA sind keine AJ.
+C) Einige RA sind keine AJ.
+D) Alle RA sind AJ.
 E) Keine der Schlussfolgerungen ist richtig.

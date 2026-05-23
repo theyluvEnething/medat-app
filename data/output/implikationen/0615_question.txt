@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Delfine sind keine Werkzeuge.
-- Einige Werkzeuge sind keine Giraffen.
+- Alle MAL sind EJ.
+- Alle EJ sind keine CW.
 
-A) Alle Delfine sind Giraffen.
-B) Einige Delfine sind Giraffen.
-C) Einige Delfine sind keine Giraffen.
-D) Alle Delfine sind keine Giraffen.
+A) Alle MAL sind CW.
+B) Einige MAL sind CW.
+C) Einige MAL sind keine CW.
+D) Alle MAL sind keine CW.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 14 18 36 40 80 84 ? ?
-
-A) 343/349
-B) 358/362
-C) 98/112
-D) 344/348
-E) Keine der Antworten ist richtig

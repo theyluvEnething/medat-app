@@ -1,7 +1,7 @@
-Zahlenfolge: 9 12 19 30 45 64 ? ?
+Zahlenfolge: 1 2 6 24 120 720 ? ?
 
-A) 145/180
-B) 146/178
-C) 143/182
-D) 147/179
+A) 5040/40321
+B) 5041/40320
+C) 1440/2040
+D) 5040/40320
 E) Keine der Antworten ist richtig

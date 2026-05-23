@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Ärzte sind Marder.
-- Alle Marder sind Statuen.
+- Alle LT sind keine AJ.
+- Einige AJ sind keine TKL.
 
-A) Einige Ärzte sind keine Statuen.
-B) Alle Ärzte sind Statuen.
-C) Alle Ärzte sind keine Statuen.
-D) Einige Ärzte sind Statuen.
+A) Einige LT sind keine TKL.
+B) Einige LT sind TKL.
+C) Alle LT sind TKL.
+D) Alle LT sind keine TKL.
 E) Keine der Schlussfolgerungen ist richtig.

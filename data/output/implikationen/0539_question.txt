@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Taucher sind Bäume.
-- Alle Bäume sind keine Flüsse.
+- Alle ZLC sind SZE.
+- Alle SZE sind keine GJ.
 
-A) Alle Taucher sind keine Flüsse.
-B) Einige Taucher sind keine Flüsse.
-C) Alle Taucher sind Flüsse.
-D) Einige Taucher sind Flüsse.
+A) Einige ZLC sind GJ.
+B) Einige ZLC sind keine GJ.
+C) Alle ZLC sind keine GJ.
+D) Alle ZLC sind GJ.
 E) Keine der Schlussfolgerungen ist richtig.

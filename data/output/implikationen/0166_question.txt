@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Reptilien sind keine Amseln.
-- Einige Amseln sind keine Mäuse.
+- Alle TLG sind KB.
+- Alle KB sind UN.
 
-A) Einige Reptilien sind keine Mäuse.
-B) Einige Reptilien sind Mäuse.
-C) Alle Reptilien sind keine Mäuse.
-D) Alle Reptilien sind Mäuse.
+A) Einige TLG sind keine UN.
+B) Alle TLG sind UN.
+C) Einige TLG sind UN.
+D) Alle TLG sind keine UN.
 E) Keine der Schlussfolgerungen ist richtig.

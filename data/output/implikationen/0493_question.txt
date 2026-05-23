@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tiger sind Klaviere.
-- Einige Klaviere sind Musikinstrumente.
+- Einige WJ sind WK.
+- Einige WK sind LR.
 
-A) Einige Tiger sind keine Musikinstrumente.
-B) Alle Tiger sind Musikinstrumente.
-C) Alle Tiger sind keine Musikinstrumente.
-D) Einige Tiger sind Musikinstrumente.
+A) Einige WJ sind keine LR.
+B) Alle WJ sind keine LR.
+C) Einige WJ sind LR.
+D) Alle WJ sind LR.
 E) Keine der Schlussfolgerungen ist richtig.

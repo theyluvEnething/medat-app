@@ -1,7 +1,0 @@
-Zahlenfolge: 109 113 127 131 137 139 ? ?
-
-A) 157/163
-B) 156/161
-C) 158/162
-D) 156/164
-E) Keine der Antworten ist richtig

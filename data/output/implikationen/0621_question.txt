@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Möbel sind Politiker.
-- Einige Politiker sind Sportler.
+- Alle LM sind keine UR.
+- Alle UR sind RT.
 
-A) Alle Möbel sind keine Sportler.
-B) Alle Möbel sind Sportler.
-C) Einige Möbel sind keine Sportler.
-D) Einige Möbel sind Sportler.
+A) Alle LM sind keine RT.
+B) Alle LM sind RT.
+C) Einige LM sind keine RT.
+D) Einige LM sind RT.
 E) Keine der Schlussfolgerungen ist richtig.

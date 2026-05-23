@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Quartette sind keine Roboter.
-- Alle Roboter sind Gemälde.
+- Einige DR sind HSN.
+- Alle HSN sind keine NFG.
 
-A) Einige Quartette sind Gemälde.
-B) Alle Quartette sind Gemälde.
-C) Einige Quartette sind keine Gemälde.
-D) Alle Quartette sind keine Gemälde.
+A) Einige DR sind keine NFG.
+B) Alle DR sind NFG.
+C) Alle DR sind keine NFG.
+D) Einige DR sind NFG.
 E) Keine der Schlussfolgerungen ist richtig.

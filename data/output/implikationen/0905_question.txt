@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Stühle sind Schlangen.
-- Einige Schlangen sind Vasen.
+- Einige LS sind AE.
+- Alle AE sind keine WTM.
 
-A) Einige Stühle sind Vasen.
-B) Alle Stühle sind keine Vasen.
-C) Einige Stühle sind keine Vasen.
-D) Alle Stühle sind Vasen.
+A) Einige LS sind keine WTM.
+B) Alle LS sind WTM.
+C) Alle LS sind keine WTM.
+D) Einige LS sind WTM.
 E) Keine der Schlussfolgerungen ist richtig.

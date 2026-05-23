@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schauspieler sind keine Blumen.
-- Einige Blumen sind Werkzeuge.
+- Einige GS sind GUJ.
+- Alle GUJ sind OB.
 
-A) Einige Schauspieler sind keine Werkzeuge.
-B) Alle Schauspieler sind Werkzeuge.
-C) Einige Schauspieler sind Werkzeuge.
-D) Alle Schauspieler sind keine Werkzeuge.
+A) Alle GS sind keine OB.
+B) Alle GS sind OB.
+C) Einige GS sind OB.
+D) Einige GS sind keine OB.
 E) Keine der Schlussfolgerungen ist richtig.

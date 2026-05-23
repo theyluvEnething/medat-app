@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Klaviere sind keine Mammute.
-- Einige Mammute sind Dinosaurier.
+- Einige IJ sind DNN.
+- Alle DNN sind keine FI.
 
-A) Alle Klaviere sind keine Dinosaurier.
-B) Einige Klaviere sind Dinosaurier.
-C) Alle Klaviere sind Dinosaurier.
-D) Einige Klaviere sind keine Dinosaurier.
+A) Alle IJ sind keine FI.
+B) Einige IJ sind keine FI.
+C) Alle IJ sind FI.
+D) Einige IJ sind FI.
 E) Keine der Schlussfolgerungen ist richtig.

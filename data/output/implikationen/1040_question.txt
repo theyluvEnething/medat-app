@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Telefone sind Ingenieure.
-- Alle Ingenieure sind keine Wissenschaftler.
+- Alle IA sind keine UK.
+- Alle UK sind TZL.
 
-A) Einige Telefone sind keine Wissenschaftler.
-B) Alle Telefone sind Wissenschaftler.
-C) Alle Telefone sind keine Wissenschaftler.
-D) Einige Telefone sind Wissenschaftler.
+A) Alle IA sind TZL.
+B) Einige IA sind keine TZL.
+C) Einige IA sind TZL.
+D) Alle IA sind keine TZL.
 E) Keine der Schlussfolgerungen ist richtig.

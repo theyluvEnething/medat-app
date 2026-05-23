@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Zebras sind keine Säugetiere.
-- Einige Säugetiere sind keine Pandas.
+- Alle EM sind DAS.
+- Einige DAS sind keine MKA.
 
-A) Einige Zebras sind keine Pandas.
-B) Alle Zebras sind keine Pandas.
-C) Alle Zebras sind Pandas.
-D) Einige Zebras sind Pandas.
+A) Alle EM sind MKA.
+B) Einige EM sind MKA.
+C) Alle EM sind keine MKA.
+D) Einige EM sind keine MKA.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Insekten sind keine Mathematiker.
-- Einige Mathematiker sind Möbel.
+- Alle LJZ sind HH.
+- Einige HH sind IB.
 
-A) Einige Insekten sind keine Möbel.
-B) Alle Insekten sind keine Möbel.
-C) Alle Insekten sind Möbel.
-D) Einige Insekten sind Möbel.
+A) Alle LJZ sind IB.
+B) Alle LJZ sind keine IB.
+C) Einige LJZ sind IB.
+D) Einige LJZ sind keine IB.
 E) Keine der Schlussfolgerungen ist richtig.

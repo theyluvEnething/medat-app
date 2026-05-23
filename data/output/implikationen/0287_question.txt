@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Krokodile sind Elektroautos.
-- Einige Elektroautos sind Gemälde.
+- Einige KIF sind NU.
+- Alle NU sind HAK.
 
-A) Alle Krokodile sind keine Gemälde.
-B) Alle Krokodile sind Gemälde.
-C) Einige Krokodile sind Gemälde.
-D) Einige Krokodile sind keine Gemälde.
+A) Einige KIF sind keine HAK.
+B) Alle KIF sind keine HAK.
+C) Alle KIF sind HAK.
+D) Einige KIF sind HAK.
 E) Keine der Schlussfolgerungen ist richtig.

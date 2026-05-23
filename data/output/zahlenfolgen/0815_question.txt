@@ -1,7 +1,0 @@
-Zahlenfolge: -6 20 -3 28 0 36 ? ?
-
-A) 52/6
-B) 5/53
-C) 6/52
-D) 7/50
-E) Keine der Antworten ist richtig

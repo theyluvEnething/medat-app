@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Vögel sind keine Ingenieure.
-- Alle Ingenieure sind keine Wirbeltiere.
+- Alle FPP sind ZVE.
+- Einige ZVE sind UZH.
 
-A) Einige Vögel sind Wirbeltiere.
-B) Einige Vögel sind keine Wirbeltiere.
-C) Alle Vögel sind Wirbeltiere.
-D) Alle Vögel sind keine Wirbeltiere.
+A) Alle FPP sind UZH.
+B) Alle FPP sind keine UZH.
+C) Einige FPP sind UZH.
+D) Einige FPP sind keine UZH.
 E) Keine der Schlussfolgerungen ist richtig.

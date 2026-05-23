@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vegetarier sind keine Werkzeuge.
-- Einige Werkzeuge sind keine Lilien.
+- Alle FF sind JRU.
+- Alle JRU sind TM.
 
-A) Einige Vegetarier sind keine Lilien.
-B) Alle Vegetarier sind Lilien.
-C) Einige Vegetarier sind Lilien.
-D) Alle Vegetarier sind keine Lilien.
+A) Alle FF sind keine TM.
+B) Alle FF sind TM.
+C) Einige FF sind keine TM.
+D) Einige FF sind TM.
 E) Keine der Schlussfolgerungen ist richtig.

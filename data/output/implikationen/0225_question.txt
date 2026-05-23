@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Zebras sind keine Türen.
-- Alle Türen sind keine Züge.
+- Einige HF sind UZL.
+- Alle UZL sind keine EA.
 
-A) Einige Zebras sind Züge.
-B) Einige Zebras sind keine Züge.
-C) Alle Zebras sind Züge.
-D) Alle Zebras sind keine Züge.
+A) Einige HF sind keine EA.
+B) Alle HF sind keine EA.
+C) Einige HF sind EA.
+D) Alle HF sind EA.
 E) Keine der Schlussfolgerungen ist richtig.

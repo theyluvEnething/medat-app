@@ -1,7 +1,0 @@
-Zahlenfolge: 83 89 97 101 103 107 ? ?
-
-A) 128/129
-B) 125/133
-C) 214/218
-D) 127/131
-E) Keine der Antworten ist richtig

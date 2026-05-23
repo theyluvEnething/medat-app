@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Werkzeuge sind Krokodile.
-- Alle Krokodile sind keine Gedichte.
+- Einige TR sind GWJ.
+- Alle GWJ sind LK.
 
-A) Alle Werkzeuge sind Gedichte.
-B) Alle Werkzeuge sind keine Gedichte.
-C) Einige Werkzeuge sind keine Gedichte.
-D) Einige Werkzeuge sind Gedichte.
+A) Einige TR sind LK.
+B) Einige TR sind keine LK.
+C) Alle TR sind LK.
+D) Alle TR sind keine LK.
 E) Keine der Schlussfolgerungen ist richtig.

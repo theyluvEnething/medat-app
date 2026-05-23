@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Dinosaurier sind Wirbeltiere.
-- Einige Wirbeltiere sind keine Schlangen.
+- Alle GNM sind ZPP.
+- Alle ZPP sind OB.
 
-A) Einige Dinosaurier sind Schlangen.
-B) Alle Dinosaurier sind keine Schlangen.
-C) Alle Dinosaurier sind Schlangen.
-D) Einige Dinosaurier sind keine Schlangen.
+A) Einige GNM sind keine OB.
+B) Alle GNM sind keine OB.
+C) Einige GNM sind OB.
+D) Alle GNM sind OB.
 E) Keine der Schlussfolgerungen ist richtig.

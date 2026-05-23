@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Zebras sind keine Quartette.
-- Alle Quartette sind keine Häuser.
+- Alle GOA sind FNJ.
+- Alle FNJ sind keine ZN.
 
-A) Einige Zebras sind Häuser.
-B) Alle Zebras sind keine Häuser.
-C) Alle Zebras sind Häuser.
-D) Einige Zebras sind keine Häuser.
+A) Einige GOA sind ZN.
+B) Alle GOA sind ZN.
+C) Alle GOA sind keine ZN.
+D) Einige GOA sind keine ZN.
 E) Keine der Schlussfolgerungen ist richtig.

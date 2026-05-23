@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Lilien sind Marder.
-- Alle Marder sind keine Autos.
+- Einige OC sind APO.
+- Alle APO sind keine HJ.
 
-A) Einige Lilien sind Autos.
-B) Einige Lilien sind keine Autos.
-C) Alle Lilien sind keine Autos.
-D) Alle Lilien sind Autos.
+A) Einige OC sind HJ.
+B) Einige OC sind keine HJ.
+C) Alle OC sind keine HJ.
+D) Alle OC sind HJ.
 E) Keine der Schlussfolgerungen ist richtig.

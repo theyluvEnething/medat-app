@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Pilze sind Giraffen.
-- Einige Giraffen sind Mammute.
+- Alle RE sind MF.
+- Alle MF sind SK.
 
-A) Alle Pilze sind Mammute.
-B) Einige Pilze sind keine Mammute.
-C) Alle Pilze sind keine Mammute.
-D) Einige Pilze sind Mammute.
+A) Alle RE sind SK.
+B) Einige RE sind SK.
+C) Einige RE sind keine SK.
+D) Alle RE sind keine SK.
 E) Keine der Schlussfolgerungen ist richtig.

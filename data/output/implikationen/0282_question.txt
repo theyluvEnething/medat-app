@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wölfe sind Pandas.
-- Einige Pandas sind keine Mathematiker.
+- Einige WM sind WP.
+- Alle WP sind keine EDK.
 
-A) Einige Wölfe sind keine Mathematiker.
-B) Einige Wölfe sind Mathematiker.
-C) Alle Wölfe sind Mathematiker.
-D) Alle Wölfe sind keine Mathematiker.
+A) Alle WM sind EDK.
+B) Einige WM sind keine EDK.
+C) Alle WM sind keine EDK.
+D) Einige WM sind EDK.
 E) Keine der Schlussfolgerungen ist richtig.

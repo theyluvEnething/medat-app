@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Elektroautos sind Blumen.
-- Einige Blumen sind keine Spatzen.
+- Einige PD sind RW.
+- Alle RW sind keine RD.
 
-A) Einige Elektroautos sind keine Spatzen.
-B) Alle Elektroautos sind keine Spatzen.
-C) Einige Elektroautos sind Spatzen.
-D) Alle Elektroautos sind Spatzen.
+A) Einige PD sind keine RD.
+B) Alle PD sind RD.
+C) Einige PD sind RD.
+D) Alle PD sind keine RD.
 E) Keine der Schlussfolgerungen ist richtig.

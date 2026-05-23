@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Säugetiere sind keine Radios.
-- Einige Radios sind Vulkane.
+- Einige NN sind HH.
+- Alle HH sind ZJ.
 
-A) Einige Säugetiere sind keine Vulkane.
-B) Einige Säugetiere sind Vulkane.
-C) Alle Säugetiere sind Vulkane.
-D) Alle Säugetiere sind keine Vulkane.
+A) Einige NN sind keine ZJ.
+B) Alle NN sind keine ZJ.
+C) Einige NN sind ZJ.
+D) Alle NN sind ZJ.
 E) Keine der Schlussfolgerungen ist richtig.

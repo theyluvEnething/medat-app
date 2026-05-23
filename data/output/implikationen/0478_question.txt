@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Eidechsen sind Sportler.
-- Alle Sportler sind keine Amphibien.
+- Einige JM sind keine TS.
+- Einige TS sind ED.
 
-A) Alle Eidechsen sind Amphibien.
-B) Einige Eidechsen sind keine Amphibien.
-C) Alle Eidechsen sind keine Amphibien.
-D) Einige Eidechsen sind Amphibien.
+A) Einige JM sind keine ED.
+B) Alle JM sind ED.
+C) Alle JM sind keine ED.
+D) Einige JM sind ED.
 E) Keine der Schlussfolgerungen ist richtig.

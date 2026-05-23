@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Pandas sind Roboter.
-- Alle Roboter sind Menschen.
+- Einige MN sind DO.
+- Einige DO sind keine SL.
 
-A) Einige Pandas sind keine Menschen.
-B) Einige Pandas sind Menschen.
-C) Alle Pandas sind keine Menschen.
-D) Alle Pandas sind Menschen.
+A) Alle MN sind keine SL.
+B) Einige MN sind keine SL.
+C) Alle MN sind SL.
+D) Einige MN sind SL.
 E) Keine der Schlussfolgerungen ist richtig.

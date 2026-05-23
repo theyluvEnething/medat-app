@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Pandas sind Mathematiker.
-- Alle Mathematiker sind keine Telefone.
+- Alle EM sind keine JN.
+- Einige JN sind KTT.
 
-A) Einige Pandas sind Telefone.
-B) Einige Pandas sind keine Telefone.
-C) Alle Pandas sind Telefone.
-D) Alle Pandas sind keine Telefone.
+A) Alle EM sind KTT.
+B) Alle EM sind keine KTT.
+C) Einige EM sind keine KTT.
+D) Einige EM sind KTT.
 E) Keine der Schlussfolgerungen ist richtig.

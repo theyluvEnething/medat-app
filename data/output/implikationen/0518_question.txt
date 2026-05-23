@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Klaviere sind Teleskope.
-- Einige Teleskope sind Spatzen.
+- Einige TI sind keine LR.
+- Alle LR sind PH.
 
-A) Alle Klaviere sind keine Spatzen.
-B) Alle Klaviere sind Spatzen.
-C) Einige Klaviere sind Spatzen.
-D) Einige Klaviere sind keine Spatzen.
+A) Einige TI sind PH.
+B) Alle TI sind keine PH.
+C) Alle TI sind PH.
+D) Einige TI sind keine PH.
 E) Keine der Schlussfolgerungen ist richtig.

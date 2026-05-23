@@ -1,7 +1,0 @@
-Zahlenfolge: 24 26 27 23 30 20 ? ?
-
-A) 35/15
-B) 38/13
-C) 37/16
-D) 36/14
-E) Keine der Antworten ist richtig

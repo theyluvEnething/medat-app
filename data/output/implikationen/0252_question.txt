@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tabletten sind Flüsse.
-- Einige Flüsse sind Granite.
+- Einige IA sind AWE.
+- Alle AWE sind keine GKP.
 
-A) Alle Tabletten sind Granite.
-B) Einige Tabletten sind keine Granite.
-C) Alle Tabletten sind keine Granite.
-D) Einige Tabletten sind Granite.
+A) Einige IA sind keine GKP.
+B) Alle IA sind keine GKP.
+C) Einige IA sind GKP.
+D) Alle IA sind GKP.
 E) Keine der Schlussfolgerungen ist richtig.

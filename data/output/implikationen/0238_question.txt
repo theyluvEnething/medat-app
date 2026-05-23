@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Roboter sind Vögel.
-- Alle Vögel sind Chemiker.
+- Einige DS sind CN.
+- Alle CN sind keine CCF.
 
-A) Alle Roboter sind keine Chemiker.
-B) Einige Roboter sind Chemiker.
-C) Einige Roboter sind keine Chemiker.
-D) Alle Roboter sind Chemiker.
+A) Alle DS sind keine CCF.
+B) Einige DS sind CCF.
+C) Einige DS sind keine CCF.
+D) Alle DS sind CCF.
 E) Keine der Schlussfolgerungen ist richtig.

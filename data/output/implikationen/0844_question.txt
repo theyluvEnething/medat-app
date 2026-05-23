@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tulpen sind keine Türen.
-- Alle Türen sind Kupfer.
+- Einige RS sind IR.
+- Alle IR sind keine DU.
 
-A) Alle Tulpen sind Kupfer.
-B) Einige Tulpen sind Kupfer.
-C) Alle Tulpen sind keine Kupfer.
-D) Einige Tulpen sind keine Kupfer.
+A) Alle RS sind DU.
+B) Einige RS sind keine DU.
+C) Alle RS sind keine DU.
+D) Einige RS sind DU.
 E) Keine der Schlussfolgerungen ist richtig.

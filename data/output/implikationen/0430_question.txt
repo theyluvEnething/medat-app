@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Anwälte sind Fotografen.
-- Alle Fotografen sind keine Häuser.
+- Alle EAG sind OK.
+- Alle OK sind keine JGT.
 
-A) Alle Anwälte sind Häuser.
-B) Einige Anwälte sind Häuser.
-C) Alle Anwälte sind keine Häuser.
-D) Einige Anwälte sind keine Häuser.
+A) Einige EAG sind JGT.
+B) Alle EAG sind JGT.
+C) Alle EAG sind keine JGT.
+D) Einige EAG sind keine JGT.
 E) Keine der Schlussfolgerungen ist richtig.

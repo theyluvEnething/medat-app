@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Stühle sind Spatzen.
-- Alle Spatzen sind keine Menschen.
+- Alle WT sind SR.
+- Alle SR sind KO.
 
-A) Alle Stühle sind Menschen.
-B) Einige Stühle sind keine Menschen.
-C) Alle Stühle sind keine Menschen.
-D) Einige Stühle sind Menschen.
+A) Alle WT sind KO.
+B) Alle WT sind keine KO.
+C) Einige WT sind keine KO.
+D) Einige WT sind KO.
 E) Keine der Schlussfolgerungen ist richtig.

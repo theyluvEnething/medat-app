@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wale sind Lilien.
-- Einige Lilien sind keine Fische.
+- Alle VJ sind keine OH.
+- Alle OH sind MP.
 
-A) Einige Wale sind Fische.
-B) Alle Wale sind keine Fische.
-C) Alle Wale sind Fische.
-D) Einige Wale sind keine Fische.
+A) Einige VJ sind MP.
+B) Einige VJ sind keine MP.
+C) Alle VJ sind MP.
+D) Alle VJ sind keine MP.
 E) Keine der Schlussfolgerungen ist richtig.

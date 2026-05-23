@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schauspieler sind Ärzte.
-- Einige Ärzte sind keine Tiger.
+- Einige BP sind AZ.
+- Alle AZ sind keine MLH.
 
-A) Einige Schauspieler sind Tiger.
-B) Alle Schauspieler sind Tiger.
-C) Alle Schauspieler sind keine Tiger.
-D) Einige Schauspieler sind keine Tiger.
+A) Einige BP sind MLH.
+B) Einige BP sind keine MLH.
+C) Alle BP sind keine MLH.
+D) Alle BP sind MLH.
 E) Keine der Schlussfolgerungen ist richtig.

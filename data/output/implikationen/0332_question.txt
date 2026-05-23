@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Züge sind keine Tomaten.
-- Einige Tomaten sind keine Politiker.
+- Alle TMH sind RT.
+- Alle RT sind keine ZSU.
 
-A) Einige Züge sind keine Politiker.
-B) Einige Züge sind Politiker.
-C) Alle Züge sind Politiker.
-D) Alle Züge sind keine Politiker.
+A) Alle TMH sind keine ZSU.
+B) Einige TMH sind ZSU.
+C) Einige TMH sind keine ZSU.
+D) Alle TMH sind ZSU.
 E) Keine der Schlussfolgerungen ist richtig.

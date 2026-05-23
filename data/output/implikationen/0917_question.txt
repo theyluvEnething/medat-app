@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Dichter sind Wale.
-- Alle Wale sind Teleskope.
+- Alle CBT sind keine RR.
+- Einige RR sind NM.
 
-A) Alle Dichter sind Teleskope.
-B) Einige Dichter sind Teleskope.
-C) Alle Dichter sind keine Teleskope.
-D) Einige Dichter sind keine Teleskope.
+A) Einige CBT sind keine NM.
+B) Alle CBT sind NM.
+C) Alle CBT sind keine NM.
+D) Einige CBT sind NM.
 E) Keine der Schlussfolgerungen ist richtig.

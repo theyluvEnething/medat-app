@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Kätzchen sind keine Musikinstrumente.
-- Einige Musikinstrumente sind keine Fotografen.
+- Alle KEE sind HLF.
+- Einige HLF sind ES.
 
-A) Einige Kätzchen sind keine Fotografen.
-B) Einige Kätzchen sind Fotografen.
-C) Alle Kätzchen sind Fotografen.
-D) Alle Kätzchen sind keine Fotografen.
+A) Einige KEE sind ES.
+B) Einige KEE sind keine ES.
+C) Alle KEE sind keine ES.
+D) Alle KEE sind ES.
 E) Keine der Schlussfolgerungen ist richtig.

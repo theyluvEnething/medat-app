@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Ingenieure sind keine Schlangen.
-- Alle Schlangen sind Menschen.
+- Einige BH sind keine WT.
+- Einige WT sind keine SI.
 
-A) Alle Ingenieure sind keine Menschen.
-B) Alle Ingenieure sind Menschen.
-C) Einige Ingenieure sind keine Menschen.
-D) Einige Ingenieure sind Menschen.
+A) Alle BH sind keine SI.
+B) Einige BH sind SI.
+C) Einige BH sind keine SI.
+D) Alle BH sind SI.
 E) Keine der Schlussfolgerungen ist richtig.

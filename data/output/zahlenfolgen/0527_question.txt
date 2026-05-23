@@ -1,7 +1,0 @@
-Zahlenfolge: 7 6 13 19 32 51 ? ?
-
-A) 216/349
-B) 217/351
-C) 351/217
-D) 218/353
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Stühle sind Rosen.
-- Einige Rosen sind keine Radios.
+- Einige AHI sind NB.
+- Alle NB sind keine ZM.
 
-A) Alle Stühle sind keine Radios.
-B) Einige Stühle sind keine Radios.
-C) Einige Stühle sind Radios.
-D) Alle Stühle sind Radios.
+A) Alle AHI sind ZM.
+B) Einige AHI sind keine ZM.
+C) Einige AHI sind ZM.
+D) Alle AHI sind keine ZM.
 E) Keine der Schlussfolgerungen ist richtig.

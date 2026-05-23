@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Stühle sind keine Roboter.
-- Alle Roboter sind keine Krokodile.
+- Einige UF sind HS.
+- Alle HS sind IV.
 
-A) Einige Stühle sind keine Krokodile.
-B) Alle Stühle sind Krokodile.
-C) Einige Stühle sind Krokodile.
-D) Alle Stühle sind keine Krokodile.
+A) Alle UF sind IV.
+B) Alle UF sind keine IV.
+C) Einige UF sind IV.
+D) Einige UF sind keine IV.
 E) Keine der Schlussfolgerungen ist richtig.

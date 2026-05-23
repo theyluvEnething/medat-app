@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schlangen sind keine Tannen.
-- Alle Tannen sind keine Haie.
+- Einige IH sind PSD.
+- Alle PSD sind keine VF.
 
-A) Einige Schlangen sind Haie.
-B) Alle Schlangen sind keine Haie.
-C) Einige Schlangen sind keine Haie.
-D) Alle Schlangen sind Haie.
+A) Alle IH sind keine VF.
+B) Einige IH sind VF.
+C) Einige IH sind keine VF.
+D) Alle IH sind VF.
 E) Keine der Schlussfolgerungen ist richtig.

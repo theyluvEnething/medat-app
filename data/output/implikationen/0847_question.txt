@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Glühbirnen sind keine Tannen.
-- Einige Tannen sind keine Teleskope.
+- Alle UI sind keine MF.
+- Alle MF sind TJD.
 
-A) Alle Glühbirnen sind keine Teleskope.
-B) Einige Glühbirnen sind keine Teleskope.
-C) Alle Glühbirnen sind Teleskope.
-D) Einige Glühbirnen sind Teleskope.
+A) Alle UI sind TJD.
+B) Einige UI sind TJD.
+C) Alle UI sind keine TJD.
+D) Einige UI sind keine TJD.
 E) Keine der Schlussfolgerungen ist richtig.

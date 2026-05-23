@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Sänger sind keine Amseln.
-- Einige Amseln sind Teleskope.
+- Alle TW sind TK.
+- Alle TK sind BC.
 
-A) Alle Sänger sind keine Teleskope.
-B) Einige Sänger sind keine Teleskope.
-C) Einige Sänger sind Teleskope.
-D) Alle Sänger sind Teleskope.
+A) Alle TW sind keine BC.
+B) Alle TW sind BC.
+C) Einige TW sind BC.
+D) Einige TW sind keine BC.
 E) Keine der Schlussfolgerungen ist richtig.

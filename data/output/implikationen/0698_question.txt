@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Reptilien sind Rosen.
-- Einige Rosen sind keine Fische.
+- Alle LP sind keine OE.
+- Einige OE sind IE.
 
-A) Einige Reptilien sind keine Fische.
-B) Alle Reptilien sind keine Fische.
-C) Alle Reptilien sind Fische.
-D) Einige Reptilien sind Fische.
+A) Einige LP sind IE.
+B) Alle LP sind IE.
+C) Einige LP sind keine IE.
+D) Alle LP sind keine IE.
 E) Keine der Schlussfolgerungen ist richtig.

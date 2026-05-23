@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mäuse sind keine Granite.
-- Alle Granite sind Hunde.
+- Alle UD sind GH.
+- Alle GH sind LTM.
 
-A) Einige Mäuse sind Hunde.
-B) Alle Mäuse sind Hunde.
-C) Alle Mäuse sind keine Hunde.
-D) Einige Mäuse sind keine Hunde.
+A) Alle UD sind LTM.
+B) Einige UD sind keine LTM.
+C) Einige UD sind LTM.
+D) Alle UD sind keine LTM.
 E) Keine der Schlussfolgerungen ist richtig.

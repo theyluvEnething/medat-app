@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Mäuse sind Werkzeuge.
-- Alle Werkzeuge sind Gedichte.
+- Einige CK sind WB.
+- Alle WB sind keine FB.
 
-A) Alle Mäuse sind keine Gedichte.
-B) Einige Mäuse sind keine Gedichte.
-C) Einige Mäuse sind Gedichte.
-D) Alle Mäuse sind Gedichte.
+A) Alle CK sind FB.
+B) Einige CK sind FB.
+C) Alle CK sind keine FB.
+D) Einige CK sind keine FB.
 E) Keine der Schlussfolgerungen ist richtig.

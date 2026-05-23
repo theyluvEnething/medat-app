@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Giraffen sind Teleskope.
-- Einige Teleskope sind keine Züge.
+- Einige FT sind AT.
+- Alle AT sind AI.
 
-A) Einige Giraffen sind Züge.
-B) Alle Giraffen sind keine Züge.
-C) Alle Giraffen sind Züge.
-D) Einige Giraffen sind keine Züge.
+A) Einige FT sind keine AI.
+B) Alle FT sind keine AI.
+C) Einige FT sind AI.
+D) Alle FT sind AI.
 E) Keine der Schlussfolgerungen ist richtig.

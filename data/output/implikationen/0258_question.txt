@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Stühle sind Roboter.
-- Alle Roboter sind keine Gräser.
+- Einige CE sind TA.
+- Alle TA sind keine NGH.
 
-A) Einige Stühle sind keine Gräser.
-B) Alle Stühle sind Gräser.
-C) Einige Stühle sind Gräser.
-D) Alle Stühle sind keine Gräser.
+A) Alle CE sind NGH.
+B) Einige CE sind keine NGH.
+C) Einige CE sind NGH.
+D) Alle CE sind keine NGH.
 E) Keine der Schlussfolgerungen ist richtig.

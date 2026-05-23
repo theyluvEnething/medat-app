@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Insekten sind keine Schlangen.
-- Alle Schlangen sind keine Eichen.
+- Einige DV sind JG.
+- Alle JG sind RMP.
 
-A) Einige Insekten sind keine Eichen.
-B) Alle Insekten sind Eichen.
-C) Alle Insekten sind keine Eichen.
-D) Einige Insekten sind Eichen.
+A) Alle DV sind keine RMP.
+B) Einige DV sind keine RMP.
+C) Einige DV sind RMP.
+D) Alle DV sind RMP.
 E) Keine der Schlussfolgerungen ist richtig.

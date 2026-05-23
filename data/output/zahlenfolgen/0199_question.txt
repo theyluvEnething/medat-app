@@ -1,7 +1,0 @@
-Zahlenfolge: 13 9 22 31 53 84 ? ?
-
-A) 357/577
-B) 356/578
-C) 360/578
-D) 358/579
-E) Keine der Antworten ist richtig

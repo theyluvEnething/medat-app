@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Taucher sind keine Statuen.
-- Alle Statuen sind Schiffe.
+- Einige PA sind CG.
+- Alle CG sind keine RPI.
 
-A) Einige Taucher sind Schiffe.
-B) Einige Taucher sind keine Schiffe.
-C) Alle Taucher sind keine Schiffe.
-D) Alle Taucher sind Schiffe.
+A) Alle PA sind RPI.
+B) Einige PA sind RPI.
+C) Alle PA sind keine RPI.
+D) Einige PA sind keine RPI.
 E) Keine der Schlussfolgerungen ist richtig.

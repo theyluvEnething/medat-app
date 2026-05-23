@@ -1,7 +1,0 @@
-Zahlenfolge: 9 10 17 36 73 134 ? ?
-
-A) 351/523
-B) 351/519
-C) 353/523
-D) 352/521
-E) Keine der Antworten ist richtig

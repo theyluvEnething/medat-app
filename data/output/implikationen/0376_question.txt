@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Maler sind keine Gedichte.
-- Einige Gedichte sind keine Wirbeltiere.
+- Einige FTK sind MPW.
+- Alle MPW sind keine RD.
 
-A) Einige Maler sind keine Wirbeltiere.
-B) Einige Maler sind Wirbeltiere.
-C) Alle Maler sind keine Wirbeltiere.
-D) Alle Maler sind Wirbeltiere.
+A) Einige FTK sind RD.
+B) Alle FTK sind RD.
+C) Einige FTK sind keine RD.
+D) Alle FTK sind keine RD.
 E) Keine der Schlussfolgerungen ist richtig.

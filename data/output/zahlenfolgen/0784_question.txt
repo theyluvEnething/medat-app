@@ -1,7 +1,0 @@
-Zahlenfolge: 13 11 33 31 93 91 ? ?
-
-A) 814/813
-B) 813/811
-C) 812/809
-D) 811/812
-E) Keine der Antworten ist richtig

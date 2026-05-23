@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Marder sind keine Türen.
-- Alle Türen sind keine Tiger.
+- Alle VTU sind TJC.
+- Alle TJC sind RG.
 
-A) Alle Marder sind keine Tiger.
-B) Einige Marder sind keine Tiger.
-C) Alle Marder sind Tiger.
-D) Einige Marder sind Tiger.
+A) Alle VTU sind RG.
+B) Alle VTU sind keine RG.
+C) Einige VTU sind RG.
+D) Einige VTU sind keine RG.
 E) Keine der Schlussfolgerungen ist richtig.

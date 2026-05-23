@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Möbel sind keine Delfine.
-- Einige Delfine sind Gräser.
+- Alle JO sind LCD.
+- Alle LCD sind SK.
 
-A) Einige Möbel sind keine Gräser.
-B) Einige Möbel sind Gräser.
-C) Alle Möbel sind keine Gräser.
-D) Alle Möbel sind Gräser.
+A) Alle JO sind SK.
+B) Alle JO sind keine SK.
+C) Einige JO sind SK.
+D) Einige JO sind keine SK.
 E) Keine der Schlussfolgerungen ist richtig.

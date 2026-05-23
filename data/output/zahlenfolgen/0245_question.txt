@@ -1,7 +1,0 @@
-Zahlenfolge: 1 2 3 5 8 13 ? ?
-
-A) 56/87
-B) 55/89
-C) 15/17
-D) 53/91
-E) Keine der Antworten ist richtig

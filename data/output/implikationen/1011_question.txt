@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Anwälte sind Radios.
-- Einige Radios sind Giraffen.
+- Alle MW sind keine ANO.
+- Alle ANO sind RIO.
 
-A) Alle Anwälte sind Giraffen.
-B) Einige Anwälte sind Giraffen.
-C) Alle Anwälte sind keine Giraffen.
-D) Einige Anwälte sind keine Giraffen.
+A) Alle MW sind RIO.
+B) Alle MW sind keine RIO.
+C) Einige MW sind keine RIO.
+D) Einige MW sind RIO.
 E) Keine der Schlussfolgerungen ist richtig.

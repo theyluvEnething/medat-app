@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Amseln sind Häuser.
-- Einige Häuser sind keine Mathematiker.
+- Einige AG sind SU.
+- Alle SU sind CR.
 
-A) Alle Amseln sind keine Mathematiker.
-B) Alle Amseln sind Mathematiker.
-C) Einige Amseln sind keine Mathematiker.
-D) Einige Amseln sind Mathematiker.
+A) Alle AG sind keine CR.
+B) Alle AG sind CR.
+C) Einige AG sind keine CR.
+D) Einige AG sind CR.
 E) Keine der Schlussfolgerungen ist richtig.

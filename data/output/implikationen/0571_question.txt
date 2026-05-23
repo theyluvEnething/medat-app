@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Eidechsen sind keine Vasen.
-- Einige Vasen sind Radios.
+- Alle DU sind BWT.
+- Alle BWT sind FR.
 
-A) Alle Eidechsen sind keine Radios.
-B) Einige Eidechsen sind keine Radios.
-C) Einige Eidechsen sind Radios.
-D) Alle Eidechsen sind Radios.
+A) Einige DU sind FR.
+B) Alle DU sind FR.
+C) Einige DU sind keine FR.
+D) Alle DU sind keine FR.
 E) Keine der Schlussfolgerungen ist richtig.

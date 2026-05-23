@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Dichter sind keine Stühle.
-- Einige Stühle sind keine Reptilien.
+- Einige SN sind ZZ.
+- Alle ZZ sind CAF.
 
-A) Alle Dichter sind keine Reptilien.
-B) Einige Dichter sind keine Reptilien.
-C) Alle Dichter sind Reptilien.
-D) Einige Dichter sind Reptilien.
+A) Alle SN sind CAF.
+B) Einige SN sind CAF.
+C) Einige SN sind keine CAF.
+D) Alle SN sind keine CAF.
 E) Keine der Schlussfolgerungen ist richtig.

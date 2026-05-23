@@ -1,7 +1,0 @@
-Zahlenfolge: 86 68 75 57 64 46 ? ?
-
-A) 38/30
-B) 42/24
-C) 41/23
-D) 41/26
-E) Keine der Antworten ist richtig

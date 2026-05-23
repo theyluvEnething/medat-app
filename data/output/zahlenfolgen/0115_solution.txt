@@ -1,2 +1,2 @@
-B — 33/-41
-Zwei Folgen verschränkt: +8 und +-10
+B — 201/393
+Differenz verdoppelt sich je Schritt

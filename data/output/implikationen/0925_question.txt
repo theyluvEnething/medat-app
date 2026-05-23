@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Lehrer sind Pandas.
-- Alle Pandas sind Bücher.
+- Einige ZI sind keine MB.
+- Einige MB sind keine CB.
 
-A) Alle Lehrer sind keine Bücher.
-B) Einige Lehrer sind keine Bücher.
-C) Alle Lehrer sind Bücher.
-D) Einige Lehrer sind Bücher.
+A) Alle ZI sind keine CB.
+B) Einige ZI sind keine CB.
+C) Alle ZI sind CB.
+D) Einige ZI sind CB.
 E) Keine der Schlussfolgerungen ist richtig.

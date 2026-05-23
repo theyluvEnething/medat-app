@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schauspieler sind Radios.
-- Einige Radios sind Autos.
+- Einige GT sind CC.
+- Alle CC sind keine IO.
 
-A) Alle Schauspieler sind keine Autos.
-B) Einige Schauspieler sind Autos.
-C) Einige Schauspieler sind keine Autos.
-D) Alle Schauspieler sind Autos.
+A) Alle GT sind keine IO.
+B) Einige GT sind IO.
+C) Alle GT sind IO.
+D) Einige GT sind keine IO.
 E) Keine der Schlussfolgerungen ist richtig.

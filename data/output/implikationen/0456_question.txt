@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Roboter sind keine Pilze.
-- Einige Pilze sind keine Vulkane.
+- Einige VB sind ON.
+- Alle ON sind keine RD.
 
-A) Alle Roboter sind keine Vulkane.
-B) Einige Roboter sind keine Vulkane.
-C) Einige Roboter sind Vulkane.
-D) Alle Roboter sind Vulkane.
+A) Einige VB sind RD.
+B) Alle VB sind keine RD.
+C) Einige VB sind keine RD.
+D) Alle VB sind RD.
 E) Keine der Schlussfolgerungen ist richtig.

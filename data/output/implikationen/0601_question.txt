@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Eichen sind keine Schauspieler.
-- Alle Schauspieler sind Pandas.
+- Alle PA sind TS.
+- Alle TS sind DO.
 
-A) Alle Eichen sind keine Pandas.
-B) Einige Eichen sind Pandas.
-C) Alle Eichen sind Pandas.
-D) Einige Eichen sind keine Pandas.
+A) Alle PA sind DO.
+B) Einige PA sind keine DO.
+C) Alle PA sind keine DO.
+D) Einige PA sind DO.
 E) Keine der Schlussfolgerungen ist richtig.

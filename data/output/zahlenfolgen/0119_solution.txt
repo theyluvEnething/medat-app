@@ -1,2 +1,2 @@
-A — 103/301
-Ziffern umdrehen, dann +5
+A — 85/118
+Differenz-Fibonacci: die Differenzen folgen der Fibonacci-Regel

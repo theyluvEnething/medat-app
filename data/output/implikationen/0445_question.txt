@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Diamanten sind keine Politiker.
-- Alle Politiker sind keine Wissenschaftler.
+- Einige IM sind JE.
+- Alle JE sind HC.
 
-A) Alle Diamanten sind Wissenschaftler.
-B) Einige Diamanten sind keine Wissenschaftler.
-C) Alle Diamanten sind keine Wissenschaftler.
-D) Einige Diamanten sind Wissenschaftler.
+A) Alle IM sind HC.
+B) Einige IM sind HC.
+C) Alle IM sind keine HC.
+D) Einige IM sind keine HC.
 E) Keine der Schlussfolgerungen ist richtig.

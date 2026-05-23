@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schauspieler sind Quallen.
-- Alle Quallen sind Tiger.
+- Alle LN sind JF.
+- Alle JF sind OM.
 
-A) Einige Schauspieler sind Tiger.
-B) Alle Schauspieler sind Tiger.
-C) Einige Schauspieler sind keine Tiger.
-D) Alle Schauspieler sind keine Tiger.
+A) Alle LN sind OM.
+B) Einige LN sind keine OM.
+C) Alle LN sind keine OM.
+D) Einige LN sind OM.
 E) Keine der Schlussfolgerungen ist richtig.

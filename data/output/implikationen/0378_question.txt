@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Quallen sind Züge.
-- Einige Züge sind Säugetiere.
+- Alle EO sind AEK.
+- Alle AEK sind ZM.
 
-A) Alle Quallen sind Säugetiere.
-B) Einige Quallen sind keine Säugetiere.
-C) Einige Quallen sind Säugetiere.
-D) Alle Quallen sind keine Säugetiere.
+A) Einige EO sind keine ZM.
+B) Alle EO sind keine ZM.
+C) Einige EO sind ZM.
+D) Alle EO sind ZM.
 E) Keine der Schlussfolgerungen ist richtig.

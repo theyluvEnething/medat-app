@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Lehrer sind Granite.
-- Alle Granite sind keine Häuser.
+- Einige BOC sind HIS.
+- Alle HIS sind keine EC.
 
-A) Einige Lehrer sind keine Häuser.
-B) Einige Lehrer sind Häuser.
-C) Alle Lehrer sind Häuser.
-D) Alle Lehrer sind keine Häuser.
+A) Einige BOC sind EC.
+B) Einige BOC sind keine EC.
+C) Alle BOC sind keine EC.
+D) Alle BOC sind EC.
 E) Keine der Schlussfolgerungen ist richtig.

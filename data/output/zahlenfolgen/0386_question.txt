@@ -1,7 +1,0 @@
-Zahlenfolge: 2 20 22 42 64 106 ? ?
-
-A) 446/722
-B) 444/723
-C) 447/724
-D) 448/721
-E) Keine der Antworten ist richtig

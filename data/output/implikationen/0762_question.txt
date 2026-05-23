@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Pilze sind Kätzchen.
-- Alle Kätzchen sind keine Dichter.
+- Einige LF sind keine CKG.
+- Einige CKG sind AH.
 
-A) Alle Pilze sind keine Dichter.
-B) Einige Pilze sind keine Dichter.
-C) Alle Pilze sind Dichter.
-D) Einige Pilze sind Dichter.
+A) Alle LF sind keine AH.
+B) Einige LF sind AH.
+C) Einige LF sind keine AH.
+D) Alle LF sind AH.
 E) Keine der Schlussfolgerungen ist richtig.

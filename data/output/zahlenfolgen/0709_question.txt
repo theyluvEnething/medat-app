@@ -1,7 +1,0 @@
-Zahlenfolge: 15 27 39 51 63 75 ? ?
-
-A) 100/110
-B) 99/111
-C) 98/113
-D) 87/99
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tomaten sind Smartphones.
-- Alle Smartphones sind keine Schriftsteller.
+- Einige CD sind keine ET.
+- Alle ET sind keine PPE.
 
-A) Alle Tomaten sind keine Schriftsteller.
-B) Einige Tomaten sind Schriftsteller.
-C) Einige Tomaten sind keine Schriftsteller.
-D) Alle Tomaten sind Schriftsteller.
+A) Alle CD sind keine PPE.
+B) Einige CD sind PPE.
+C) Alle CD sind PPE.
+D) Einige CD sind keine PPE.
 E) Keine der Schlussfolgerungen ist richtig.

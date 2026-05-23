@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Quallen sind Giraffen.
-- Einige Giraffen sind Tomaten.
+- Alle PS sind KMT.
+- Alle KMT sind LZ.
 
-A) Alle Quallen sind Tomaten.
-B) Alle Quallen sind keine Tomaten.
-C) Einige Quallen sind keine Tomaten.
-D) Einige Quallen sind Tomaten.
+A) Alle PS sind LZ.
+B) Einige PS sind keine LZ.
+C) Einige PS sind LZ.
+D) Alle PS sind keine LZ.
 E) Keine der Schlussfolgerungen ist richtig.

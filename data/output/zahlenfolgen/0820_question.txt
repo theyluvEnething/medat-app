@@ -1,7 +1,0 @@
-Zahlenfolge: 30 22 37 30 44 38 ? ?
-
-A) 58/54
-B) 60/56
-C) 59/55
-D) 57/55
-E) Keine der Antworten ist richtig

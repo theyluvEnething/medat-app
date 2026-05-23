@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vulkane sind Ingenieure.
-- Einige Ingenieure sind keine Metalle.
+- Einige SO sind keine FC.
+- Alle FC sind keine KP.
 
-A) Einige Vulkane sind Metalle.
-B) Alle Vulkane sind Metalle.
-C) Alle Vulkane sind keine Metalle.
-D) Einige Vulkane sind keine Metalle.
+A) Einige SO sind keine KP.
+B) Alle SO sind KP.
+C) Einige SO sind KP.
+D) Alle SO sind keine KP.
 E) Keine der Schlussfolgerungen ist richtig.

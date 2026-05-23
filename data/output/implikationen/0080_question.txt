@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tabletten sind Radios.
-- Einige Radios sind keine Orchideen.
+- Alle SZ sind NL.
+- Alle NL sind keine MLM.
 
-A) Alle Tabletten sind Orchideen.
-B) Alle Tabletten sind keine Orchideen.
-C) Einige Tabletten sind keine Orchideen.
-D) Einige Tabletten sind Orchideen.
+A) Einige SZ sind keine MLM.
+B) Alle SZ sind MLM.
+C) Einige SZ sind MLM.
+D) Alle SZ sind keine MLM.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Statuen sind keine Gedichte.
-- Alle Gedichte sind keine Glühbirnen.
+- Einige RV sind WSR.
+- Einige WSR sind keine NS.
 
-A) Alle Statuen sind keine Glühbirnen.
-B) Einige Statuen sind Glühbirnen.
-C) Einige Statuen sind keine Glühbirnen.
-D) Alle Statuen sind Glühbirnen.
+A) Einige RV sind keine NS.
+B) Einige RV sind NS.
+C) Alle RV sind NS.
+D) Alle RV sind keine NS.
 E) Keine der Schlussfolgerungen ist richtig.

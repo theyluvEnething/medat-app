@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wissenschaftler sind Fische.
-- Alle Fische sind Schiffe.
+- Einige PT sind VC.
+- Alle VC sind keine PU.
 
-A) Einige Wissenschaftler sind Schiffe.
-B) Alle Wissenschaftler sind keine Schiffe.
-C) Alle Wissenschaftler sind Schiffe.
-D) Einige Wissenschaftler sind keine Schiffe.
+A) Einige PT sind keine PU.
+B) Einige PT sind PU.
+C) Alle PT sind keine PU.
+D) Alle PT sind PU.
 E) Keine der Schlussfolgerungen ist richtig.

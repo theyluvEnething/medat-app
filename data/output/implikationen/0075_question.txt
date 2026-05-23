@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Säugetiere sind keine Bäume.
-- Einige Bäume sind keine Spatzen.
+- Alle NOR sind ZLZ.
+- Einige ZLZ sind WW.
 
-A) Alle Säugetiere sind Spatzen.
-B) Alle Säugetiere sind keine Spatzen.
-C) Einige Säugetiere sind Spatzen.
-D) Einige Säugetiere sind keine Spatzen.
+A) Einige NOR sind keine WW.
+B) Alle NOR sind keine WW.
+C) Alle NOR sind WW.
+D) Einige NOR sind WW.
 E) Keine der Schlussfolgerungen ist richtig.

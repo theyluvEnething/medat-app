@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Pilze sind keine Schiffe.
-- Alle Schiffe sind Glühbirnen.
+- Einige PZ sind WPM.
+- Alle WPM sind HR.
 
-A) Einige Pilze sind keine Glühbirnen.
-B) Alle Pilze sind Glühbirnen.
-C) Einige Pilze sind Glühbirnen.
-D) Alle Pilze sind keine Glühbirnen.
+A) Alle PZ sind keine HR.
+B) Alle PZ sind HR.
+C) Einige PZ sind HR.
+D) Einige PZ sind keine HR.
 E) Keine der Schlussfolgerungen ist richtig.

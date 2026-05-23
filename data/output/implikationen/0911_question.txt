@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Politiker sind keine Fische.
-- Einige Fische sind keine Giraffen.
+- Alle PWC sind RH.
+- Einige RH sind ZMF.
 
-A) Alle Politiker sind Giraffen.
-B) Einige Politiker sind keine Giraffen.
-C) Einige Politiker sind Giraffen.
-D) Alle Politiker sind keine Giraffen.
+A) Alle PWC sind keine ZMF.
+B) Einige PWC sind ZMF.
+C) Alle PWC sind ZMF.
+D) Einige PWC sind keine ZMF.
 E) Keine der Schlussfolgerungen ist richtig.

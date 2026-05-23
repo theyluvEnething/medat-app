@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Musikinstrumente sind keine Granite.
-- Alle Granite sind keine Pandas.
+- Alle ZDB sind LG.
+- Alle LG sind EVN.
 
-A) Alle Musikinstrumente sind keine Pandas.
-B) Einige Musikinstrumente sind keine Pandas.
-C) Alle Musikinstrumente sind Pandas.
-D) Einige Musikinstrumente sind Pandas.
+A) Einige ZDB sind EVN.
+B) Alle ZDB sind EVN.
+C) Alle ZDB sind keine EVN.
+D) Einige ZDB sind keine EVN.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Teleskope sind Gemälde.
-- Einige Gemälde sind Eichen.
+- Einige JL sind NE.
+- Alle NE sind DP.
 
-A) Alle Teleskope sind Eichen.
-B) Einige Teleskope sind Eichen.
-C) Alle Teleskope sind keine Eichen.
-D) Einige Teleskope sind keine Eichen.
+A) Alle JL sind DP.
+B) Einige JL sind DP.
+C) Alle JL sind keine DP.
+D) Einige JL sind keine DP.
 E) Keine der Schlussfolgerungen ist richtig.

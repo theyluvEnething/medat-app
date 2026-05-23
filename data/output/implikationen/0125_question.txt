@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tulpen sind keine Mammute.
-- Alle Mammute sind keine Telefone.
+- Einige HU sind FLJ.
+- Einige FLJ sind keine UVZ.
 
-A) Einige Tulpen sind Telefone.
-B) Alle Tulpen sind Telefone.
-C) Einige Tulpen sind keine Telefone.
-D) Alle Tulpen sind keine Telefone.
+A) Alle HU sind UVZ.
+B) Einige HU sind UVZ.
+C) Einige HU sind keine UVZ.
+D) Alle HU sind keine UVZ.
 E) Keine der Schlussfolgerungen ist richtig.

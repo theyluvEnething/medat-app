@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Sportler sind Schlangen.
-- Einige Schlangen sind Reptilien.
+- Einige JZP sind VG.
+- Alle VG sind keine NIM.
 
-A) Einige Sportler sind keine Reptilien.
-B) Alle Sportler sind keine Reptilien.
-C) Alle Sportler sind Reptilien.
-D) Einige Sportler sind Reptilien.
+A) Einige JZP sind NIM.
+B) Alle JZP sind keine NIM.
+C) Einige JZP sind keine NIM.
+D) Alle JZP sind NIM.
 E) Keine der Schlussfolgerungen ist richtig.

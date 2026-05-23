@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Häuser sind keine Eichen.
-- Alle Eichen sind keine Nashörner.
+- Alle FWE sind GD.
+- Einige GD sind ZSU.
 
-A) Einige Häuser sind keine Nashörner.
-B) Alle Häuser sind Nashörner.
-C) Einige Häuser sind Nashörner.
-D) Alle Häuser sind keine Nashörner.
+A) Alle FWE sind ZSU.
+B) Einige FWE sind ZSU.
+C) Einige FWE sind keine ZSU.
+D) Alle FWE sind keine ZSU.
 E) Keine der Schlussfolgerungen ist richtig.

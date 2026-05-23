@@ -1,7 +1,7 @@
-Zahlenfolge: 2 3 5 7 11 13 ? ?
+Zahlenfolge: 10 1 15 4 20 7 ? ?
 
-A) 21/27
-B) 23/29
-C) 22/30
-D) 21/30
+A) 25/10
+B) 26/10
+C) 14/1
+D) 24/10
 E) Keine der Antworten ist richtig

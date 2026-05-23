@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Marder sind keine Lilien.
-- Einige Lilien sind keine Nashörner.
+- Alle WU sind GL.
+- Einige GL sind JJ.
 
-A) Einige Marder sind keine Nashörner.
-B) Alle Marder sind keine Nashörner.
-C) Alle Marder sind Nashörner.
-D) Einige Marder sind Nashörner.
+A) Einige WU sind keine JJ.
+B) Einige WU sind JJ.
+C) Alle WU sind JJ.
+D) Alle WU sind keine JJ.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 14 9 23 32 55 87 ? ?
-
-A) 101/115
-B) 369/599
-C) 371/600
-D) 370/601
-E) Keine der Antworten ist richtig

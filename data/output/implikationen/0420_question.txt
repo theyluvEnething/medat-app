@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Kupfer sind Quallen.
-- Einige Quallen sind Dinosaurier.
+- Alle LI sind AR.
+- Alle AR sind WW.
 
-A) Einige Kupfer sind Dinosaurier.
-B) Alle Kupfer sind keine Dinosaurier.
-C) Einige Kupfer sind keine Dinosaurier.
-D) Alle Kupfer sind Dinosaurier.
+A) Alle LI sind keine WW.
+B) Einige LI sind keine WW.
+C) Einige LI sind WW.
+D) Alle LI sind WW.
 E) Keine der Schlussfolgerungen ist richtig.

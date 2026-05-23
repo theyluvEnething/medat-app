@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Rosen sind keine Tabletten.
-- Alle Tabletten sind Mäuse.
+- Alle KD sind VC.
+- Einige VC sind CR.
 
-A) Einige Rosen sind keine Mäuse.
-B) Einige Rosen sind Mäuse.
-C) Alle Rosen sind keine Mäuse.
-D) Alle Rosen sind Mäuse.
+A) Alle KD sind keine CR.
+B) Alle KD sind CR.
+C) Einige KD sind keine CR.
+D) Einige KD sind CR.
 E) Keine der Schlussfolgerungen ist richtig.

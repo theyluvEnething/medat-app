@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schriftsteller sind Tiger.
-- Einige Tiger sind Amseln.
+- Alle LUN sind AR.
+- Alle AR sind PTJ.
 
-A) Einige Schriftsteller sind keine Amseln.
-B) Alle Schriftsteller sind keine Amseln.
-C) Alle Schriftsteller sind Amseln.
-D) Einige Schriftsteller sind Amseln.
+A) Alle LUN sind keine PTJ.
+B) Alle LUN sind PTJ.
+C) Einige LUN sind PTJ.
+D) Einige LUN sind keine PTJ.
 E) Keine der Schlussfolgerungen ist richtig.

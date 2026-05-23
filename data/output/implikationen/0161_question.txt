@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Insekten sind keine Vögel.
-- Alle Vögel sind keine Tomaten.
+- Einige TPZ sind SFV.
+- Alle SFV sind PP.
 
-A) Einige Insekten sind Tomaten.
-B) Alle Insekten sind keine Tomaten.
-C) Alle Insekten sind Tomaten.
-D) Einige Insekten sind keine Tomaten.
+A) Alle TPZ sind keine PP.
+B) Alle TPZ sind PP.
+C) Einige TPZ sind PP.
+D) Einige TPZ sind keine PP.
 E) Keine der Schlussfolgerungen ist richtig.

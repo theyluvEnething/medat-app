@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Diamanten sind keine Insekten.
-- Alle Insekten sind keine Teleskope.
+- Alle CH sind ZL.
+- Alle ZL sind EZ.
 
-A) Alle Diamanten sind Teleskope.
-B) Einige Diamanten sind keine Teleskope.
-C) Einige Diamanten sind Teleskope.
-D) Alle Diamanten sind keine Teleskope.
+A) Einige CH sind EZ.
+B) Alle CH sind EZ.
+C) Einige CH sind keine EZ.
+D) Alle CH sind keine EZ.
 E) Keine der Schlussfolgerungen ist richtig.

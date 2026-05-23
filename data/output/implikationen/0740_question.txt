@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Ingenieure sind Gemälde.
-- Einige Gemälde sind Delfine.
+- Einige BJC sind HH.
+- Alle HH sind ZD.
 
-A) Alle Ingenieure sind keine Delfine.
-B) Einige Ingenieure sind Delfine.
-C) Einige Ingenieure sind keine Delfine.
-D) Alle Ingenieure sind Delfine.
+A) Alle BJC sind keine ZD.
+B) Alle BJC sind ZD.
+C) Einige BJC sind keine ZD.
+D) Einige BJC sind ZD.
 E) Keine der Schlussfolgerungen ist richtig.

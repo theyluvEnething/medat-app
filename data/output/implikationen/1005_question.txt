@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Stühle sind keine Quartette.
-- Einige Quartette sind keine Teleskope.
+- Alle LS sind TV.
+- Einige TV sind MS.
 
-A) Einige Stühle sind keine Teleskope.
-B) Alle Stühle sind Teleskope.
-C) Alle Stühle sind keine Teleskope.
-D) Einige Stühle sind Teleskope.
+A) Einige LS sind MS.
+B) Alle LS sind keine MS.
+C) Alle LS sind MS.
+D) Einige LS sind keine MS.
 E) Keine der Schlussfolgerungen ist richtig.

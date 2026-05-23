@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Chemiker sind keine Bücher.
-- Alle Bücher sind Sportler.
+- Einige BR sind BT.
+- Einige BT sind keine GD.
 
-A) Einige Chemiker sind keine Sportler.
-B) Alle Chemiker sind Sportler.
-C) Alle Chemiker sind keine Sportler.
-D) Einige Chemiker sind Sportler.
+A) Alle BR sind keine GD.
+B) Einige BR sind keine GD.
+C) Alle BR sind GD.
+D) Einige BR sind GD.
 E) Keine der Schlussfolgerungen ist richtig.

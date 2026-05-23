@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Uhren sind Sänger.
-- Einige Sänger sind keine Reptilien.
+- Alle OU sind keine ET.
+- Alle ET sind NN.
 
-A) Alle Uhren sind Reptilien.
-B) Einige Uhren sind Reptilien.
-C) Alle Uhren sind keine Reptilien.
-D) Einige Uhren sind keine Reptilien.
+A) Alle OU sind NN.
+B) Einige OU sind NN.
+C) Einige OU sind keine NN.
+D) Alle OU sind keine NN.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gedichte sind keine Radios.
-- Alle Radios sind Granite.
+- Alle ULI sind GA.
+- Einige GA sind FNO.
 
-A) Alle Gedichte sind Granite.
-B) Einige Gedichte sind Granite.
-C) Einige Gedichte sind keine Granite.
-D) Alle Gedichte sind keine Granite.
+A) Einige ULI sind keine FNO.
+B) Einige ULI sind FNO.
+C) Alle ULI sind FNO.
+D) Alle ULI sind keine FNO.
 E) Keine der Schlussfolgerungen ist richtig.

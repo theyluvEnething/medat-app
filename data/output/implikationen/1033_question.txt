@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Säugetiere sind keine Chemiker.
-- Einige Chemiker sind Vögel.
+- Einige CVZ sind keine WHM.
+- Alle WHM sind keine GI.
 
-A) Alle Säugetiere sind keine Vögel.
-B) Einige Säugetiere sind keine Vögel.
-C) Einige Säugetiere sind Vögel.
-D) Alle Säugetiere sind Vögel.
+A) Einige CVZ sind keine GI.
+B) Einige CVZ sind GI.
+C) Alle CVZ sind GI.
+D) Alle CVZ sind keine GI.
 E) Keine der Schlussfolgerungen ist richtig.

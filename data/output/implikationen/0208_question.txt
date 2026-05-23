@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Bücher sind Teleskope.
-- Alle Teleskope sind keine Telefone.
+- Alle GB sind UOW.
+- Alle UOW sind keine TI.
 
-A) Alle Bücher sind Telefone.
-B) Alle Bücher sind keine Telefone.
-C) Einige Bücher sind keine Telefone.
-D) Einige Bücher sind Telefone.
+A) Alle GB sind TI.
+B) Einige GB sind TI.
+C) Alle GB sind keine TI.
+D) Einige GB sind keine TI.
 E) Keine der Schlussfolgerungen ist richtig.

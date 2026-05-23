@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Skulpturen sind Statuen.
-- Alle Statuen sind Vasen.
+- Alle UP sind keine FAS.
+- Alle FAS sind PR.
 
-A) Alle Skulpturen sind keine Vasen.
-B) Alle Skulpturen sind Vasen.
-C) Einige Skulpturen sind Vasen.
-D) Einige Skulpturen sind keine Vasen.
+A) Einige UP sind PR.
+B) Einige UP sind keine PR.
+C) Alle UP sind PR.
+D) Alle UP sind keine PR.
 E) Keine der Schlussfolgerungen ist richtig.

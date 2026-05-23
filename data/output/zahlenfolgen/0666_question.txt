@@ -1,7 +1,0 @@
-Zahlenfolge: 7 7 -2 2 -11 -3 ? ?
-
-A) -30/-15
-B) -29/-13
-C) -31/-15
-D) -31/-14
-E) Keine der Antworten ist richtig

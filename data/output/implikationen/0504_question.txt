@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Amseln sind keine Granite.
-- Einige Granite sind Blumen.
+- Alle GBL sind TL.
+- Einige TL sind ZR.
 
-A) Einige Amseln sind Blumen.
-B) Einige Amseln sind keine Blumen.
-C) Alle Amseln sind Blumen.
-D) Alle Amseln sind keine Blumen.
+A) Einige GBL sind keine ZR.
+B) Alle GBL sind keine ZR.
+C) Alle GBL sind ZR.
+D) Einige GBL sind ZR.
 E) Keine der Schlussfolgerungen ist richtig.

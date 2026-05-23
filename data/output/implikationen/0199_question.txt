@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Lehrer sind Wirbeltiere.
-- Einige Wirbeltiere sind keine Marder.
+- Alle MI sind keine JA.
+- Alle JA sind RLT.
 
-A) Einige Lehrer sind keine Marder.
-B) Einige Lehrer sind Marder.
-C) Alle Lehrer sind keine Marder.
-D) Alle Lehrer sind Marder.
+A) Alle MI sind RLT.
+B) Alle MI sind keine RLT.
+C) Einige MI sind keine RLT.
+D) Einige MI sind RLT.
 E) Keine der Schlussfolgerungen ist richtig.

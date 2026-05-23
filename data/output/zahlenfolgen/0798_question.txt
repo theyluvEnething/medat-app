@@ -1,7 +1,0 @@
-Zahlenfolge: 14 17 51 54 162 165 ? ?
-
-A) 1494/1497
-B) 1493/1495
-C) 1495/1498
-D) 330/360
-E) Keine der Antworten ist richtig

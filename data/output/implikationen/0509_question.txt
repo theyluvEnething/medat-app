@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gemälde sind keine Züge.
-- Alle Züge sind keine Flugzeuge.
+- Einige NG sind ZEI.
+- Alle ZEI sind keine SW.
 
-A) Einige Gemälde sind keine Flugzeuge.
-B) Alle Gemälde sind keine Flugzeuge.
-C) Einige Gemälde sind Flugzeuge.
-D) Alle Gemälde sind Flugzeuge.
+A) Alle NG sind SW.
+B) Einige NG sind keine SW.
+C) Alle NG sind keine SW.
+D) Einige NG sind SW.
 E) Keine der Schlussfolgerungen ist richtig.

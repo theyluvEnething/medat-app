@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Hunde sind Eidechsen.
-- Alle Eidechsen sind Pilze.
+- Alle HD sind MV.
+- Alle MV sind VT.
 
-A) Alle Hunde sind Pilze.
-B) Alle Hunde sind keine Pilze.
-C) Einige Hunde sind keine Pilze.
-D) Einige Hunde sind Pilze.
+A) Einige HD sind VT.
+B) Alle HD sind keine VT.
+C) Einige HD sind keine VT.
+D) Alle HD sind VT.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Marder sind keine Diamanten.
-- Einige Diamanten sind keine Tabletten.
+- Einige SF sind keine NJ.
+- Alle NJ sind OUG.
 
-A) Einige Marder sind Tabletten.
-B) Alle Marder sind Tabletten.
-C) Einige Marder sind keine Tabletten.
-D) Alle Marder sind keine Tabletten.
+A) Alle SF sind OUG.
+B) Alle SF sind keine OUG.
+C) Einige SF sind OUG.
+D) Einige SF sind keine OUG.
 E) Keine der Schlussfolgerungen ist richtig.

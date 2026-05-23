@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Zebras sind keine Delfine.
-- Alle Delfine sind keine Türen.
+- Einige GZU sind keine DV.
+- Einige DV sind OZ.
 
-A) Einige Zebras sind keine Türen.
-B) Alle Zebras sind keine Türen.
-C) Einige Zebras sind Türen.
-D) Alle Zebras sind Türen.
+A) Alle GZU sind keine OZ.
+B) Alle GZU sind OZ.
+C) Einige GZU sind keine OZ.
+D) Einige GZU sind OZ.
 E) Keine der Schlussfolgerungen ist richtig.

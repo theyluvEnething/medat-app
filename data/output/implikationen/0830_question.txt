@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Lehrer sind Kupfer.
-- Alle Kupfer sind keine Rosen.
+- Alle HI sind AV.
+- Alle AV sind IO.
 
-A) Alle Lehrer sind keine Rosen.
-B) Einige Lehrer sind keine Rosen.
-C) Einige Lehrer sind Rosen.
-D) Alle Lehrer sind Rosen.
+A) Einige HI sind IO.
+B) Alle HI sind IO.
+C) Einige HI sind keine IO.
+D) Alle HI sind keine IO.
 E) Keine der Schlussfolgerungen ist richtig.

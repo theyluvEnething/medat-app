@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tabletten sind Vögel.
-- Alle Vögel sind keine Teleskope.
+- Alle ZT sind keine NG.
+- Alle NG sind SV.
 
-A) Einige Tabletten sind Teleskope.
-B) Alle Tabletten sind keine Teleskope.
-C) Alle Tabletten sind Teleskope.
-D) Einige Tabletten sind keine Teleskope.
+A) Alle ZT sind SV.
+B) Einige ZT sind keine SV.
+C) Einige ZT sind SV.
+D) Alle ZT sind keine SV.
 E) Keine der Schlussfolgerungen ist richtig.

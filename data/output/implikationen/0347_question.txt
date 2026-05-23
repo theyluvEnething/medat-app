@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Lehrer sind Skulpturen.
-- Einige Skulpturen sind keine Granite.
+- Alle BB sind keine HKN.
+- Alle HKN sind PI.
 
-A) Alle Lehrer sind Granite.
-B) Einige Lehrer sind Granite.
-C) Einige Lehrer sind keine Granite.
-D) Alle Lehrer sind keine Granite.
+A) Einige BB sind PI.
+B) Alle BB sind keine PI.
+C) Alle BB sind PI.
+D) Einige BB sind keine PI.
 E) Keine der Schlussfolgerungen ist richtig.

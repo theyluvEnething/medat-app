@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Haie sind Giraffen.
-- Einige Giraffen sind Tulpen.
+- Einige VZE sind UG.
+- Alle UG sind keine KGE.
 
-A) Einige Haie sind keine Tulpen.
-B) Alle Haie sind Tulpen.
-C) Einige Haie sind Tulpen.
-D) Alle Haie sind keine Tulpen.
+A) Alle VZE sind KGE.
+B) Einige VZE sind keine KGE.
+C) Einige VZE sind KGE.
+D) Alle VZE sind keine KGE.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Säugetiere sind Maler.
-- Einige Maler sind Hunde.
+- Alle PE sind OJ.
+- Alle OJ sind SA.
 
-A) Alle Säugetiere sind keine Hunde.
-B) Einige Säugetiere sind Hunde.
-C) Alle Säugetiere sind Hunde.
-D) Einige Säugetiere sind keine Hunde.
+A) Einige PE sind SA.
+B) Einige PE sind keine SA.
+C) Alle PE sind keine SA.
+D) Alle PE sind SA.
 E) Keine der Schlussfolgerungen ist richtig.

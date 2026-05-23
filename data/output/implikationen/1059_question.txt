@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tulpen sind Dinosaurier.
-- Alle Dinosaurier sind Ingenieure.
+- Alle UDA sind NW.
+- Alle NW sind ID.
 
-A) Einige Tulpen sind keine Ingenieure.
-B) Einige Tulpen sind Ingenieure.
-C) Alle Tulpen sind keine Ingenieure.
-D) Alle Tulpen sind Ingenieure.
+A) Alle UDA sind keine ID.
+B) Einige UDA sind keine ID.
+C) Einige UDA sind ID.
+D) Alle UDA sind ID.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Mathematiker sind Dichter.
-- Einige Dichter sind Kätzchen.
+- Einige GA sind TK.
+- Alle TK sind keine HKD.
 
-A) Einige Mathematiker sind keine Kätzchen.
-B) Alle Mathematiker sind Kätzchen.
-C) Alle Mathematiker sind keine Kätzchen.
-D) Einige Mathematiker sind Kätzchen.
+A) Alle GA sind HKD.
+B) Alle GA sind keine HKD.
+C) Einige GA sind keine HKD.
+D) Einige GA sind HKD.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,2 +1,0 @@
-A — 206/333
-Jedes Glied = Summe der beiden Vorgänger

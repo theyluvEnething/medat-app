@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wissenschaftler sind Skulpturen.
-- Einige Skulpturen sind keine Werkzeuge.
+- Alle JTE sind WP.
+- Alle WP sind BA.
 
-A) Alle Wissenschaftler sind keine Werkzeuge.
-B) Einige Wissenschaftler sind Werkzeuge.
-C) Einige Wissenschaftler sind keine Werkzeuge.
-D) Alle Wissenschaftler sind Werkzeuge.
+A) Alle JTE sind keine BA.
+B) Einige JTE sind keine BA.
+C) Einige JTE sind BA.
+D) Alle JTE sind BA.
 E) Keine der Schlussfolgerungen ist richtig.

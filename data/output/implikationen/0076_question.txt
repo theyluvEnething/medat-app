@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Pilze sind Gräser.
-- Einige Gräser sind keine Mammute.
+- Alle BN sind keine JJ.
+- Alle JJ sind MG.
 
-A) Einige Pilze sind Mammute.
-B) Einige Pilze sind keine Mammute.
-C) Alle Pilze sind keine Mammute.
-D) Alle Pilze sind Mammute.
+A) Einige BN sind MG.
+B) Alle BN sind MG.
+C) Alle BN sind keine MG.
+D) Einige BN sind keine MG.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schlangen sind Schiffe.
-- Einige Schiffe sind keine Blumen.
+- Einige VZU sind keine PPN.
+- Alle PPN sind JP.
 
-A) Alle Schlangen sind keine Blumen.
-B) Alle Schlangen sind Blumen.
-C) Einige Schlangen sind Blumen.
-D) Einige Schlangen sind keine Blumen.
+A) Einige VZU sind JP.
+B) Alle VZU sind keine JP.
+C) Alle VZU sind JP.
+D) Einige VZU sind keine JP.
 E) Keine der Schlussfolgerungen ist richtig.

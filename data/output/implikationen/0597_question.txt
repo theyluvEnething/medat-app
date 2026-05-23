@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Klaviere sind Reptilien.
-- Alle Reptilien sind keine Dinosaurier.
+- Alle DS sind UI.
+- Alle UI sind EI.
 
-A) Alle Klaviere sind Dinosaurier.
-B) Einige Klaviere sind Dinosaurier.
-C) Alle Klaviere sind keine Dinosaurier.
-D) Einige Klaviere sind keine Dinosaurier.
+A) Einige DS sind EI.
+B) Alle DS sind EI.
+C) Alle DS sind keine EI.
+D) Einige DS sind keine EI.
 E) Keine der Schlussfolgerungen ist richtig.

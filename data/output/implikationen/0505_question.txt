@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mammute sind keine Lehrer.
-- Einige Lehrer sind Metalle.
+- Alle JI sind PJ.
+- Alle PJ sind SV.
 
-A) Alle Mammute sind Metalle.
-B) Einige Mammute sind Metalle.
-C) Alle Mammute sind keine Metalle.
-D) Einige Mammute sind keine Metalle.
+A) Alle JI sind SV.
+B) Alle JI sind keine SV.
+C) Einige JI sind SV.
+D) Einige JI sind keine SV.
 E) Keine der Schlussfolgerungen ist richtig.

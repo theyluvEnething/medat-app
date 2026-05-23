@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gedichte sind Schiffe.
-- Einige Schiffe sind keine Gemälde.
+- Einige WJ sind keine MF.
+- Einige MF sind ST.
 
-A) Einige Gedichte sind keine Gemälde.
-B) Einige Gedichte sind Gemälde.
-C) Alle Gedichte sind keine Gemälde.
-D) Alle Gedichte sind Gemälde.
+A) Einige WJ sind keine ST.
+B) Einige WJ sind ST.
+C) Alle WJ sind keine ST.
+D) Alle WJ sind ST.
 E) Keine der Schlussfolgerungen ist richtig.

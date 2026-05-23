@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vasen sind keine Klaviere.
-- Alle Klaviere sind keine Tiger.
+- Alle TKA sind WH.
+- Alle WH sind keine TK.
 
-A) Einige Vasen sind keine Tiger.
-B) Alle Vasen sind keine Tiger.
-C) Alle Vasen sind Tiger.
-D) Einige Vasen sind Tiger.
+A) Einige TKA sind keine TK.
+B) Alle TKA sind keine TK.
+C) Einige TKA sind TK.
+D) Alle TKA sind TK.
 E) Keine der Schlussfolgerungen ist richtig.

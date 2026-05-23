@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Zebras sind Quallen.
-- Alle Quallen sind Vegetarier.
+- Einige DZ sind MVH.
+- Alle MVH sind RIZ.
 
-A) Einige Zebras sind Vegetarier.
-B) Alle Zebras sind Vegetarier.
-C) Einige Zebras sind keine Vegetarier.
-D) Alle Zebras sind keine Vegetarier.
+A) Alle DZ sind RIZ.
+B) Einige DZ sind keine RIZ.
+C) Einige DZ sind RIZ.
+D) Alle DZ sind keine RIZ.
 E) Keine der Schlussfolgerungen ist richtig.

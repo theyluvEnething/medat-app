@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Ingenieure sind Maler.
-- Alle Maler sind Klaviere.
+- Einige OV sind WB.
+- Alle WB sind keine AHI.
 
-A) Einige Ingenieure sind keine Klaviere.
-B) Alle Ingenieure sind Klaviere.
-C) Alle Ingenieure sind keine Klaviere.
-D) Einige Ingenieure sind Klaviere.
+A) Alle OV sind AHI.
+B) Alle OV sind keine AHI.
+C) Einige OV sind AHI.
+D) Einige OV sind keine AHI.
 E) Keine der Schlussfolgerungen ist richtig.

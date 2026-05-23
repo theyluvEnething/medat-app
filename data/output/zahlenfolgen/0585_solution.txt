@@ -1,2 +1,0 @@
-D — 547/885
-Jedes Glied = Summe der beiden Vorgänger

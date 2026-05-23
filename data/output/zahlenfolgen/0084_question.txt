@@ -1,7 +1,7 @@
-Zahlenfolge: 13 14 22 15 31 16 ? ?
+Zahlenfolge: 3 8 16 21 42 47 ? ?
 
-A) 50/16
-B) 49/18
-C) 32/32
-D) 16/16
+A) 94/99
+B) 52/57
+C) 92/99
+D) 94/98
 E) Keine der Antworten ist richtig

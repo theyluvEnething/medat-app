@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tulpen sind keine Türen.
-- Alle Türen sind Pilze.
+- Einige SK sind MMA.
+- Einige MMA sind AU.
 
-A) Einige Tulpen sind Pilze.
-B) Alle Tulpen sind Pilze.
-C) Alle Tulpen sind keine Pilze.
-D) Einige Tulpen sind keine Pilze.
+A) Einige SK sind AU.
+B) Alle SK sind keine AU.
+C) Alle SK sind AU.
+D) Einige SK sind keine AU.
 E) Keine der Schlussfolgerungen ist richtig.

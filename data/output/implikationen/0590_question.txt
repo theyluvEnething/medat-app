@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Stühle sind Schriftsteller.
-- Alle Schriftsteller sind Quallen.
+- Alle RP sind NL.
+- Alle NL sind BS.
 
-A) Alle Stühle sind Quallen.
-B) Alle Stühle sind keine Quallen.
-C) Einige Stühle sind Quallen.
-D) Einige Stühle sind keine Quallen.
+A) Alle RP sind keine BS.
+B) Alle RP sind BS.
+C) Einige RP sind BS.
+D) Einige RP sind keine BS.
 E) Keine der Schlussfolgerungen ist richtig.

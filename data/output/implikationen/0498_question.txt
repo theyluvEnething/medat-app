@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Uhren sind keine Kätzchen.
-- Einige Kätzchen sind keine Orchideen.
+- Alle UI sind UHM.
+- Einige UHM sind AU.
 
-A) Einige Uhren sind Orchideen.
-B) Alle Uhren sind keine Orchideen.
-C) Alle Uhren sind Orchideen.
-D) Einige Uhren sind keine Orchideen.
+A) Alle UI sind AU.
+B) Einige UI sind keine AU.
+C) Einige UI sind AU.
+D) Alle UI sind keine AU.
 E) Keine der Schlussfolgerungen ist richtig.

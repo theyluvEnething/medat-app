@@ -1,7 +1,0 @@
-Zahlenfolge: 15 12 27 39 66 105 ? ?
-
-A) 446/724
-B) 445/724
-C) 447/723
-D) 445/725
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Eichen sind keine Rosen.
-- Alle Rosen sind keine Lilien.
+- Einige VJ sind ED.
+- Alle ED sind keine JK.
 
-A) Alle Eichen sind keine Lilien.
-B) Alle Eichen sind Lilien.
-C) Einige Eichen sind keine Lilien.
-D) Einige Eichen sind Lilien.
+A) Einige VJ sind keine JK.
+B) Alle VJ sind keine JK.
+C) Einige VJ sind JK.
+D) Alle VJ sind JK.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Radios sind Elektroautos.
-- Alle Elektroautos sind Giraffen.
+- Einige ND sind TIA.
+- Alle TIA sind keine SS.
 
-A) Alle Radios sind keine Giraffen.
-B) Einige Radios sind keine Giraffen.
-C) Alle Radios sind Giraffen.
-D) Einige Radios sind Giraffen.
+A) Einige ND sind SS.
+B) Alle ND sind SS.
+C) Einige ND sind keine SS.
+D) Alle ND sind keine SS.
 E) Keine der Schlussfolgerungen ist richtig.

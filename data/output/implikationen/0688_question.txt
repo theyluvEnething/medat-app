@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Politiker sind Kätzchen.
-- Einige Kätzchen sind Spatzen.
+- Alle EIA sind IK.
+- Einige IK sind keine HR.
 
-A) Einige Politiker sind Spatzen.
-B) Alle Politiker sind Spatzen.
-C) Einige Politiker sind keine Spatzen.
-D) Alle Politiker sind keine Spatzen.
+A) Alle EIA sind keine HR.
+B) Einige EIA sind HR.
+C) Alle EIA sind HR.
+D) Einige EIA sind keine HR.
 E) Keine der Schlussfolgerungen ist richtig.

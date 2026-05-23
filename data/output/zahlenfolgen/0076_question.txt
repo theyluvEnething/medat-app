@@ -1,7 +1,7 @@
-Zahlenfolge: 3 6 12 24 48 96 ? ?
+Zahlenfolge: 20 22 26 32 40 50 ? ?
 
-A) 767/1535
-B) 770/1538
-C) 768/1536
-D) 766/1534
+A) 100/110
+B) 61/76
+C) 76/62
+D) 62/76
 E) Keine der Antworten ist richtig

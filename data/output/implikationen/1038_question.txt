@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Klaviere sind Fotografen.
-- Alle Fotografen sind Elektroautos.
+- Alle IEP sind EBJ.
+- Alle EBJ sind BO.
 
-A) Einige Klaviere sind keine Elektroautos.
-B) Alle Klaviere sind Elektroautos.
-C) Alle Klaviere sind keine Elektroautos.
-D) Einige Klaviere sind Elektroautos.
+A) Alle IEP sind keine BO.
+B) Einige IEP sind keine BO.
+C) Alle IEP sind BO.
+D) Einige IEP sind BO.
 E) Keine der Schlussfolgerungen ist richtig.

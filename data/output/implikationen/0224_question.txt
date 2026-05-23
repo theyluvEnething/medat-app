@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schauspieler sind Delfine.
-- Alle Delfine sind keine Stühle.
+- Alle HD sind WRK.
+- Alle WRK sind GOS.
 
-A) Einige Schauspieler sind Stühle.
-B) Einige Schauspieler sind keine Stühle.
-C) Alle Schauspieler sind Stühle.
-D) Alle Schauspieler sind keine Stühle.
+A) Alle HD sind keine GOS.
+B) Alle HD sind GOS.
+C) Einige HD sind keine GOS.
+D) Einige HD sind GOS.
 E) Keine der Schlussfolgerungen ist richtig.

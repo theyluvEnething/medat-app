@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wölfe sind Werkzeuge.
-- Einige Werkzeuge sind keine Radios.
+- Alle SM sind keine UK.
+- Alle UK sind WW.
 
-A) Einige Wölfe sind keine Radios.
-B) Alle Wölfe sind keine Radios.
-C) Alle Wölfe sind Radios.
-D) Einige Wölfe sind Radios.
+A) Einige SM sind keine WW.
+B) Alle SM sind WW.
+C) Alle SM sind keine WW.
+D) Einige SM sind WW.
 E) Keine der Schlussfolgerungen ist richtig.

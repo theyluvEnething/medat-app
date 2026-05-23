@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wölfe sind Chemiker.
-- Einige Chemiker sind Pandas.
+- Einige WC sind keine RSJ.
+- Einige RSJ sind keine WPD.
 
-A) Alle Wölfe sind Pandas.
-B) Alle Wölfe sind keine Pandas.
-C) Einige Wölfe sind Pandas.
-D) Einige Wölfe sind keine Pandas.
+A) Alle WC sind keine WPD.
+B) Einige WC sind WPD.
+C) Einige WC sind keine WPD.
+D) Alle WC sind WPD.
 E) Keine der Schlussfolgerungen ist richtig.

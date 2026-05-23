@@ -1,7 +1,0 @@
-Zahlenfolge: 17 12 24 2 31 -8 ? ?
-
-A) 44/-29
-B) -16/-21
-C) 46/-30
-D) 45/-28
-E) Keine der Antworten ist richtig

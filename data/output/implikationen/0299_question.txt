@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Amseln sind Säugetiere.
-- Alle Säugetiere sind keine Sportler.
+- Alle GA sind keine JK.
+- Alle JK sind RW.
 
-A) Einige Amseln sind keine Sportler.
-B) Alle Amseln sind Sportler.
-C) Alle Amseln sind keine Sportler.
-D) Einige Amseln sind Sportler.
+A) Alle GA sind keine RW.
+B) Einige GA sind keine RW.
+C) Einige GA sind RW.
+D) Alle GA sind RW.
 E) Keine der Schlussfolgerungen ist richtig.

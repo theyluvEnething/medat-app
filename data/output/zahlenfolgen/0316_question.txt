@@ -1,7 +1,0 @@
-Zahlenfolge: 2 10 12 22 34 56 ? ?
-
-A) 237/380
-B) 246/392
-C) 235/380
-D) 236/382
-E) Keine der Antworten ist richtig

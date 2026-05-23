@@ -1,2 +1,2 @@
-D — 348/350
-+2, ×2 im Wechsel
+D — 47/76
+Jedes Glied = Summe der beiden Vorgänger (Fibonacci mit Start 3,4)

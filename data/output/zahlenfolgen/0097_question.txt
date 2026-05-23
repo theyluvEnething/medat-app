@@ -1,7 +1,7 @@
-Zahlenfolge: 43 36 29 22 15 8 ? ?
+Zahlenfolge: 5 10 8 18 11 26 ? ?
 
-A) -4/-14
-B) -5/-12
-C) -7/-15
-D) -6/-13
+A) 14/33
+B) 16/34
+C) 14/34
+D) 15/34
 E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wissenschaftler sind Taucher.
-- Alle Taucher sind Uhren.
+- Alle MR sind US.
+- Alle US sind DW.
 
-A) Einige Wissenschaftler sind keine Uhren.
-B) Alle Wissenschaftler sind Uhren.
-C) Alle Wissenschaftler sind keine Uhren.
-D) Einige Wissenschaftler sind Uhren.
+A) Einige MR sind DW.
+B) Alle MR sind DW.
+C) Einige MR sind keine DW.
+D) Alle MR sind keine DW.
 E) Keine der Schlussfolgerungen ist richtig.

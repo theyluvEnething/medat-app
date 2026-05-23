@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mathematiker sind Flüsse.
-- Alle Flüsse sind Vasen.
+- Alle RV sind keine KE.
+- Einige KE sind keine BB.
 
-A) Einige Mathematiker sind keine Vasen.
-B) Alle Mathematiker sind keine Vasen.
-C) Alle Mathematiker sind Vasen.
-D) Einige Mathematiker sind Vasen.
+A) Einige RV sind BB.
+B) Einige RV sind keine BB.
+C) Alle RV sind keine BB.
+D) Alle RV sind BB.
 E) Keine der Schlussfolgerungen ist richtig.

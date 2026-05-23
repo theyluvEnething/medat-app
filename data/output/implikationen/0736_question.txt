@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Delfine sind Autos.
-- Alle Autos sind Skulpturen.
+- Alle DM sind CB.
+- Alle CB sind keine CRJ.
 
-A) Einige Delfine sind Skulpturen.
-B) Einige Delfine sind keine Skulpturen.
-C) Alle Delfine sind keine Skulpturen.
-D) Alle Delfine sind Skulpturen.
+A) Alle DM sind keine CRJ.
+B) Alle DM sind CRJ.
+C) Einige DM sind keine CRJ.
+D) Einige DM sind CRJ.
 E) Keine der Schlussfolgerungen ist richtig.

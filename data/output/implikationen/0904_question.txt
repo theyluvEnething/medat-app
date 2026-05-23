@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Türen sind Zebras.
-- Einige Zebras sind keine Blumen.
+- Einige UZ sind BN.
+- Alle BN sind keine UJ.
 
-A) Einige Türen sind Blumen.
-B) Alle Türen sind Blumen.
-C) Alle Türen sind keine Blumen.
-D) Einige Türen sind keine Blumen.
+A) Einige UZ sind UJ.
+B) Einige UZ sind keine UJ.
+C) Alle UZ sind keine UJ.
+D) Alle UZ sind UJ.
 E) Keine der Schlussfolgerungen ist richtig.

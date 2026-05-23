@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Autos sind keine Flüsse.
-- Einige Flüsse sind keine Mäuse.
+- Einige KHW sind WME.
+- Alle WME sind keine OD.
 
-A) Einige Autos sind Mäuse.
-B) Einige Autos sind keine Mäuse.
-C) Alle Autos sind Mäuse.
-D) Alle Autos sind keine Mäuse.
+A) Alle KHW sind keine OD.
+B) Einige KHW sind keine OD.
+C) Alle KHW sind OD.
+D) Einige KHW sind OD.
 E) Keine der Schlussfolgerungen ist richtig.

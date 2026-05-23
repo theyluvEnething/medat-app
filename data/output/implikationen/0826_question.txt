@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Musikinstrumente sind Flüsse.
-- Einige Flüsse sind keine Granite.
+- Einige ZT sind VI.
+- Alle VI sind EG.
 
-A) Alle Musikinstrumente sind keine Granite.
-B) Einige Musikinstrumente sind keine Granite.
-C) Einige Musikinstrumente sind Granite.
-D) Alle Musikinstrumente sind Granite.
+A) Alle ZT sind EG.
+B) Einige ZT sind EG.
+C) Einige ZT sind keine EG.
+D) Alle ZT sind keine EG.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Granite sind Insekten.
-- Einige Insekten sind keine Mammute.
+- Alle MGP sind keine EF.
+- Alle EF sind keine JKO.
 
-A) Alle Granite sind keine Mammute.
-B) Einige Granite sind Mammute.
-C) Alle Granite sind Mammute.
-D) Einige Granite sind keine Mammute.
+A) Alle MGP sind keine JKO.
+B) Einige MGP sind JKO.
+C) Alle MGP sind JKO.
+D) Einige MGP sind keine JKO.
 E) Keine der Schlussfolgerungen ist richtig.

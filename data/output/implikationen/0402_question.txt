@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Zebras sind keine Vulkane.
-- Alle Vulkane sind Radios.
+- Alle DZ sind keine NT.
+- Alle NT sind keine MJ.
 
-A) Alle Zebras sind Radios.
-B) Einige Zebras sind Radios.
-C) Alle Zebras sind keine Radios.
-D) Einige Zebras sind keine Radios.
+A) Einige DZ sind MJ.
+B) Einige DZ sind keine MJ.
+C) Alle DZ sind MJ.
+D) Alle DZ sind keine MJ.
 E) Keine der Schlussfolgerungen ist richtig.

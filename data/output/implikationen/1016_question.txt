@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tabletten sind Möbel.
-- Einige Möbel sind keine Taucher.
+- Alle SF sind keine VC.
+- Alle VC sind MS.
 
-A) Einige Tabletten sind keine Taucher.
-B) Alle Tabletten sind Taucher.
-C) Einige Tabletten sind Taucher.
-D) Alle Tabletten sind keine Taucher.
+A) Einige SF sind MS.
+B) Alle SF sind keine MS.
+C) Alle SF sind MS.
+D) Einige SF sind keine MS.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vasen sind keine Menschen.
-- Alle Menschen sind keine Chemiker.
+- Alle CL sind CF.
+- Alle CF sind UK.
 
-A) Alle Vasen sind Chemiker.
-B) Einige Vasen sind keine Chemiker.
-C) Einige Vasen sind Chemiker.
-D) Alle Vasen sind keine Chemiker.
+A) Alle CL sind UK.
+B) Einige CL sind keine UK.
+C) Einige CL sind UK.
+D) Alle CL sind keine UK.
 E) Keine der Schlussfolgerungen ist richtig.

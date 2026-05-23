@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Quallen sind Sänger.
-- Alle Sänger sind keine Rosen.
+- Alle WF sind keine OO.
+- Alle OO sind PGS.
 
-A) Alle Quallen sind keine Rosen.
-B) Einige Quallen sind Rosen.
-C) Alle Quallen sind Rosen.
-D) Einige Quallen sind keine Rosen.
+A) Alle WF sind PGS.
+B) Einige WF sind PGS.
+C) Einige WF sind keine PGS.
+D) Alle WF sind keine PGS.
 E) Keine der Schlussfolgerungen ist richtig.

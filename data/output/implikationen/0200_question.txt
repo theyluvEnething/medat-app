@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Anwälte sind Flüsse.
-- Alle Flüsse sind keine Vasen.
+- Alle GZU sind IA.
+- Alle IA sind ZF.
 
-A) Einige Anwälte sind keine Vasen.
-B) Alle Anwälte sind keine Vasen.
-C) Alle Anwälte sind Vasen.
-D) Einige Anwälte sind Vasen.
+A) Alle GZU sind ZF.
+B) Einige GZU sind ZF.
+C) Alle GZU sind keine ZF.
+D) Einige GZU sind keine ZF.
 E) Keine der Schlussfolgerungen ist richtig.

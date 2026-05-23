@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Teleskope sind Vögel.
-- Einige Vögel sind Bücher.
+- Alle NJT sind JT.
+- Einige JT sind keine BG.
 
-A) Alle Teleskope sind Bücher.
-B) Einige Teleskope sind keine Bücher.
-C) Einige Teleskope sind Bücher.
-D) Alle Teleskope sind keine Bücher.
+A) Einige NJT sind BG.
+B) Einige NJT sind keine BG.
+C) Alle NJT sind BG.
+D) Alle NJT sind keine BG.
 E) Keine der Schlussfolgerungen ist richtig.

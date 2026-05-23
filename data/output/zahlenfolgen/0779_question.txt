@@ -1,7 +1,0 @@
-Zahlenfolge: 17 19 21 23 25 27 ? ?
-
-A) 33/31
-B) 29/34
-C) 31/33
-D) 30/32
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tabletten sind keine Eichen.
-- Alle Eichen sind keine Lehrer.
+- Alle ZD sind GSK.
+- Alle GSK sind VS.
 
-A) Alle Tabletten sind Lehrer.
-B) Alle Tabletten sind keine Lehrer.
-C) Einige Tabletten sind keine Lehrer.
-D) Einige Tabletten sind Lehrer.
+A) Einige ZD sind keine VS.
+B) Einige ZD sind VS.
+C) Alle ZD sind keine VS.
+D) Alle ZD sind VS.
 E) Keine der Schlussfolgerungen ist richtig.

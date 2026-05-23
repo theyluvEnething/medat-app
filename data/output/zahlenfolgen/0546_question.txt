@@ -1,7 +1,0 @@
-Zahlenfolge: -8 8 -9 17 -10 26 ? ?
-
-A) -13/46
-B) -6/50
-C) -10/45
-D) -12/44
-E) Keine der Antworten ist richtig

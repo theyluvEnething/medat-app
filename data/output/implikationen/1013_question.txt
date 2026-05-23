@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Zebras sind keine Züge.
-- Einige Züge sind Glühbirnen.
+- Einige IZ sind AM.
+- Einige AM sind keine ZF.
 
-A) Einige Zebras sind Glühbirnen.
-B) Einige Zebras sind keine Glühbirnen.
-C) Alle Zebras sind keine Glühbirnen.
-D) Alle Zebras sind Glühbirnen.
+A) Einige IZ sind ZF.
+B) Einige IZ sind keine ZF.
+C) Alle IZ sind keine ZF.
+D) Alle IZ sind ZF.
 E) Keine der Schlussfolgerungen ist richtig.

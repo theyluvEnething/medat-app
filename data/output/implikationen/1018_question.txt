@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Dinosaurier sind keine Wissenschaftler.
-- Einige Wissenschaftler sind keine Hunde.
+- Alle RND sind keine MZH.
+- Alle MZH sind TKF.
 
-A) Alle Dinosaurier sind keine Hunde.
-B) Einige Dinosaurier sind keine Hunde.
-C) Alle Dinosaurier sind Hunde.
-D) Einige Dinosaurier sind Hunde.
+A) Alle RND sind keine TKF.
+B) Alle RND sind TKF.
+C) Einige RND sind TKF.
+D) Einige RND sind keine TKF.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,2 +1,0 @@
-B — 109/128
-Differenz wächst um +2 je Schritt

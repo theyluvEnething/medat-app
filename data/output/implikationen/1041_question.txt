@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Säugetiere sind keine Pandas.
-- Alle Pandas sind keine Amseln.
+- Alle VR sind OMC.
+- Einige OMC sind GC.
 
-A) Einige Säugetiere sind keine Amseln.
-B) Einige Säugetiere sind Amseln.
-C) Alle Säugetiere sind Amseln.
-D) Alle Säugetiere sind keine Amseln.
+A) Einige VR sind GC.
+B) Einige VR sind keine GC.
+C) Alle VR sind GC.
+D) Alle VR sind keine GC.
 E) Keine der Schlussfolgerungen ist richtig.

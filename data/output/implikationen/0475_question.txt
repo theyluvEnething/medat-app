@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vögel sind Taucher.
-- Alle Taucher sind Wirbeltiere.
+- Einige SW sind keine WK.
+- Einige WK sind CA.
 
-A) Alle Vögel sind Wirbeltiere.
-B) Alle Vögel sind keine Wirbeltiere.
-C) Einige Vögel sind Wirbeltiere.
-D) Einige Vögel sind keine Wirbeltiere.
+A) Einige SW sind CA.
+B) Alle SW sind keine CA.
+C) Einige SW sind keine CA.
+D) Alle SW sind CA.
 E) Keine der Schlussfolgerungen ist richtig.

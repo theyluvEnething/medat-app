@@ -1,7 +1,0 @@
-Zahlenfolge: 14 19 38 43 86 91 ? ?
-
-A) 389/394
-B) 373/380
-C) 374/379
-D) 375/378
-E) Keine der Antworten ist richtig

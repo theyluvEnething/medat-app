@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Diamanten sind Schriftsteller.
-- Einige Schriftsteller sind keine Taucher.
+- Einige PS sind JO.
+- Alle JO sind keine ITJ.
 
-A) Einige Diamanten sind Taucher.
-B) Alle Diamanten sind Taucher.
-C) Einige Diamanten sind keine Taucher.
-D) Alle Diamanten sind keine Taucher.
+A) Einige PS sind keine ITJ.
+B) Einige PS sind ITJ.
+C) Alle PS sind keine ITJ.
+D) Alle PS sind ITJ.
 E) Keine der Schlussfolgerungen ist richtig.

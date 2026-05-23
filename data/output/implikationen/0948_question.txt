@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tulpen sind Chemiker.
-- Alle Chemiker sind Dichter.
+- Einige NK sind AUT.
+- Alle AUT sind EJ.
 
-A) Einige Tulpen sind Dichter.
-B) Alle Tulpen sind Dichter.
-C) Alle Tulpen sind keine Dichter.
-D) Einige Tulpen sind keine Dichter.
+A) Alle NK sind keine EJ.
+B) Einige NK sind keine EJ.
+C) Alle NK sind EJ.
+D) Einige NK sind EJ.
 E) Keine der Schlussfolgerungen ist richtig.

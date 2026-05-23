@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Amphibien sind Fische.
-- Einige Fische sind Wirbeltiere.
+- Alle WU sind keine DLL.
+- Alle DLL sind AE.
 
-A) Einige Amphibien sind Wirbeltiere.
-B) Einige Amphibien sind keine Wirbeltiere.
-C) Alle Amphibien sind keine Wirbeltiere.
-D) Alle Amphibien sind Wirbeltiere.
+A) Einige WU sind AE.
+B) Einige WU sind keine AE.
+C) Alle WU sind keine AE.
+D) Alle WU sind AE.
 E) Keine der Schlussfolgerungen ist richtig.

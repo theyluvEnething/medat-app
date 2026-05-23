@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Musikinstrumente sind keine Lilien.
-- Alle Lilien sind keine Orchideen.
+- Einige TD sind LJ.
+- Alle LJ sind keine ZV.
 
-A) Einige Musikinstrumente sind keine Orchideen.
-B) Einige Musikinstrumente sind Orchideen.
-C) Alle Musikinstrumente sind keine Orchideen.
-D) Alle Musikinstrumente sind Orchideen.
+A) Einige TD sind ZV.
+B) Einige TD sind keine ZV.
+C) Alle TD sind keine ZV.
+D) Alle TD sind ZV.
 E) Keine der Schlussfolgerungen ist richtig.

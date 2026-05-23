@@ -1,2 +1,2 @@
-A — 3/45
-Zwei Folgen verschränkt: +-3 und +6
+B — 48/63
+n² + -1 (1²+-1=0, 2²+-1=3, ...)

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vögel sind Häuser.
-- Einige Häuser sind Insekten.
+- Einige DI sind HUJ.
+- Alle HUJ sind keine HW.
 
-A) Alle Vögel sind keine Insekten.
-B) Einige Vögel sind Insekten.
-C) Alle Vögel sind Insekten.
-D) Einige Vögel sind keine Insekten.
+A) Alle DI sind keine HW.
+B) Einige DI sind HW.
+C) Alle DI sind HW.
+D) Einige DI sind keine HW.
 E) Keine der Schlussfolgerungen ist richtig.

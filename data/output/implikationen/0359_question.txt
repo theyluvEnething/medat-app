@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tiger sind Schriftsteller.
-- Einige Schriftsteller sind keine Telefone.
+- Alle TJ sind ARD.
+- Alle ARD sind RM.
 
-A) Einige Tiger sind keine Telefone.
-B) Alle Tiger sind Telefone.
-C) Alle Tiger sind keine Telefone.
-D) Einige Tiger sind Telefone.
+A) Einige TJ sind keine RM.
+B) Einige TJ sind RM.
+C) Alle TJ sind RM.
+D) Alle TJ sind keine RM.
 E) Keine der Schlussfolgerungen ist richtig.

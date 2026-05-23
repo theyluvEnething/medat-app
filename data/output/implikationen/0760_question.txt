@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Metalle sind keine Eichen.
-- Alle Eichen sind Häuser.
+- Alle KDM sind VK.
+- Alle VK sind SP.
 
-A) Einige Metalle sind keine Häuser.
-B) Einige Metalle sind Häuser.
-C) Alle Metalle sind keine Häuser.
-D) Alle Metalle sind Häuser.
+A) Einige KDM sind SP.
+B) Alle KDM sind SP.
+C) Einige KDM sind keine SP.
+D) Alle KDM sind keine SP.
 E) Keine der Schlussfolgerungen ist richtig.

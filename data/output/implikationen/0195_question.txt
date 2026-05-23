@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Vulkane sind keine Gräser.
-- Alle Gräser sind Wissenschaftler.
+- Einige BVW sind ZT.
+- Alle ZT sind GMJ.
 
-A) Einige Vulkane sind Wissenschaftler.
-B) Alle Vulkane sind Wissenschaftler.
-C) Einige Vulkane sind keine Wissenschaftler.
-D) Alle Vulkane sind keine Wissenschaftler.
+A) Einige BVW sind keine GMJ.
+B) Alle BVW sind GMJ.
+C) Alle BVW sind keine GMJ.
+D) Einige BVW sind GMJ.
 E) Keine der Schlussfolgerungen ist richtig.

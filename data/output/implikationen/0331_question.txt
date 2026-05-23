@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Kätzchen sind Vegetarier.
-- Alle Vegetarier sind keine Eichen.
+- Alle DV sind keine KFV.
+- Alle KFV sind keine UW.
 
-A) Alle Kätzchen sind Eichen.
-B) Einige Kätzchen sind Eichen.
-C) Alle Kätzchen sind keine Eichen.
-D) Einige Kätzchen sind keine Eichen.
+A) Alle DV sind UW.
+B) Alle DV sind keine UW.
+C) Einige DV sind UW.
+D) Einige DV sind keine UW.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Giraffen sind keine Werkzeuge.
-- Alle Werkzeuge sind Tabletten.
+- Einige FD sind HUW.
+- Alle HUW sind keine SFD.
 
-A) Einige Giraffen sind keine Tabletten.
-B) Einige Giraffen sind Tabletten.
-C) Alle Giraffen sind Tabletten.
-D) Alle Giraffen sind keine Tabletten.
+A) Alle FD sind keine SFD.
+B) Alle FD sind SFD.
+C) Einige FD sind SFD.
+D) Einige FD sind keine SFD.
 E) Keine der Schlussfolgerungen ist richtig.

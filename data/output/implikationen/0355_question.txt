@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Uhren sind keine Pandas.
-- Alle Pandas sind Metalle.
+- Alle SDG sind BE.
+- Alle BE sind UM.
 
-A) Alle Uhren sind keine Metalle.
-B) Einige Uhren sind Metalle.
-C) Einige Uhren sind keine Metalle.
-D) Alle Uhren sind Metalle.
+A) Alle SDG sind UM.
+B) Alle SDG sind keine UM.
+C) Einige SDG sind UM.
+D) Einige SDG sind keine UM.
 E) Keine der Schlussfolgerungen ist richtig.

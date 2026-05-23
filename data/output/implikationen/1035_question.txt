@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Krokodile sind keine Gedichte.
-- Alle Gedichte sind keine Delfine.
+- Einige OEC sind HIK.
+- Alle HIK sind keine BMZ.
 
-A) Einige Krokodile sind Delfine.
-B) Einige Krokodile sind keine Delfine.
-C) Alle Krokodile sind keine Delfine.
-D) Alle Krokodile sind Delfine.
+A) Alle OEC sind BMZ.
+B) Einige OEC sind BMZ.
+C) Alle OEC sind keine BMZ.
+D) Einige OEC sind keine BMZ.
 E) Keine der Schlussfolgerungen ist richtig.

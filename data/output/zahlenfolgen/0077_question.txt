@@ -1,7 +1,7 @@
-Zahlenfolge: -9 0 9 18 27 36 ? ?
+Zahlenfolge: 7 11 15 19 23 27 ? ?
 
-A) 55/64
-B) 55/61
-C) 54/63
-D) 56/62
+A) 31/35
+B) 35/31
+C) 29/35
+D) 31/34
 E) Keine der Antworten ist richtig

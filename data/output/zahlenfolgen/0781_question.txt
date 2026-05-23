@@ -1,7 +1,0 @@
-Zahlenfolge: 18 -4 19 -12 20 -20 ? ?
-
-A) 23/-35
-B) 14/-44
-C) 22/-36
-D) 24/-35
-E) Keine der Antworten ist richtig

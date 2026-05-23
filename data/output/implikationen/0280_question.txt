@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wale sind Diamanten.
-- Einige Diamanten sind keine Vegetarier.
+- Alle VC sind keine SA.
+- Alle SA sind IO.
 
-A) Alle Wale sind Vegetarier.
-B) Einige Wale sind keine Vegetarier.
-C) Alle Wale sind keine Vegetarier.
-D) Einige Wale sind Vegetarier.
+A) Alle VC sind keine IO.
+B) Einige VC sind keine IO.
+C) Einige VC sind IO.
+D) Alle VC sind IO.
 E) Keine der Schlussfolgerungen ist richtig.

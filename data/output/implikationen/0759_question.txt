@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mathematiker sind Gräser.
-- Alle Gräser sind Sänger.
+- Alle SC sind KG.
+- Alle KG sind DP.
 
-A) Einige Mathematiker sind Sänger.
-B) Einige Mathematiker sind keine Sänger.
-C) Alle Mathematiker sind keine Sänger.
-D) Alle Mathematiker sind Sänger.
+A) Einige SC sind DP.
+B) Alle SC sind keine DP.
+C) Einige SC sind keine DP.
+D) Alle SC sind DP.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Mammute sind keine Lehrer.
-- Einige Lehrer sind keine Giraffen.
+- Alle CD sind GLZ.
+- Einige GLZ sind JIL.
 
-A) Einige Mammute sind keine Giraffen.
-B) Alle Mammute sind keine Giraffen.
-C) Alle Mammute sind Giraffen.
-D) Einige Mammute sind Giraffen.
+A) Einige CD sind JIL.
+B) Alle CD sind JIL.
+C) Alle CD sind keine JIL.
+D) Einige CD sind keine JIL.
 E) Keine der Schlussfolgerungen ist richtig.

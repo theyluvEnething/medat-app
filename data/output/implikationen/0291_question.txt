@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Pilze sind keine Vegetarier.
-- Alle Vegetarier sind Werkzeuge.
+- Einige PD sind VR.
+- Alle VR sind keine MV.
 
-A) Einige Pilze sind Werkzeuge.
-B) Alle Pilze sind keine Werkzeuge.
-C) Alle Pilze sind Werkzeuge.
-D) Einige Pilze sind keine Werkzeuge.
+A) Alle PD sind keine MV.
+B) Alle PD sind MV.
+C) Einige PD sind keine MV.
+D) Einige PD sind MV.
 E) Keine der Schlussfolgerungen ist richtig.

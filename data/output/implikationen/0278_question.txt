@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Lehrer sind Bäume.
-- Einige Bäume sind keine Schlangen.
+- Einige OSL sind PIV.
+- Einige PIV sind keine WP.
 
-A) Einige Lehrer sind Schlangen.
-B) Alle Lehrer sind Schlangen.
-C) Alle Lehrer sind keine Schlangen.
-D) Einige Lehrer sind keine Schlangen.
+A) Einige OSL sind keine WP.
+B) Alle OSL sind keine WP.
+C) Alle OSL sind WP.
+D) Einige OSL sind WP.
 E) Keine der Schlussfolgerungen ist richtig.

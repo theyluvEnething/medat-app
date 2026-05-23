@@ -1,7 +1,7 @@
-Zahlenfolge: 92 29 34 43 48 84 ? ?
+Zahlenfolge: 33 38 39 45 52 65 ? ?
 
-A) 103/301
-B) 104/303
-C) 105/300
-D) 105/302
+A) 85/118
+B) 83/118
+C) 130/143
+D) 87/118
 E) Keine der Antworten ist richtig

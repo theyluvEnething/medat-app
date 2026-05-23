@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Radios sind Tabletten.
-- Alle Tabletten sind Klaviere.
+- Einige RBS sind ME.
+- Alle ME sind keine IE.
 
-A) Alle Radios sind Klaviere.
-B) Einige Radios sind Klaviere.
-C) Einige Radios sind keine Klaviere.
-D) Alle Radios sind keine Klaviere.
+A) Alle RBS sind IE.
+B) Alle RBS sind keine IE.
+C) Einige RBS sind IE.
+D) Einige RBS sind keine IE.
 E) Keine der Schlussfolgerungen ist richtig.

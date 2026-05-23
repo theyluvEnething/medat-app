@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Reptilien sind keine Bäume.
-- Einige Bäume sind Quartette.
+- Alle NB sind PET.
+- Einige PET sind IOS.
 
-A) Alle Reptilien sind Quartette.
-B) Einige Reptilien sind Quartette.
-C) Einige Reptilien sind keine Quartette.
-D) Alle Reptilien sind keine Quartette.
+A) Einige NB sind keine IOS.
+B) Alle NB sind IOS.
+C) Alle NB sind keine IOS.
+D) Einige NB sind IOS.
 E) Keine der Schlussfolgerungen ist richtig.

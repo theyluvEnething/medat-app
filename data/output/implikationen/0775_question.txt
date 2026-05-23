@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gedichte sind keine Vögel.
-- Alle Vögel sind Roboter.
+- Alle AF sind KW.
+- Einige KW sind NAZ.
 
-A) Alle Gedichte sind keine Roboter.
-B) Einige Gedichte sind Roboter.
-C) Alle Gedichte sind Roboter.
-D) Einige Gedichte sind keine Roboter.
+A) Einige AF sind keine NAZ.
+B) Alle AF sind keine NAZ.
+C) Einige AF sind NAZ.
+D) Alle AF sind NAZ.
 E) Keine der Schlussfolgerungen ist richtig.

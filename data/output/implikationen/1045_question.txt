@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Säugetiere sind Schiffe.
-- Einige Schiffe sind keine Eidechsen.
+- Einige WN sind DOZ.
+- Einige DOZ sind keine WB.
 
-A) Einige Säugetiere sind Eidechsen.
-B) Alle Säugetiere sind keine Eidechsen.
-C) Alle Säugetiere sind Eidechsen.
-D) Einige Säugetiere sind keine Eidechsen.
+A) Einige WN sind WB.
+B) Alle WN sind WB.
+C) Alle WN sind keine WB.
+D) Einige WN sind keine WB.
 E) Keine der Schlussfolgerungen ist richtig.

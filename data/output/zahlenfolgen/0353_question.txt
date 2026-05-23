@@ -1,7 +1,0 @@
-Zahlenfolge: 21 24 30 39 51 66 ? ?
-
-A) 131/158
-B) 127/154
-C) 129/156
-D) 131/157
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Tulpen sind Taucher.
-- Alle Taucher sind Wissenschaftler.
+- Alle HF sind OU.
+- Alle OU sind AU.
 
-A) Einige Tulpen sind Wissenschaftler.
-B) Einige Tulpen sind keine Wissenschaftler.
-C) Alle Tulpen sind Wissenschaftler.
-D) Alle Tulpen sind keine Wissenschaftler.
+A) Alle HF sind keine AU.
+B) Einige HF sind AU.
+C) Einige HF sind keine AU.
+D) Alle HF sind AU.
 E) Keine der Schlussfolgerungen ist richtig.

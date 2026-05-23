@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Vulkane sind Elektroautos.
-- Alle Elektroautos sind Fische.
+- Alle PP sind keine AVE.
+- Alle AVE sind keine US.
 
-A) Einige Vulkane sind Fische.
-B) Alle Vulkane sind Fische.
-C) Alle Vulkane sind keine Fische.
-D) Einige Vulkane sind keine Fische.
+A) Alle PP sind US.
+B) Einige PP sind keine US.
+C) Alle PP sind keine US.
+D) Einige PP sind US.
 E) Keine der Schlussfolgerungen ist richtig.

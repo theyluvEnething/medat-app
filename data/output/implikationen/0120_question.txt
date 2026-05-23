@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vögel sind keine Tomaten.
-- Alle Tomaten sind keine Wirbeltiere.
+- Einige HI sind GV.
+- Alle GV sind WOG.
 
-A) Einige Vögel sind Wirbeltiere.
-B) Alle Vögel sind keine Wirbeltiere.
-C) Alle Vögel sind Wirbeltiere.
-D) Einige Vögel sind keine Wirbeltiere.
+A) Alle HI sind keine WOG.
+B) Alle HI sind WOG.
+C) Einige HI sind keine WOG.
+D) Einige HI sind WOG.
 E) Keine der Schlussfolgerungen ist richtig.

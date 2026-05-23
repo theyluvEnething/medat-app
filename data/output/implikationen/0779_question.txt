@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Smartphones sind keine Granite.
-- Einige Granite sind keine Hunde.
+- Einige FM sind PI.
+- Alle PI sind GHF.
 
-A) Einige Smartphones sind keine Hunde.
-B) Alle Smartphones sind Hunde.
-C) Alle Smartphones sind keine Hunde.
-D) Einige Smartphones sind Hunde.
+A) Einige FM sind keine GHF.
+B) Alle FM sind GHF.
+C) Einige FM sind GHF.
+D) Alle FM sind keine GHF.
 E) Keine der Schlussfolgerungen ist richtig.

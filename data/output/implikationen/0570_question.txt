@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Amseln sind Menschen.
-- Alle Menschen sind keine Blumen.
+- Alle AKI sind HL.
+- Alle HL sind KS.
 
-A) Einige Amseln sind keine Blumen.
-B) Einige Amseln sind Blumen.
-C) Alle Amseln sind keine Blumen.
-D) Alle Amseln sind Blumen.
+A) Einige AKI sind KS.
+B) Einige AKI sind keine KS.
+C) Alle AKI sind keine KS.
+D) Alle AKI sind KS.
 E) Keine der Schlussfolgerungen ist richtig.

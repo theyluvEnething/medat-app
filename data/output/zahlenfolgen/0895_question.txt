@@ -1,7 +1,0 @@
-Zahlenfolge: 1 -2 -6 -9 -27 -30 ? ?
-
-A) -277/-281
-B) -60/-67
-C) -279/-282
-D) -280/-281
-E) Keine der Antworten ist richtig

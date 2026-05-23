@@ -1,2 +1,2 @@
-B — 54/-27
-Zwei Folgen verschränkt: +6 und +-7
+C — 50/65
+n² + 1 (1²+1=2, 2²+1=5, ...)

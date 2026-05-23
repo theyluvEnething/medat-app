@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Sportler sind Gräser.
-- Alle Gräser sind Pilze.
+- Alle JAN sind keine KE.
+- Alle KE sind RG.
 
-A) Alle Sportler sind keine Pilze.
-B) Einige Sportler sind keine Pilze.
-C) Alle Sportler sind Pilze.
-D) Einige Sportler sind Pilze.
+A) Einige JAN sind RG.
+B) Alle JAN sind keine RG.
+C) Einige JAN sind keine RG.
+D) Alle JAN sind RG.
 E) Keine der Schlussfolgerungen ist richtig.

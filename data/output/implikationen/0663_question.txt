@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Dinosaurier sind Wale.
-- Einige Wale sind keine Sportler.
+- Einige DV sind UD.
+- Einige UD sind VR.
 
-A) Einige Dinosaurier sind keine Sportler.
-B) Alle Dinosaurier sind keine Sportler.
-C) Alle Dinosaurier sind Sportler.
-D) Einige Dinosaurier sind Sportler.
+A) Alle DV sind VR.
+B) Alle DV sind keine VR.
+C) Einige DV sind VR.
+D) Einige DV sind keine VR.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 28 29 33 40 50 63 ? ?
-
-A) 145/120
-B) 118/147
-C) 120/145
-D) 119/144
-E) Keine der Antworten ist richtig

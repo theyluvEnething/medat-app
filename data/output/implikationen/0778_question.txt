@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Fische sind Nashörner.
-- Einige Nashörner sind Werkzeuge.
+- Alle EL sind GN.
+- Alle GN sind PUK.
 
-A) Alle Fische sind Werkzeuge.
-B) Einige Fische sind Werkzeuge.
-C) Einige Fische sind keine Werkzeuge.
-D) Alle Fische sind keine Werkzeuge.
+A) Alle EL sind keine PUK.
+B) Einige EL sind PUK.
+C) Einige EL sind keine PUK.
+D) Alle EL sind PUK.
 E) Keine der Schlussfolgerungen ist richtig.

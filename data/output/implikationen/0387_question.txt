@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Bäume sind keine Glühbirnen.
-- Alle Glühbirnen sind keine Häuser.
+- Alle UHH sind BF.
+- Einige BF sind GLD.
 
-A) Alle Bäume sind Häuser.
-B) Einige Bäume sind Häuser.
-C) Einige Bäume sind keine Häuser.
-D) Alle Bäume sind keine Häuser.
+A) Einige UHH sind GLD.
+B) Alle UHH sind GLD.
+C) Alle UHH sind keine GLD.
+D) Einige UHH sind keine GLD.
 E) Keine der Schlussfolgerungen ist richtig.

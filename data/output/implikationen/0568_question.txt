@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Stühle sind Schriftsteller.
-- Alle Schriftsteller sind Züge.
+- Alle OK sind SP.
+- Alle SP sind IMC.
 
-A) Einige Stühle sind keine Züge.
-B) Alle Stühle sind Züge.
-C) Alle Stühle sind keine Züge.
-D) Einige Stühle sind Züge.
+A) Einige OK sind keine IMC.
+B) Alle OK sind IMC.
+C) Alle OK sind keine IMC.
+D) Einige OK sind IMC.
 E) Keine der Schlussfolgerungen ist richtig.

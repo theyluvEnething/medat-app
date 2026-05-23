@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Skulpturen sind keine Lehrer.
-- Alle Lehrer sind keine Rosen.
+- Einige PTI sind OZ.
+- Alle OZ sind keine MO.
 
-A) Alle Skulpturen sind Rosen.
-B) Einige Skulpturen sind Rosen.
-C) Alle Skulpturen sind keine Rosen.
-D) Einige Skulpturen sind keine Rosen.
+A) Alle PTI sind keine MO.
+B) Alle PTI sind MO.
+C) Einige PTI sind MO.
+D) Einige PTI sind keine MO.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Giraffen sind Schiffe.
-- Einige Schiffe sind keine Chemiker.
+- Alle CE sind keine JVU.
+- Alle JVU sind OF.
 
-A) Alle Giraffen sind Chemiker.
-B) Einige Giraffen sind keine Chemiker.
-C) Einige Giraffen sind Chemiker.
-D) Alle Giraffen sind keine Chemiker.
+A) Alle CE sind keine OF.
+B) Einige CE sind OF.
+C) Alle CE sind OF.
+D) Einige CE sind keine OF.
 E) Keine der Schlussfolgerungen ist richtig.

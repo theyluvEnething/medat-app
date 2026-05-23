@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Sänger sind Eichen.
-- Alle Eichen sind Mathematiker.
+- Alle LE sind keine KI.
+- Alle KI sind DO.
 
-A) Alle Sänger sind Mathematiker.
-B) Alle Sänger sind keine Mathematiker.
-C) Einige Sänger sind keine Mathematiker.
-D) Einige Sänger sind Mathematiker.
+A) Alle LE sind DO.
+B) Alle LE sind keine DO.
+C) Einige LE sind DO.
+D) Einige LE sind keine DO.
 E) Keine der Schlussfolgerungen ist richtig.

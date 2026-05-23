@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Delfine sind keine Bäume.
-- Einige Bäume sind keine Schriftsteller.
+- Alle LJ sind WD.
+- Alle WD sind PCU.
 
-A) Einige Delfine sind keine Schriftsteller.
-B) Alle Delfine sind Schriftsteller.
-C) Alle Delfine sind keine Schriftsteller.
-D) Einige Delfine sind Schriftsteller.
+A) Einige LJ sind PCU.
+B) Alle LJ sind PCU.
+C) Einige LJ sind keine PCU.
+D) Alle LJ sind keine PCU.
 E) Keine der Schlussfolgerungen ist richtig.

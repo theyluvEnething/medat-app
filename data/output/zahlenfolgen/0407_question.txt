@@ -1,7 +1,0 @@
-Zahlenfolge: 24 10 -4 -18 -32 -46 ? ?
-
-A) -74/-88
-B) -76/-86
-C) -73/-86
-D) -88/-74
-E) Keine der Antworten ist richtig

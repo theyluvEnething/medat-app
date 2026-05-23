@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Kätzchen sind keine Vegetarier.
-- Alle Vegetarier sind keine Ärzte.
+- Einige KF sind EH.
+- Alle EH sind keine ROO.
 
-A) Einige Kätzchen sind keine Ärzte.
-B) Alle Kätzchen sind keine Ärzte.
-C) Alle Kätzchen sind Ärzte.
-D) Einige Kätzchen sind Ärzte.
+A) Alle KF sind ROO.
+B) Alle KF sind keine ROO.
+C) Einige KF sind ROO.
+D) Einige KF sind keine ROO.
 E) Keine der Schlussfolgerungen ist richtig.

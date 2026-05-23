@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Mammute sind keine Gemälde.
-- Alle Gemälde sind Taucher.
+- Einige BJ sind ST.
+- Alle ST sind keine VFF.
 
-A) Alle Mammute sind keine Taucher.
-B) Alle Mammute sind Taucher.
-C) Einige Mammute sind Taucher.
-D) Einige Mammute sind keine Taucher.
+A) Alle BJ sind VFF.
+B) Einige BJ sind VFF.
+C) Alle BJ sind keine VFF.
+D) Einige BJ sind keine VFF.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,2 +1,2 @@
-B — 64/81
-n² + 0
+A — 25/41
+Ab 3. Glied: Summe der beiden Vorgänger + 1

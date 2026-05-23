@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gräser sind keine Züge.
-- Einige Züge sind keine Schauspieler.
+- Alle PZO sind keine TZ.
+- Alle TZ sind keine WD.
 
-A) Einige Gräser sind keine Schauspieler.
-B) Einige Gräser sind Schauspieler.
-C) Alle Gräser sind keine Schauspieler.
-D) Alle Gräser sind Schauspieler.
+A) Einige PZO sind keine WD.
+B) Alle PZO sind keine WD.
+C) Alle PZO sind WD.
+D) Einige PZO sind WD.
 E) Keine der Schlussfolgerungen ist richtig.

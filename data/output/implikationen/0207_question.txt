@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Anwälte sind keine Wissenschaftler.
-- Alle Wissenschaftler sind keine Möbel.
+- Einige WU sind HFL.
+- Alle HFL sind EZ.
 
-A) Alle Anwälte sind Möbel.
-B) Einige Anwälte sind keine Möbel.
-C) Einige Anwälte sind Möbel.
-D) Alle Anwälte sind keine Möbel.
+A) Einige WU sind EZ.
+B) Alle WU sind keine EZ.
+C) Einige WU sind keine EZ.
+D) Alle WU sind EZ.
 E) Keine der Schlussfolgerungen ist richtig.

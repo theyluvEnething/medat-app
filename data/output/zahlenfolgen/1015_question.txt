@@ -1,7 +1,0 @@
-Zahlenfolge: 15 12 36 33 99 96 ? ?
-
-A) 112/128
-B) 853/854
-C) 857/851
-D) 855/852
-E) Keine der Antworten ist richtig

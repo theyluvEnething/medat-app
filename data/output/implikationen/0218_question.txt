@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Eichen sind Tulpen.
-- Alle Tulpen sind keine Möbel.
+- Alle DU sind keine GB.
+- Alle GB sind LPK.
 
-A) Alle Eichen sind keine Möbel.
-B) Einige Eichen sind keine Möbel.
-C) Alle Eichen sind Möbel.
-D) Einige Eichen sind Möbel.
+A) Einige DU sind LPK.
+B) Einige DU sind keine LPK.
+C) Alle DU sind LPK.
+D) Alle DU sind keine LPK.
 E) Keine der Schlussfolgerungen ist richtig.

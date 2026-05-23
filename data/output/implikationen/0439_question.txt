@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Marder sind keine Quartette.
-- Einige Quartette sind Kupfer.
+- Alle PZ sind JNN.
+- Einige JNN sind IU.
 
-A) Alle Marder sind Kupfer.
-B) Einige Marder sind Kupfer.
-C) Alle Marder sind keine Kupfer.
-D) Einige Marder sind keine Kupfer.
+A) Einige PZ sind keine IU.
+B) Alle PZ sind keine IU.
+C) Alle PZ sind IU.
+D) Einige PZ sind IU.
 E) Keine der Schlussfolgerungen ist richtig.

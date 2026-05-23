@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Blumen sind Maler.
-- Einige Maler sind keine Reptilien.
+- Alle BJ sind keine KCD.
+- Alle KCD sind TWS.
 
-A) Einige Blumen sind Reptilien.
-B) Einige Blumen sind keine Reptilien.
-C) Alle Blumen sind keine Reptilien.
-D) Alle Blumen sind Reptilien.
+A) Alle BJ sind keine TWS.
+B) Einige BJ sind keine TWS.
+C) Einige BJ sind TWS.
+D) Alle BJ sind TWS.
 E) Keine der Schlussfolgerungen ist richtig.

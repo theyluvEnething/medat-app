@@ -1,7 +1,0 @@
-Zahlenfolge: 46 59 72 85 98 111 ? ?
-
-A) 138/149
-B) 150/137
-C) 136/149
-D) 137/150
-E) Keine der Antworten ist richtig

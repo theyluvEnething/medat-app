@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Pilze sind Uhren.
-- Alle Uhren sind keine Amphibien.
+- Alle MU sind EC.
+- Alle EC sind RG.
 
-A) Einige Pilze sind keine Amphibien.
-B) Alle Pilze sind Amphibien.
-C) Einige Pilze sind Amphibien.
-D) Alle Pilze sind keine Amphibien.
+A) Einige MU sind keine RG.
+B) Alle MU sind keine RG.
+C) Einige MU sind RG.
+D) Alle MU sind RG.
 E) Keine der Schlussfolgerungen ist richtig.

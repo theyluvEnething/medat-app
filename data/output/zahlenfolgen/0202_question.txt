@@ -1,7 +1,0 @@
-Zahlenfolge: 12 7 19 26 45 71 ? ?
-
-A) 301/489
-B) 303/490
-C) 302/489
-D) 305/492
-E) Keine der Antworten ist richtig

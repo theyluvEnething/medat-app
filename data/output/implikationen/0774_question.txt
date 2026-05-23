@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Elektroautos sind Teleskope.
-- Alle Teleskope sind Skulpturen.
+- Alle DT sind keine HI.
+- Alle HI sind OZ.
 
-A) Alle Elektroautos sind keine Skulpturen.
-B) Alle Elektroautos sind Skulpturen.
-C) Einige Elektroautos sind Skulpturen.
-D) Einige Elektroautos sind keine Skulpturen.
+A) Alle DT sind keine OZ.
+B) Einige DT sind OZ.
+C) Alle DT sind OZ.
+D) Einige DT sind keine OZ.
 E) Keine der Schlussfolgerungen ist richtig.

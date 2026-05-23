@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Quartette sind Delfine.
-- Einige Delfine sind Politiker.
+- Alle VS sind VEB.
+- Alle VEB sind keine LNM.
 
-A) Einige Quartette sind Politiker.
-B) Einige Quartette sind keine Politiker.
-C) Alle Quartette sind Politiker.
-D) Alle Quartette sind keine Politiker.
+A) Einige VS sind LNM.
+B) Einige VS sind keine LNM.
+C) Alle VS sind keine LNM.
+D) Alle VS sind LNM.
 E) Keine der Schlussfolgerungen ist richtig.

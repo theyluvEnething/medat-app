@@ -1,7 +1,0 @@
-Zahlenfolge: 5 6 8 11 15 20 ? ?
-
-A) 42/48
-B) 39/52
-C) 39/49
-D) 41/50
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Kupfer sind keine Flüsse.
-- Alle Flüsse sind keine Blumen.
+- Alle IEM sind FB.
+- Einige FB sind WCZ.
 
-A) Einige Kupfer sind Blumen.
-B) Alle Kupfer sind Blumen.
-C) Alle Kupfer sind keine Blumen.
-D) Einige Kupfer sind keine Blumen.
+A) Alle IEM sind WCZ.
+B) Alle IEM sind keine WCZ.
+C) Einige IEM sind keine WCZ.
+D) Einige IEM sind WCZ.
 E) Keine der Schlussfolgerungen ist richtig.

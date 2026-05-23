@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Sportler sind Stühle.
-- Einige Stühle sind keine Giraffen.
+- Alle FK sind OR.
+- Alle OR sind EGJ.
 
-A) Alle Sportler sind keine Giraffen.
-B) Alle Sportler sind Giraffen.
-C) Einige Sportler sind keine Giraffen.
-D) Einige Sportler sind Giraffen.
+A) Einige FK sind keine EGJ.
+B) Einige FK sind EGJ.
+C) Alle FK sind EGJ.
+D) Alle FK sind keine EGJ.
 E) Keine der Schlussfolgerungen ist richtig.

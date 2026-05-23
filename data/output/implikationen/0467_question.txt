@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Quallen sind Delfine.
-- Einige Delfine sind keine Anwälte.
+- Alle ND sind MCD.
+- Alle MCD sind keine SJ.
 
-A) Einige Quallen sind Anwälte.
-B) Alle Quallen sind keine Anwälte.
-C) Alle Quallen sind Anwälte.
-D) Einige Quallen sind keine Anwälte.
+A) Einige ND sind keine SJ.
+B) Einige ND sind SJ.
+C) Alle ND sind SJ.
+D) Alle ND sind keine SJ.
 E) Keine der Schlussfolgerungen ist richtig.

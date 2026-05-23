@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Kupfer sind Pilze.
-- Einige Pilze sind keine Zebras.
+- Alle IH sind NO.
+- Alle NO sind PI.
 
-A) Einige Kupfer sind keine Zebras.
-B) Alle Kupfer sind keine Zebras.
-C) Alle Kupfer sind Zebras.
-D) Einige Kupfer sind Zebras.
+A) Alle IH sind keine PI.
+B) Alle IH sind PI.
+C) Einige IH sind keine PI.
+D) Einige IH sind PI.
 E) Keine der Schlussfolgerungen ist richtig.

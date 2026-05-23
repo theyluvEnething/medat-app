@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gedichte sind Haie.
-- Einige Haie sind Bücher.
+- Alle FG sind WCM.
+- Alle WCM sind keine CO.
 
-A) Einige Gedichte sind Bücher.
-B) Einige Gedichte sind keine Bücher.
-C) Alle Gedichte sind keine Bücher.
-D) Alle Gedichte sind Bücher.
+A) Einige FG sind CO.
+B) Einige FG sind keine CO.
+C) Alle FG sind keine CO.
+D) Alle FG sind CO.
 E) Keine der Schlussfolgerungen ist richtig.

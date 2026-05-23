@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Quartette sind keine Bücher.
-- Alle Bücher sind keine Gemälde.
+- Alle NB sind BJS.
+- Einige BJS sind AH.
 
-A) Einige Quartette sind Gemälde.
-B) Einige Quartette sind keine Gemälde.
-C) Alle Quartette sind keine Gemälde.
-D) Alle Quartette sind Gemälde.
+A) Einige NB sind keine AH.
+B) Alle NB sind keine AH.
+C) Alle NB sind AH.
+D) Einige NB sind AH.
 E) Keine der Schlussfolgerungen ist richtig.

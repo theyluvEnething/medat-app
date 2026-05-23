@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Fotografen sind keine Wirbeltiere.
-- Einige Wirbeltiere sind Mäuse.
+- Einige KG sind ST.
+- Alle ST sind keine JE.
 
-A) Alle Fotografen sind Mäuse.
-B) Einige Fotografen sind keine Mäuse.
-C) Einige Fotografen sind Mäuse.
-D) Alle Fotografen sind keine Mäuse.
+A) Einige KG sind keine JE.
+B) Alle KG sind keine JE.
+C) Alle KG sind JE.
+D) Einige KG sind JE.
 E) Keine der Schlussfolgerungen ist richtig.

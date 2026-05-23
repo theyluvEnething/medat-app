@@ -1,2 +1,0 @@
-C — 128/256
-Konstanter Faktor ×2

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Stühle sind keine Vasen.
-- Einige Vasen sind keine Pilze.
+- Einige PA sind PS.
+- Alle PS sind NN.
 
-A) Alle Stühle sind Pilze.
-B) Einige Stühle sind Pilze.
-C) Alle Stühle sind keine Pilze.
-D) Einige Stühle sind keine Pilze.
+A) Einige PA sind NN.
+B) Alle PA sind NN.
+C) Alle PA sind keine NN.
+D) Einige PA sind keine NN.
 E) Keine der Schlussfolgerungen ist richtig.

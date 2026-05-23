@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Teleskope sind keine Anwälte.
-- Einige Anwälte sind keine Gräser.
+- Alle UT sind TAD.
+- Einige TAD sind JVR.
 
-A) Einige Teleskope sind Gräser.
-B) Einige Teleskope sind keine Gräser.
-C) Alle Teleskope sind keine Gräser.
-D) Alle Teleskope sind Gräser.
+A) Alle UT sind keine JVR.
+B) Alle UT sind JVR.
+C) Einige UT sind keine JVR.
+D) Einige UT sind JVR.
 E) Keine der Schlussfolgerungen ist richtig.

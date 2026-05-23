@@ -1,2 +1,2 @@
-B — 512/1024
-2ⁿ ab n=2
+D — 71/93
+Differenz: +4, +7, +10, +13, +16, +19, +22 — die Differenz wächst um +3 pro Schritt

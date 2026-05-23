@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Elektroautos sind Telefone.
-- Einige Telefone sind keine Tannen.
+- Einige IW sind DT.
+- Alle DT sind keine RT.
 
-A) Einige Elektroautos sind Tannen.
-B) Alle Elektroautos sind keine Tannen.
-C) Alle Elektroautos sind Tannen.
-D) Einige Elektroautos sind keine Tannen.
+A) Einige IW sind RT.
+B) Alle IW sind keine RT.
+C) Alle IW sind RT.
+D) Einige IW sind keine RT.
 E) Keine der Schlussfolgerungen ist richtig.

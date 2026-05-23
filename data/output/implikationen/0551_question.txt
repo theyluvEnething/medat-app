@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Haie sind keine Kätzchen.
-- Alle Kätzchen sind Orchideen.
+- Einige LN sind WHH.
+- Alle WHH sind RAT.
 
-A) Einige Haie sind Orchideen.
-B) Alle Haie sind Orchideen.
-C) Alle Haie sind keine Orchideen.
-D) Einige Haie sind keine Orchideen.
+A) Alle LN sind RAT.
+B) Alle LN sind keine RAT.
+C) Einige LN sind keine RAT.
+D) Einige LN sind RAT.
 E) Keine der Schlussfolgerungen ist richtig.

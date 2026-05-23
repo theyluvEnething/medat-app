@@ -1,7 +1,0 @@
-Zahlenfolge: 14 26 13 30 12 34 ? ?
-
-A) 12/43
-B) 12/44
-C) 68/72
-D) 10/42
-E) Keine der Antworten ist richtig

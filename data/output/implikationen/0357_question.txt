@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Züge sind keine Chemiker.
-- Einige Chemiker sind Gedichte.
+- Alle HM sind IE.
+- Alle IE sind ZCH.
 
-A) Einige Züge sind Gedichte.
-B) Alle Züge sind Gedichte.
-C) Einige Züge sind keine Gedichte.
-D) Alle Züge sind keine Gedichte.
+A) Einige HM sind keine ZCH.
+B) Alle HM sind ZCH.
+C) Einige HM sind ZCH.
+D) Alle HM sind keine ZCH.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 2 6 18 54 162 486 ? ?
-
-A) 972/1068
-B) 4372/13124
-C) 4375/13120
-D) 4374/13122
-E) Keine der Antworten ist richtig

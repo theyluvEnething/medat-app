@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Diamanten sind Ärzte.
-- Einige Ärzte sind Bäume.
+- Einige BR sind TKA.
+- Alle TKA sind UH.
 
-A) Einige Diamanten sind Bäume.
-B) Alle Diamanten sind Bäume.
-C) Einige Diamanten sind keine Bäume.
-D) Alle Diamanten sind keine Bäume.
+A) Einige BR sind keine UH.
+B) Einige BR sind UH.
+C) Alle BR sind UH.
+D) Alle BR sind keine UH.
 E) Keine der Schlussfolgerungen ist richtig.

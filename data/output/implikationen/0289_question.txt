@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Diamanten sind Rosen.
-- Alle Rosen sind keine Ärzte.
+- Alle AA sind keine MA.
+- Einige MA sind IWO.
 
-A) Einige Diamanten sind keine Ärzte.
-B) Einige Diamanten sind Ärzte.
-C) Alle Diamanten sind keine Ärzte.
-D) Alle Diamanten sind Ärzte.
+A) Einige AA sind IWO.
+B) Einige AA sind keine IWO.
+C) Alle AA sind keine IWO.
+D) Alle AA sind IWO.
 E) Keine der Schlussfolgerungen ist richtig.

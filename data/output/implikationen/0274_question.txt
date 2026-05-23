@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Orchideen sind keine Radios.
-- Einige Radios sind keine Bäume.
+- Alle UGM sind AWU.
+- Alle AWU sind LNG.
 
-A) Einige Orchideen sind Bäume.
-B) Einige Orchideen sind keine Bäume.
-C) Alle Orchideen sind Bäume.
-D) Alle Orchideen sind keine Bäume.
+A) Einige UGM sind LNG.
+B) Alle UGM sind LNG.
+C) Alle UGM sind keine LNG.
+D) Einige UGM sind keine LNG.
 E) Keine der Schlussfolgerungen ist richtig.

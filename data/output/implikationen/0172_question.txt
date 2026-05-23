@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Häuser sind Mammute.
-- Alle Mammute sind keine Musikinstrumente.
+- Alle GJ sind keine BM.
+- Alle BM sind OG.
 
-A) Einige Häuser sind keine Musikinstrumente.
-B) Einige Häuser sind Musikinstrumente.
-C) Alle Häuser sind keine Musikinstrumente.
-D) Alle Häuser sind Musikinstrumente.
+A) Einige GJ sind keine OG.
+B) Einige GJ sind OG.
+C) Alle GJ sind keine OG.
+D) Alle GJ sind OG.
 E) Keine der Schlussfolgerungen ist richtig.

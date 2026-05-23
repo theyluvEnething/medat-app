@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Züge sind keine Wale.
-- Einige Wale sind Granite.
+- Alle PO sind HG.
+- Einige HG sind ZV.
 
-A) Einige Züge sind keine Granite.
-B) Einige Züge sind Granite.
-C) Alle Züge sind Granite.
-D) Alle Züge sind keine Granite.
+A) Einige PO sind keine ZV.
+B) Alle PO sind keine ZV.
+C) Alle PO sind ZV.
+D) Einige PO sind ZV.
 E) Keine der Schlussfolgerungen ist richtig.

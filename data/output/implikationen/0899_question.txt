@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Telefone sind keine Ingenieure.
-- Alle Ingenieure sind Metalle.
+- Alle CT sind KCI.
+- Einige KCI sind keine OT.
 
-A) Einige Telefone sind keine Metalle.
-B) Einige Telefone sind Metalle.
-C) Alle Telefone sind keine Metalle.
-D) Alle Telefone sind Metalle.
+A) Alle CT sind keine OT.
+B) Einige CT sind keine OT.
+C) Alle CT sind OT.
+D) Einige CT sind OT.
 E) Keine der Schlussfolgerungen ist richtig.

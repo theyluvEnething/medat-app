@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Diamanten sind keine Flüsse.
-- Alle Flüsse sind Vögel.
+- Alle CG sind CE.
+- Einige CE sind FJ.
 
-A) Alle Diamanten sind Vögel.
-B) Einige Diamanten sind Vögel.
-C) Einige Diamanten sind keine Vögel.
-D) Alle Diamanten sind keine Vögel.
+A) Alle CG sind keine FJ.
+B) Alle CG sind FJ.
+C) Einige CG sind FJ.
+D) Einige CG sind keine FJ.
 E) Keine der Schlussfolgerungen ist richtig.

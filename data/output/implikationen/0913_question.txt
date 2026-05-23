@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schlangen sind Tomaten.
-- Alle Tomaten sind Wissenschaftler.
+- Alle WJW sind PT.
+- Alle PT sind KM.
 
-A) Alle Schlangen sind Wissenschaftler.
-B) Einige Schlangen sind keine Wissenschaftler.
-C) Alle Schlangen sind keine Wissenschaftler.
-D) Einige Schlangen sind Wissenschaftler.
+A) Alle WJW sind keine KM.
+B) Einige WJW sind KM.
+C) Alle WJW sind KM.
+D) Einige WJW sind keine KM.
 E) Keine der Schlussfolgerungen ist richtig.

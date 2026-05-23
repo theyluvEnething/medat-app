@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Diamanten sind keine Tulpen.
-- Einige Tulpen sind Mammute.
+- Alle VEP sind keine JA.
+- Einige JA sind LC.
 
-A) Alle Diamanten sind keine Mammute.
-B) Einige Diamanten sind keine Mammute.
-C) Einige Diamanten sind Mammute.
-D) Alle Diamanten sind Mammute.
+A) Alle VEP sind LC.
+B) Einige VEP sind keine LC.
+C) Alle VEP sind keine LC.
+D) Einige VEP sind LC.
 E) Keine der Schlussfolgerungen ist richtig.

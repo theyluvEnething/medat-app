@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Flugzeuge sind Möbel.
-- Einige Möbel sind Chemiker.
+- Alle UZ sind EL.
+- Alle EL sind EN.
 
-A) Alle Flugzeuge sind Chemiker.
-B) Einige Flugzeuge sind Chemiker.
-C) Einige Flugzeuge sind keine Chemiker.
-D) Alle Flugzeuge sind keine Chemiker.
+A) Alle UZ sind EN.
+B) Einige UZ sind EN.
+C) Einige UZ sind keine EN.
+D) Alle UZ sind keine EN.
 E) Keine der Schlussfolgerungen ist richtig.

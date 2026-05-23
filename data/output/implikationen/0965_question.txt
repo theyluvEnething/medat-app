@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mäuse sind keine Sänger.
-- Einige Sänger sind keine Zebras.
+- Alle IZ sind GU.
+- Alle GU sind keine KO.
 
-A) Alle Mäuse sind Zebras.
-B) Alle Mäuse sind keine Zebras.
-C) Einige Mäuse sind keine Zebras.
-D) Einige Mäuse sind Zebras.
+A) Alle IZ sind KO.
+B) Einige IZ sind KO.
+C) Einige IZ sind keine KO.
+D) Alle IZ sind keine KO.
 E) Keine der Schlussfolgerungen ist richtig.

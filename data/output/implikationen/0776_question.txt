@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Eidechsen sind keine Schiffe.
-- Einige Schiffe sind keine Ärzte.
+- Alle UZ sind ON.
+- Einige ON sind PA.
 
-A) Alle Eidechsen sind Ärzte.
-B) Alle Eidechsen sind keine Ärzte.
-C) Einige Eidechsen sind Ärzte.
-D) Einige Eidechsen sind keine Ärzte.
+A) Alle UZ sind keine PA.
+B) Einige UZ sind keine PA.
+C) Einige UZ sind PA.
+D) Alle UZ sind PA.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Lehrer sind Tomaten.
-- Einige Tomaten sind keine Kupfer.
+- Einige IT sind keine CPT.
+- Alle CPT sind keine HZG.
 
-A) Einige Lehrer sind Kupfer.
-B) Alle Lehrer sind keine Kupfer.
-C) Alle Lehrer sind Kupfer.
-D) Einige Lehrer sind keine Kupfer.
+A) Alle IT sind HZG.
+B) Einige IT sind keine HZG.
+C) Einige IT sind HZG.
+D) Alle IT sind keine HZG.
 E) Keine der Schlussfolgerungen ist richtig.

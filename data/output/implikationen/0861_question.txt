@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wissenschaftler sind keine Blumen.
-- Einige Blumen sind keine Amphibien.
+- Alle OWA sind keine VBE.
+- Einige VBE sind EE.
 
-A) Einige Wissenschaftler sind Amphibien.
-B) Einige Wissenschaftler sind keine Amphibien.
-C) Alle Wissenschaftler sind Amphibien.
-D) Alle Wissenschaftler sind keine Amphibien.
+A) Einige OWA sind EE.
+B) Alle OWA sind EE.
+C) Alle OWA sind keine EE.
+D) Einige OWA sind keine EE.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Eichen sind Eidechsen.
-- Einige Eidechsen sind keine Tannen.
+- Einige HP sind PDS.
+- Alle PDS sind keine TH.
 
-A) Einige Eichen sind keine Tannen.
-B) Alle Eichen sind Tannen.
-C) Einige Eichen sind Tannen.
-D) Alle Eichen sind keine Tannen.
+A) Einige HP sind TH.
+B) Einige HP sind keine TH.
+C) Alle HP sind keine TH.
+D) Alle HP sind TH.
 E) Keine der Schlussfolgerungen ist richtig.

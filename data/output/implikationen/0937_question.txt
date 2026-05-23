@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Uhren sind keine Radios.
-- Alle Radios sind Teleskope.
+- Einige VC sind REP.
+- Alle REP sind TH.
 
-A) Alle Uhren sind Teleskope.
-B) Einige Uhren sind keine Teleskope.
-C) Einige Uhren sind Teleskope.
-D) Alle Uhren sind keine Teleskope.
+A) Einige VC sind keine TH.
+B) Alle VC sind TH.
+C) Einige VC sind TH.
+D) Alle VC sind keine TH.
 E) Keine der Schlussfolgerungen ist richtig.

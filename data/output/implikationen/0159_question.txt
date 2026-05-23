@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wissenschaftler sind keine Sänger.
-- Alle Sänger sind keine Kätzchen.
+- Alle UGZ sind keine WOG.
+- Alle WOG sind PM.
 
-A) Einige Wissenschaftler sind keine Kätzchen.
-B) Alle Wissenschaftler sind Kätzchen.
-C) Einige Wissenschaftler sind Kätzchen.
-D) Alle Wissenschaftler sind keine Kätzchen.
+A) Alle UGZ sind PM.
+B) Alle UGZ sind keine PM.
+C) Einige UGZ sind keine PM.
+D) Einige UGZ sind PM.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Wissenschaftler sind keine Dinosaurier.
-- Einige Dinosaurier sind Telefone.
+- Alle TI sind TS.
+- Einige TS sind WD.
 
-A) Alle Wissenschaftler sind keine Telefone.
-B) Einige Wissenschaftler sind Telefone.
-C) Alle Wissenschaftler sind Telefone.
-D) Einige Wissenschaftler sind keine Telefone.
+A) Alle TI sind keine WD.
+B) Einige TI sind WD.
+C) Alle TI sind WD.
+D) Einige TI sind keine WD.
 E) Keine der Schlussfolgerungen ist richtig.

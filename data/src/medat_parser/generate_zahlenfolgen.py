@@ -27,13 +27,13 @@ def _fmt(n: int) -> str:
 def arithmetic(start: int, diff: int, length: int = 8) -> tuple[list[int], list[int]]:
     """a, a+d, a+2d, ..."""
     seq = [start + i * diff for i in range(length)]
-    return seq, [seq[-2] + diff, seq[-1] + diff]
+    return seq, [seq[6], seq[7]]
 
 
 def geometric(start: int, ratio: int, length: int = 8) -> tuple[list[int], list[int]]:
     """a, a*r, a*r², ..."""
     seq = [start * (ratio ** i) for i in range(length)]
-    return seq, [seq[-2] * ratio, seq[-1] * ratio]
+    return seq, [seq[6], seq[7]]
 
 
 def alternating(
@@ -46,18 +46,13 @@ def alternating(
             seq.append(seq[-1] + add_val)
         else:
             seq.append(seq[-1] * mul_val)
-    # Next two terms
-    n = len(seq)
-    v1 = seq[-1] + add_val if n % 2 == 1 else seq[-1] * mul_val
-    v2 = v1 * mul_val if n % 2 == 1 else v1 + add_val
-    return seq, [v1, v2]
+    return seq, [seq[6], seq[7]]
 
 
 def quadratic(start: int, length: int = 8) -> tuple[list[int], list[int]]:
     """Sequence of n² + start, differences grow by 2 each step."""
     seq = [start + i * i for i in range(length)]
-    next_i = length
-    return seq, [start + next_i * next_i, start + (next_i + 1) * (next_i + 1)]
+    return seq, [seq[6], seq[7]]
 
 
 def fibonacci_like(a: int, b: int, length: int = 8) -> tuple[list[int], list[int]]:
@@ -65,7 +60,7 @@ def fibonacci_like(a: int, b: int, length: int = 8) -> tuple[list[int], list[int
     seq = [a, b]
     for _ in range(length - 2):
         seq.append(seq[-2] + seq[-1])
-    return seq, [seq[-2] + seq[-1], seq[-1] + seq[-2] + seq[-1]]
+    return seq, [seq[6], seq[7]]
 
 
 def interleaved(
@@ -78,13 +73,7 @@ def interleaved(
             seq.append(a1 + (i // 2) * d1)
         else:
             seq.append(a2 + (i // 2) * d2)
-    # Compute next two terms
-    idx1 = length  # 0-based index of next term
-    idx2 = length + 1
-    # seq positions: even→first sequence, odd→second sequence
-    v1 = a1 + (idx1 // 2) * d1 if idx1 % 2 == 0 else a2 + (idx1 // 2) * d2
-    v2 = a1 + (idx2 // 2) * d1 if idx2 % 2 == 0 else a2 + (idx2 // 2) * d2
-    return seq, [v1, v2]
+    return seq, [seq[6], seq[7]]
 
 
 def difference_growth(
@@ -96,16 +85,14 @@ def difference_growth(
     for _ in range(length - 1):
         seq.append(seq[-1] + cur_diff)
         cur_diff += growth
-    v1 = seq[-1] + cur_diff
-    v2 = v1 + cur_diff + growth
-    return seq, [v1, v2]
+    return seq, [seq[6], seq[7]]
 
 
 def prime_sequence(skip: int, length: int = 8) -> tuple[list[int], list[int]]:
     """Consecutive primes starting from the skip-th prime."""
     primes = _first_n_primes(skip + length + 2)
     seq = primes[skip : skip + length]
-    return seq, [primes[skip + length], primes[skip + length + 1]]
+    return seq, [seq[6], seq[7]]
 
 
 def _first_n_primes(n: int) -> list[int]:
@@ -134,10 +121,7 @@ def multiplicative_alternating(
     for i in range(length - 1):
         mul = mul1 if i % 2 == 0 else mul2
         seq.append(seq[-1] * mul)
-    mul_next = mul1 if (length - 1) % 2 == 0 else mul2
-    v1 = seq[-1] * mul_next
-    v2 = v1 * (mul2 if mul_next == mul1 else mul1)
-    return seq, [v1, v2]
+    return seq, [seq[6], seq[7]]
 
 
 def digit_reverse(start: int, add: int, length: int = 8) -> tuple[list[int], list[int]]:
@@ -148,22 +132,19 @@ def digit_reverse(start: int, add: int, length: int = 8) -> tuple[list[int], lis
             seq.append(int(str(seq[-1])[::-1]))
         else:
             seq.append(seq[-1] + add)
-    v1 = int(str(seq[-1])[::-1]) if (length - 1) % 2 == 0 else seq[-1] + add
-    v2 = v1 + add if (length - 1) % 2 == 0 else int(str(v1)[::-1])
-    return seq, [v1, v2]
+    return seq, [seq[6], seq[7]]
 
 
-def cubic(start: int, length: int = 7) -> tuple[list[int], list[int]]:
+def cubic(start: int, length: int = 8) -> tuple[list[int], list[int]]:
     """n³ + start"""
     seq = [start + i * i * i for i in range(length)]
-    ni = length
-    return seq, [start + ni * ni * ni, start + (ni + 1) * (ni + 1) * (ni + 1)]
+    return seq, [seq[6], seq[7]]
 
 
-def powers_of(base: int, start_exp: int, length: int = 7) -> tuple[list[int], list[int]]:
+def powers_of(base: int, start_exp: int, length: int = 8) -> tuple[list[int], list[int]]:
     """base^exp, base^(exp+1), ..."""
     seq = [base ** (start_exp + i) for i in range(length)]
-    return seq, [base ** (start_exp + length), base ** (start_exp + length + 1)]
+    return seq, [seq[6], seq[7]]
 
 
 # ═══════════════════════════════════════════════════════════════════════════

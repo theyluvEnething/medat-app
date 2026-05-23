@@ -1,7 +1,0 @@
-Zahlenfolge: 2 6 18 54 162 486 ? ?
-
-A) 13124/39368
-B) 13123/39367
-C) 13122/39366
-D) 13124/39364
-E) Keine der Antworten ist richtig

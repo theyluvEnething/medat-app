@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Quartette sind keine Radios.
-- Alle Radios sind keine Fische.
+- Einige RP sind EML.
+- Alle EML sind keine TE.
 
-A) Alle Quartette sind keine Fische.
-B) Einige Quartette sind Fische.
-C) Alle Quartette sind Fische.
-D) Einige Quartette sind keine Fische.
+A) Alle RP sind keine TE.
+B) Alle RP sind TE.
+C) Einige RP sind TE.
+D) Einige RP sind keine TE.
 E) Keine der Schlussfolgerungen ist richtig.

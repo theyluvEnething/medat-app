@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Politiker sind keine Teleskope.
-- Einige Teleskope sind keine Mammute.
+- Alle EJN sind VDC.
+- Einige VDC sind NM.
 
-A) Alle Politiker sind keine Mammute.
-B) Einige Politiker sind Mammute.
-C) Einige Politiker sind keine Mammute.
-D) Alle Politiker sind Mammute.
+A) Alle EJN sind NM.
+B) Einige EJN sind keine NM.
+C) Einige EJN sind NM.
+D) Alle EJN sind keine NM.
 E) Keine der Schlussfolgerungen ist richtig.

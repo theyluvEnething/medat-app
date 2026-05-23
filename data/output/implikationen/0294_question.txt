@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schlangen sind keine Gräser.
-- Alle Gräser sind Dichter.
+- Alle PG sind CN.
+- Alle CN sind TM.
 
-A) Alle Schlangen sind Dichter.
-B) Alle Schlangen sind keine Dichter.
-C) Einige Schlangen sind Dichter.
-D) Einige Schlangen sind keine Dichter.
+A) Einige PG sind TM.
+B) Alle PG sind TM.
+C) Alle PG sind keine TM.
+D) Einige PG sind keine TM.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,2 +1,2 @@
-B — 83/89
-Konstante Differenz +6
+A — 50/82
+Ab 3. Glied: Summe der beiden Vorgänger + 2

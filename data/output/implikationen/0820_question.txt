@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Sportler sind keine Schriftsteller.
-- Einige Schriftsteller sind Elektroautos.
+- Alle BDC sind HI.
+- Alle HI sind keine RPG.
 
-A) Einige Sportler sind Elektroautos.
-B) Einige Sportler sind keine Elektroautos.
-C) Alle Sportler sind Elektroautos.
-D) Alle Sportler sind keine Elektroautos.
+A) Einige BDC sind keine RPG.
+B) Alle BDC sind RPG.
+C) Alle BDC sind keine RPG.
+D) Einige BDC sind RPG.
 E) Keine der Schlussfolgerungen ist richtig.

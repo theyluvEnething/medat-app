@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vegetarier sind keine Nashörner.
-- Einige Nashörner sind Orchideen.
+- Alle VL sind TJ.
+- Alle TJ sind LR.
 
-A) Einige Vegetarier sind keine Orchideen.
-B) Einige Vegetarier sind Orchideen.
-C) Alle Vegetarier sind keine Orchideen.
-D) Alle Vegetarier sind Orchideen.
+A) Einige VL sind keine LR.
+B) Alle VL sind keine LR.
+C) Alle VL sind LR.
+D) Einige VL sind LR.
 E) Keine der Schlussfolgerungen ist richtig.

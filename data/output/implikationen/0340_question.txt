@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Statuen sind keine Tabletten.
-- Alle Tabletten sind Elektroautos.
+- Alle DR sind keine FKR.
+- Alle FKR sind SD.
 
-A) Einige Statuen sind keine Elektroautos.
-B) Alle Statuen sind keine Elektroautos.
-C) Alle Statuen sind Elektroautos.
-D) Einige Statuen sind Elektroautos.
+A) Einige DR sind keine SD.
+B) Alle DR sind SD.
+C) Alle DR sind keine SD.
+D) Einige DR sind SD.
 E) Keine der Schlussfolgerungen ist richtig.

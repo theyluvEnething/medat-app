@@ -1,7 +1,0 @@
-Zahlenfolge: 13 5 18 23 41 64 ? ?
-
-A) 272/441
-B) 274/443
-C) 272/444
-D) 275/444
-E) Keine der Antworten ist richtig

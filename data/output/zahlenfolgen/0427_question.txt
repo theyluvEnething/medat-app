@@ -1,7 +1,0 @@
-Zahlenfolge: 23 27 32 38 45 53 ? ?
-
-A) 84/96
-B) 81/94
-C) 83/95
-D) 82/96
-E) Keine der Antworten ist richtig

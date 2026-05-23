@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Skulpturen sind keine Granite.
-- Einige Granite sind Politiker.
+- Alle GK sind keine MN.
+- Alle MN sind keine FVN.
 
-A) Alle Skulpturen sind keine Politiker.
-B) Alle Skulpturen sind Politiker.
-C) Einige Skulpturen sind Politiker.
-D) Einige Skulpturen sind keine Politiker.
+A) Einige GK sind FVN.
+B) Einige GK sind keine FVN.
+C) Alle GK sind FVN.
+D) Alle GK sind keine FVN.
 E) Keine der Schlussfolgerungen ist richtig.

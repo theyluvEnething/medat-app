@@ -1,7 +1,0 @@
-Zahlenfolge: -3 -11 -19 -27 -35 -43 ? ?
-
-A) -59/-67
-B) -60/-66
-C) -57/-69
-D) -60/-69
-E) Keine der Antworten ist richtig

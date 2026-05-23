@@ -1,7 +1,7 @@
-Zahlenfolge: 19 23 29 31 37 41 ? ?
+Zahlenfolge: 2 100 6 90 18 80 ? ?
 
-A) 54/57
-B) 53/59
-C) 59/53
-D) 82/86
+A) 54/69
+B) 52/70
+C) 54/70
+D) 70/54
 E) Keine der Antworten ist richtig

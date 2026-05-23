@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Marder sind Klaviere.
-- Alle Klaviere sind Quartette.
+- Alle JI sind LD.
+- Alle LD sind ZF.
 
-A) Alle Marder sind Quartette.
-B) Einige Marder sind Quartette.
-C) Einige Marder sind keine Quartette.
-D) Alle Marder sind keine Quartette.
+A) Alle JI sind ZF.
+B) Einige JI sind keine ZF.
+C) Alle JI sind keine ZF.
+D) Einige JI sind ZF.
 E) Keine der Schlussfolgerungen ist richtig.

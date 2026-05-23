@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Musikinstrumente sind Eidechsen.
-- Alle Eidechsen sind keine Skulpturen.
+- Alle PD sind CE.
+- Alle CE sind LD.
 
-A) Einige Musikinstrumente sind Skulpturen.
-B) Einige Musikinstrumente sind keine Skulpturen.
-C) Alle Musikinstrumente sind keine Skulpturen.
-D) Alle Musikinstrumente sind Skulpturen.
+A) Einige PD sind LD.
+B) Alle PD sind LD.
+C) Einige PD sind keine LD.
+D) Alle PD sind keine LD.
 E) Keine der Schlussfolgerungen ist richtig.

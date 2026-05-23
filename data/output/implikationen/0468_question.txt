@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Bücher sind keine Tomaten.
-- Einige Tomaten sind keine Dichter.
+- Einige FZ sind keine MB.
+- Einige MB sind keine ME.
 
-A) Alle Bücher sind Dichter.
-B) Einige Bücher sind keine Dichter.
-C) Einige Bücher sind Dichter.
-D) Alle Bücher sind keine Dichter.
+A) Alle FZ sind ME.
+B) Alle FZ sind keine ME.
+C) Einige FZ sind ME.
+D) Einige FZ sind keine ME.
 E) Keine der Schlussfolgerungen ist richtig.

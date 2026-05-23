@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gedichte sind keine Amphibien.
-- Alle Amphibien sind keine Anwälte.
+- Einige LH sind HFL.
+- Alle HFL sind keine ECD.
 
-A) Einige Gedichte sind keine Anwälte.
-B) Alle Gedichte sind Anwälte.
-C) Alle Gedichte sind keine Anwälte.
-D) Einige Gedichte sind Anwälte.
+A) Einige LH sind ECD.
+B) Alle LH sind keine ECD.
+C) Einige LH sind keine ECD.
+D) Alle LH sind ECD.
 E) Keine der Schlussfolgerungen ist richtig.

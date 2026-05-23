@@ -1,7 +1,0 @@
-Zahlenfolge: 13 29 15 19 17 9 ? ?
-
-A) 20/-13
-B) 20/-12
-C) 21/-11
-D) 22/-12
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Werkzeuge sind Radios.
-- Einige Radios sind keine Musikinstrumente.
+- Alle JLP sind NW.
+- Alle NW sind VP.
 
-A) Einige Werkzeuge sind keine Musikinstrumente.
-B) Alle Werkzeuge sind Musikinstrumente.
-C) Alle Werkzeuge sind keine Musikinstrumente.
-D) Einige Werkzeuge sind Musikinstrumente.
+A) Alle JLP sind VP.
+B) Einige JLP sind keine VP.
+C) Einige JLP sind VP.
+D) Alle JLP sind keine VP.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,7 @@
-Zahlenfolge: 43 34 41 14 21 12 ? ?
+Zahlenfolge: 7 11 19 35 67 131 ? ?
 
-A) 99/88
-B) 100/88
-C) 98/89
-D) 99/91
+A) 259/515
+B) 260/515
+C) 259/516
+D) 195/259
 E) Keine der Antworten ist richtig

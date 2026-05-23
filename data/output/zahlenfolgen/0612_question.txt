@@ -1,7 +1,0 @@
-Zahlenfolge: 4 21 -5 16 -14 11 ? ?
-
-A) -31/-1
-B) -32/1
-C) 22/23
-D) -30/2
-E) Keine der Antworten ist richtig

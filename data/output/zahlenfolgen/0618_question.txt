@@ -1,7 +1,0 @@
-Zahlenfolge: 38 46 54 62 70 78 ? ?
-
-A) 156/164
-B) 94/102
-C) 95/104
-D) 86/94
-E) Keine der Antworten ist richtig

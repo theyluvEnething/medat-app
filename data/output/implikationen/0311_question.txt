@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Delfine sind Roboter.
-- Einige Roboter sind Schiffe.
+- Alle PEB sind keine SNK.
+- Alle SNK sind keine IC.
 
-A) Einige Delfine sind Schiffe.
-B) Alle Delfine sind Schiffe.
-C) Einige Delfine sind keine Schiffe.
-D) Alle Delfine sind keine Schiffe.
+A) Alle PEB sind keine IC.
+B) Einige PEB sind keine IC.
+C) Alle PEB sind IC.
+D) Einige PEB sind IC.
 E) Keine der Schlussfolgerungen ist richtig.

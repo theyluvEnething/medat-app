@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Sportler sind Statuen.
-- Alle Statuen sind keine Reptilien.
+- Alle BH sind BD.
+- Alle BD sind RR.
 
-A) Alle Sportler sind keine Reptilien.
-B) Einige Sportler sind Reptilien.
-C) Einige Sportler sind keine Reptilien.
-D) Alle Sportler sind Reptilien.
+A) Alle BH sind RR.
+B) Einige BH sind keine RR.
+C) Alle BH sind keine RR.
+D) Einige BH sind RR.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Politiker sind keine Schauspieler.
-- Alle Schauspieler sind keine Telefone.
+- Alle TR sind FM.
+- Einige FM sind WG.
 
-A) Einige Politiker sind keine Telefone.
-B) Alle Politiker sind Telefone.
-C) Einige Politiker sind Telefone.
-D) Alle Politiker sind keine Telefone.
+A) Einige TR sind WG.
+B) Einige TR sind keine WG.
+C) Alle TR sind WG.
+D) Alle TR sind keine WG.
 E) Keine der Schlussfolgerungen ist richtig.

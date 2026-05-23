@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tiger sind keine Haie.
-- Alle Haie sind Fische.
+- Alle PKT sind keine FK.
+- Alle FK sind CTN.
 
-A) Alle Tiger sind Fische.
-B) Einige Tiger sind Fische.
-C) Alle Tiger sind keine Fische.
-D) Einige Tiger sind keine Fische.
+A) Einige PKT sind CTN.
+B) Einige PKT sind keine CTN.
+C) Alle PKT sind keine CTN.
+D) Alle PKT sind CTN.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Mammute sind Züge.
-- Alle Züge sind keine Lehrer.
+- Alle EJ sind keine BZF.
+- Einige BZF sind keine IN.
 
-A) Alle Mammute sind keine Lehrer.
-B) Alle Mammute sind Lehrer.
-C) Einige Mammute sind Lehrer.
-D) Einige Mammute sind keine Lehrer.
+A) Einige EJ sind IN.
+B) Einige EJ sind keine IN.
+C) Alle EJ sind IN.
+D) Alle EJ sind keine IN.
 E) Keine der Schlussfolgerungen ist richtig.

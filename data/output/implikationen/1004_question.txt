@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Uhren sind keine Tabletten.
-- Alle Tabletten sind Zebras.
+- Alle KVZ sind RVG.
+- Einige RVG sind US.
 
-A) Einige Uhren sind Zebras.
-B) Einige Uhren sind keine Zebras.
-C) Alle Uhren sind Zebras.
-D) Alle Uhren sind keine Zebras.
+A) Alle KVZ sind US.
+B) Einige KVZ sind keine US.
+C) Einige KVZ sind US.
+D) Alle KVZ sind keine US.
 E) Keine der Schlussfolgerungen ist richtig.

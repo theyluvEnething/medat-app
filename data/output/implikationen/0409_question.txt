@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tannen sind keine Radios.
-- Alle Radios sind keine Vögel.
+- Alle SPN sind keine ZG.
+- Alle ZG sind keine VD.
 
-A) Einige Tannen sind Vögel.
-B) Einige Tannen sind keine Vögel.
-C) Alle Tannen sind keine Vögel.
-D) Alle Tannen sind Vögel.
+A) Alle SPN sind keine VD.
+B) Einige SPN sind VD.
+C) Alle SPN sind VD.
+D) Einige SPN sind keine VD.
 E) Keine der Schlussfolgerungen ist richtig.

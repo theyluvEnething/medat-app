@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Teleskope sind keine Kupfer.
-- Alle Kupfer sind Schriftsteller.
+- Alle FC sind ATK.
+- Alle ATK sind keine CZ.
 
-A) Einige Teleskope sind keine Schriftsteller.
-B) Alle Teleskope sind keine Schriftsteller.
-C) Alle Teleskope sind Schriftsteller.
-D) Einige Teleskope sind Schriftsteller.
+A) Alle FC sind keine CZ.
+B) Einige FC sind CZ.
+C) Einige FC sind keine CZ.
+D) Alle FC sind CZ.
 E) Keine der Schlussfolgerungen ist richtig.

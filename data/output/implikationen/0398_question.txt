@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Ingenieure sind keine Türen.
-- Einige Türen sind keine Sänger.
+- Einige VCS sind keine NH.
+- Alle NH sind LO.
 
-A) Einige Ingenieure sind keine Sänger.
-B) Alle Ingenieure sind Sänger.
-C) Alle Ingenieure sind keine Sänger.
-D) Einige Ingenieure sind Sänger.
+A) Einige VCS sind keine LO.
+B) Alle VCS sind keine LO.
+C) Alle VCS sind LO.
+D) Einige VCS sind LO.
 E) Keine der Schlussfolgerungen ist richtig.

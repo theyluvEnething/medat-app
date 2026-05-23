@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Gräser sind Haie.
-- Einige Haie sind keine Chemiker.
+- Alle DTJ sind PG.
+- Alle PG sind CZK.
 
-A) Alle Gräser sind Chemiker.
-B) Einige Gräser sind Chemiker.
-C) Einige Gräser sind keine Chemiker.
-D) Alle Gräser sind keine Chemiker.
+A) Einige DTJ sind keine CZK.
+B) Alle DTJ sind keine CZK.
+C) Alle DTJ sind CZK.
+D) Einige DTJ sind CZK.
 E) Keine der Schlussfolgerungen ist richtig.

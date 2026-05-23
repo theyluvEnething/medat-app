@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Kätzchen sind Radios.
-- Einige Radios sind keine Lehrer.
+- Alle DR sind HNF.
+- Alle HNF sind BU.
 
-A) Einige Kätzchen sind keine Lehrer.
-B) Einige Kätzchen sind Lehrer.
-C) Alle Kätzchen sind Lehrer.
-D) Alle Kätzchen sind keine Lehrer.
+A) Einige DR sind BU.
+B) Einige DR sind keine BU.
+C) Alle DR sind keine BU.
+D) Alle DR sind BU.
 E) Keine der Schlussfolgerungen ist richtig.

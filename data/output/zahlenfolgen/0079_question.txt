@@ -1,7 +1,7 @@
-Zahlenfolge: 11 15 30 34 68 72 ? ?
+Zahlenfolge: 4 7 14 17 34 37 ? ?
 
-A) 296/300
-B) 297/302
-C) 84/96
-D) 294/298
+A) 40/43
+B) 74/77
+C) 76/77
+D) 74/76
 E) Keine der Antworten ist richtig

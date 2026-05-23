@@ -1,7 +1,0 @@
-Zahlenfolge: 29 32 37 44 53 64 ? ?
-
-A) 110/126
-B) 109/128
-C) 107/129
-D) 107/130
-E) Keine der Antworten ist richtig

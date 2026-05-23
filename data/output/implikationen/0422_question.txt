@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Ärzte sind keine Mathematiker.
-- Einige Mathematiker sind Smartphones.
+- Alle AK sind keine UC.
+- Alle UC sind JB.
 
-A) Alle Ärzte sind keine Smartphones.
-B) Einige Ärzte sind keine Smartphones.
-C) Einige Ärzte sind Smartphones.
-D) Alle Ärzte sind Smartphones.
+A) Alle AK sind keine JB.
+B) Einige AK sind keine JB.
+C) Alle AK sind JB.
+D) Einige AK sind JB.
 E) Keine der Schlussfolgerungen ist richtig.

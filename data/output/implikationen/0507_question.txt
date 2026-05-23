@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Schriftsteller sind keine Wale.
-- Alle Wale sind keine Kätzchen.
+- Alle PVL sind UT.
+- Einige UT sind VD.
 
-A) Einige Schriftsteller sind Kätzchen.
-B) Alle Schriftsteller sind Kätzchen.
-C) Alle Schriftsteller sind keine Kätzchen.
-D) Einige Schriftsteller sind keine Kätzchen.
+A) Einige PVL sind VD.
+B) Einige PVL sind keine VD.
+C) Alle PVL sind VD.
+D) Alle PVL sind keine VD.
 E) Keine der Schlussfolgerungen ist richtig.

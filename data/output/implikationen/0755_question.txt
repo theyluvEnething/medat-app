@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Mammute sind keine Chemiker.
-- Einige Chemiker sind Tulpen.
+- Alle MK sind keine JU.
+- Einige JU sind keine GL.
 
-A) Einige Mammute sind keine Tulpen.
-B) Alle Mammute sind keine Tulpen.
-C) Alle Mammute sind Tulpen.
-D) Einige Mammute sind Tulpen.
+A) Einige MK sind keine GL.
+B) Einige MK sind GL.
+C) Alle MK sind keine GL.
+D) Alle MK sind GL.
 E) Keine der Schlussfolgerungen ist richtig.

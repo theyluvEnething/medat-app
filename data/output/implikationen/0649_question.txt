@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Musikinstrumente sind Sänger.
-- Alle Sänger sind keine Vasen.
+- Alle HL sind keine UC.
+- Alle UC sind JB.
 
-A) Einige Musikinstrumente sind keine Vasen.
-B) Alle Musikinstrumente sind keine Vasen.
-C) Einige Musikinstrumente sind Vasen.
-D) Alle Musikinstrumente sind Vasen.
+A) Einige HL sind keine JB.
+B) Alle HL sind JB.
+C) Alle HL sind keine JB.
+D) Einige HL sind JB.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wale sind keine Glühbirnen.
-- Einige Glühbirnen sind keine Maler.
+- Alle OT sind ZE.
+- Alle ZE sind VFF.
 
-A) Alle Wale sind keine Maler.
-B) Einige Wale sind keine Maler.
-C) Alle Wale sind Maler.
-D) Einige Wale sind Maler.
+A) Alle OT sind keine VFF.
+B) Alle OT sind VFF.
+C) Einige OT sind keine VFF.
+D) Einige OT sind VFF.
 E) Keine der Schlussfolgerungen ist richtig.

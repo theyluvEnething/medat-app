@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Kätzchen sind Eichen.
-- Alle Eichen sind Giraffen.
+- Einige DP sind BA.
+- Alle BA sind IBF.
 
-A) Einige Kätzchen sind keine Giraffen.
-B) Einige Kätzchen sind Giraffen.
-C) Alle Kätzchen sind keine Giraffen.
-D) Alle Kätzchen sind Giraffen.
+A) Einige DP sind IBF.
+B) Alle DP sind IBF.
+C) Einige DP sind keine IBF.
+D) Alle DP sind keine IBF.
 E) Keine der Schlussfolgerungen ist richtig.

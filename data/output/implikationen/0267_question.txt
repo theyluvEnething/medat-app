@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Rosen sind keine Metalle.
-- Alle Metalle sind Eichen.
+- Alle OK sind VH.
+- Alle VH sind AS.
 
-A) Einige Rosen sind keine Eichen.
-B) Alle Rosen sind keine Eichen.
-C) Einige Rosen sind Eichen.
-D) Alle Rosen sind Eichen.
+A) Alle OK sind keine AS.
+B) Einige OK sind keine AS.
+C) Einige OK sind AS.
+D) Alle OK sind AS.
 E) Keine der Schlussfolgerungen ist richtig.

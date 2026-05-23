@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Klaviere sind Eidechsen.
-- Einige Eidechsen sind Sänger.
+- Alle BS sind RH.
+- Alle RH sind ID.
 
-A) Alle Klaviere sind keine Sänger.
-B) Alle Klaviere sind Sänger.
-C) Einige Klaviere sind Sänger.
-D) Einige Klaviere sind keine Sänger.
+A) Einige BS sind ID.
+B) Einige BS sind keine ID.
+C) Alle BS sind ID.
+D) Alle BS sind keine ID.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Quartette sind Uhren.
-- Einige Uhren sind keine Dinosaurier.
+- Alle NN sind keine DH.
+- Alle DH sind BG.
 
-A) Einige Quartette sind Dinosaurier.
-B) Alle Quartette sind Dinosaurier.
-C) Einige Quartette sind keine Dinosaurier.
-D) Alle Quartette sind keine Dinosaurier.
+A) Alle NN sind BG.
+B) Einige NN sind keine BG.
+C) Einige NN sind BG.
+D) Alle NN sind keine BG.
 E) Keine der Schlussfolgerungen ist richtig.

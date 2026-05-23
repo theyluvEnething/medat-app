@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Eidechsen sind Stühle.
-- Alle Stühle sind keine Menschen.
+- Einige KS sind GD.
+- Einige GD sind WVK.
 
-A) Alle Eidechsen sind Menschen.
-B) Alle Eidechsen sind keine Menschen.
-C) Einige Eidechsen sind keine Menschen.
-D) Einige Eidechsen sind Menschen.
+A) Alle KS sind keine WVK.
+B) Einige KS sind WVK.
+C) Alle KS sind WVK.
+D) Einige KS sind keine WVK.
 E) Keine der Schlussfolgerungen ist richtig.

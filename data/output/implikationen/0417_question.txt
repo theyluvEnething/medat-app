@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Pilze sind Lilien.
-- Alle Lilien sind Werkzeuge.
+- Einige JW sind keine CB.
+- Alle CB sind LA.
 
-A) Einige Pilze sind Werkzeuge.
-B) Einige Pilze sind keine Werkzeuge.
-C) Alle Pilze sind keine Werkzeuge.
-D) Alle Pilze sind Werkzeuge.
+A) Einige JW sind LA.
+B) Einige JW sind keine LA.
+C) Alle JW sind keine LA.
+D) Alle JW sind LA.
 E) Keine der Schlussfolgerungen ist richtig.

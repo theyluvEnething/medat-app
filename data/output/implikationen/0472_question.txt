@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Vögel sind keine Säugetiere.
-- Alle Säugetiere sind keine Bücher.
+- Einige WFI sind GV.
+- Einige GV sind EE.
 
-A) Einige Vögel sind Bücher.
-B) Einige Vögel sind keine Bücher.
-C) Alle Vögel sind Bücher.
-D) Alle Vögel sind keine Bücher.
+A) Einige WFI sind EE.
+B) Alle WFI sind EE.
+C) Einige WFI sind keine EE.
+D) Alle WFI sind keine EE.
 E) Keine der Schlussfolgerungen ist richtig.

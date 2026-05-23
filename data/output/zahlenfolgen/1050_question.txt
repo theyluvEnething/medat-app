@@ -1,7 +1,0 @@
-Zahlenfolge: 2 7 12 17 22 27 ? ?
-
-A) 39/44
-B) 32/37
-C) 38/41
-D) 37/42
-E) Keine der Antworten ist richtig

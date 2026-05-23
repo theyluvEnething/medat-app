@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Autos sind keine Gräser.
-- Alle Gräser sind Eichen.
+- Alle SIK sind keine TBD.
+- Einige TBD sind keine PU.
 
-A) Alle Autos sind Eichen.
-B) Alle Autos sind keine Eichen.
-C) Einige Autos sind Eichen.
-D) Einige Autos sind keine Eichen.
+A) Einige SIK sind PU.
+B) Alle SIK sind PU.
+C) Alle SIK sind keine PU.
+D) Einige SIK sind keine PU.
 E) Keine der Schlussfolgerungen ist richtig.

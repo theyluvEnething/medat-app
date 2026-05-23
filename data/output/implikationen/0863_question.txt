@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Vulkane sind Telefone.
-- Einige Telefone sind keine Lilien.
+- Einige VCS sind NV.
+- Alle NV sind IS.
 
-A) Alle Vulkane sind keine Lilien.
-B) Einige Vulkane sind Lilien.
-C) Einige Vulkane sind keine Lilien.
-D) Alle Vulkane sind Lilien.
+A) Einige VCS sind keine IS.
+B) Einige VCS sind IS.
+C) Alle VCS sind IS.
+D) Alle VCS sind keine IS.
 E) Keine der Schlussfolgerungen ist richtig.

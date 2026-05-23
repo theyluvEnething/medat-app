@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Bäume sind keine Maler.
-- Alle Maler sind keine Statuen.
+- Alle FBR sind keine PP.
+- Alle PP sind ZM.
 
-A) Alle Bäume sind Statuen.
-B) Einige Bäume sind Statuen.
-C) Alle Bäume sind keine Statuen.
-D) Einige Bäume sind keine Statuen.
+A) Einige FBR sind keine ZM.
+B) Alle FBR sind ZM.
+C) Alle FBR sind keine ZM.
+D) Einige FBR sind ZM.
 E) Keine der Schlussfolgerungen ist richtig.

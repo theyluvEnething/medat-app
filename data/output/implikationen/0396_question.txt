@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wale sind Krokodile.
-- Einige Krokodile sind Taucher.
+- Alle EL sind VI.
+- Alle VI sind LRM.
 
-A) Alle Wale sind Taucher.
-B) Einige Wale sind Taucher.
-C) Einige Wale sind keine Taucher.
-D) Alle Wale sind keine Taucher.
+A) Einige EL sind keine LRM.
+B) Einige EL sind LRM.
+C) Alle EL sind keine LRM.
+D) Alle EL sind LRM.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Flüsse sind keine Fische.
-- Alle Fische sind keine Lehrer.
+- Einige PE sind UC.
+- Alle UC sind NHI.
 
-A) Alle Flüsse sind keine Lehrer.
-B) Einige Flüsse sind Lehrer.
-C) Alle Flüsse sind Lehrer.
-D) Einige Flüsse sind keine Lehrer.
+A) Alle PE sind keine NHI.
+B) Alle PE sind NHI.
+C) Einige PE sind NHI.
+D) Einige PE sind keine NHI.
 E) Keine der Schlussfolgerungen ist richtig.

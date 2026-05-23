@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Roboter sind keine Nashörner.
-- Einige Nashörner sind Pandas.
+- Alle HRW sind NL.
+- Einige NL sind BO.
 
-A) Einige Roboter sind keine Pandas.
-B) Einige Roboter sind Pandas.
-C) Alle Roboter sind keine Pandas.
-D) Alle Roboter sind Pandas.
+A) Alle HRW sind BO.
+B) Alle HRW sind keine BO.
+C) Einige HRW sind keine BO.
+D) Einige HRW sind BO.
 E) Keine der Schlussfolgerungen ist richtig.

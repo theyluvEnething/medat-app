@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tannen sind keine Taucher.
-- Alle Taucher sind Eidechsen.
+- Alle CS sind keine ES.
+- Einige ES sind keine DO.
 
-A) Alle Tannen sind keine Eidechsen.
-B) Einige Tannen sind Eidechsen.
-C) Alle Tannen sind Eidechsen.
-D) Einige Tannen sind keine Eidechsen.
+A) Alle CS sind DO.
+B) Einige CS sind DO.
+C) Alle CS sind keine DO.
+D) Einige CS sind keine DO.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Granite sind Rosen.
-- Alle Rosen sind Vasen.
+- Alle NG sind LR.
+- Alle LR sind GO.
 
-A) Alle Granite sind Vasen.
-B) Einige Granite sind keine Vasen.
-C) Alle Granite sind keine Vasen.
-D) Einige Granite sind Vasen.
+A) Alle NG sind GO.
+B) Einige NG sind keine GO.
+C) Alle NG sind keine GO.
+D) Einige NG sind GO.
 E) Keine der Schlussfolgerungen ist richtig.

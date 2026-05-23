@@ -1,7 +1,0 @@
-Zahlenfolge: 46 57 68 79 90 101 ? ?
-
-A) 122/133
-B) 202/213
-C) 123/134
-D) 124/135
-E) Keine der Antworten ist richtig

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Amphibien sind keine Reptilien.
-- Alle Reptilien sind Gemälde.
+- Alle ANF sind ZZ.
+- Einige ZZ sind SA.
 
-A) Alle Amphibien sind keine Gemälde.
-B) Einige Amphibien sind Gemälde.
-C) Einige Amphibien sind keine Gemälde.
-D) Alle Amphibien sind Gemälde.
+A) Einige ANF sind keine SA.
+B) Alle ANF sind keine SA.
+C) Alle ANF sind SA.
+D) Einige ANF sind SA.
 E) Keine der Schlussfolgerungen ist richtig.

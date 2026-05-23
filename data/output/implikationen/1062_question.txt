@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Musikinstrumente sind Spatzen.
-- Alle Spatzen sind keine Delfine.
+- Alle VB sind LR.
+- Alle LR sind CB.
 
-A) Einige Musikinstrumente sind keine Delfine.
-B) Alle Musikinstrumente sind keine Delfine.
-C) Einige Musikinstrumente sind Delfine.
-D) Alle Musikinstrumente sind Delfine.
+A) Einige VB sind CB.
+B) Alle VB sind keine CB.
+C) Einige VB sind keine CB.
+D) Alle VB sind CB.
 E) Keine der Schlussfolgerungen ist richtig.

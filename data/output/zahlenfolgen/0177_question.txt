@@ -1,7 +1,0 @@
-Zahlenfolge: 3 2 5 7 12 19 ? ?
-
-A) 80/130
-B) 84/134
-C) 81/131
-D) 131/81
-E) Keine der Antworten ist richtig

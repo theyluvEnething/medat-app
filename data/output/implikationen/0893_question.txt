@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Werkzeuge sind Musikinstrumente.
-- Alle Musikinstrumente sind keine Schauspieler.
+- Einige ZW sind IG.
+- Alle IG sind LO.
 
-A) Einige Werkzeuge sind Schauspieler.
-B) Einige Werkzeuge sind keine Schauspieler.
-C) Alle Werkzeuge sind keine Schauspieler.
-D) Alle Werkzeuge sind Schauspieler.
+A) Alle ZW sind keine LO.
+B) Einige ZW sind LO.
+C) Alle ZW sind LO.
+D) Einige ZW sind keine LO.
 E) Keine der Schlussfolgerungen ist richtig.

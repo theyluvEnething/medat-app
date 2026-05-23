@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schlangen sind keine Marder.
-- Einige Marder sind keine Flugzeuge.
+- Alle TW sind JE.
+- Alle JE sind keine SDU.
 
-A) Alle Schlangen sind keine Flugzeuge.
-B) Alle Schlangen sind Flugzeuge.
-C) Einige Schlangen sind Flugzeuge.
-D) Einige Schlangen sind keine Flugzeuge.
+A) Einige TW sind keine SDU.
+B) Alle TW sind keine SDU.
+C) Einige TW sind SDU.
+D) Alle TW sind SDU.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,7 +1,0 @@
-Zahlenfolge: 41 14 17 71 74 47 ? ?
-
-A) 8/8
-B) 6/10
-C) 6/7
-D) 7/9
-E) Keine der Antworten ist richtig

@@ -1,7 +1,7 @@
-Zahlenfolge: 41 47 53 59 65 71 ? ?
+Zahlenfolge: 2 2 6 10 18 30 ? ?
 
-A) 84/87
-B) 83/89
-C) 82/87
-D) 82/88
+A) 50/82
+B) 35/40
+C) 51/82
+D) 48/82
 E) Keine der Antworten ist richtig

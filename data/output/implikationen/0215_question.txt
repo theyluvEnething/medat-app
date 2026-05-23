@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Dinosaurier sind Lilien.
-- Einige Lilien sind Ingenieure.
+- Alle KD sind SMA.
+- Alle SMA sind HC.
 
-A) Alle Dinosaurier sind keine Ingenieure.
-B) Einige Dinosaurier sind keine Ingenieure.
-C) Einige Dinosaurier sind Ingenieure.
-D) Alle Dinosaurier sind Ingenieure.
+A) Alle KD sind keine HC.
+B) Einige KD sind keine HC.
+C) Einige KD sind HC.
+D) Alle KD sind HC.
 E) Keine der Schlussfolgerungen ist richtig.

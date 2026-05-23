@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Ingenieure sind Uhren.
-- Einige Uhren sind Autos.
+- Einige JZB sind AND.
+- Alle AND sind keine UE.
 
-A) Einige Ingenieure sind Autos.
-B) Einige Ingenieure sind keine Autos.
-C) Alle Ingenieure sind keine Autos.
-D) Alle Ingenieure sind Autos.
+A) Einige JZB sind UE.
+B) Alle JZB sind keine UE.
+C) Alle JZB sind UE.
+D) Einige JZB sind keine UE.
 E) Keine der Schlussfolgerungen ist richtig.

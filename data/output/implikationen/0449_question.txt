@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Granite sind keine Pilze.
-- Alle Pilze sind keine Elektroautos.
+- Alle WU sind GPL.
+- Alle GPL sind GZ.
 
-A) Einige Granite sind Elektroautos.
-B) Alle Granite sind Elektroautos.
-C) Einige Granite sind keine Elektroautos.
-D) Alle Granite sind keine Elektroautos.
+A) Alle WU sind keine GZ.
+B) Alle WU sind GZ.
+C) Einige WU sind GZ.
+D) Einige WU sind keine GZ.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Lehrer sind Wale.
-- Alle Wale sind Häuser.
+- Alle BZG sind CD.
+- Einige CD sind keine FT.
 
-A) Einige Lehrer sind keine Häuser.
-B) Alle Lehrer sind Häuser.
-C) Einige Lehrer sind Häuser.
-D) Alle Lehrer sind keine Häuser.
+A) Einige BZG sind keine FT.
+B) Einige BZG sind FT.
+C) Alle BZG sind FT.
+D) Alle BZG sind keine FT.
 E) Keine der Schlussfolgerungen ist richtig.

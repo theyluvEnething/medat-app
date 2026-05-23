@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Rosen sind keine Fische.
-- Alle Fische sind Diamanten.
+- Einige GB sind ECG.
+- Alle ECG sind RD.
 
-A) Einige Rosen sind Diamanten.
-B) Alle Rosen sind Diamanten.
-C) Einige Rosen sind keine Diamanten.
-D) Alle Rosen sind keine Diamanten.
+A) Einige GB sind keine RD.
+B) Alle GB sind RD.
+C) Alle GB sind keine RD.
+D) Einige GB sind RD.
 E) Keine der Schlussfolgerungen ist richtig.

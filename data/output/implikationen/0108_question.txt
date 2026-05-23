@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Werkzeuge sind keine Pilze.
-- Alle Pilze sind Lehrer.
+- Alle JGZ sind IMC.
+- Alle IMC sind CW.
 
-A) Alle Werkzeuge sind keine Lehrer.
-B) Einige Werkzeuge sind Lehrer.
-C) Alle Werkzeuge sind Lehrer.
-D) Einige Werkzeuge sind keine Lehrer.
+A) Alle JGZ sind keine CW.
+B) Einige JGZ sind keine CW.
+C) Alle JGZ sind CW.
+D) Einige JGZ sind CW.
 E) Keine der Schlussfolgerungen ist richtig.

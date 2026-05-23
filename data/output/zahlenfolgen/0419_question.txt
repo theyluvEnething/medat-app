@@ -1,7 +1,0 @@
-Zahlenfolge: 37 41 43 47 53 59 ? ?
-
-A) 72/75
-B) 71/73
-C) 72/74
-D) 69/75
-E) Keine der Antworten ist richtig

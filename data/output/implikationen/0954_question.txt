@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Wölfe sind keine Züge.
-- Alle Züge sind Gedichte.
+- Alle SZ sind BW.
+- Alle BW sind JJ.
 
-A) Einige Wölfe sind keine Gedichte.
-B) Alle Wölfe sind Gedichte.
-C) Alle Wölfe sind keine Gedichte.
-D) Einige Wölfe sind Gedichte.
+A) Einige SZ sind JJ.
+B) Einige SZ sind keine JJ.
+C) Alle SZ sind keine JJ.
+D) Alle SZ sind JJ.
 E) Keine der Schlussfolgerungen ist richtig.

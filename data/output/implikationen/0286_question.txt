@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Mathematiker sind keine Zebras.
-- Alle Zebras sind Chemiker.
+- Alle KZZ sind NN.
+- Einige NN sind ES.
 
-A) Einige Mathematiker sind keine Chemiker.
-B) Alle Mathematiker sind keine Chemiker.
-C) Einige Mathematiker sind Chemiker.
-D) Alle Mathematiker sind Chemiker.
+A) Alle KZZ sind ES.
+B) Einige KZZ sind ES.
+C) Einige KZZ sind keine ES.
+D) Alle KZZ sind keine ES.
 E) Keine der Schlussfolgerungen ist richtig.

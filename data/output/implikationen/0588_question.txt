@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Hunde sind keine Anwälte.
-- Einige Anwälte sind Mathematiker.
+- Einige SC sind MJK.
+- Alle MJK sind keine SD.
 
-A) Einige Hunde sind Mathematiker.
-B) Einige Hunde sind keine Mathematiker.
-C) Alle Hunde sind keine Mathematiker.
-D) Alle Hunde sind Mathematiker.
+A) Einige SC sind SD.
+B) Alle SC sind SD.
+C) Alle SC sind keine SD.
+D) Einige SC sind keine SD.
 E) Keine der Schlussfolgerungen ist richtig.

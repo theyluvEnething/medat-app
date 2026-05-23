@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Telefone sind keine Politiker.
-- Einige Politiker sind keine Wirbeltiere.
+- Einige WR sind RO.
+- Einige RO sind JW.
 
-A) Alle Telefone sind keine Wirbeltiere.
-B) Alle Telefone sind Wirbeltiere.
-C) Einige Telefone sind keine Wirbeltiere.
-D) Einige Telefone sind Wirbeltiere.
+A) Einige WR sind JW.
+B) Einige WR sind keine JW.
+C) Alle WR sind JW.
+D) Alle WR sind keine JW.
 E) Keine der Schlussfolgerungen ist richtig.

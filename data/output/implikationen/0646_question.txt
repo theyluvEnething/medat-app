@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Stühle sind Pilze.
-- Alle Pilze sind keine Orchideen.
+- Einige SM sind TK.
+- Alle TK sind UG.
 
-A) Einige Stühle sind Orchideen.
-B) Alle Stühle sind keine Orchideen.
-C) Alle Stühle sind Orchideen.
-D) Einige Stühle sind keine Orchideen.
+A) Einige SM sind keine UG.
+B) Alle SM sind UG.
+C) Alle SM sind keine UG.
+D) Einige SM sind UG.
 E) Keine der Schlussfolgerungen ist richtig.

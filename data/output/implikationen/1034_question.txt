@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Diamanten sind Dinosaurier.
-- Alle Dinosaurier sind Pilze.
+- Alle CH sind keine VCM.
+- Alle VCM sind keine HF.
 
-A) Einige Diamanten sind Pilze.
-B) Alle Diamanten sind keine Pilze.
-C) Einige Diamanten sind keine Pilze.
-D) Alle Diamanten sind Pilze.
+A) Alle CH sind keine HF.
+B) Einige CH sind HF.
+C) Einige CH sind keine HF.
+D) Alle CH sind HF.
 E) Keine der Schlussfolgerungen ist richtig.

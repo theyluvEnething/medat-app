@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Gräser sind keine Kupfer.
-- Alle Kupfer sind keine Nashörner.
+- Alle GT sind RZV.
+- Einige RZV sind GI.
 
-A) Alle Gräser sind keine Nashörner.
-B) Alle Gräser sind Nashörner.
-C) Einige Gräser sind Nashörner.
-D) Einige Gräser sind keine Nashörner.
+A) Einige GT sind GI.
+B) Alle GT sind keine GI.
+C) Einige GT sind keine GI.
+D) Alle GT sind GI.
 E) Keine der Schlussfolgerungen ist richtig.

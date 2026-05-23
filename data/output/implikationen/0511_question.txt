@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Elektroautos sind Flüsse.
-- Einige Flüsse sind keine Kätzchen.
+- Alle DEZ sind EE.
+- Alle EE sind GI.
 
-A) Alle Elektroautos sind keine Kätzchen.
-B) Alle Elektroautos sind Kätzchen.
-C) Einige Elektroautos sind Kätzchen.
-D) Einige Elektroautos sind keine Kätzchen.
+A) Einige DEZ sind GI.
+B) Einige DEZ sind keine GI.
+C) Alle DEZ sind keine GI.
+D) Alle DEZ sind GI.
 E) Keine der Schlussfolgerungen ist richtig.

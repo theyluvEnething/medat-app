@@ -1,2 +1,2 @@
-B — 254/411
-Jedes Glied = Summe der beiden Vorgänger
+C — 90/93
++3, ×2 im Wechsel

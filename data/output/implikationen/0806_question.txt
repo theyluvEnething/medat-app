@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Telefone sind keine Mammute.
-- Alle Mammute sind Stühle.
+- Einige HO sind keine AT.
+- Alle AT sind KU.
 
-A) Alle Telefone sind Stühle.
-B) Alle Telefone sind keine Stühle.
-C) Einige Telefone sind keine Stühle.
-D) Einige Telefone sind Stühle.
+A) Alle HO sind KU.
+B) Einige HO sind KU.
+C) Alle HO sind keine KU.
+D) Einige HO sind keine KU.
 E) Keine der Schlussfolgerungen ist richtig.

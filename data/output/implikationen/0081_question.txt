@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Taucher sind keine Stühle.
-- Einige Stühle sind Pilze.
+- Einige FE sind OK.
+- Alle OK sind MP.
 
-A) Alle Taucher sind keine Pilze.
-B) Einige Taucher sind Pilze.
-C) Alle Taucher sind Pilze.
-D) Einige Taucher sind keine Pilze.
+A) Einige FE sind keine MP.
+B) Einige FE sind MP.
+C) Alle FE sind keine MP.
+D) Alle FE sind MP.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Ärzte sind keine Ingenieure.
-- Einige Ingenieure sind Delfine.
+- Einige MI sind HI.
+- Alle HI sind keine HC.
 
-A) Alle Ärzte sind Delfine.
-B) Einige Ärzte sind keine Delfine.
-C) Alle Ärzte sind keine Delfine.
-D) Einige Ärzte sind Delfine.
+A) Einige MI sind keine HC.
+B) Alle MI sind HC.
+C) Alle MI sind keine HC.
+D) Einige MI sind HC.
 E) Keine der Schlussfolgerungen ist richtig.

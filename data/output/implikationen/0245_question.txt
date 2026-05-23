@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Schiffe sind keine Chemiker.
-- Einige Chemiker sind Sänger.
+- Alle UV sind PC.
+- Alle PC sind BG.
 
-A) Alle Schiffe sind Sänger.
-B) Alle Schiffe sind keine Sänger.
-C) Einige Schiffe sind keine Sänger.
-D) Einige Schiffe sind Sänger.
+A) Alle UV sind BG.
+B) Einige UV sind BG.
+C) Einige UV sind keine BG.
+D) Alle UV sind keine BG.
 E) Keine der Schlussfolgerungen ist richtig.

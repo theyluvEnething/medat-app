@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Musikinstrumente sind keine Pandas.
-- Einige Pandas sind keine Diamanten.
+- Einige PL sind CE.
+- Alle CE sind keine BS.
 
-A) Alle Musikinstrumente sind Diamanten.
-B) Einige Musikinstrumente sind Diamanten.
-C) Einige Musikinstrumente sind keine Diamanten.
-D) Alle Musikinstrumente sind keine Diamanten.
+A) Alle PL sind BS.
+B) Einige PL sind keine BS.
+C) Einige PL sind BS.
+D) Alle PL sind keine BS.
 E) Keine der Schlussfolgerungen ist richtig.

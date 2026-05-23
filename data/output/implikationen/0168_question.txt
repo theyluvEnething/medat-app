@@ -1,9 +1,9 @@
 Prämissen:
-- Alle Pandas sind Glühbirnen.
-- Einige Glühbirnen sind Hunde.
+- Einige RP sind HSS.
+- Alle HSS sind keine RL.
 
-A) Einige Pandas sind Hunde.
-B) Einige Pandas sind keine Hunde.
-C) Alle Pandas sind Hunde.
-D) Alle Pandas sind keine Hunde.
+A) Alle RP sind keine RL.
+B) Einige RP sind RL.
+C) Alle RP sind RL.
+D) Einige RP sind keine RL.
 E) Keine der Schlussfolgerungen ist richtig.

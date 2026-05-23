@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Eidechsen sind Teleskope.
-- Einige Teleskope sind keine Klaviere.
+- Einige IT sind HM.
+- Alle HM sind OD.
 
-A) Einige Eidechsen sind Klaviere.
-B) Einige Eidechsen sind keine Klaviere.
-C) Alle Eidechsen sind Klaviere.
-D) Alle Eidechsen sind keine Klaviere.
+A) Einige IT sind OD.
+B) Alle IT sind keine OD.
+C) Einige IT sind keine OD.
+D) Alle IT sind OD.
 E) Keine der Schlussfolgerungen ist richtig.

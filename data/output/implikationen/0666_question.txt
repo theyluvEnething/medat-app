@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Roboter sind keine Lilien.
-- Einige Lilien sind keine Smartphones.
+- Alle KDE sind MNA.
+- Einige MNA sind SS.
 
-A) Einige Roboter sind keine Smartphones.
-B) Alle Roboter sind keine Smartphones.
-C) Einige Roboter sind Smartphones.
-D) Alle Roboter sind Smartphones.
+A) Alle KDE sind SS.
+B) Alle KDE sind keine SS.
+C) Einige KDE sind SS.
+D) Einige KDE sind keine SS.
 E) Keine der Schlussfolgerungen ist richtig.

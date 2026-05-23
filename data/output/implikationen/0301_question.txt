@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tabletten sind keine Säugetiere.
-- Einige Säugetiere sind keine Wale.
+- Alle PS sind keine HW.
+- Alle HW sind DH.
 
-A) Alle Tabletten sind Wale.
-B) Einige Tabletten sind keine Wale.
-C) Einige Tabletten sind Wale.
-D) Alle Tabletten sind keine Wale.
+A) Einige PS sind DH.
+B) Einige PS sind keine DH.
+C) Alle PS sind DH.
+D) Alle PS sind keine DH.
 E) Keine der Schlussfolgerungen ist richtig.

@@ -1,9 +1,9 @@
 Prämissen:
-- Einige Tiger sind keine Delfine.
-- Alle Delfine sind Reptilien.
+- Alle ATL sind keine RU.
+- Alle RU sind BM.
 
-A) Alle Tiger sind Reptilien.
-B) Alle Tiger sind keine Reptilien.
-C) Einige Tiger sind keine Reptilien.
-D) Einige Tiger sind Reptilien.
+A) Einige ATL sind BM.
+B) Alle ATL sind BM.
+C) Alle ATL sind keine BM.
+D) Einige ATL sind keine BM.
 E) Keine der Schlussfolgerungen ist richtig.
